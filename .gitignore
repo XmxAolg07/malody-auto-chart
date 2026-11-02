@@ -1,0 +1,24 @@
+# ---- generated results ----
+/out/
+/work/
+/dist/
+/build/
+/.buildtools/
+/.pip-tmp/
+/.pi-tmp/
+*.spec
+__pycache__/
+*.pyc
+
+# ---- source material (real charts + audio, local only) ----
+/ex jack/
+/ex speed/
+/ex stream/
+/ex tech/
+/reg jack/
+/reg speed/
+/reg stream/
+/reg tech/
+
+# ---- downloaded wheels (vendor/ is committed for out-of-the-box runs) ----
+/wheels/
