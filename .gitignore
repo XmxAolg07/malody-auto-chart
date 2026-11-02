@@ -6,6 +6,7 @@
 /.buildtools/
 /.pip-tmp/
 /.pi-tmp/
+/.screen/
 *.spec
 __pycache__/
 *.pyc
