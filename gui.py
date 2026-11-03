@@ -110,7 +110,7 @@ def flat_button(parent, text, command, kind: str = "ghost", size: int = 10, **kw
 
 class DropZone(tk.Canvas):
     def __init__(self, master, command, **kw):
-        super().__init__(master, bg=PANEL, highlightthickness=0, height=128, **kw)
+        super().__init__(master, bg=PANEL, highlightthickness=0, height=104, **kw)
         self.command = command
         self._hover = False
         self.configure(cursor="hand2")
@@ -452,6 +452,10 @@ class App:
         except Exception:
             pass
         self.root.bind("<Control-o>", lambda _e: self.choose_file())
+        self.root.bind("<Left>", lambda e: self._on_arrow(e, -1.0))
+        self.root.bind("<Right>", lambda e: self._on_arrow(e, 1.0))
+        self.root.bind("<Shift-Left>", lambda e: self._on_arrow(e, -5.0))
+        self.root.bind("<Shift-Right>", lambda e: self._on_arrow(e, 5.0))
 
     def _build_header(self) -> None:
         header = tk.Frame(self.root, bg=BG)
@@ -488,14 +492,14 @@ class App:
 
         # ---- drop zone -------------------------------------------------
         self.drop = DropZone(self.sidebar, self.choose_file)
-        self.drop.pack(fill="x", pady=(0, 12))
+        self.drop.pack(fill="x", pady=(0, 8))
 
         # ---- file card -------------------------------------------------
         self.file_card = tk.Frame(self.sidebar, bg=PANEL, highlightbackground=BORDER,
                                   highlightthickness=1)
-        self.file_card.pack(fill="x", pady=(0, 12))
+        self.file_card.pack(fill="x", pady=(0, 8))
         inner = tk.Frame(self.file_card, bg=PANEL)
-        inner.pack(fill="x", padx=14, pady=12)
+        inner.pack(fill="x", padx=14, pady=10)
         tk.Label(inner, text="当前文件", bg=PANEL, fg=FAINT, font=font(8)).pack(anchor="w")
         self.file_name = tk.Label(inner, text="尚未加载", bg=PANEL, fg=TEXT,
                                   font=font(11, "bold"), anchor="w", justify="left",
@@ -510,7 +514,7 @@ class App:
                                  highlightthickness=1)
         self.bpm_card.pack(fill="x", pady=(0, 12))
         card = tk.Frame(self.bpm_card, bg=PANEL)
-        card.pack(fill="x", padx=14, pady=12)
+        card.pack(fill="x", padx=14, pady=10)
 
         top = tk.Frame(card, bg=PANEL)
         top.pack(fill="x")
@@ -532,8 +536,12 @@ class App:
         self.conf_label = tk.Label(conf_row, text="--", bg=PANEL, fg=DIM, font=mono(8))
         self.conf_label.pack(side="left")
 
+        self.tempo_badge = tk.Label(card, text="", bg=PANEL, fg=GREEN, font=font(8),
+                                    anchor="w", justify="left", wraplength=305)
+        self.tempo_badge.pack(anchor="w", pady=(8, 0))
+
         tk.Label(card, text="倍频候选", bg=PANEL, fg=FAINT,
-                 font=font(8)).pack(anchor="w", pady=(12, 4))
+                 font=font(8)).pack(anchor="w", pady=(8, 4))
         self.cand_frame = tk.Frame(card, bg=PANEL)
         self.cand_frame.pack(fill="x", anchor="w")
 
@@ -587,15 +595,22 @@ class App:
         self.btn_rate_apply = flat_button(rate_row, "应用", self._apply_rate_entry, size=8)
         self.btn_rate_apply.configure(padx=9, pady=3)
         self.btn_rate_apply.pack(side="left")
-        self.btn_rate_export = flat_button(rate_row, "保存变速音频", self.export_rate, size=8)
-        self.btn_rate_export.configure(padx=9, pady=3)
-        self.btn_rate_export.pack(side="right")
+
+        export_row = tk.Frame(rc, bg=PANEL)
+        export_row.pack(fill="x", pady=(6, 0))
+        self.btn_export_wav = flat_button(export_row, "导出 WAV",
+                                          lambda: self.export_audio_file("wav"), size=8)
+        self.btn_export_wav.configure(padx=10, pady=3)
+        self.btn_export_wav.pack(side="left")
+        self.btn_export_ogg = flat_button(export_row, "导出 OGG",
+                                          lambda: self.export_audio_file("ogg"), size=8)
+        self.btn_export_ogg.configure(padx=10, pady=3)
+        self.btn_export_ogg.pack(side="left", padx=(8, 0))
         tk.Label(rc, text="波形与 BPM 按倍速换算，不修改原文件", bg=PANEL,
-                 fg=FAINT, font=font(8)).pack(anchor="w", pady=(4, 0))
+                 fg=FAINT, font=font(8)).pack(anchor="w", pady=(5, 0))
 
         tip = tk.Label(self.sidebar,
-                       text="滚轮缩放  ·  拖动平移  ·  单击定位  ·  双击复位\n"
-                            "结果自动保存到 out\\（JSON + 波形 PNG）",
+                       text="滚轮缩放 · 拖动平移 · 单击定位 · ←/→ 跳转",
                        bg=BG, fg=FAINT, font=font(8), justify="left", anchor="w")
         tip.pack(fill="x", pady=(2, 0))
 
@@ -609,6 +624,11 @@ class App:
         self.time_label = tk.Label(bar, text="0:00.0 / 0:00.0", bg=BG, fg=DIM,
                                    font=mono(10))
         self.time_label.pack(side="left", padx=(16, 0))
+
+        for text, delta in (("«5s", -5.0), ("‹1s", -1.0), ("1s›", 1.0), ("5s»", 5.0)):
+            btn = flat_button(bar, text, lambda d=delta: self.seek_relative(d), size=8)
+            btn.configure(padx=7, pady=4)
+            btn.pack(side="left", padx=(4, 0))
 
         vol = tk.Frame(bar, bg=BG)
         vol.pack(side="right")
@@ -701,6 +721,16 @@ class App:
         self.time_label.configure(
             text=f"{fmt_clock(seconds)} / {fmt_clock(self.player.duration)}"
         )
+
+    def seek_relative(self, delta: float) -> None:
+        if self.samples is None:
+            return
+        self.seek_playhead(self.player.position() + float(delta))
+
+    def _on_arrow(self, _event, delta: float) -> None:
+        if isinstance(self.root.focus_get(), tk.Entry):
+            return
+        self.seek_relative(delta)
 
     def _tick(self) -> None:
         try:
@@ -815,6 +845,21 @@ class App:
              "score": c["score"], "confidence": c["confidence"]}
             for c in base["candidates"]
         ]
+        segments = base.get("segments") or []
+        if segments:
+            r["segments"] = [
+                {
+                    "start_ms": round(s["start_ms"] / rate, 1),
+                    "end_ms": round(s["end_ms"] / rate, 1),
+                    "bpm": round(s["bpm"] * rate, 3),
+                    "confidence": s.get("confidence", 0.0),
+                    "beats_ms": [round(t / rate, 1) for t in s.get("beats_ms", [])],
+                }
+                for s in segments
+            ]
+        else:
+            r["segments"] = []
+        r["has_changes"] = bool(base.get("has_changes")) and bool(segments)
         r["confidence"] = base.get("confidence", 0.0)
         r["_rate"] = rate
         r["_selected_bpm"] = round(base.get("_selected_bpm", base["bpm"]) * rate, 3)
@@ -844,49 +889,22 @@ class App:
                 f"试听倍速 ×{rate:.2f}：BPM {self.rhythm['bpm']:.3f}（不修改原文件）"
             )
 
-    def export_rate(self) -> None:
-        if self.base_samples is None or self.rhythm is None or self.path is None:
+    def export_audio_file(self, fmt: str) -> None:
+        if self.samples is None or self.path is None:
             return
-        if abs(self.rate - 1.0) < 1e-6:
-            self.set_status("当前是 ×1.00，不需要导出变速音频", error=True)
-            return
-        self.set_status(f"正在导出 ×{self.rate:.2f} 音频…")
-        threading.Thread(target=self._worker_export, args=(self.rate,), daemon=True).start()
+        rate = self.rate
+        tag = "" if abs(rate - 1.0) < 1e-6 else f"_x{rate:.2f}"
+        out = self.out_dir / f"{self.path.stem}{tag}.{fmt}"
+        self.set_status(f"正在导出 {out.name} …")
+        threading.Thread(target=self._worker_export_audio,
+                         args=(out, fmt, self.samples, self.base_sr),
+                         daemon=True).start()
 
-    def _worker_export(self, rate: float) -> None:
+    def _worker_export_audio(self, out, fmt: str, samples, sr: int) -> None:
         try:
-            import soundfile as sf
-            out_dir = self.out_dir
-            out_dir.mkdir(parents=True, exist_ok=True)
-            stem = self.path.stem
-            tag = f"_x{rate:.2f}"
-            wav_path = out_dir / f"{stem}{tag}.wav"
-            sf.write(str(wav_path), np.clip(self.samples, -1.0, 1.0),
-                     self.base_sr, subtype="PCM_16")
-
-            rhythm = {k: v for k, v in self.rhythm.items() if not k.startswith("_")}
-            audio = dict(self.result["audio"])
-            audio["samplerate"] = self.base_sr
-            audio["duration"] = round(self.samples.size / float(self.base_sr), 3)
-            audio["analysed_duration"] = audio["duration"]
-            result = {
-                "file": str(wav_path),
-                "audio": audio,
-                "rhythm": rhythm,
-                "waveform": waveform_peaks(self.samples, 1600),
-            }
-            save_analysis(result, out_dir / f"{stem}{tag}.analysis.json")
-            meta = {
-                "title": wav_path.name,
-                "bpm": rhythm["bpm"],
-                "offset_ms": rhythm["offset_ms"],
-                "confidence": rhythm["confidence"],
-                "channels": 1,
-            }
-            render_waveform(self.samples, self.base_sr,
-                            out_dir / f"{stem}{tag}.waveform.png",
-                            meta=meta, width=2000, beat_times_ms=rhythm["beats_ms"])
-            self.queue.put(("exported", str(wav_path)))
+            from core.audio import export_audio
+            export_audio(out, samples, sr, fmt)
+            self.queue.put(("exported", str(out)))
         except Exception as exc:
             self.queue.put(("error", f"{type(exc).__name__}: {exc}"))
 
@@ -996,6 +1014,8 @@ class App:
             coverage = max(0.0, min(1.0, grid["coverage"] / 0.6))
             phase = 1.0 - float(np.exp(-max(0.0, grid["beat_strength"] - 1.0) / 2.0))
             base["confidence"] = round(0.5 * coverage + 0.5 * phase, 4)
+            base["segments"] = []
+            base["has_changes"] = False
             self.base_rhythm = base
 
             rhythm = self._scaled_rhythm(base, self.rate)
@@ -1134,6 +1154,13 @@ class App:
                                   fg=GREEN if conf >= 0.6 else DIM)
         self._set_confidence(conf)
 
+        if rhythm.get("has_changes") and rhythm.get("segments"):
+            parts = [f"{fmt_time(s['start_ms'] / 1000)} {s['bpm']:.1f}"
+                     for s in rhythm["segments"][:3]]
+            self.tempo_badge.configure(text="变速：" + " · ".join(parts), fg=GOLD)
+        else:
+            self.tempo_badge.configure(text="恒定 BPM（未检测到变速）", fg=GREEN)
+
         for child in self.cand_frame.winfo_children():
             child.destroy()
         selected = rhythm["bpm"]
@@ -1163,7 +1190,8 @@ class App:
                     getattr(self, "btn_reset_bpm", None),
                     getattr(self, "btn_open_dir", None),
                     getattr(self, "btn_rate_apply", None),
-                    getattr(self, "btn_rate_export", None),
+                    getattr(self, "btn_export_wav", None),
+                    getattr(self, "btn_export_ogg", None),
                     getattr(self, "btn_play", None),
                     getattr(self, "btn_stop", None)):
             if btn is not None:
@@ -1218,6 +1246,15 @@ def run_selftest(audio_path: str) -> int:
             time.sleep(0.02)
         log.append(f"rate={app.rate:.2f}")
         log.append(f"rate_bpm={app.rhythm.get('bpm') if app.rhythm else None}")
+        try:
+            from core.audio import export_audio
+            import time as _time
+            for fmt in ('wav', 'ogg'):
+                out = APP_DIR / 'out' / f'selftest.{fmt}'
+                export_audio(out, app.samples, app.base_sr, fmt)
+                log.append(f"export_{fmt}={out.stat().st_size}")
+        except Exception as exc:
+            log.append(f"export_failed={type(exc).__name__}: {exc}")
         if app.player.available:
             started = app.player.play()
             time.sleep(0.5)
