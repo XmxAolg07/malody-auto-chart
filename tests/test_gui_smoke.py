@@ -88,6 +88,25 @@ def main() -> int:
     print(f"rate OK: x1.50 -> {app.rhythm['bpm']:.3f} BPM, "
           f"duration {base_duration:.1f}s -> {app.wave.duration:.1f}s")
 
+    # precise seek (buttons / arrow keys)
+    app.player.seek(10.0)
+    app.seek_relative(2.5)
+    assert abs(app.player.position() - 12.5) < 0.2, "seek_relative failed"
+    print(f"seek OK: 10.0s + 2.5s -> {app.player.position():.2f}s")
+
+    # export WAV + OGG at 1.0x
+    app.set_rate(1.0, immediate=True)
+    assert wait_until(root, lambda: not app._rate_busy and abs(app.rate - 1.0) < 1e-6)
+    app.out_dir = ROOT / ".screen" / "gui_out"
+    app.out_dir.mkdir(parents=True, exist_ok=True)
+    for fmt in ("wav", "ogg"):
+        app.export_audio_file(fmt)
+        target = app.out_dir / f"{app.path.stem}.{fmt}"
+        min_size = 1_000_000 if fmt == "wav" else 100_000
+        assert wait_until(root, lambda t=target, m=min_size: t.exists() and t.stat().st_size > m), \
+            f"{fmt} export failed"
+        print(f"export {fmt} OK: {target.stat().st_size // 1024} KB")
+
     # playback position advances (silent)
     if app.player.available:
         assert app.player.play(), app.player.error
