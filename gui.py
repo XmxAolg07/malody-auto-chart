@@ -27,9 +27,10 @@ if _VENDOR.is_dir() and str(_VENDOR) not in sys.path:
     sys.path.insert(0, str(_VENDOR))
 
 from core.analyze import analyze_samples, save_analysis          # noqa: E402
-from core.audio import load_audio                                # noqa: E402
+from core.audio import load_audio, resample_audio                # noqa: E402
 from core.bpm import fixed_bpm_grid                              # noqa: E402
 from core.waveform import render_waveform, waveform_peaks        # noqa: E402
+from audio_player import AudioPlayer                             # noqa: E402
 
 AUDIO_EXTS = {".ogg", ".oga", ".opus", ".mp3", ".wav", ".flac", ".m4a", ".aac", ".wma"}
 
@@ -71,6 +72,12 @@ def fmt_time(seconds: float) -> str:
     m, s = divmod(seconds, 60.0)
     if abs(s - round(s)) < 0.02:
         return f"{int(m)}:{int(round(s)):02d}"
+    return f"{int(m)}:{s:04.1f}"
+
+
+def fmt_clock(seconds: float) -> str:
+    seconds = max(0.0, float(seconds))
+    m, s = divmod(seconds, 60.0)
     return f"{int(m)}:{s:04.1f}"
 
 
@@ -147,6 +154,9 @@ class WaveformView(tk.Canvas):
         self._drag: tuple[float, float] | None = None
         self._hover_x: float | None = None
         self._resize_job = None
+        self._moved = False
+        self.playhead: float | None = None
+        self.on_seek = None
 
         self.bind("<Configure>", self._on_configure)
         self.bind("<Motion>", self._on_motion)
@@ -171,6 +181,23 @@ class WaveformView(tk.Canvas):
     def set_beats(self, beats_ms) -> None:
         self.beats = list(beats_ms or [])
         self.draw()
+
+    def set_playhead(self, seconds: float | None) -> None:
+        self.playhead = seconds
+        self._draw_playhead()
+
+    def follow(self, seconds: float) -> None:
+        """Scroll the view when the playhead leaves the visible window."""
+        if self.samples is None or self.span <= 0:
+            return
+        if self.span >= self.duration - 1e-6:
+            return
+        left = self.start + self.span * 0.04
+        right = self.start + self.span * 0.96
+        if seconds < left or seconds > right:
+            self.start = max(0.0, min(seconds - self.span * 0.3,
+                                        self.duration - self.span))
+            self.draw()
 
     def reset_zoom(self) -> None:
         self.start, self.span = 0.0, self.duration
@@ -206,7 +233,7 @@ class WaveformView(tk.Canvas):
         self.delete("hover")
 
     def _on_wheel(self, event) -> None:
-        if not self.samples or self.span <= 0:
+        if self.samples is None or self.span <= 0:
             return
         x0, x1, _y0, _y1 = self._plot_span()
         x = min(max(event.x, x0), x1)
@@ -221,20 +248,27 @@ class WaveformView(tk.Canvas):
 
     def _on_press(self, event) -> None:
         self._drag = (event.x, self.start)
+        self._moved = False
         self.configure(cursor="fleur")
 
     def _on_drag(self, event) -> None:
-        if not self._drag or not self.samples:
+        if not self._drag or self.samples is None:
             return
         x0, x1, _y0, _y1 = self._plot_span()
         dx = event.x - self._drag[0]
+        if abs(dx) > 3:
+            self._moved = True
         new_start = self._drag[1] - dx / max(x1 - x0, 1) * self.span
         self.start = max(0.0, min(new_start, self.duration - self.span))
         self.draw()
 
-    def _on_release(self, _event=None) -> None:
+    def _on_release(self, event) -> None:
+        was_drag = self._moved
         self._drag = None
+        self._moved = False
         self.configure(cursor="")
+        if not was_drag and self.on_seek is not None and self.samples:
+            self.on_seek(self._time_at(event.x))
 
     # -- painting -------------------------------------------------------
     def draw(self) -> None:
@@ -324,10 +358,23 @@ class WaveformView(tk.Canvas):
                              fill=FAINT, font=mono(8), anchor="w")
 
         self._draw_hover()
+        self._draw_playhead()
+
+    def _draw_playhead(self) -> None:
+        self.delete("playhead")
+        if self.playhead is None or self.samples is None:
+            return
+        x0, x1, y0, y1 = self._plot_span()
+        if not (self.start - 1e-6 <= self.playhead <= self.start + self.span + 1e-6):
+            return
+        x = self._x_at(self.playhead)
+        self.create_line(x, y0, x, y1, fill=GOLD, width=2, tags="playhead")
+        self.create_text(x + 4, y0 + 10, text=fmt_clock(self.playhead),
+                         fill=GOLD, font=mono(8), anchor="w", tags="playhead")
 
     def _draw_hover(self) -> None:
         self.delete("hover")
-        if self._hover_x is None or not self.samples:
+        if self._hover_x is None or self.samples is None:
             return
         x0, x1, y0, y1 = self._plot_span()
         x = min(max(self._hover_x, x0), x1)
@@ -352,6 +399,16 @@ class App:
         self.rhythm: dict | None = None
         self.out_dir = APP_DIR / "out"
 
+        self.player = AudioPlayer()
+        self.path: Path | None = None
+        self.rate = 1.0
+        self._rate_pending = 1.0
+        self._rate_job = None
+        self._rate_busy = False
+        self.base_samples: np.ndarray | None = None
+        self.base_sr = 0
+        self.base_rhythm: dict | None = None
+
         self._build_window()
         self._build_header()
         self._build_body()
@@ -359,6 +416,7 @@ class App:
         self._enable_dnd()
 
         self.root.after(80, self._poll)
+        self.root.after(60, self._tick)
         self.root.after(150, self._bring_to_front)
         if len(sys.argv) > 1:
             candidate = Path(sys.argv[1])
@@ -425,6 +483,8 @@ class App:
         content.pack(side="left", fill="both", expand=True, padx=(18, 0))
         self.wave = WaveformView(content)
         self.wave.pack(fill="both", expand=True)
+        self.wave.on_seek = self.seek_playhead
+        self._build_transport(content)
 
         # ---- drop zone -------------------------------------------------
         self.drop = DropZone(self.sidebar, self.choose_file)
@@ -492,11 +552,79 @@ class App:
         self.btn_reset_bpm = flat_button(manual, "复位", self._reset_bpm, size=9)
         self.btn_reset_bpm.pack(side="left", padx=(6, 0))
 
+        # ---- rate card -------------------------------------------------
+        self.rate_card = tk.Frame(self.sidebar, bg=PANEL, highlightbackground=BORDER,
+                                  highlightthickness=1)
+        self.rate_card.pack(fill="x", pady=(0, 10))
+        rc = tk.Frame(self.rate_card, bg=PANEL)
+        rc.pack(fill="x", padx=14, pady=10)
+        head = tk.Frame(rc, bg=PANEL)
+        head.pack(fill="x")
+        tk.Label(head, text="试听倍速", bg=PANEL, fg=FAINT, font=font(8)).pack(side="left")
+        self.rate_value = tk.Label(head, text="1.00×", bg=PANEL, fg=GOLD,
+                                   font=mono(15, "bold"))
+        self.rate_value.pack(side="right")
+        self.rate_scale = tk.Scale(
+            rc, from_=0.80, to=2.00, resolution=0.05, orient="horizontal",
+            showvalue=0, bg=PANEL, fg=DIM, troughcolor="#39445c",
+            activebackground=GOLD, highlightthickness=0, bd=0,
+            sliderrelief="flat", sliderlength=26, width=14, length=300,
+            command=self._on_rate_scale,
+        )
+        self.rate_scale.set(1.0)
+        self.rate_scale.pack(fill="x", pady=(2, 2))
+
+        rate_row = tk.Frame(rc, bg=PANEL)
+        rate_row.pack(fill="x", pady=(2, 0))
+        tk.Label(rate_row, text="自由填写", bg=PANEL, fg=FAINT,
+                 font=font(8)).pack(side="left")
+        self.rate_entry = tk.Entry(rate_row, width=5, bg=PANEL2, fg=TEXT, bd=0,
+                                   insertbackground=TEXT, font=mono(9),
+                                   highlightthickness=1, highlightbackground=BORDER,
+                                   highlightcolor=GOLD)
+        self.rate_entry.pack(side="left", padx=(6, 4), ipady=2)
+        self.rate_entry.bind("<Return>", lambda _e: self._apply_rate_entry())
+        self.btn_rate_apply = flat_button(rate_row, "应用", self._apply_rate_entry, size=8)
+        self.btn_rate_apply.configure(padx=9, pady=3)
+        self.btn_rate_apply.pack(side="left")
+        self.btn_rate_export = flat_button(rate_row, "保存变速音频", self.export_rate, size=8)
+        self.btn_rate_export.configure(padx=9, pady=3)
+        self.btn_rate_export.pack(side="right")
+        tk.Label(rc, text="波形与 BPM 按倍速换算，不修改原文件", bg=PANEL,
+                 fg=FAINT, font=font(8)).pack(anchor="w", pady=(4, 0))
+
         tip = tk.Label(self.sidebar,
-                       text="滚轮缩放  ·  拖动平移  ·  双击复位视图\n"
+                       text="滚轮缩放  ·  拖动平移  ·  单击定位  ·  双击复位\n"
                             "结果自动保存到 out\\（JSON + 波形 PNG）",
                        bg=BG, fg=FAINT, font=font(8), justify="left", anchor="w")
         tip.pack(fill="x", pady=(2, 0))
+
+    def _build_transport(self, parent) -> None:
+        bar = tk.Frame(parent, bg=BG)
+        bar.pack(fill="x", pady=(8, 0))
+        self.btn_play = flat_button(bar, "▶ 播放", self.toggle_play, kind="accent", size=10)
+        self.btn_play.pack(side="left")
+        self.btn_stop = flat_button(bar, "■ 停止", self.stop_playback, size=10)
+        self.btn_stop.pack(side="left", padx=(8, 0))
+        self.time_label = tk.Label(bar, text="0:00.0 / 0:00.0", bg=BG, fg=DIM,
+                                   font=mono(10))
+        self.time_label.pack(side="left", padx=(16, 0))
+
+        vol = tk.Frame(bar, bg=BG)
+        vol.pack(side="right")
+        tk.Label(vol, text="音量", bg=BG, fg=FAINT, font=font(8)).pack(side="left",
+                                                                       padx=(0, 6))
+        self.volume_scale = tk.Scale(
+            vol, from_=0, to=100, orient="horizontal", showvalue=0, length=110,
+            bg=BG, fg=DIM, troughcolor="#39445c", activebackground=ACCENT,
+            highlightthickness=0, bd=0, sliderrelief="flat",
+            sliderlength=18, width=12, command=self._on_volume,
+        )
+        self.volume_scale.set(80)
+        self.volume_scale.pack(side="left")
+        if not self.player.available:
+            tk.Label(bar, text="（未检测到音频输出设备）", bg=BG, fg=RED,
+                     font=font(8)).pack(side="left", padx=(12, 0))
 
     def _build_status(self) -> None:
         bar = tk.Frame(self.root, bg=BG)
@@ -532,6 +660,235 @@ class App:
                 self.load_file(path)
                 return
         self.set_status("只支持音频文件：ogg / mp3 / wav / flac 等", error=True)
+
+    # -- playback -------------------------------------------------------
+    def _on_volume(self, value) -> None:
+        try:
+            self.player.set_volume(float(value) / 100.0)
+        except Exception:
+            pass
+
+    def _set_play_button(self, playing: bool) -> None:
+        try:
+            self.btn_play.configure(text="⏸ 暂停" if playing else "▶ 播放")
+        except Exception:
+            pass
+
+    def toggle_play(self) -> None:
+        if self.samples is None:
+            return
+        if self.player.playing:
+            self.player.pause()
+            self._set_play_button(False)
+            return
+        if self.player.play():
+            self._set_play_button(True)
+        else:
+            self.set_status(f"无法播放：{self.player.error}", error=True)
+
+    def stop_playback(self) -> None:
+        self.player.stop()
+        self._set_play_button(False)
+        self.wave.set_playhead(0.0)
+        self.time_label.configure(text=f"0:00.0 / {fmt_clock(self.player.duration)}")
+
+    def seek_playhead(self, seconds: float) -> None:
+        if self.samples is None:
+            return
+        seconds = max(0.0, min(seconds, self.player.duration))
+        self.player.seek(seconds)
+        self.wave.set_playhead(seconds)
+        self.time_label.configure(
+            text=f"{fmt_clock(seconds)} / {fmt_clock(self.player.duration)}"
+        )
+
+    def _tick(self) -> None:
+        try:
+            if self.samples is not None:
+                pos = self.player.position()
+                self.wave.set_playhead(pos)
+                self.time_label.configure(
+                    text=f"{fmt_clock(pos)} / {fmt_clock(self.player.duration)}"
+                )
+                if self.player.playing:
+                    self.wave.follow(pos)
+                    if self.player.pos >= self.player.data.size:
+                        self.player.pause()
+                        self._set_play_button(False)
+                elif str(self.btn_play.cget("text")).startswith("⏸"):
+                    self._set_play_button(False)
+        except Exception:
+            pass
+        self.root.after(40, self._tick)
+
+    # -- preview rate ---------------------------------------------------
+    def _on_rate_scale(self, value) -> None:
+        try:
+            rate = float(value)
+        except Exception:
+            return
+        rate = max(0.80, min(2.00, round(rate / 0.05) * 0.05))
+        self._rate_pending = rate
+        self._show_rate(rate)
+        if self.base_rhythm is None:
+            return
+        if self._rate_job is not None:
+            self.root.after_cancel(self._rate_job)
+        self._rate_job = self.root.after(380, self._commit_rate)
+
+    def _show_rate(self, rate: float) -> None:
+        try:
+            self.rate_value.configure(text=f"{rate:.2f}×")
+        except Exception:
+            pass
+
+    def _apply_rate_entry(self) -> None:
+        text = self.rate_entry.get().strip().rstrip("xX×")
+        try:
+            rate = float(text)
+        except ValueError:
+            self.set_status("倍速需要是数字，例如 1.25", error=True)
+            return
+        self.set_rate(rate, immediate=True)
+
+    def set_rate(self, rate: float, immediate: bool = True) -> None:
+        """Public entry used by tests: apply a preview rate."""
+        rate = max(0.25, min(4.0, round(float(rate) / 0.05) * 0.05))
+        self._rate_pending = rate
+        self._show_rate(rate)
+        try:
+            self.rate_scale.set(rate)
+        except Exception:
+            pass
+        if self.base_rhythm is None:
+            self.rate = rate
+            return
+        if immediate:
+            self._commit_rate()
+
+    def _commit_rate(self) -> None:
+        if self.base_rhythm is None or self._rate_busy:
+            return
+        rate = float(self._rate_pending)
+        if abs(rate - self.rate) < 1e-6:
+            return
+        old_rate = self.rate
+        old_pos = self.player.position()
+        was_playing = self.player.playing
+        self.player.pause()
+        self._set_play_button(False)
+        self._rate_busy = True
+        self.set_status(f"正在生成 ×{rate:.2f} 变速音频…")
+        threading.Thread(
+            target=self._worker_rate,
+            args=(rate, old_pos, was_playing, old_rate),
+            daemon=True,
+        ).start()
+
+    def _worker_rate(self, rate: float, pos: float, was_playing: bool,
+                     old_rate: float) -> None:
+        try:
+            if abs(rate - 1.0) < 1e-6:
+                samples = self.base_samples
+            else:
+                sr_out = max(8000, int(round(self.base_sr / rate)))
+                samples = resample_audio(self.base_samples, self.base_sr, sr_out)
+            rhythm = self._scaled_rhythm(self.base_rhythm, rate)
+            self.queue.put(("rate_done", {
+                "rate": rate,
+                "samples": samples,
+                "rhythm": rhythm,
+                "pos": pos * old_rate / rate,
+                "was_playing": was_playing,
+            }))
+        except Exception as exc:
+            self.queue.put(("error", f"{type(exc).__name__}: {exc}"))
+
+    def _scaled_rhythm(self, base: dict, rate: float) -> dict:
+        r = {k: v for k, v in base.items() if not k.startswith("_")}
+        r["bpm"] = round(base["bpm"] * rate, 3)
+        r["offset_ms"] = round(base["offset_ms"] / rate, 2)
+        r["beats_ms"] = [round(t / rate, 2) for t in base["beats_ms"]]
+        r["duration_sec"] = round(base["duration_sec"] / rate, 3)
+        r["candidates"] = [
+            {"bpm": round(c["bpm"] * rate, 3),
+             "score": c["score"], "confidence": c["confidence"]}
+            for c in base["candidates"]
+        ]
+        r["confidence"] = base.get("confidence", 0.0)
+        r["_rate"] = rate
+        r["_selected_bpm"] = round(base.get("_selected_bpm", base["bpm"]) * rate, 3)
+        return r
+
+    def _on_rate_done(self, data: dict) -> None:
+        self._rate_busy = False
+        rate = float(data["rate"])
+        self.rate = rate
+        self.samples = data["samples"]
+        self.rhythm = data["rhythm"]
+        self.player.load(self.samples, self.base_sr)
+        self.player.seek(data["pos"])
+        self.wave.set_audio(self.samples, self.base_sr, self.rhythm["beats_ms"])
+        self.wave.set_playhead(data["pos"])
+        self._refresh_bpm_panel()
+        self.time_label.configure(
+            text=f"{fmt_clock(data['pos'])} / {fmt_clock(self.player.duration)}"
+        )
+        self._set_play_button(False)
+        if data["was_playing"] and self.player.play():
+            self._set_play_button(True)
+        if abs(self._rate_pending - rate) > 1e-6:
+            self.root.after(80, self._commit_rate)
+        else:
+            self.set_status(
+                f"试听倍速 ×{rate:.2f}：BPM {self.rhythm['bpm']:.3f}（不修改原文件）"
+            )
+
+    def export_rate(self) -> None:
+        if self.base_samples is None or self.rhythm is None or self.path is None:
+            return
+        if abs(self.rate - 1.0) < 1e-6:
+            self.set_status("当前是 ×1.00，不需要导出变速音频", error=True)
+            return
+        self.set_status(f"正在导出 ×{self.rate:.2f} 音频…")
+        threading.Thread(target=self._worker_export, args=(self.rate,), daemon=True).start()
+
+    def _worker_export(self, rate: float) -> None:
+        try:
+            import soundfile as sf
+            out_dir = self.out_dir
+            out_dir.mkdir(parents=True, exist_ok=True)
+            stem = self.path.stem
+            tag = f"_x{rate:.2f}"
+            wav_path = out_dir / f"{stem}{tag}.wav"
+            sf.write(str(wav_path), np.clip(self.samples, -1.0, 1.0),
+                     self.base_sr, subtype="PCM_16")
+
+            rhythm = {k: v for k, v in self.rhythm.items() if not k.startswith("_")}
+            audio = dict(self.result["audio"])
+            audio["samplerate"] = self.base_sr
+            audio["duration"] = round(self.samples.size / float(self.base_sr), 3)
+            audio["analysed_duration"] = audio["duration"]
+            result = {
+                "file": str(wav_path),
+                "audio": audio,
+                "rhythm": rhythm,
+                "waveform": waveform_peaks(self.samples, 1600),
+            }
+            save_analysis(result, out_dir / f"{stem}{tag}.analysis.json")
+            meta = {
+                "title": wav_path.name,
+                "bpm": rhythm["bpm"],
+                "offset_ms": rhythm["offset_ms"],
+                "confidence": rhythm["confidence"],
+                "channels": 1,
+            }
+            render_waveform(self.samples, self.base_sr,
+                            out_dir / f"{stem}{tag}.waveform.png",
+                            meta=meta, width=2000, beat_times_ms=rhythm["beats_ms"])
+            self.queue.put(("exported", str(wav_path)))
+        except Exception as exc:
+            self.queue.put(("error", f"{type(exc).__name__}: {exc}"))
 
     # -- actions --------------------------------------------------------
     def choose_file(self) -> None:
@@ -613,77 +970,100 @@ class App:
         self.apply_bpm(bpm)
 
     def apply_bpm(self, bpm: float) -> None:
-        if self.busy or self.samples is None:
+        if self.busy or self.samples is None or self.base_rhythm is None:
             return
         if not 20.0 <= bpm <= 400.0:
             self.set_status("BPM 需要在 20–400 之间", error=True)
             return
+        base_bpm = float(bpm) / max(self.rate, 1e-9)
         self.busy = True
         self._set_controls(False)
         self.set_status(f"按 {bpm:.3f} BPM 重新对拍…")
-        threading.Thread(target=self._worker_bpm, args=(float(bpm),), daemon=True).start()
+        threading.Thread(target=self._worker_bpm, args=(base_bpm,), daemon=True).start()
 
-    def _worker_bpm(self, bpm: float) -> None:
+    def _worker_bpm(self, base_bpm: float) -> None:
         try:
-            grid = fixed_bpm_grid(self.samples, self.sr, bpm)
-            rhythm = dict(self.rhythm)
-            rhythm.update(
+            grid = fixed_bpm_grid(self.base_samples, self.base_sr, base_bpm)
+            base = dict(self.base_rhythm)
+            base.update(
                 bpm=grid["bpm"],
                 offset_ms=grid["offset_ms"],
                 beats_ms=grid["beats_ms"],
                 coverage=grid["coverage"],
                 beat_strength=grid["beat_strength"],
+                _selected_bpm=grid["bpm"],
             )
             coverage = max(0.0, min(1.0, grid["coverage"] / 0.6))
             phase = 1.0 - float(np.exp(-max(0.0, grid["beat_strength"] - 1.0) / 2.0))
-            rhythm["confidence"] = round(0.5 * coverage + 0.5 * phase, 4)
+            base["confidence"] = round(0.5 * coverage + 0.5 * phase, 4)
+            self.base_rhythm = base
 
-            self.result["rhythm"] = rhythm
-            out_dir = self.out_dir
-            stem = self.path.stem
-            save_analysis(self.result, out_dir / f"{stem}.analysis.json")
-            meta = {
-                "title": self.path.name,
-                "bpm": rhythm["bpm"],
-                "offset_ms": rhythm["offset_ms"],
-                "confidence": rhythm["confidence"],
-                "channels": self.result["audio"].get("channels"),
-            }
-            render_waveform(self.samples, self.sr, out_dir / f"{stem}.waveform.png",
-                            meta=meta, width=2000, beat_times_ms=rhythm["beats_ms"])
-            render_waveform(self.samples, self.sr, out_dir / f"{stem}.waveform.zoom.png",
-                            meta=meta, width=2000, height=360,
-                            beat_times_ms=rhythm["beats_ms"],
-                            span=min(20.0, self.samples.size / float(self.sr)),
-                            title=f"{self.path.name}  (first 20s)")
-            self.queue.put(("bpm_done", rhythm))
+            rhythm = self._scaled_rhythm(base, self.rate)
+            saved = abs(self.rate - 1.0) < 1e-6
+            if saved:
+                self.rhythm = rhythm
+                self.result["rhythm"] = {
+                    k: v for k, v in rhythm.items() if not k.startswith("_")
+                }
+                out_dir = self.out_dir
+                stem = self.path.stem
+                save_analysis(self.result, out_dir / f"{stem}.analysis.json")
+                meta = {
+                    "title": self.path.name,
+                    "bpm": rhythm["bpm"],
+                    "offset_ms": rhythm["offset_ms"],
+                    "confidence": rhythm["confidence"],
+                    "channels": self.result["audio"].get("channels"),
+                }
+                render_waveform(self.samples, self.sr, out_dir / f"{stem}.waveform.png",
+                                meta=meta, width=2000, beat_times_ms=rhythm["beats_ms"])
+                render_waveform(self.samples, self.sr,
+                                out_dir / f"{stem}.waveform.zoom.png",
+                                meta=meta, width=2000, height=360,
+                                beat_times_ms=rhythm["beats_ms"],
+                                span=min(20.0, self.samples.size / float(self.sr)),
+                                title=f"{self.path.name}  (first 20s)")
+            self.queue.put(("bpm_done", {"rhythm": rhythm, "saved": saved}))
         except Exception as exc:
             self.queue.put(("error", f"{type(exc).__name__}: {exc}"))
 
     def _reset_bpm(self) -> None:
-        if not self.rhythm or self.busy:
+        if not self.base_rhythm or self.busy:
             return
-        original = self.rhythm.get("_selected_bpm")
+        original = self.base_rhythm.get("_original_bpm")
         if original:
-            self.apply_bpm(float(original))
+            self.apply_bpm(float(original) * self.rate)
 
     # -- queue / UI updates --------------------------------------------
     def _poll(self) -> None:
         try:
             while True:
-                kind, payload = self.queue.get_nowait()
-                if kind == "done":
-                    self._on_done(payload)
-                elif kind == "bpm_done":
-                    self._on_bpm_done(payload)
-                elif kind == "error":
+                try:
+                    kind, payload = self.queue.get_nowait()
+                except queue.Empty:
+                    break
+                try:
+                    if kind == "done":
+                        self._on_done(payload)
+                    elif kind == "bpm_done":
+                        self._on_bpm_done(payload)
+                    elif kind == "rate_done":
+                        self._on_rate_done(payload)
+                    elif kind == "exported":
+                        self.set_status(f"已导出变速音频：{Path(payload).name}")
+                    elif kind == "error":
+                        self.busy = False
+                        self._rate_busy = False
+                        self._set_controls(True)
+                        self.set_status(f"处理失败：{payload}", error=True)
+                        messagebox.showerror("处理失败", payload)
+                except Exception as exc:  # keep the poll loop alive
                     self.busy = False
+                    self._rate_busy = False
                     self._set_controls(True)
-                    self.set_status(f"分析失败：{payload}", error=True)
-                    messagebox.showerror("分析失败", payload)
-        except queue.Empty:
-            pass
-        self.root.after(80, self._poll)
+                    self.set_status(f"界面错误：{type(exc).__name__}: {exc}", error=True)
+        finally:
+            self.root.after(80, self._poll)
 
     def _on_done(self, data: dict) -> None:
         self.busy = False
@@ -694,6 +1074,26 @@ class App:
         self.result = data["result"]
         self.rhythm = data["rhythm"]
         self.rhythm["_selected_bpm"] = self.rhythm["bpm"]
+        self.rhythm["_original_bpm"] = self.rhythm["bpm"]
+
+        # keep the untouched analysis as the base for preview-rate scaling
+        self.base_samples = self.samples
+        self.base_sr = self.sr
+        self.base_rhythm = dict(self.rhythm)
+        self.rate = 1.0
+        self._rate_pending = 1.0
+        self._rate_busy = False
+        self._show_rate(1.0)
+        try:
+            self.rate_scale.set(1.0)
+        except Exception:
+            pass
+
+        self.player.load(self.samples, self.sr)
+        self.player.seek(0.0)
+        self.wave.set_playhead(0.0)
+        self.time_label.configure(text=f"0:00.0 / {fmt_clock(self.player.duration)}")
+        self._set_play_button(False)
 
         info = self.result["audio"]
         channels = info.get("channels") or 1
@@ -710,13 +1110,18 @@ class App:
             f"分析完成 · 用时 {data['elapsed']:.1f}s · 已保存到 {self.out_dir.name}\\"
         )
 
-    def _on_bpm_done(self, rhythm: dict) -> None:
+    def _on_bpm_done(self, payload: dict) -> None:
         self.busy = False
         self._set_controls(True)
-        self.rhythm = rhythm
-        self.wave.set_beats(rhythm["beats_ms"])
+        self.rhythm = payload["rhythm"]
+        self.wave.set_beats(self.rhythm["beats_ms"])
         self._refresh_bpm_panel()
-        self.set_status(f"已按 {rhythm['bpm']:.3f} BPM 重新对拍并保存")
+        if payload.get("saved"):
+            self.set_status(f"已按 {self.rhythm['bpm']:.3f} BPM 重新对拍并保存")
+        else:
+            self.set_status(
+                f"已按 {self.rhythm['bpm']:.3f} BPM 重新对拍（试听倍速 ×{self.rate:.2f}，未覆盖原文件）"
+            )
 
     def _refresh_bpm_panel(self) -> None:
         rhythm = self.rhythm
@@ -756,7 +1161,11 @@ class App:
         for btn in (getattr(self, "btn_choose", None),
                     getattr(self, "btn_apply_bpm", None),
                     getattr(self, "btn_reset_bpm", None),
-                    getattr(self, "btn_open_dir", None)):
+                    getattr(self, "btn_open_dir", None),
+                    getattr(self, "btn_rate_apply", None),
+                    getattr(self, "btn_rate_export", None),
+                    getattr(self, "btn_play", None),
+                    getattr(self, "btn_stop", None)):
             if btn is not None:
                 btn.configure(state=state)
 
@@ -776,8 +1185,14 @@ def run_selftest(audio_path: str) -> int:
         dnd_available = False
         log.append(f"dnd import failed: {exc}")
     root.geometry("1200x760")
+    try:
+        root.tk.call("tk", "scaling",
+                     max(1.0, min(1.4, root.winfo_fpixels("1i") / 96.0)))
+    except Exception:
+        pass
     app = App(root)
     log.append(f"dnd_available={dnd_available}")
+    log.append(f"player_available={app.player.available}")
     log.append(f"audio={audio_path}")
     app.load_file(Path(audio_path))
     deadline = time.time() + 180
@@ -789,6 +1204,28 @@ def run_selftest(audio_path: str) -> int:
         time.sleep(0.03)
     ok = bool(app.rhythm and app.rhythm.get("bpm", 0) > 0)
     log.append(f"bpm={app.rhythm.get('bpm') if app.rhythm else None}")
+
+    # preview-rate scaling + playback position (silent, volume 0)
+    if ok:
+        app.player.set_volume(0.0)
+        app.set_rate(1.50, immediate=True)
+        deadline = time.time() + 60
+        while (app._rate_busy) and time.time() < deadline:
+            root.update()
+            time.sleep(0.02)
+        for _ in range(20):
+            root.update()
+            time.sleep(0.02)
+        log.append(f"rate={app.rate:.2f}")
+        log.append(f"rate_bpm={app.rhythm.get('bpm') if app.rhythm else None}")
+        if app.player.available:
+            started = app.player.play()
+            time.sleep(0.5)
+            pos = app.player.position()
+            app.player.pause()
+            log.append(f"play_started={started} pos_after_0.5s={pos:.3f}")
+            ok = ok and started and pos > 0.05
+
     log.append(f"canvas_items={len(app.wave.find_all())}")
     log.append(f"ok={ok}")
     root.destroy()
