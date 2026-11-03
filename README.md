@@ -1,7 +1,10 @@
-# Malody 4K 自动写谱 — 阶段 1：音频分析核心
+# Malody 4K 自动写谱 — 阶段 2：桌面软件
 
-当前进度：**BPM 识别** 和 **波形图** 两个功能已完成，PC 端可跑通全流程。
+当前进度：**BPM 识别**、**波形图**、**桌面 GUI** 已完成，PC 端可以当软件用：
+拖入或选择音频 → 自动分析 → 波形/拍点交互查看 → 结果自动保存。
 安卓端与写谱本体尚未开始（等确定技术路线）。
+
+![界面截图](docs/gui.png)
 
 > 源数据保护：`ex jack/`、`reg speed/` 等 8 个文件夹里的 `.ogg` / `.mc` / `.jpg`
 > 都是真实谱面素材，脚本**只读**，不做任何修改。所有生成物写到 `out/`；
@@ -13,20 +16,31 @@
 
 | 功能 | 说明 |
 |---|---|
-| 音频解码 | ogg / mp3 / wav / flac / opus；soundfile 优先，找不到时自动用 ffmpeg |
+| 桌面界面 | 拖拽音频进窗口或点「选择音频」；深色 UI，分析在后台线程，不卡界面 |
 | BPM 识别 | 输出 BPM、首拍 offset、拍点时间表、置信度，以及 ½× / ⅔× / 1.5× / 2× 倍频候选 |
-| 波形图 | 整曲 min/max/RMS 包络渲染成 PNG；另有放大视图，带拍线 |
-| 数据输出 | JSON（拍点、包络数组、音频信息），供后续写谱和 UI 直接使用 |
+| 波形视图 | 交互式：滚轮缩放、拖动平移、双击复位；带时间刻度与拍线 |
+| 倍频切换 | 点候选 BPM 一键重算拍点；也可手动输入 BPM 应用 |
+| 波形图导出 | 整曲 min/max/RMS 包络 PNG + 前 20 秒放大图（带拍线） |
+| 数据输出 | JSON（拍点、包络数组、音频信息），供后续写谱使用 |
 
-一首 4 分钟的曲子完整分析约 **2–3 秒**。
+一首 4 分钟的曲子完整分析约 **1–3 秒**。
 
 ## 2. 快速开始
+
+**打包版（推荐）**：直接运行 `dist\MalodyAutoChart\MalodyAutoChart.exe`，
+把音频拖进窗口，或点「选择音频」。结果自动存到 exe 同目录的 `out\`。
+
+**源码运行**：
+
+```bat
+python gui.py
+```
+
+命令行版仍然可用：
 
 ```bat
 run.cmd "reg stream\0\Camellia - Spin Eternally.ogg"
 ```
-
-打包版：把音频拖到 `dist\MalodyAudioAnalyzer\MalodyAudioAnalyzer.exe` 上即可（见第 8 节）。
 
 `run.cmd` 会自动找本机自带 numpy / Pillow / soundfile 的 Python；
 如果你用自己的 Python，先装依赖：
@@ -115,9 +129,10 @@ python tests\bench_charts.py --limit 40 --duration 120
 ## 6. 已知限制
 
 - 全曲只给**一个恒定 BPM**；变速曲需要分段分析。
-- BPM 低于 80 且没有八分/十六分音符时，可能报成双倍；`candidates` 里会给出减半值，后续 UI 可一键切换。
+- BPM 低于 80 且没有八分/十六分音符时，可能报成双倍；点击候选 BPM 可一键切换。
 - offset 约 ±25 ms（受起音检测延迟影响），写谱前建议在编辑器里微调。
-- 目前只有命令行和 exe，没有图形界面，也没有安卓端。
+- GUI 目前没有试听/播放，音频编辑要等写谱阶段一起做。
+- 安卓端尚未开始。
 
 ## 7. 目录结构
 
@@ -125,26 +140,31 @@ python tests\bench_charts.py --limit 40 --duration 120
 自动写谱/
 ├─ core/
 │  ├─ audio.py       # 解码、重采样、元数据
-│  ├─ bpm.py         # 起音检测、BPM/offset/拍点
+│  ├─ bpm.py         # 起音检测、BPM/offset/拍点、指定 BPM 对拍
 │  ├─ waveform.py    # 包络提取、PNG 渲染
 │  └─ analyze.py     # 一条龙分析入口
-├─ cli.py            # 命令行
-├─ run.cmd           # Windows 启动器（拖拽文件即可）
+├─ gui.py            # 桌面界面（拖拽 / 选择 / 波形交互 / 候选切换）
+├─ cli.py            # 命令行版
+├─ run.cmd           # 命令行启动器
 ├─ build_exe.cmd     # PyInstaller 打包脚本
+├─ assets/           # 应用图标
+├─ docs/             # 截图
 ├─ tests/
 │  ├─ test_synthetic.py   # 合成信号回归测试
+│  ├─ test_gui_smoke.py   # GUI 拖入/分析/切换候选的冒烟测试
 │  ├─ bench_charts.py     # 用 .mc 标注的 BPM 做真实曲目基准
 │  └─ tune_prior.py       # 调参用的探索脚本
-├─ vendor/           # soundfile + cffi（wheel 解开，免安装）
+├─ vendor/           # soundfile + cffi + tkinterdnd2（免安装）
 └─ out/              # 生成结果
 ```
 
 ## 8. 打包 Windows exe
 
-已生成：`dist\MalodyAudioAnalyzer\`（onedir 免安装版）与 `dist\MalodyAudioAnalyzer-win64.zip`（约 31 MB）。
+已生成：`dist\MalodyAutoChart\`（onedir 免安装 GUI 版）与 `dist\MalodyAutoChart-win64.zip`（约 35 MB）。
 
-- 用法：把音频拖到 `MalodyAudioAnalyzer.exe` 上，结果写到同目录 `out\`
+- 用法：双击 `MalodyAutoChart.exe`，把音频拖进窗口，结果写到同目录 `out\`
 - **整个文件夹一起拷贝**，不能只拿 exe
+- 自检：`MalodyAutoChart.exe --selftest "歌曲.ogg"`，会在同目录写 `selftest.log`
 - 重新打包：
 
 ```bat
@@ -158,10 +178,10 @@ build_exe.cmd "C:\path\to\python.exe"
 
 1. **变速曲 BPM 分段**：滑动窗口 + 变更点检测，输出 `time` 数组（Malody 格式）。
 2. **4K 谱面生成**：按 vibro / stream / jack / tech 风格出 note，再导出 `.mc`。
-3. **PC 界面**：波形 + 拍线 + 试听 + 参数调整。
+3. **试听与打轴**：波形上播放音频、点击设 offset，为写谱做准备。
 4. **安卓端**：两条路线二选一
    - A. Kotlin 原生（PC 也用 Compose Desktop，算法只用维护一份 Kotlin 版）；
    - B. Chaquopy 内嵌 Python（复用现在的算法，Android 原生解码后把 PCM 交给 Python）。
 
-> 建议先做 1（变速曲）和 3（PC 界面），把“分析 → 预览 → 生成 → 导出 .mc”闭环跑通，
+> 建议先做 1（变速曲）和 2（4K 谱面生成），把“分析 → 生成 → 导出 .mc”闭环跑通，
 > 再决定安卓用哪条路线。
