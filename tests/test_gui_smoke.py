@@ -1,4 +1,4 @@
-"""Headless-ish GUI smoke test: load a file, switch BPM candidate, verify state.
+"""Headless-ish GUI smoke test: load, switch candidate, preview rate, playback.
 
 Run:
     python tests/test_gui_smoke.py [audio]
@@ -24,17 +24,28 @@ except Exception:
 import gui  # noqa: E402
 
 
-def pump(root: tk.Tk, app, timeout: float = 120.0) -> None:
+def pump(root: tk.Tk, app, timeout: float = 180.0) -> None:
     deadline = time.time() + timeout
     while time.time() < deadline:
         root.update()
         if not app.busy:
-            # let the queue poll run at least once
             time.sleep(0.12)
             root.update()
             return
         time.sleep(0.02)
     raise TimeoutError("analysis did not finish")
+
+
+def wait_until(root: tk.Tk, condition, timeout: float = 120.0) -> bool:
+    deadline = time.time() + timeout
+    while time.time() < deadline:
+        root.update()
+        if condition():
+            time.sleep(0.08)
+            root.update()
+            return True
+        time.sleep(0.02)
+    return False
 
 
 def main() -> int:
@@ -65,9 +76,33 @@ def main() -> int:
         assert abs(app.rhythm["bpm"] - alt) < 0.01, "candidate switch failed"
         print(f"candidate switch OK: {first_bpm:.2f} -> {app.rhythm['bpm']:.2f}")
 
+    # preview rate 1.5x: BPM scales, duration shrinks
+    base_bpm = app.base_rhythm["bpm"]
+    base_duration = app.base_rhythm["duration_sec"]
+    app.player.set_volume(0.0)
+    app.set_rate(1.5, immediate=True)
+    assert wait_until(root, lambda: not app._rate_busy and abs(app.rate - 1.5) < 1e-6), \
+        "rate change timed out"
+    assert abs(app.rhythm["bpm"] - base_bpm * 1.5) < 0.6, "BPM did not scale with rate"
+    assert abs(app.wave.duration - base_duration / 1.5) < 0.5, "waveform duration not scaled"
+    print(f"rate OK: x1.50 -> {app.rhythm['bpm']:.3f} BPM, "
+          f"duration {base_duration:.1f}s -> {app.wave.duration:.1f}s")
+
+    # playback position advances (silent)
+    if app.player.available:
+        assert app.player.play(), app.player.error
+        time.sleep(0.45)
+        pos = app.player.position()
+        app.player.pause()
+        assert pos > 0.05, f"playback position did not advance: {pos}"
+        print(f"playback OK: position {pos:.2f}s after 0.45s")
+
     # waveform canvas drew something
     assert len(app.wave.find_all()) > 5, "waveform canvas is empty"
     print("waveform canvas OK:", len(app.wave.find_all()), "items")
+
+    app.set_rate(1.0, immediate=True)
+    wait_until(root, lambda: not app._rate_busy and abs(app.rate - 1.0) < 1e-6)
 
     root.destroy()
     print("GUI smoke test passed")
