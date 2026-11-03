@@ -14,6 +14,8 @@ if "%~1"=="" (set "PY=python") else (set "PY=%~1")
   --add-data "assets;assets" ^
   --hidden-import tkinterdnd2 --hidden-import soundfile ^
   --hidden-import cffi --hidden-import _cffi_backend ^
+  --exclude-module sounddevice --exclude-module _sounddevice ^
+  --exclude-module _sounddevice_data ^
   --exclude-module matplotlib --exclude-module pandas --exclude-module scipy ^
   gui.py
 
