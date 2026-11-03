@@ -29,13 +29,17 @@ DIM = (146, 157, 173)
 ACCENT = (255, 196, 87)
 
 
-def waveform_peaks(y: np.ndarray, width: int) -> dict:
-    """Reduce ``y`` to ``width`` columns of (min, max, rms)."""
+def waveform_peaks(y: np.ndarray, width: int, peak: float | None = None) -> dict:
+    """Reduce ``y`` to ``width`` columns of (min, max, rms).
+
+    ``peak`` fixes the normalisation gain (pass the whole-file peak when
+    drawing a zoomed view so the amplitude does not jump while zooming).
+    """
     width = max(1, int(width))
     n = int(y.size)
     if n == 0:
         zeros = [0.0] * width
-        return {"min": zeros, "max": zeros, "rms": zeros, "width": width}
+        return {"min": zeros, "max": zeros, "rms": zeros, "width": width, "peak": 1.0}
 
     data = y.astype(np.float64, copy=False)
     starts = np.linspace(0, n, width, endpoint=False).astype(np.int64)
@@ -46,7 +50,8 @@ def waveform_peaks(y: np.ndarray, width: int) -> dict:
     sumsq = np.add.reduceat(data * data, starts)
     rms = np.sqrt(sumsq / np.maximum(counts, 1.0))
 
-    peak = float(max(np.abs(mn).max(), np.abs(mx).max(), 1e-9))
+    peak = float(peak) if peak else float(max(np.abs(mn).max(), np.abs(mx).max(), 1e-9))
+    peak = max(peak, 1e-9)
     return {
         "min": (mn / peak).round(6).tolist(),
         "max": (mx / peak).round(6).tolist(),

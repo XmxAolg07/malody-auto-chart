@@ -400,6 +400,49 @@ def _candidate_table(
     ]
 
 
+def fixed_bpm_grid(y: np.ndarray, sr: int, bpm: float) -> dict:
+    """Beat grid for a BPM chosen by the user (used by the GUI chips).
+
+    Only the phase is searched; the tempo itself is kept exactly as given.
+    """
+    duration = float(y.size) / float(sr)
+    empty = {
+        "bpm": round(float(bpm), 3),
+        "offset_ms": 0.0,
+        "beats_ms": [],
+        "coverage": 0.0,
+        "beat_strength": 0.0,
+    }
+    if duration <= 0.5 or bpm <= 0:
+        return empty
+
+    env, env_low, hop_sec, t0 = onset_envelopes(y, sr)
+    period = 60.0 / bpm
+    offsets = np.linspace(0.0, period, 128, endpoint=False)
+    score, offset, captured, density = _grid_score(
+        env, env_low, hop_sec, bpm, offsets, duration, t0
+    )
+    if score < 0:
+        return empty
+
+    total_energy = float(env.sum() + 0.35 * env_low.sum()) + 1e-9
+    coverage = captured / total_energy
+    n_beats = int(np.floor((duration - offset) / period)) + 1
+    beats = offset + np.arange(max(n_beats, 0)) * period
+    if beats.size:
+        idx = np.clip(np.round((beats - t0) / hop_sec).astype(int), 0, env.size - 1)
+        strength = float(env[idx].mean() / (env.mean() + 1e-9))
+    else:
+        strength = 0.0
+    return {
+        "bpm": round(float(bpm), 3),
+        "offset_ms": round(float(offset) * 1000.0, 2),
+        "beats_ms": [round(float(t) * 1000.0, 2) for t in beats],
+        "coverage": round(float(coverage), 4),
+        "beat_strength": round(float(strength), 4),
+    }
+
+
 # ---------------------------------------------------------------------------
 # public API
 # ---------------------------------------------------------------------------
