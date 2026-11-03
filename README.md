@@ -1,10 +1,10 @@
-# Malody 4K 自动写谱 — 阶段 2：桌面软件
+# Malody 4K 自动写谱 — 阶段 3：桌面软件（试听 + 倍速）
 
-当前进度：**BPM 识别**、**波形图**、**桌面 GUI** 已完成，PC 端可以当软件用：
-拖入或选择音频 → 自动分析 → 波形/拍点交互查看 → 结果自动保存。
+当前进度：**BPM 识别**、**波形图**、**桌面 GUI**、**试听/播放位置**、**试听倍速** 已完成，
+PC 端可以当软件用：拖入或选择音频 → 自动分析 → 波形/拍点交互查看 → 试听/变速 → 结果自动保存。
 安卓端与写谱本体尚未开始（等确定技术路线）。
 
-![界面截图](docs/gui.png)
+![界面截图](docs/gui_rate.png)
 
 > 源数据保护：`ex jack/`、`reg speed/` 等 8 个文件夹里的 `.ogg` / `.mc` / `.jpg`
 > 都是真实谱面素材，脚本**只读**，不做任何修改。所有生成物写到 `out/`；
@@ -18,8 +18,11 @@
 |---|---|
 | 桌面界面 | 拖拽音频进窗口或点「选择音频」；深色 UI，分析在后台线程，不卡界面 |
 | BPM 识别 | 输出 BPM、首拍 offset、拍点时间表、置信度，以及 ½× / ⅔× / 1.5× / 2× 倍频候选 |
-| 波形视图 | 交互式：滚轮缩放、拖动平移、双击复位；带时间刻度与拍线 |
+| 波形视图 | 交互式：滚轮缩放、拖动平移、单击定位、双击复位；带时间刻度与拍线 |
 | 倍频切换 | 点候选 BPM 一键重算拍点；也可手动输入 BPM 应用 |
+| 试听 | 播放/暂停/停止、音量，金色播放头在波形上实时移动，可点击波形跳转 |
+| 试听倍速 | 0.80×–2.00× 每 0.05 一档（滑块），也可自由输入；BPM/offset/波形时长同步换算 |
+| 变速导出 | 一键保存变速后的 WAV + 分析 JSON + 波形 PNG（不改原文件） |
 | 波形图导出 | 整曲 min/max/RMS 包络 PNG + 前 20 秒放大图（带拍线） |
 | 数据输出 | JSON（拍点、包络数组、音频信息），供后续写谱使用 |
 
@@ -131,7 +134,9 @@ python tests\bench_charts.py --limit 40 --duration 120
 - 全曲只给**一个恒定 BPM**；变速曲需要分段分析。
 - BPM 低于 80 且没有八分/十六分音符时，可能报成双倍；点击候选 BPM 可一键切换。
 - offset 约 ±25 ms（受起音检测延迟影响），写谱前建议在编辑器里微调。
-- GUI 目前没有试听/播放，音频编辑要等写谱阶段一起做。
+- 试听倍速用的是重采样（音高会跟着变），不是保持音高的 time-stretch；
+  0.8×–2.0× 范围内对打轴/练习够用。
+- 倍速换算只影响界面和试听，原文件不动；要落盘请点「保存变速音频」。
 - 安卓端尚未开始。
 
 ## 7. 目录结构
@@ -143,7 +148,8 @@ python tests\bench_charts.py --limit 40 --duration 120
 │  ├─ bpm.py         # 起音检测、BPM/offset/拍点、指定 BPM 对拍
 │  ├─ waveform.py    # 包络提取、PNG 渲染
 │  └─ analyze.py     # 一条龙分析入口
-├─ gui.py            # 桌面界面（拖拽 / 选择 / 波形交互 / 候选切换）
+├─ gui.py            # 桌面界面（拖拽 / 选择 / 波形交互 / 候选切换 / 试听 / 倍速）
+├─ audio_player.py   # sounddevice 播放引擎（播放/暂停/定位/音量）
 ├─ cli.py            # 命令行版
 ├─ run.cmd           # 命令行启动器
 ├─ build_exe.cmd     # PyInstaller 打包脚本
@@ -151,16 +157,16 @@ python tests\bench_charts.py --limit 40 --duration 120
 ├─ docs/             # 截图
 ├─ tests/
 │  ├─ test_synthetic.py   # 合成信号回归测试
-│  ├─ test_gui_smoke.py   # GUI 拖入/分析/切换候选的冒烟测试
+│  ├─ test_gui_smoke.py   # GUI 拖入/分析/切换候选/倍速/播放的冒烟测试
 │  ├─ bench_charts.py     # 用 .mc 标注的 BPM 做真实曲目基准
 │  └─ tune_prior.py       # 调参用的探索脚本
-├─ vendor/           # soundfile + cffi + tkinterdnd2（免安装）
+├─ vendor/           # soundfile + cffi + tkinterdnd2 + sounddevice（免安装）
 └─ out/              # 生成结果
 ```
 
 ## 8. 打包 Windows exe
 
-已生成：`dist\MalodyAutoChart\`（onedir 免安装 GUI 版）与 `dist\MalodyAutoChart-win64.zip`（约 35 MB）。
+已生成：`dist\MalodyAutoChart\`（onedir 免安装 GUI 版）与 `dist\MalodyAutoChart-win64.zip`（约 36 MB）。
 
 - 用法：双击 `MalodyAutoChart.exe`，把音频拖进窗口，结果写到同目录 `out\`
 - **整个文件夹一起拷贝**，不能只拿 exe
@@ -178,7 +184,7 @@ build_exe.cmd "C:\path\to\python.exe"
 
 1. **变速曲 BPM 分段**：滑动窗口 + 变更点检测，输出 `time` 数组（Malody 格式）。
 2. **4K 谱面生成**：按 vibro / stream / jack / tech 风格出 note，再导出 `.mc`。
-3. **试听与打轴**：波形上播放音频、点击设 offset，为写谱做准备。
+3. **打轴工具**：波形上拖动 offset、tap 测 BPM，直接生成 Malody 的 `time` 段。
 4. **安卓端**：两条路线二选一
    - A. Kotlin 原生（PC 也用 Compose Desktop，算法只用维护一份 Kotlin 版）；
    - B. Chaquopy 内嵌 Python（复用现在的算法，Android 原生解码后把 PCM 交给 Python）。
