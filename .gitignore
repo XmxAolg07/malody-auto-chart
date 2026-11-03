@@ -7,6 +7,7 @@
 /.pip-tmp/
 /.pi-tmp/
 /.screen/
+/selftest.log
 *.spec
 __pycache__/
 *.pyc
