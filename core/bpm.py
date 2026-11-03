@@ -47,6 +47,8 @@ class RhythmResult:
     hop_sec: float = HOP_SECONDS
     sr: int = 44100
     coverage: float = 0.0
+    has_changes: bool = False
+    segments: List[dict] = field(default_factory=list)
 
     def to_dict(self) -> dict:
         d = asdict(self)
@@ -102,6 +104,15 @@ def _normalize(x: np.ndarray) -> np.ndarray:
     return x.astype(np.float64) / (std + 1e-9)
 
 
+def _smooth(x: np.ndarray, hop_sec: float, sigma_sec: float = 0.030) -> np.ndarray:
+    """Gaussian smoothing so beat-grid scores do not fall between flux spikes."""
+    sigma = max(0.5, sigma_sec / hop_sec)
+    radius = max(1, int(round(3.0 * sigma)))
+    kernel = np.exp(-0.5 * (np.arange(-radius, radius + 1) / sigma) ** 2)
+    kernel /= kernel.sum()
+    return np.convolve(x, kernel, mode="same")
+
+
 def onset_envelopes(y: np.ndarray, sr: int) -> tuple[np.ndarray, np.ndarray, float, float]:
     """Return (full-band, low-band) onset strength, hop seconds and first-frame time.
 
@@ -138,6 +149,12 @@ def onset_envelopes(y: np.ndarray, sr: int) -> tuple[np.ndarray, np.ndarray, flo
 
     return (_normalize(detrend(flux_full)), _normalize(detrend(flux_low)),
             hop_sec, (n_fft / 2.0) / float(sr))
+
+
+def smooth_envelopes(env: np.ndarray, env_low: np.ndarray, hop_sec: float):
+    """Smoothed copies used for beat-grid scoring (ACF keeps the raw envelope)."""
+    return (_normalize(_smooth(env, hop_sec, 0.030)),
+            _normalize(_smooth(env_low, hop_sec, 0.040)))
 
 
 # ---------------------------------------------------------------------------
@@ -417,6 +434,7 @@ def fixed_bpm_grid(y: np.ndarray, sr: int, bpm: float) -> dict:
         return empty
 
     env, env_low, hop_sec, t0 = onset_envelopes(y, sr)
+    env, env_low = smooth_envelopes(env, env_low, hop_sec)
     period = 60.0 / bpm
     offsets = np.linspace(0.0, period, 128, endpoint=False)
     score, offset, captured, density = _grid_score(
@@ -463,6 +481,7 @@ def estimate_rhythm(
 
     env, env_low, hop_sec, t0 = onset_envelopes(y, sr)
     acf = _autocorrelation(env)
+    env_grid, env_low_grid = smooth_envelopes(env, env_low, hop_sec)
     acf_candidates, acf_conf = tempo_candidates(
         acf, hop_sec, bpm_min, bpm_max,
         prior_center=prior_center, prior_octaves=prior_octaves,
@@ -472,7 +491,7 @@ def estimate_rhythm(
                             beat_strength=0.0, duration_sec=duration, sr=sr)
 
     bpm, offset, beat_strength, _grid, coverage = select_tempo(
-        env, env_low, hop_sec, t0, duration, acf,
+        env_grid, env_low_grid, hop_sec, t0, duration, acf,
         bpm_min, bpm_max, prior_center, prior_octaves,
         density_weight=density_weight,
     )
@@ -480,9 +499,9 @@ def estimate_rhythm(
         return RhythmResult(bpm=0.0, offset_ms=0.0, confidence=0.0,
                             beat_strength=0.0, duration_sec=duration, sr=sr)
 
-    total_energy = float(env.sum() + 0.35 * env_low.sum()) + 1e-9
+    total_energy = float(env_grid.sum() + 0.35 * env_low_grid.sum()) + 1e-9
     candidates = _candidate_table(
-        env, env_low, hop_sec, t0, duration, total_energy,
+        env_grid, env_low_grid, hop_sec, t0, duration, total_energy,
         bpm, bpm_min, bpm_max,
     )
     # keep the selected tempo first, then alternatives by coverage
@@ -491,7 +510,7 @@ def estimate_rhythm(
     beats = offset + np.arange(int(np.floor((duration - offset) / period)) + 1) * period
 
     phase_conf = 1.0 - float(np.exp(-max(0.0, beat_strength - 1.0) / 2.0))
-    cover_conf = float(np.clip(coverage / 0.6, 0.0, 1.0))
+    cover_conf = float(np.clip(coverage / 0.35, 0.0, 1.0))
     confidence = float(np.clip(0.45 * acf_conf + 0.25 * phase_conf + 0.30 * cover_conf,
                                0.0, 1.0))
 

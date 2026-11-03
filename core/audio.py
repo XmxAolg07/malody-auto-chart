@@ -54,6 +54,8 @@ def _find_ffmpeg() -> Optional[str]:
             Path(os.environ.get("ProgramFiles", r"C:\Program Files")) / "ffmpeg" / "bin" / "ffmpeg.exe",
             Path(os.environ.get("ProgramFiles(x86)", r"C:\Program Files (x86)")) / "ffmpeg" / "bin" / "ffmpeg.exe",
             Path(r"C:\ffmpeg\bin\ffmpeg.exe"),
+            # ffmpeg bundled with the user's sd-webui/aki install (found on this machine)
+            Path(r"D:\BaiduNetdiskDownload\(sd-webui-forge-aki-v1.0\aki\bin\ffmpeg.exe"),
         ]
         for path in candidates:
             if path.is_file():
@@ -178,3 +180,51 @@ def resample_audio(y: np.ndarray, sr_in: int, sr_out: int) -> np.ndarray:
     out_spectrum[: keep + 1] = spectrum[: keep + 1]
     resampled = np.fft.irfft(out_spectrum, n_out) * (n_out / n_in)
     return resampled.astype(np.float32)
+
+
+def export_audio(path: str | Path, samples: np.ndarray, sr: int,
+                 fmt: str = "wav") -> Path:
+    """Write mono float samples as WAV (PCM 16) or OGG (Vorbis).
+
+    OGG encoding goes through ffmpeg because the bundled libsndfile 1.2.2
+    crashes in its Vorbis encoder for clips longer than ~15 seconds.  Very
+    short clips still fall back to libsndfile when ffmpeg is unavailable.
+    """
+    import soundfile as sf
+
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    data = np.clip(np.asarray(samples, dtype=np.float32), -1.0, 1.0)
+    fmt = fmt.lower().lstrip(".")
+
+    if fmt == "wav":
+        sf.write(str(path), data, int(sr), format="WAV", subtype="PCM_16")
+        return path
+
+    if fmt in ("ogg", "oga"):
+        ffmpeg = _find_ffmpeg()
+        if ffmpeg:
+            temp_wav = path.with_name(path.stem + ".tmp-export.wav")
+            sf.write(str(temp_wav), data, int(sr), format="WAV", subtype="PCM_16")
+            try:
+                proc = subprocess.run(
+                    [ffmpeg, "-y", "-v", "error", "-i", str(temp_wav),
+                     "-c:a", "libvorbis", "-q:a", "5", str(path)],
+                    capture_output=True,
+                )
+                if proc.returncode != 0:
+                    msg = proc.stderr.decode("utf-8", errors="replace").strip()
+                    raise RuntimeError(f"ffmpeg OGG 编码失败：{msg}")
+            finally:
+                temp_wav.unlink(missing_ok=True)
+            return path
+
+        if data.size / float(sr) <= 8.0:
+            sf.write(str(path), data, int(sr), format="OGG", subtype="VORBIS")
+            return path
+        raise RuntimeError(
+            "OGG 导出需要 ffmpeg：把 ffmpeg.exe 放到 tools/ 目录，"
+            "或设置环境变量 MALODY_FFMPEG"
+        )
+
+    raise ValueError(f"unsupported export format: {fmt}")

@@ -8,6 +8,7 @@ from typing import Optional
 
 from .audio import load_audio, probe_audio
 from .bpm import estimate_rhythm
+from .tempo_map import detect_tempo_map
 from .waveform import waveform_peaks
 
 
@@ -33,12 +34,27 @@ def analyze_samples(
         prior_center=prior_center, prior_octaves=prior_octaves,
         density_weight=density_weight,
     )
+
+    tempo = detect_tempo_map(samples, sample_rate, rhythm.bpm)
+    if tempo["has_changes"]:
+        rhythm.has_changes = True
+        rhythm.segments = [seg.to_dict() for seg in tempo["segments"]]
+        rhythm.bpm = round(float(tempo["bpm"]), 3)
+        merged = []
+        for seg in tempo["segments"]:
+            merged.extend(seg.beats_ms)
+        rhythm.beats_ms = sorted(merged)
+
     peaks = waveform_peaks(samples, width)
 
     return {
         "file": str(p),
         "audio": info,
         "rhythm": rhythm.to_dict(),
+        "tempo_map": {
+            "has_changes": bool(tempo["has_changes"]),
+            "segments": [seg.to_dict() for seg in tempo["segments"]],
+        },
         "waveform": peaks,
     }
 
