@@ -757,10 +757,55 @@ def _apply_energy(style: str, notes, energy, timeline, rng):
             for lane in range(4) if mask & (1 << lane)]
 
 
+def _apply_density(notes, density: float):
+    if density >= 0.999:
+        return notes
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    keys = sorted(rows)
+    keep = max(1, int(round(1.0 / max(0.05, density))))
+    selected = keys[::keep]
+    return [(beat, lane) for beat in selected for lane in range(4)
+            if rows[beat] & (1 << lane)]
+
+
+def _make_holds(ordered, ln_ratio, rng):
+    if ln_ratio <= 0:
+        return {}
+    total = len(ordered)
+    target = int(total * min(0.95, ln_ratio))
+    holds = {}
+    lane_free = {}
+    chosen = 0
+    for index, (beat, lane) in enumerate(ordered):
+        if chosen >= target:
+            break
+        if lane in lane_free and beat < lane_free[lane]:
+            continue
+        next_beat = None
+        for later_beat, later_lane in ordered[index + 1:]:
+            if later_lane == lane:
+                next_beat = later_beat
+                break
+        length = rng.choice([0.5, 1.0, 1.5, 2.0])
+        end = round((beat + length) * 4) / 4
+        if next_beat is not None and end > next_beat - 0.25:
+            end = round((next_beat - 0.25) * 4) / 4
+        if end <= beat + 0.25:
+            continue
+        holds[(beat, lane)] = end
+        lane_free[lane] = end + 0.25
+        chosen += 1
+    return holds
+
+
 def generate_chart(style: str, rhythm: dict, duration_s: float,
                    title: str = "", artist: str = "Unknown",
                    seed: int | None = None, energy=None,
-                   samples=None, sample_rate: int | None = None) -> dict:
+                   samples=None, sample_rate: int | None = None,
+                   density: float = 1.0, ln_ratio: float = 0.0) -> dict:
     """Build a Malody ``.mc`` dict for one of the four styles."""
     if style not in STYLES:
         raise ValueError(f"unknown style: {style}")
@@ -813,8 +858,14 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
             continue
         unique[(round(beat, 4), lane)] = (round(beat, 4), lane)
     ordered = sorted(unique.values())
-
-    note_json = [{"beat": _beat_list(beat), "column": lane} for beat, lane in ordered]
+    ordered = _apply_density(ordered, density)
+    holds = _make_holds(ordered, ln_ratio, rng)
+    note_json = []
+    for beat, lane in ordered:
+        item = {"beat": _beat_list(beat), "column": lane}
+        if (beat, lane) in holds:
+            item["endbeat"] = _beat_list(holds[(beat, lane)])
+        note_json.append(item)
     time_json = []
     for start_beat, _end_beat, bpm, _start_sec in timeline:
         item = {"beat": _beat_list(start_beat), "bpm": round(bpm, 6)}

@@ -27,3 +27,4 @@ __pycache__/
 /vendor_torch/
 /...AAA实例谱子存放处！/
 /1330.wav
+/assets/chartnet_v2.pt

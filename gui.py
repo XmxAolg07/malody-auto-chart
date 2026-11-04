@@ -1320,10 +1320,28 @@ class App:
             ).pack(anchor="w", padx=22, pady=(6, 0))
             tk.Label(dlg, text=DESCRIPTIONS[style], bg=BG, fg=DIM, font=font(8),
                      wraplength=430, justify="left").pack(anchor="w", padx=42)
-        result = {"style": None}
+        tk.Label(dlg, text="密度（0.5–1.0，1.0 为满）", bg=BG, fg=DIM,
+                 font=font(8)).pack(anchor="w", padx=22, pady=(10, 0))
+        density_var = tk.DoubleVar(value=1.0)
+        tk.Scale(dlg, from_=0.5, to=1.0, resolution=0.05, orient="horizontal",
+                 variable=density_var, bg=BG, fg=DIM, troughcolor="#202736",
+                 highlightthickness=0, bd=0, sliderrelief="flat",
+                 length=380).pack(anchor="w", padx=18)
+
+        tk.Label(dlg, text="面条率（0–60%）", bg=BG, fg=DIM,
+                 font=font(8)).pack(anchor="w", padx=22, pady=(6, 0))
+        ln_var = tk.DoubleVar(value=0.0)
+        tk.Scale(dlg, from_=0.0, to=0.6, resolution=0.05, orient="horizontal",
+                 variable=ln_var, bg=BG, fg=DIM, troughcolor="#202736",
+                 highlightthickness=0, bd=0, sliderrelief="flat",
+                 length=380).pack(anchor="w", padx=18)
+
+        result = {"style": None, "density": 1.0, "ln": 0.0}
 
         def confirm() -> None:
             result["style"] = var.get()
+            result["density"] = float(density_var.get())
+            result["ln"] = float(ln_var.get())
             dlg.destroy()
 
         buttons = tk.Frame(dlg, bg=BG)
@@ -1338,22 +1356,26 @@ class App:
         dlg.grab_set()
         self.root.wait_window(dlg)
         if result["style"]:
-            self.generate_chart_style(result["style"])
+            self.generate_chart_style(result["style"], result["density"], result["ln"])
 
-    def generate_chart_style(self, style: str) -> None:
+    def generate_chart_style(self, style: str, density: float = 1.0,
+                             ln_ratio: float = 0.0) -> None:
         if self.busy or self.base_rhythm is None or self.base_samples is None:
             return
         self.busy = True
         self._set_controls(False)
         self.set_status(f"正在生成 {STYLES[style]} 谱面…")
-        threading.Thread(target=self._worker_chart, args=(style,), daemon=True).start()
+        threading.Thread(target=self._worker_chart,
+                         args=(style, density, ln_ratio), daemon=True).start()
 
-    def _worker_chart(self, style: str) -> None:
+    def _worker_chart(self, style: str, density: float = 1.0,
+                      ln_ratio: float = 0.0) -> None:
         try:
             duration = len(self.base_samples) / float(self.base_sr)
             title = self.path.stem if self.path else "Untitled"
             chart = generate_chart(style, self.base_rhythm, duration, title=title,
-                                   samples=self.base_samples, sample_rate=self.base_sr)
+                                   samples=self.base_samples, sample_rate=self.base_sr,
+                                   density=density, ln_ratio=ln_ratio)
             out = self.out_dir / f"{title}_auto_{style}.mc"
             save_chart(chart, out)
             self.queue.put(("chart_done", {"style": style, "path": str(out),
