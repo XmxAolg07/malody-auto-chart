@@ -20,6 +20,9 @@ from .audio import load_audio
 from .energy import EnergyMap
 
 ROOT = Path(__file__).resolve().parent.parent
+CORPUS = ROOT / "...AAA实例谱子存放处！"
+if not (CORPUS / "ex stream").exists():
+    CORPUS = ROOT
 CACHE_DIR = ROOT / ".screen"
 MODEL_PATH = ROOT / "assets" / "row_models.json"
 FOLDERS = {
@@ -103,7 +106,7 @@ def build_dataset(force: bool = False) -> dict:
         feats, targets, groups = [], [], []
         chart_id = 0
         for folder in folders:
-            base = ROOT / folder
+            base = CORPUS / folder
             for path in sorted(base.glob("*.mc")):
                 data = json.loads(path.read_text(encoding="utf-8"))
                 background = (data.get("meta") or {}).get("background") or ""

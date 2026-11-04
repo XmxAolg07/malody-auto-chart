@@ -22,6 +22,9 @@ from pathlib import Path
 import numpy as np
 
 ROOT = Path(__file__).resolve().parent.parent
+CORPUS = ROOT / "...AAA实例谱子存放处！"
+if not (CORPUS / "ex stream").exists():
+    CORPUS = ROOT
 sys.path.insert(0, str(ROOT))
 sys.path.insert(0, str(ROOT / "vendor"))
 
@@ -101,7 +104,7 @@ def main() -> None:
     results = []
     for style, folders in FOLDERS.items():
         for folder in folders:
-            base = ROOT / folder
+            base = CORPUS / folder
             charts = sorted(base.glob("*.mc"))[: args.limit]
             for path in charts:
                 data = json.loads(path.read_text(encoding="utf-8"))

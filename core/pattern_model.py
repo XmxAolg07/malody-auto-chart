@@ -21,6 +21,9 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+CORPUS = ROOT / "...AAA实例谱子存放处！"
+if not (CORPUS / "ex stream").exists():
+    CORPUS = ROOT
 MODEL_PATH = ROOT / "assets" / "pattern_models.json"
 FOLDERS = {
     "stream": ["ex stream/0", "reg stream/0"],

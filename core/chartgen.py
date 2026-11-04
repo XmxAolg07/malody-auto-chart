@@ -15,6 +15,7 @@ BPM songs keep their tempo changes.
 from __future__ import annotations
 
 import json
+import bisect
 import math
 import random
 from pathlib import Path
@@ -22,6 +23,7 @@ from pathlib import Path
 from .energy import EnergyMap
 from .pattern_model import load_models as load_pattern_models, sample_mask, sample_spacing
 from .row_model import load_models as load_row_models, predict_size
+from .row_timing import load_models as load_timing_models, predict_timing
 
 LANES = (0, 1, 2, 3)
 
@@ -424,6 +426,66 @@ def _timeline_bpm(beat: float, timeline) -> float:
     return seg[2]
 
 
+def _apply_timing(style: str, notes, energy, timeline, timing_models):
+    model = timing_models.get(style)
+    if not model or energy is None:
+        return notes
+    peak_times = list(getattr(energy, "_peak_times", []))
+    peak_strength = list(getattr(energy, "_peak_strength", []))
+    if len(peak_times) < 8:
+        return notes
+    selected = []
+    threshold = float(model.get("threshold", 0.5))
+    for index, seconds in enumerate(peak_times):
+        beat = _sec_to_beat(seconds, timeline)
+        bpm = _timeline_bpm(beat, timeline)
+        lo = max(0, index - 40)
+        hi = min(len(peak_strength), index + 40)
+        local = peak_strength[lo:hi]
+        rank = sum(1 for value in local if value <= peak_strength[index]) / max(1, len(local))
+        features = [
+            peak_strength[index],
+            min(1.0, energy.onset_at(seconds) * 4.0),
+            min(1.0, energy.low_at(seconds) * 4.0),
+            min(2.0, energy.ratio_at(seconds)),
+            min(2.0, energy.section_ratio(seconds)),
+            beat - int(beat),
+            (beat / 4.0) - int(beat / 4.0),
+            bpm / 180.0,
+            min(0.5, seconds - peak_times[index - 1]) if index else 0.5,
+            min(0.5, peak_times[index + 1] - seconds) if index + 1 < len(peak_times) else 0.5,
+            min(8.0, energy.peak_density(seconds, 1.0)),
+            rank,
+        ]
+        if predict_timing(model, features) >= threshold:
+            selected.append(seconds)
+    if not selected:
+        return notes
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    existing = sorted(rows)
+    inserted = 0
+    for seconds in selected:
+        beat = _sec_to_beat(seconds, timeline)
+        key = round(beat * 48) / 48
+        pos = bisect.bisect_left(existing, key)
+        near = False
+        for index in (pos - 1, pos):
+            if 0 <= index < len(existing):
+                if abs(existing[index] - key) <= 0.12:
+                    near = True
+                    break
+        if near or inserted >= 120:
+            continue
+        rows[key] = 1  # single note; row-size model may grow it later
+        existing = sorted(rows)
+        inserted += 1
+    return [(beat, lane) for beat, mask in sorted(rows.items())
+            for lane in range(4) if mask & (1 << lane)]
+
+
 def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
     model = row_models.get(style)
     if not model or energy is None:
@@ -524,6 +586,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
 
     models = load_pattern_models()
     row_models = load_row_models()
+    timing_models = load_timing_models()
     model = models.get(style)
     notes: list[tuple[float, int]] = []
     if model:
@@ -545,6 +608,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
             notes.extend(block)
 
     if energy is not None:
+        notes = _apply_timing(style, notes, energy, timeline, timing_models)
         notes = _apply_row_model(style, notes, energy, timeline, row_models)
         notes = _apply_energy(style, notes, energy, timeline, rng)
     notes = _enforce_constraints(style, notes)
