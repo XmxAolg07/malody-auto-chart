@@ -59,6 +59,7 @@ def tempo_segments_from_mc(path: str | Path, duration_ms: float | None = None) -
             beats.append(round(t * 1000.0, 1))
             t += period
         segments.append({
+            "beat": round(float(entries[i][0]), 4) if i < len(entries) else 0.0,
             "start_ms": round(start_sec * 1000.0, 1),
             "end_ms": round(end_sec * 1000.0, 1),
             "bpm": round(bpm, 3),

@@ -505,6 +505,21 @@ class App:
         self.wave = WaveformView(content)
         self.wave.pack(fill="both", expand=True)
         self.wave.on_seek = self.seek_playhead
+
+        self.pos_bar = tk.Frame(content, bg=BG)
+        self.pos_bar.pack(fill="x", pady=(6, 0))
+        self.pos_time = tk.Label(self.pos_bar, text="00:00.000", bg=BG, fg=TEXT,
+                                 font=mono(16, "bold"))
+        self.pos_time.pack(side="left")
+        self.pos_beat = tk.Label(self.pos_bar, text="Beat 0:0/8", bg=BG, fg=GOLD,
+                                 font=mono(10))
+        self.pos_beat.pack(side="left", padx=(14, 0))
+        self.pos_bpm = tk.Label(self.pos_bar, text="BPM —", bg=BG, fg=DIM,
+                                font=mono(9))
+        self.pos_bpm.pack(side="left", padx=(14, 0))
+        tk.Label(self.pos_bar, text="播放位置：对位加 BPM / 导入BPM", bg=BG,
+                 fg=DIM, font=font(8)).pack(side="right")
+
         self.node_bar = tk.Frame(content, bg=BG)
         self.node_bar.pack(fill="x", pady=(6, 0))
         self.node_inner = tk.Frame(self.node_bar, bg=BG)
@@ -526,6 +541,12 @@ class App:
         self.scan_hint = tk.Frame(content, bg="#2a2416")
         self._hint_job = None
         self._hint_visible = False
+
+        self.tempo_notice = tk.Label(
+            content,
+            text="提示：音频检测不支持极多段变速；谱面级 BPM 请用「导入BPM」读 .mc",
+            bg=BG, fg=DIM, font=font(8), anchor="w")
+        self.tempo_notice.pack(fill="x", pady=(4, 0))
         self._build_transport(content)
 
         # ---- drop zone -------------------------------------------------
@@ -750,11 +771,57 @@ class App:
         self.wave.set_playhead(0.0)
         self.time_label.configure(text=f"0:00.0 / {fmt_clock(self.player.duration)}")
 
+    def _beat_position(self, pos: float) -> tuple[int, int, int]:
+        segments = (self.rhythm or {}).get("segments") or []
+        beats = 0.0
+        if segments and all(seg.get("beat") is not None for seg in segments):
+            active = segments[-1]
+            for seg in segments:
+                if seg["start_ms"] / 1000.0 <= pos < seg["end_ms"] / 1000.0:
+                    active = seg
+                    break
+            beats = float(active.get("beat", 0.0)) + \
+                (pos - active["start_ms"] / 1000.0) * active["bpm"] / 60.0
+        elif not segments:
+            bpm = float((self.rhythm or {}).get("bpm") or 0.0)
+            beats = pos * bpm / 60.0
+        else:
+            for seg in segments:
+                s0 = seg["start_ms"] / 1000.0
+                s1 = seg["end_ms"] / 1000.0
+                if pos >= s1:
+                    beats += (s1 - s0) * seg["bpm"] / 60.0
+                else:
+                    beats += max(0.0, pos - s0) * seg["bpm"] / 60.0
+                    break
+        measure = int(beats)
+        num = int(round((beats - measure) * 8))
+        if num >= 8:
+            measure += 1
+            num = 0
+        return measure, num, 8
+
+    def _update_position_readout(self, pos: float) -> None:
+        if not hasattr(self, "pos_time"):
+            return
+        minutes = int(pos // 60)
+        seconds = pos - minutes * 60
+        self.pos_time.configure(text=f"{minutes:02d}:{seconds:06.3f}")
+        measure, num, den = self._beat_position(pos)
+        self.pos_beat.configure(text=f"Beat {measure}:{num}/{den}")
+        bpm = float((self.rhythm or {}).get("bpm") or 0.0)
+        for seg in (self.rhythm or {}).get("segments") or []:
+            if seg["start_ms"] <= pos * 1000.0 < seg["end_ms"]:
+                bpm = float(seg["bpm"])
+                break
+        self.pos_bpm.configure(text=f"BPM {bpm:.1f}")
+
     def seek_playhead(self, seconds: float) -> None:
         if self.samples is None:
             return
         seconds = max(0.0, min(seconds, self.player.duration))
         self.player.seek(seconds)
+        self._update_position_readout(seconds)
         self.wave.set_playhead(seconds)
         self.time_label.configure(
             text=f"{fmt_clock(seconds)} / {fmt_clock(self.player.duration)}"
@@ -775,6 +842,7 @@ class App:
             if self.samples is not None:
                 pos = self.player.position()
                 self.wave.set_playhead(pos)
+                self._update_position_readout(pos)
                 self._update_active_node(pos)
                 self.time_label.configure(
                     text=f"{fmt_clock(pos)} / {fmt_clock(self.player.duration)}"
