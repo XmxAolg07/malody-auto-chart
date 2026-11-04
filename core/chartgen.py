@@ -296,7 +296,7 @@ def _jack_notes(rng, model, start, end, bpm, state):
     notes, lane_last, jump_count = [], {}, {}
     beat = start
     while beat < end - 1e-6:
-        size = rng.choices([1, 2, 3, 4], weights=[28, 45, 27, 0], k=1)[0]
+        size = rng.choices([1, 2, 3, 4], weights=[24, 43, 27, 6], k=1)[0]
         lanes = rng.sample(range(4), size)
         repeats = rng.choice([2, 3, 4])
         for repeat in range(repeats):
@@ -328,7 +328,7 @@ POST_RULES = {
     "speed": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
               "max_run": 16, "run_gap": 0.25, "max_chord": 2},
     "jack": {"lane_gap": 0.25, "max_jumps_per_beat": 99,
-             "max_run": 99, "jack_repeat": 4, "max_chord": 3},
+             "max_run": 99, "jack_repeat": 4, "max_chord": 4},
     "tech": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
              "max_run": 8, "run_gap": 0.25, "max_chord": 3},
 }
@@ -508,9 +508,11 @@ def _rebuild_jack_anchor(notes):
     last = {lane: -99.0 for lane in range(4)}
     out = []
     for beat in sorted(rows):
-        size = min(3, rows[beat].bit_count())
+        size = min(4, rows[beat].bit_count())
         if size == 0:
             continue
+        if size == 4 and any(runs[lane] + 1 > 5 for lane in range(4)):
+            size = 3
         lanes = sorted(range(4), key=lambda lane: (runs[lane], last[lane], lane))[:size]
         for lane in range(4):
             if lane in lanes:
