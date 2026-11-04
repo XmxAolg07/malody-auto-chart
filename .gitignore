@@ -24,3 +24,6 @@ __pycache__/
 
 # ---- downloaded wheels (vendor/ is committed for out-of-the-box runs) ----
 /wheels/
+/vendor_torch/
+/...AAA实例谱子存放处！/
+/1330.wav
