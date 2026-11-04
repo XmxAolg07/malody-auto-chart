@@ -29,6 +29,50 @@ def _beat(value) -> float:
     return float(value[0]) + float(value[1]) / float(value[2] or 1)
 
 
+AUDIO_SUFFIXES = (".ogg", ".mp3", ".wav", ".flac", ".m4a")
+AUDIO_EXTS = {".ogg", ".mp3", ".wav", ".flac", ".m4a"}
+
+
+def _norm(text: str) -> str:
+    return "".join(ch for ch in text.lower() if ch.isalnum())
+
+
+def find_audio(path: Path, meta: dict) -> str:
+    folders = [path.parent, path.parent.parent]
+    audios = []
+    for folder in folders:
+        try:
+            for item in folder.iterdir():
+                if item.is_file() and item.suffix.lower() in AUDIO_SUFFIXES:
+                    audios.append(item)
+        except OSError:
+            continue
+    if not audios:
+        return ""
+    chart_stem = _norm(path.stem)
+    background = (meta.get("background") or "")
+    bg_stem = _norm(Path(background).stem)
+    song = meta.get("song") or {}
+    title = _norm(str(song.get("title") or ""))
+    best, best_score = None, 0
+    for audio in audios:
+        stem = _norm(audio.stem)
+        score = 0
+        if stem == chart_stem:
+            score = 100
+        elif bg_stem and stem == bg_stem:
+            score = 90
+        elif len(stem) >= 4 and (stem in bg_stem or bg_stem in stem):
+            score = 80
+        elif len(title) >= 4 and (stem in title or title in stem):
+            score = 70
+        elif len(audios) == 1:
+            score = 60
+        if score > best_score:
+            best, best_score = audio, score
+    return str(best) if best else ""
+
+
 def analyze(path: Path) -> dict | None:
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
@@ -98,20 +142,8 @@ def analyze(path: Path) -> dict | None:
             else:
                 runs[lane] = 0
         previous = beat
-    background = (data.get("meta") or {}).get("background") or ""
-    audio = ""
-    for suffix in (".ogg", ".mp3", ".wav", ".flac"):
-        candidate = path.with_suffix(suffix)
-        if candidate.exists():
-            audio = str(candidate)
-            break
-    if not audio and background:
-        stem = Path(background).stem
-        for suffix in (".ogg", ".mp3", ".wav", ".flac"):
-            candidate = path.parent / (stem + suffix)
-            if candidate.exists():
-                audio = str(candidate)
-                break
+    meta = data.get("meta") or {}
+    audio = find_audio(path, meta)
     bpm = float(np.median([bpm for _beat, bpm in times]))
     notes_per_sec = notes / duration
     rows_per_sec = len(rows) / duration
@@ -170,7 +202,7 @@ def main() -> None:
             reasons.append("density")
         if not 0.8 <= item["rows_per_sec"] <= 20:
             reasons.append("row_density")
-        if not Path(item["audio"]).exists():
+        if not item["audio"] or not Path(item["audio"]).is_file():
             reasons.append("no_audio")
         if item["signature"] in seen:
             reasons.append("duplicate")
