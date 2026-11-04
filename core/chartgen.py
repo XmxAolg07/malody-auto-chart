@@ -435,6 +435,19 @@ def _timeline_bpm(beat: float, timeline) -> float:
 ANCHOR_LIMIT = {"stream": 5, "jack": 5, "speed": 4, "tech": 6}
 
 
+def _snap_to_grid(style, notes):
+    """Stream/Speed/Jack: every beat must sit exactly on the style grid."""
+    if style == "tech":
+        return notes
+    step = 0.125 if style == "speed" else 0.25
+    rows = {}
+    for beat, lane in notes:
+        key = round(round(beat / step) * step, 6)
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    return [(beat, lane) for beat, mask in sorted(rows.items())
+            for lane in range(4) if mask & (1 << lane)]
+
+
 def _fill_grid(style, notes, energy, timeline):
     """Fill uncovered active quarter-beat positions with single rows."""
     if energy is None:
@@ -750,7 +763,8 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
     if style not in STYLES:
         raise ValueError(f"unknown style: {style}")
     rng = random.Random(seed)
-    timeline = tempo_timeline(rhythm, duration_s)
+    fixed_bpm = float(rhythm.get("bpm") or 180.0)
+    timeline = [(0.0, duration_s * fixed_bpm / 60.0, fixed_bpm, 0.0)]
     if energy is None and samples is not None and sample_rate:
         energy = EnergyMap(samples, sample_rate)
 
@@ -784,6 +798,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
         notes = _apply_energy(style, notes, energy, timeline, rng)
         notes = _fill_grid(style, notes, energy, timeline)
     notes = _apply_lane_model(style, notes, lane_models, rng)
+    notes = _snap_to_grid(style, notes)
     notes = _enforce_constraints(style, notes)
     notes = _limit_anchor(style, notes)
     if style == "jack":
