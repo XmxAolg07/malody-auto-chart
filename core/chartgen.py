@@ -15,6 +15,7 @@ BPM songs keep their tempo changes.
 from __future__ import annotations
 
 import json
+import math
 import random
 from pathlib import Path
 
@@ -166,27 +167,219 @@ def _tech_block(rng, start_beat, end_beat, bpm):
 
 
 
-def _model_block(rng: random.Random, model: dict, start_beat: float,
-                 end_beat: float, bpm: float) -> list[tuple[float, int]]:
-    """Sample rows from the learned mask-transition model."""
-    notes: list[tuple[float, int]] = []
-    beat = start_beat
-    mask = sample_mask(model, rng)
-    phrase_end = start_beat + 32.0
-    while beat < end_beat - 1e-6:
+STYLE_RULES = {
+    "stream": {"lane_gap": 0.5, "max_jumps_per_beat": 1},
+    "speed": {"lane_gap": 0.25, "max_jumps_per_beat": 2},
+    "jack": {"lane_gap": 0.25, "max_jumps_per_beat": 99},
+    "tech": {"lane_gap": 0.5, "max_jumps_per_beat": 2},
+}
+
+
+def _lanes_of(mask: int) -> list[int]:
+    return [lane for lane in range(4) if mask & (1 << lane)]
+
+
+def _mask_allowed(mask: int, beat: float, lane_last: dict, jump_count: dict,
+                  rules: dict) -> bool:
+    for lane in _lanes_of(mask):
+        if beat - lane_last.get(lane, -99.0) < rules["lane_gap"] - 1e-9:
+            return False
+    if mask.bit_count() >= 2 and rules["max_jumps_per_beat"] < 90:
+        bucket = int(math.floor(beat + 1e-9))
+        if jump_count.get(bucket, 0) >= rules["max_jumps_per_beat"]:
+            return False
+    return True
+
+
+def _select_mask(rng, model, prev, beat, lane_last, jump_count, rules,
+                 max_size=4, single_bias=0.0) -> int:
+    for _ in range(12):
+        mask = sample_mask(model, rng, prev)
+        if mask.bit_count() > max_size:
+            continue
+        if single_bias and mask.bit_count() > 1 and rng.random() < single_bias:
+            continue
+        if _mask_allowed(mask, beat, lane_last, jump_count, rules):
+            return mask
+    lanes = [lane for lane in range(4)
+             if beat - lane_last.get(lane, -99.0) >= rules["lane_gap"]]
+    if not lanes:
+        lanes = list(range(4))
+    return 1 << rng.choice(lanes)
+
+
+def _place(mask: int, beat: float, notes: list, lane_last: dict,
+           jump_count: dict) -> None:
+    lanes = _lanes_of(mask)
+    for lane in lanes:
+        notes.append((beat, lane))
+        lane_last[lane] = beat
+    if len(lanes) >= 2:
+        bucket = int(math.floor(beat + 1e-9))
+        jump_count[bucket] = jump_count.get(bucket, 0) + 1
+
+
+def _stream_notes(rng, model, start, end, bpm, state):
+    notes = []
+    lane_last = state["lane_last"]
+    jump_count = state["jump_count"]
+    rules = STYLE_RULES["stream"]
+    beat = start
+    prev = state.get("prev")
+    run = 0
+    while beat < end - 1e-6:
+        mask = _select_mask(rng, model, prev, beat, lane_last, jump_count,
+                            rules, max_size=3)
+        _place(mask, beat, notes, lane_last, jump_count)
+        prev = mask
+        state["prev"] = prev
+        run += 1
+        gap = 0.25
+        if run >= 8:          # at most two beats of continuous switching
+            gap = 0.5
+            run = 0
+        elif rng.random() < 0.12:
+            gap = 0.5
+        beat += gap
+    return notes
+
+
+def _speed_notes(rng, model, start, end, bpm, state):
+    notes = []
+    lane_last = state["lane_last"]
+    jump_count = state["jump_count"]
+    rules = STYLE_RULES["speed"]
+    step = 0.125 if bpm <= 220 else 0.25
+    beat = start
+    prev = state.get("prev")
+    while beat < end - 1e-6:
+        burst = 0
+        while burst < 16 and beat < end - 1e-6:
+            mask = _select_mask(rng, model, prev, beat, lane_last, jump_count,
+                                rules, max_size=2, single_bias=0.85)
+            _place(mask, beat, notes, lane_last, jump_count)
+            prev = mask
+            state["prev"] = prev
+            beat += step
+            burst += 1
+        beat += 0.75
+    return notes
+
+
+def _tech_notes(rng, model, start, end, bpm, state):
+    notes = []
+    lane_last = state["lane_last"]
+    jump_count = state["jump_count"]
+    rules = STYLE_RULES["tech"]
+    beat = start
+    prev = state.get("prev")
+    while beat < end - 1e-6:
+        rows = rng.choice([4, 6, 8])
+        for _ in range(rows):
+            if beat >= end - 1e-6:
+                break
+            mask = _select_mask(rng, model, prev, beat, lane_last, jump_count,
+                                rules, max_size=3)
+            _place(mask, beat, notes, lane_last, jump_count)
+            prev = mask
+            state["prev"] = prev
+            beat += 0.25 if rng.random() < 0.75 else 0.125
+        beat += rng.choice([1.0, 1.5, 2.0])
+    return notes
+
+
+def _jack_notes(rng, model, start, end, bpm, state):
+    notes, lane_last, jump_count = [], {}, {}
+    beat = start
+    while beat < end - 1e-6:
+        size = rng.choices([1, 2, 3, 4], weights=[24, 43, 27, 6], k=1)[0]
+        lanes = rng.sample(range(4), size)
+        mask = sum(1 << lane for lane in lanes)
+        repeats = rng.choice([2, 3, 4])
+        for _ in range(repeats):
+            if beat >= end - 1e-6:
+                break
+            _place(mask, beat, notes, lane_last, jump_count)
+            beat += 0.25
+        beat += rng.choice([0.5, 0.75])
+    return notes
+
+
+def _style_notes(style, rng, model, start, end, bpm, state):
+    if style == "stream":
+        return _stream_notes(rng, model, start, end, bpm, state)
+    if style == "speed":
+        return _speed_notes(rng, model, start, end, bpm, state)
+    if style == "jack":
+        return _jack_notes(rng, model, start, end, bpm, state)
+    return _tech_notes(rng, model, start, end, bpm, state)
+
+
+POST_RULES = {
+    "stream": {"lane_gap": 0.5, "max_jumps_per_beat": 1,
+               "max_run": 8, "run_gap": 0.25},
+    "speed": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
+              "max_run": 16, "run_gap": 0.25},
+    "jack": {"lane_gap": 0.25, "max_jumps_per_beat": 99,
+             "max_run": 99, "jack_repeat": 4},
+    "tech": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
+             "max_run": 8, "run_gap": 0.25},
+}
+
+
+def _enforce_constraints(style: str, notes: list[tuple[float, int]]) -> list[tuple[float, int]]:
+    """Hard-filter rows so every style rule holds in the final chart."""
+    rules = POST_RULES.get(style)
+    if not rules:
+        return notes
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    kept = []
+    lane_last = {}
+    jump_by_beat = {}
+    prev_beat = None
+    prev_mask = None
+    run = 0
+    repeat = 0
+    for key in sorted(rows):
+        mask = rows[key]
+        gap = None if prev_beat is None else key - prev_beat
+        if gap is not None and gap <= rules.get("run_gap", 0.0) + 1e-9:
+            run += 1
+        else:
+            run = 1
+        if run > rules["max_run"]:
+            continue
+        allowed = [lane for lane in range(4)
+                   if mask & (1 << lane)
+                   and key - lane_last.get(lane, -99.0) >= rules["lane_gap"] - 1e-9]
+        if not allowed:
+            continue
+        mask = sum(1 << lane for lane in allowed)
+        if mask.bit_count() >= 2 and rules["max_jumps_per_beat"] < 90:
+            bucket = int(math.floor(key + 1e-9))
+            if jump_by_beat.get(bucket, 0) >= rules["max_jumps_per_beat"]:
+                mask = 1 << allowed[0]
+        if rules.get("jack_repeat"):
+            if mask == prev_mask:
+                repeat += 1
+            else:
+                prev_mask = mask
+                repeat = 1
+            if repeat > rules["jack_repeat"]:
+                continue
         for lane in range(4):
             if mask & (1 << lane):
-                notes.append((beat, lane))
-        gap = sample_spacing(model, rng, bpm)
-        beat += gap
-        if beat >= end_beat - 1e-6:
-            break
-        mask = sample_mask(model, rng, mask)
-        if beat >= phrase_end:
-            phrase_end += 32.0
-            if rng.random() < 0.35:
-                mask = sample_mask(model, rng)
-    return notes
+                lane_last[lane] = key
+        if mask.bit_count() >= 2:
+            bucket = int(math.floor(key + 1e-9))
+            jump_by_beat[bucket] = jump_by_beat.get(bucket, 0) + 1
+        kept.append((key, mask))
+        prev_beat = key
+    return [(beat, lane) for beat, mask in kept
+            for lane in range(4) if mask & (1 << lane)]
 
 
 def generate_chart(style: str, rhythm: dict, duration_s: float,
@@ -202,8 +395,10 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
     model = models.get(style)
     notes: list[tuple[float, int]] = []
     if model:
+        state = {"lane_last": {}, "jump_count": {}, "prev": None}
         for start_beat, end_beat, bpm, _start_sec in timeline:
-            notes.extend(_model_block(rng, model, start_beat, end_beat, bpm))
+            notes.extend(_style_notes(style, rng, model, start_beat, end_beat,
+                                      bpm, state))
     else:
         for start_beat, end_beat, bpm, _start_sec in timeline:
             if style == "stream":
@@ -216,6 +411,8 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
             else:
                 block = _tech_block(rng, start_beat, end_beat, bpm)
             notes.extend(block)
+
+    notes = _enforce_constraints(style, notes)
 
     unique = {}
     for beat, lane in notes:
