@@ -121,6 +121,13 @@ def main() -> None:
                       f"cov={stats['coverage']:.1%} key={stats['key']:.1%} "
                       f"mask={stats['mask']:.1%} mirror={stats['mirror']:.1%}")
     if all_stats:
+        for style in FOLDERS:
+            part = [item for item in all_stats if item["style"] == style]
+            if part:
+                print(f"{style:6} mean cov={np.mean([p['coverage'] for p in part]):.1%} "
+                      f"key={np.mean([p['key'] for p in part]):.1%} "
+                      f"mask={np.mean([p['mask'] for p in part]):.1%} "
+                      f"mirror={np.mean([p['mirror'] for p in part]):.1%}")
         print("\nsummary: "
               f"coverage={np.mean([s['coverage'] for s in all_stats]):.1%} "
               f"key={np.mean([s['key'] for s in all_stats]):.1%} "

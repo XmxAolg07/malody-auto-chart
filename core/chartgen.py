@@ -433,6 +433,41 @@ def _timeline_bpm(beat: float, timeline) -> float:
 ANCHOR_LIMIT = {"stream": 5, "jack": 5, "speed": 4, "tech": 6}
 
 
+def _fill_grid(style, notes, energy, timeline):
+    """Fill uncovered active quarter-beat positions with single rows."""
+    if energy is None:
+        return notes
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    if not rows:
+        return notes
+    start = min(rows)
+    end = max(rows)
+    times = sorted(_beat_to_sec(beat, timeline) for beat in rows)
+    added = 0
+    beat = math.floor(start * 4) / 4
+    while beat <= end and added < 1500:
+        seconds = _beat_to_sec(beat, timeline)
+        if energy.section_ratio(seconds) >= 0.40:
+            pos = bisect.bisect_left(times, seconds)
+            near = False
+            for index in (pos - 1, pos):
+                if 0 <= index < len(times) and abs(times[index] - seconds) <= 0.08:
+                    near = True
+                    break
+            if not near:
+                key = round(beat * 48) / 48
+                rows[key] = 1
+                times.append(seconds)
+                times.sort()
+                added += 1
+        beat += 0.25
+    return [(beat, lane) for beat, mask in sorted(rows.items())
+            for lane in range(4) if mask & (1 << lane)]
+
+
 def _apply_lane_model(style, notes, lane_models, rng):
     model = lane_models.get(style)
     if not model:
@@ -742,6 +777,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
         notes = _apply_timing(style, notes, energy, timeline, timing_models)
         notes = _apply_row_model(style, notes, energy, timeline, row_models)
         notes = _apply_energy(style, notes, energy, timeline, rng)
+        notes = _fill_grid(style, notes, energy, timeline)
     notes = _apply_lane_model(style, notes, lane_models, rng)
     notes = _enforce_constraints(style, notes)
     notes = _limit_anchor(style, notes)
