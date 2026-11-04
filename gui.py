@@ -29,6 +29,7 @@ if _VENDOR.is_dir() and str(_VENDOR) not in sys.path:
 from core.analyze import analyze_samples, save_analysis          # noqa: E402
 from core.audio import load_audio, resample_audio                # noqa: E402
 from core.bpm import fixed_bpm_grid                              # noqa: E402
+from core.tempo_map import detect_tempo_map                      # noqa: E402
 from core.waveform import render_waveform, waveform_peaks        # noqa: E402
 from audio_player import AudioPlayer                             # noqa: E402
 
@@ -272,7 +273,7 @@ class WaveformView(tk.Canvas):
         self._drag = None
         self._moved = False
         self.configure(cursor="")
-        if not was_drag and self.on_seek is not None and self.samples:
+        if not was_drag and self.on_seek is not None and self.samples is not None:
             self.on_seek(self._time_at(event.x))
 
     # -- painting -------------------------------------------------------
@@ -427,6 +428,9 @@ class App:
         self._build_status()
         self._enable_dnd()
 
+        self.global_rhythm = None
+        self._prompted_scan = False
+        self.scan_precision = "low"
         self.root.after(80, self._poll)
         self.root.after(60, self._tick)
         self.root.after(150, self._bring_to_front)
@@ -504,8 +508,20 @@ class App:
         self.node_bar.pack(fill="x", pady=(6, 0))
         self.node_inner = tk.Frame(self.node_bar, bg=BG)
         self.node_inner.pack(side="left", fill="x", expand=True)
-        self.seg_now = tk.Label(self.node_bar, text="", bg=BG, fg=GOLD, font=font(9))
-        self.seg_now.pack(side="right")
+        right = tk.Frame(self.node_bar, bg=BG)
+        right.pack(side="right")
+        self.seg_now = tk.Label(right, text="", bg=BG, fg=GOLD, font=font(9))
+        self.seg_now.pack(side="right", padx=(8, 0))
+        self.btn_scan_high = flat_button(right, "高精度检测", lambda: self.run_tempo_scan("high"), size=8)
+        self.btn_scan_high.configure(padx=8, pady=3)
+        self.btn_scan_high.pack(side="right", padx=(6, 0))
+        self.btn_scan_low = flat_button(right, "低精度检测", lambda: self.run_tempo_scan("low"), size=8)
+        self.btn_scan_low.configure(padx=8, pady=3)
+        self.btn_scan_low.pack(side="right")
+
+        self.scan_hint = tk.Frame(content, bg="#2a2416")
+        self._hint_job = None
+        self._hint_visible = False
         self._build_transport(content)
 
         # ---- drop zone -------------------------------------------------
@@ -1073,6 +1089,95 @@ class App:
         if original:
             self.apply_bpm(float(original) * self.rate)
 
+    # -- tempo rescan ---------------------------------------------------
+    def run_tempo_scan(self, precision: str = "high") -> None:
+        if self.busy or self.base_samples is None or self.global_rhythm is None:
+            return
+        self.busy = True
+        self._set_controls(False)
+        label = "高精度" if precision == "high" else "低精度"
+        self._hide_scan_hint()
+        self.set_status(f"{label}变速检测中…（可能需要几秒）")
+        threading.Thread(target=self._worker_tempo_scan, args=(precision,),
+                         daemon=True).start()
+
+    def _worker_tempo_scan(self, precision: str) -> None:
+        try:
+            tempo = detect_tempo_map(self.base_samples, self.base_sr,
+                                     float(self.global_rhythm["bpm"]),
+                                     precision=precision)
+            self.queue.put(("tempo_scan", {"precision": precision, "tempo": tempo}))
+        except Exception as exc:
+            self.queue.put(("error", f"{type(exc).__name__}: {exc}"))
+
+    def _apply_tempo_map(self, tempo: dict, precision: str) -> None:
+        base = {k: v for k, v in self.global_rhythm.items()
+                if not k.startswith("_") and k not in ("segments", "has_changes")}
+        if tempo.get("has_changes"):
+            base["segments"] = [s.to_dict() for s in tempo["segments"]]
+            base["has_changes"] = True
+            base["bpm"] = round(float(tempo["bpm"]), 3)
+            beats = []
+            for seg in tempo["segments"]:
+                beats.extend(seg.beats_ms)
+            base["beats_ms"] = sorted(beats)
+            base["_selected_bpm"] = base["bpm"]
+        else:
+            base["segments"] = []
+            base["has_changes"] = False
+        self.base_rhythm = base
+        self.result["rhythm"] = {k: v for k, v in base.items() if not k.startswith("_")}
+        if abs(self.rate - 1.0) < 1e-6:
+            self.rhythm = dict(base)
+        else:
+            self.rhythm = self._scaled_rhythm(base, self.rate)
+        self.wave.set_beats(self.rhythm["beats_ms"])
+        self._refresh_bpm_panel()
+        self.scan_precision = precision
+        label = "高精度" if precision == "high" else "低精度"
+        if base.get("has_changes"):
+            self.set_status(f"{label}变速检测：{len(base['segments'])} 段")
+        else:
+            self.set_status(f"{label}变速检测：未检测到变速")
+
+    def _show_scan_hint(self) -> None:
+        """Non-modal suggestion bar; never blocks the UI and auto-hides."""
+        if self._hint_visible or not self.rhythm:
+            return
+        segs = self.rhythm.get("segments") or []
+        if not segs:
+            return
+        self._prompted_scan = True
+        for child in self.scan_hint.winfo_children():
+            child.destroy()
+        tk.Label(self.scan_hint, text=f"检测到 {len(segs)} 段变速，建议高精度重测",
+                 bg="#2a2416", fg=TEXT, font=font(8)).pack(side="left", padx=(8, 6), pady=3)
+        btn = flat_button(self.scan_hint, "高精度重测", self._rescan_high_from_hint, size=8)
+        btn.configure(padx=8, pady=2)
+        btn.pack(side="left", padx=(0, 6), pady=2)
+        flat_button(self.scan_hint, "忽略", self._hide_scan_hint, size=8).pack(
+            side="left", padx=(0, 8), pady=2)
+        self.scan_hint.pack(fill="x", pady=(4, 0), before=self.node_bar)
+        self._hint_visible = True
+        if self._hint_job is not None:
+            self.root.after_cancel(self._hint_job)
+        self._hint_job = self.root.after(15000, self._hide_scan_hint)
+
+    def _hide_scan_hint(self) -> None:
+        if self._hint_job is not None:
+            try:
+                self.root.after_cancel(self._hint_job)
+            except Exception:
+                pass
+            self._hint_job = None
+        if self._hint_visible:
+            self.scan_hint.pack_forget()
+            self._hint_visible = False
+
+    def _rescan_high_from_hint(self) -> None:
+        self._hide_scan_hint()
+        self.run_tempo_scan("high")
+
     # -- queue / UI updates --------------------------------------------
     def _poll(self) -> None:
         try:
@@ -1088,6 +1193,8 @@ class App:
                         self._on_bpm_done(payload)
                     elif kind == "rate_done":
                         self._on_rate_done(payload)
+                    elif kind == "tempo_scan":
+                        self._on_tempo_scan(payload)
                     elif kind == "exported":
                         self.set_status(f"已导出变速音频：{Path(payload).name}")
                     elif kind == "error":
@@ -1095,7 +1202,6 @@ class App:
                         self._rate_busy = False
                         self._set_controls(True)
                         self.set_status(f"处理失败：{payload}", error=True)
-                        messagebox.showerror("处理失败", payload)
                 except Exception as exc:  # keep the poll loop alive
                     self.busy = False
                     self._rate_busy = False
@@ -1119,6 +1225,10 @@ class App:
         self.base_samples = self.samples
         self.base_sr = self.sr
         self.base_rhythm = dict(self.rhythm)
+        self.global_rhythm = {k: v for k, v in self.rhythm.items()
+                              if not k.startswith("_") and k not in ("segments", "has_changes")}
+        self.scan_precision = "low"
+        self._prompted_scan = False
         self.rate = 1.0
         self._rate_pending = 1.0
         self._rate_busy = False
@@ -1145,14 +1255,23 @@ class App:
         )
         self.wave.set_audio(self.samples, self.sr, self.rhythm["beats_ms"])
         self._refresh_bpm_panel()
+        if self.rhythm.get("has_changes"):
+            self.root.after(400, self._show_scan_hint)
         self.set_status(
             f"分析完成 · 用时 {data['elapsed']:.1f}s · 已保存到 {self.out_dir.name}\\"
         )
+
+    def _on_tempo_scan(self, payload: dict) -> None:
+        self.busy = False
+        self._set_controls(True)
+        self._apply_tempo_map(payload["tempo"], payload["precision"])
 
     def _on_bpm_done(self, payload: dict) -> None:
         self.busy = False
         self._set_controls(True)
         self.rhythm = payload["rhythm"]
+        self.global_rhythm = {k: v for k, v in (self.base_rhythm or {}).items()
+                              if not k.startswith("_") and k not in ("segments", "has_changes")}
         self.wave.set_beats(self.rhythm["beats_ms"])
         self._refresh_bpm_panel()
         if payload.get("saved"):
@@ -1259,6 +1378,8 @@ class App:
                     getattr(self, "btn_rate_apply", None),
                     getattr(self, "btn_export_wav", None),
                     getattr(self, "btn_export_ogg", None),
+                    getattr(self, "btn_scan_low", None),
+                    getattr(self, "btn_scan_high", None),
                     getattr(self, "btn_play", None),
                     getattr(self, "btn_stop", None)):
             if btn is not None:
@@ -1300,6 +1421,18 @@ def run_selftest(audio_path: str) -> int:
     ok = bool(app.rhythm and app.rhythm.get("bpm", 0) > 0)
     log.append(f"bpm={app.rhythm.get('bpm') if app.rhythm else None}")
     log.append(f"segments={len(app.rhythm.get('segments') or []) if app.rhythm else 0}")
+    if ok and app.rhythm and app.rhythm.get("has_changes"):
+        app._hide_scan_hint()
+        app.run_tempo_scan("high")
+        deadline = time.time() + 120
+        while app.busy and time.time() < deadline:
+            root.update()
+            time.sleep(0.02)
+        for _ in range(20):
+            root.update()
+            time.sleep(0.02)
+        log.append(f"high_segments={len(app.rhythm.get('segments') or [])}")
+        log.append(f"scan_precision={app.scan_precision}")
 
     # preview-rate scaling + playback position (silent, volume 0)
     if ok:
