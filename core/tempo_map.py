@@ -1,10 +1,9 @@
-"""Tempo-change detection by block-wise estimation.
+"""Tempo map from a short-window BPM curve.
 
-The song is split into 3-4 blocks; each block gets an independent BPM estimate,
-octave-related results are folded to the global level (a half/double section is
-not a tempo change), and a change is only reported when two adjacent blocks are
-stable on both sides and differ by a non-octave ratio.  That keeps
-constant-tempo songs (and octave-prone estimates) at ``has_changes == False``.
+A 12 s window sliding every 2 s yields a per-window BPM estimate.  The curve is
+smoothed and change markers are placed where the *local median* shifts and the
+new level persists; each marker starts a segment whose BPM/offset/beat grid is
+refined on that slice.  The markers double as jump points in the GUI.
 """
 
 from __future__ import annotations
@@ -13,9 +12,15 @@ from dataclasses import dataclass, field
 
 import numpy as np
 
-from .bpm import estimate_rhythm, onset_envelopes, refine_beat_grid, smooth_envelopes
+from .bpm import (
+    _autocorrelation, _grid_score, _prior, onset_envelopes, refine_beat_grid,
+    smooth_envelopes, tempo_candidates,
+)
 
-MIN_BLOCK_SEC = 20.0
+WINDOW_SEC = 12.0
+WINDOW_HOP_SEC = 2.0
+MAX_SEGMENTS = 16
+MIN_MARKER_GAP = 6.0
 
 
 @dataclass
@@ -36,117 +41,162 @@ class TempoSegment:
         }
 
 
-SIMPLE_RATIOS = (0.5, 2.0 / 3.0, 0.75, 1.0, 4.0 / 3.0, 1.5, 2.0)
+def _window_curve(env_raw, env_grid, low_grid, hop, t0, duration, global_bpm):
+    starts = np.arange(0.0, max(duration - WINDOW_SEC * 0.5, 0.1), WINDOW_HOP_SEC)
+    curve = []
+    for start in starts:
+        win = min(WINDOW_SEC, duration - start)
+        if win < WINDOW_SEC * 0.7:
+            continue
+        i0 = max(0, int(round((start - t0) / hop)))
+        i1 = min(env_raw.size, int(round((start + win - t0) / hop)))
+        if i1 - i0 < 96:
+            continue
+        raw = env_raw[i0:i1]
+        grid = env_grid[i0:i1]
+        low = low_grid[i0:i1]
+        t0l = t0 + i0 * hop - start
+        acf = _autocorrelation(raw)
+        cands, _ = tempo_candidates(acf, hop, 50, 320, top=5,
+                                    prior_center=global_bpm, prior_octaves=0.6)
+        total = float(grid.sum() + 0.35 * low.sum()) + 1e-9
+        best = (-1.0, global_bpm)
+        for cand in cands:
+            offsets = np.linspace(0.0, 60.0 / cand.bpm, 40, endpoint=False)
+            mean, _off, captured, density = _grid_score(
+                grid, low, hop, cand.bpm, offsets, win, t0l)
+            if mean <= 0:
+                continue
+            cov = captured / total
+            rank = cov * (0.5 + 0.5 * density) * _prior(cand.bpm, global_bpm, 0.6)
+            if rank > best[0]:
+                best = (rank, cand.bpm)
+        curve.append((float(start), float(win), float(best[1])))
+    return curve
 
 
-def _octave_norm(bpm: float, ref: float) -> float:
-    """Fold octave / dotted-tempo estimate errors back to the global level."""
-    if bpm <= 0 or ref <= 0:
-        return bpm
-    lr = float(np.log2(bpm / ref))
-    for ratio in SIMPLE_RATIOS:
-        if abs(lr - float(np.log2(ratio))) < 0.05:
-            return ref * ratio
-    return bpm
-
-
-def _stable(a: float, b: float, tol: float = 0.05) -> bool:
-    if a <= 0 or b <= 0:
-        return False
-    return abs(float(np.log2(a / b))) < tol
+def _median_filter(values, radius=1):
+    out = list(values)
+    for i in range(len(values)):
+        lo, hi = max(0, i - radius), min(len(values), i + radius + 1)
+        out[i] = float(np.median(values[lo:hi]))
+    return out
 
 
 def detect_tempo_map(y: np.ndarray, sr: int, global_bpm: float) -> dict:
     duration = float(y.size) / float(sr)
-    if duration < 45.0 or global_bpm <= 0:
-        return {"has_changes": False, "segments": [], "bpm": global_bpm}
-
-    n_blocks = 4 if duration >= 90.0 else 3
-    block = duration / n_blocks
-    bpms: list[float] = []
-    for i in range(n_blocks):
-        start = i * block
-        end = duration if i == n_blocks - 1 else (i + 1) * block
-        segment = y[int(start * sr):int(end * sr)]
-        if segment.size < sr * MIN_BLOCK_SEC:
-            bpms.append(0.0)
-            continue
-        try:
-            r = estimate_rhythm(segment, sr)
-            bpms.append(r.bpm if r.bpm > 0 else 0.0)
-        except Exception:
-            bpms.append(0.0)
-
-    # fold octave-related block results to the global metrical level
-    norm = [_octave_norm(b, global_bpm) if b > 0 else 0.0 for b in bpms]
-    changes: list[tuple[int, float]] = []
-    for i in range(1, n_blocks):
-        a, b = norm[i - 1], norm[i]
-        if a <= 0 or b <= 0:
-            continue
-        if abs(float(np.log2(b / a))) <= 0.12:
-            continue
-        left_ok = i - 1 == 0 or _stable(norm[i - 1], norm[i - 2])
-        right_ok = i == n_blocks - 1 or _stable(norm[i + 1], norm[i])
-        if left_ok and right_ok:
-            if i < 2 or n_blocks - i < 2:
-                continue
-            if (i * block) >= MIN_BLOCK_SEC and ((n_blocks - i) * block) >= MIN_BLOCK_SEC:
-                changes.append((i, b))
-    if not changes:
-        return {"has_changes": False, "segments": [], "bpm": global_bpm}
+    empty = {"has_changes": False, "segments": [], "markers": [], "bpm": global_bpm}
+    if duration < 15.0 or global_bpm <= 0:
+        return empty
 
     env_raw, env_low_raw, hop, t0 = onset_envelopes(y, sr)
     env_grid, low_grid = smooth_envelopes(env_raw, env_low_raw, hop)
+    curve = _window_curve(env_raw, env_grid, low_grid, hop, t0, duration, global_bpm)
+    if len(curve) < 4:
+        return empty
 
-    boundaries = [0.0] + [i * block for i, _b in changes] + [duration]
+    starts = np.array([c[0] for c in curve])
+    wins = np.array([c[1] for c in curve])
+    smooth = _median_filter([c[2] for c in curve], radius=1)
+
+    # change points: compare median of the previous 10 s with the next 10 s
+    k = 3
+    markers: list[float] = []
+    i = k
+    while i <= len(smooth) - k:
+        left = float(np.median(smooth[i - k:i]))
+        right = float(np.median(smooth[i:i + k]))
+        if abs(float(np.log2(right / left))) > 0.05:
+            confirm = smooth[i:i + 3]
+            if len(confirm) >= 3 and all(
+                    abs(float(np.log2(v / right))) < 0.04 for v in confirm):
+                t = float(starts[i])
+                if not markers or t - markers[-1] > 6.0:
+                    markers.append(t)
+                i += k
+                continue
+        i += 1
+    markers = markers[:MAX_SEGMENTS]
+
+    bounds = [0.0] + markers + [duration]
     segments: list[TempoSegment] = []
-    for k in range(len(boundaries) - 1):
-        start, end = boundaries[k], boundaries[k + 1]
-        if end - start < 2.0:
+    for idx in range(len(bounds) - 1):
+        start, end = bounds[idx], bounds[idx + 1]
+        if end - start < 1.0:
             continue
-        b0 = 0 if k == 0 else changes[k - 1][0]
-        b1 = n_blocks if k == len(boundaries) - 2 else changes[k][0]
-        vals = [norm[j] for j in range(b0, b1) if norm[j] > 0]
-        seed = float(np.median(vals)) if vals else global_bpm
-        segments.append(_refine_segment(env_grid, low_grid, hop, t0, start, end, seed))
+        win = end - start
+        in_seg = [smooth[j] for j in range(len(starts))
+                  if start - 0.01 <= starts[j] < end - 0.01]
+        seed = float(np.median(in_seg)) if in_seg else global_bpm
+        i0 = max(0, int(round((start - t0) / hop)))
+        i1 = min(env_grid.size, int(round((end - t0) / hop)))
+        if i1 - i0 < 48:
+            segments.append(TempoSegment(start * 1000, end * 1000, seed))
+            continue
+        grid = env_grid[i0:i1]
+        low = low_grid[i0:i1]
+        t0l = t0 + i0 * hop - start
+        bpm, offset, _strength, _score, captured, density = refine_beat_grid(
+            grid, low, hop, seed, win, t0l)
+        total = float(grid.sum() + 0.35 * low.sum()) + 1e-9
+        coverage = captured / total
+        conf = float(np.clip(0.55 * coverage / 0.6 + 0.45 * density, 0.0, 1.0))
+        period = 60.0 / bpm
+        rel = offset % period
+        beats = []
+        while rel < win:
+            beats.append((start + rel) * 1000.0)
+            rel += period
+        segments.append(TempoSegment(start * 1000.0, end * 1000.0, bpm, conf, beats))
 
-    if len(segments) < 2:
-        return {"has_changes": False, "segments": [], "bpm": global_bpm}
-
-    real = []
+    # merge adjacent segments that are basically the same tempo
+    merged: list[TempoSegment] = []
     for seg in segments:
-        ratio = float(np.log2(max(seg.bpm, 1e-9) / global_bpm))
-        k = round(ratio)
-        if abs(ratio) < 0.05 or abs(ratio - k) < 0.07:
-            seg.bpm = _octave_norm(seg.bpm, global_bpm)
+        if merged and abs(float(np.log2(seg.bpm / merged[-1].bpm))) < 0.02:
+            prev = merged[-1]
+            prev.end_ms = seg.end_ms
+            prev.beats_ms.extend(seg.beats_ms)
         else:
-            real.append(seg)
-    if not real:
-        return {"has_changes": False, "segments": [], "bpm": global_bpm}
+            merged.append(seg)
+    segments = merged
 
+    # merge very short segments into the neighbour with the closest tempo
+    changed = True
+    while changed and len(segments) > 1:
+        changed = False
+        for idx, seg in enumerate(segments):
+            if idx == 0 or idx == len(segments) - 1:
+                continue
+            if seg.end_ms - seg.start_ms >= 10000.0:
+                continue
+            prevs = segments[idx - 1] if idx > 0 else None
+            nexts = segments[idx + 1] if idx + 1 < len(segments) else None
+            if prevs and (not nexts or abs(np.log2(prevs.bpm / seg.bpm)) <=
+                          abs(np.log2(nexts.bpm / seg.bpm))):
+                prevs.end_ms = seg.end_ms
+                prevs.beats_ms.extend(seg.beats_ms)
+            elif nexts:
+                nexts.start_ms = seg.start_ms
+                nexts.beats_ms = seg.beats_ms + nexts.beats_ms
+            else:
+                continue
+            segments.pop(idx)
+            changed = True
+            break
+    for i in range(len(segments)):
+        segments[i].start_ms = 0.0 if i == 0 else segments[i - 1].end_ms
+
+    has_changes = False
+    for a, b in zip(segments, segments[1:]):
+        if abs(float(np.log2(max(b.bpm, 1e-9) / max(a.bpm, 1e-9)))) > 0.04:
+            has_changes = True
+            break
     dominant = max(segments, key=lambda s: s.end_ms - s.start_ms)
-    return {"has_changes": True, "segments": segments, "bpm": dominant.bpm}
-
-
-def _refine_segment(env_grid, low_grid, hop, t0, start, end, seed_bpm) -> TempoSegment:
-    dur = end - start
-    i0 = max(0, int(round((start - t0) / hop)))
-    i1 = min(env_grid.size, int(round((end - t0) / hop)))
-    if i1 - i0 < 48:
-        return TempoSegment(start * 1000, end * 1000, seed_bpm)
-    grid = env_grid[i0:i1]
-    low = low_grid[i0:i1]
-    t0_local = t0 + i0 * hop - start
-    bpm, offset, _strength, _score, captured, density = refine_beat_grid(
-        grid, low, hop, seed_bpm, dur, t0_local)
-    total = float(grid.sum() + 0.35 * low.sum()) + 1e-9
-    coverage = captured / total
-    conf = float(np.clip(0.55 * coverage / 0.6 + 0.45 * density, 0.0, 1.0))
-    period = 60.0 / bpm
-    rel = offset % period
-    beats = []
-    while rel < dur:
-        beats.append((start + rel) * 1000.0)
-        rel += period
-    return TempoSegment(start * 1000.0, end * 1000.0, bpm, conf, beats)
+    markers_out = [{"time_ms": round(s.start_ms, 1), "bpm": round(s.bpm, 3)}
+                   for s in segments]
+    return {
+        "has_changes": has_changes,
+        "segments": segments,
+        "markers": markers_out,
+        "bpm": dominant.bpm,
+    }
