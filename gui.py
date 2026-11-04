@@ -30,6 +30,7 @@ from core.analyze import analyze_samples, save_analysis          # noqa: E402
 from core.audio import load_audio, resample_audio                # noqa: E402
 from core.bpm import fixed_bpm_grid                              # noqa: E402
 from core.tempo_map import detect_tempo_map                      # noqa: E402
+from core.mc import tempo_segments_from_mc                       # noqa: E402
 from core.waveform import render_waveform, waveform_peaks        # noqa: E402
 from audio_player import AudioPlayer                             # noqa: E402
 
@@ -512,9 +513,9 @@ class App:
         right.pack(side="right")
         self.seg_now = tk.Label(right, text="", bg=BG, fg=GOLD, font=font(9))
         self.seg_now.pack(side="right", padx=(8, 0))
-        self.btn_scan_ultra = flat_button(right, "超高精度", lambda: self.run_tempo_scan("ultra"), size=8)
-        self.btn_scan_ultra.configure(padx=8, pady=3)
-        self.btn_scan_ultra.pack(side="right", padx=(6, 0))
+        self.btn_import_mc = flat_button(right, "导入BPM", self.import_mc_tempo, size=8)
+        self.btn_import_mc.configure(padx=8, pady=3)
+        self.btn_import_mc.pack(side="right", padx=(6, 0))
         self.btn_scan_high = flat_button(right, "高精度", lambda: self.run_tempo_scan("high"), size=8)
         self.btn_scan_high.configure(padx=8, pady=3)
         self.btn_scan_high.pack(side="right", padx=(6, 0))
@@ -1098,7 +1099,7 @@ class App:
             return
         self.busy = True
         self._set_controls(False)
-        label = {"high": "高精度", "ultra": "超高精度"}.get(precision, "低精度")
+        label = {"high": "高精度"}.get(precision, "低精度")
         self._hide_scan_hint()
         self.set_status(f"{label}变速检测中…（可能需要几秒）")
         threading.Thread(target=self._worker_tempo_scan, args=(precision,),
@@ -1137,7 +1138,7 @@ class App:
         self.wave.set_beats(self.rhythm["beats_ms"])
         self._refresh_bpm_panel()
         self.scan_precision = precision
-        label = {"high": "高精度", "ultra": "超高精度"}.get(precision, "低精度")
+        label = {"high": "高精度"}.get(precision, "低精度")
         if base.get("has_changes"):
             self.set_status(f"{label}变速检测：{len(base['segments'])} 段")
         else:
@@ -1180,6 +1181,44 @@ class App:
     def _rescan_high_from_hint(self) -> None:
         self._hide_scan_hint()
         self.run_tempo_scan("high")
+
+    # -- chart BPM import ----------------------------------------------
+    def import_mc_tempo(self) -> None:
+        if self.base_rhythm is None:
+            return
+        path = filedialog.askopenfilename(
+            title="选择 Malody 谱面 (.mc)",
+            filetypes=[("Malody 谱面", "*.mc"), ("所有文件", "*.*")],
+        )
+        if not path:
+            return
+        try:
+            segments = tempo_segments_from_mc(
+                path, duration_ms=float(self.base_rhythm["duration_sec"]) * 1000.0)
+        except Exception as exc:
+            self.set_status(f"谱面读取失败：{exc}", error=True)
+            return
+        if not segments:
+            self.set_status("谱面中没有 BPM 信息", error=True)
+            return
+        base = {k: v for k, v in self.global_rhythm.items()
+                if not k.startswith("_") and k not in ("segments", "has_changes")}
+        base["segments"] = segments
+        base["has_changes"] = len(segments) > 1
+        dominant = max(segments, key=lambda s: s["end_ms"] - s["start_ms"])
+        base["bpm"] = round(float(dominant["bpm"]), 3)
+        beats = []
+        for seg in segments:
+            beats.extend(seg["beats_ms"])
+        base["beats_ms"] = sorted(beats)
+        base["_selected_bpm"] = base["bpm"]
+        self.base_rhythm = base
+        self.result["rhythm"] = {k: v for k, v in base.items() if not k.startswith("_")}
+        self.rhythm = dict(base) if abs(self.rate - 1.0) < 1e-6 else self._scaled_rhythm(base, self.rate)
+        self.wave.set_beats(self.rhythm["beats_ms"])
+        self._hide_scan_hint()
+        self._refresh_bpm_panel()
+        self.set_status(f"已导入谱面 BPM：{len(segments)} 段（精确值）")
 
     # -- queue / UI updates --------------------------------------------
     def _poll(self) -> None:
@@ -1396,7 +1435,7 @@ class App:
                     getattr(self, "btn_export_ogg", None),
                     getattr(self, "btn_scan_low", None),
                     getattr(self, "btn_scan_high", None),
-                    getattr(self, "btn_scan_ultra", None),
+                    getattr(self, "btn_import_mc", None),
                     getattr(self, "btn_play", None),
                     getattr(self, "btn_stop", None)):
             if btn is not None:
@@ -1450,16 +1489,6 @@ def run_selftest(audio_path: str) -> int:
             time.sleep(0.02)
         log.append(f"high_segments={len(app.rhythm.get('segments') or [])}")
         log.append(f"scan_precision={app.scan_precision}")
-        app.run_tempo_scan("ultra")
-        deadline = time.time() + 180
-        while app.busy and time.time() < deadline:
-            root.update()
-            time.sleep(0.02)
-        for _ in range(20):
-            root.update()
-            time.sleep(0.02)
-        log.append(f"ultra_segments={len(app.rhythm.get('segments') or [])}")
-        log.append(f"ultra_precision={app.scan_precision}")
 
     # preview-rate scaling + playback position (silent, volume 0)
     if ok:
