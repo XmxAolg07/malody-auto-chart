@@ -244,10 +244,31 @@ def load_models(path: Path = MODEL_PATH) -> dict:
 def predict_size(model: dict, features) -> int:
     mean = np.array(model["mean"], dtype=np.float64)
     std = np.array(model["std"], dtype=np.float64)
-    w = np.array(model["w"], dtype=np.float64)
-    b = np.array(model["b"], dtype=np.float64)
     x = (np.array(features, dtype=np.float64) - mean) / std
-    logits = x @ w + b
+    kind = model.get("type", "softmax")
+    if kind == "mlp":
+        w1 = np.array(model["w1"]); b1 = np.array(model["b1"])
+        w2 = np.array(model["w2"]); b2 = np.array(model["b2"])
+        logits = np.maximum(0.0, x @ w1 + b1) @ w2 + b2
+    elif kind == "nb":
+        means = np.array(model["means"]); variances = np.array(model["vars"])
+        priors = np.array(model["priors"])
+        diff = x[None, :] - means
+        logp = -0.5 * (np.log(2 * np.pi * variances)
+                       + diff ** 2 / variances).sum(axis=1) + np.log(priors)
+        return int(np.argmax(logp)) + 1
+    elif kind == "knn":
+        proto_x = np.array(model["x"]); proto_y = np.array(model["y"])
+        distances = ((x[None, :] - proto_x) ** 2).sum(axis=1)
+        k = int(model["k"])
+        nearest = np.argpartition(distances, k)[:k]
+        votes = np.zeros(4)
+        for index in nearest:
+            votes[proto_y[index]] += 1.0 / (np.sqrt(max(distances[index], 1e-9)) + 1e-3)
+        return int(np.argmax(votes)) + 1
+    else:
+        w = np.array(model["w"]); b = np.array(model["b"])
+        logits = x @ w + b
     return int(np.argmax(logits)) + 1
 
 
