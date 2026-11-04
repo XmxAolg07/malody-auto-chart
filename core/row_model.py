@@ -19,6 +19,7 @@ import numpy as np
 
 from .audio import load_audio
 from .energy import EnergyMap
+from .mel import MelFeatures
 
 ROOT = Path(__file__).resolve().parent.parent
 CORPUS = ROOT / "...AAA实例谱子存放处！"
@@ -118,6 +119,7 @@ def build_dataset(force: bool = False) -> dict:
                 rows = chart_rows(data)
                 samples, sr = load_audio(str(audio))
                 energy = EnergyMap(samples, sr)
+                mel = MelFeatures(samples, sr)
                 print(f"{style} chart {chart_id + 1}: {audio.stem[:44]} rows={len(rows)}",
                       flush=True)
                 prev1 = prev2 = prev3 = prev4 = prev5 = 0.0
@@ -151,6 +153,7 @@ def build_dataset(force: bool = False) -> dict:
                         energy.ratio_at(seconds + 0.05) - energy.ratio_at(seconds - 0.05),
                         energy.onset_at(seconds + 0.05) - energy.onset_at(seconds - 0.05),
                         energy.peak_density(seconds, 0.5),
+                        *mel.at(seconds),
                     ])
                     targets.append(size - 1)
                     groups.append(chart_id)

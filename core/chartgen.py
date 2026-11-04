@@ -24,6 +24,7 @@ from .energy import EnergyMap
 from .pattern_model import load_models as load_pattern_models, sample_mask, sample_spacing
 from .row_model import load_models as load_row_models, predict_size
 from .row_timing import load_models as load_timing_models, predict_timing
+from .mel import MelFeatures
 from .lane_model import (load_models as load_lane_models,
                          sample_mask as sample_lane_mask,
                          sample_mask_penalized as sample_lane_penalized)
@@ -660,7 +661,7 @@ def _apply_timing(style: str, notes, energy, timeline, timing_models):
             for lane in range(4) if mask & (1 << lane)]
 
 
-def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
+def _apply_row_model(style: str, notes, energy, timeline, row_models, mel=None) -> list:
     model = row_models.get(style)
     if not model or energy is None:
         return notes
@@ -702,6 +703,7 @@ def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
             energy.ratio_at(seconds + 0.05) - energy.ratio_at(seconds - 0.05),
             energy.onset_at(seconds + 0.05) - energy.onset_at(seconds - 0.05),
             energy.peak_density(seconds, 0.5),
+            *([float(value) for value in mel.at(seconds)] if mel is not None else [0.0] * 16),
         ]
         size = predict_size(model, features)
         lanes = [lane for lane in range(4) if mask & (1 << lane)]
@@ -767,6 +769,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
     timeline = [(0.0, duration_s * fixed_bpm / 60.0, fixed_bpm, 0.0)]
     if energy is None and samples is not None and sample_rate:
         energy = EnergyMap(samples, sample_rate)
+    mel = MelFeatures(samples, sample_rate) if samples is not None and sample_rate else None
 
     models = load_pattern_models()
     row_models = load_row_models()
@@ -794,7 +797,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
 
     if energy is not None:
         notes = _apply_timing(style, notes, energy, timeline, timing_models)
-        notes = _apply_row_model(style, notes, energy, timeline, row_models)
+        notes = _apply_row_model(style, notes, energy, timeline, row_models, mel)
         notes = _apply_energy(style, notes, energy, timeline, rng)
         notes = _fill_grid(style, notes, energy, timeline)
     notes = _apply_lane_model(style, notes, lane_models, rng)
