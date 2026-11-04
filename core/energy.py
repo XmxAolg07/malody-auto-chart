@@ -27,6 +27,10 @@ class EnergyMap:
             self._ratio = np.ones(1)
             self._peak_times = []
             self._peak_strength = []
+            self._env = np.zeros(1)
+            self._low = np.zeros(1)
+            self._env_hop = 0.02
+            self._env_t0 = 0.0
             return
         blocks = samples[: count * frame].reshape(count, frame)
         rms = np.sqrt(np.mean(blocks * blocks, axis=1))
@@ -38,7 +42,11 @@ class EnergyMap:
         self._ratio = np.clip(rms / max(median, 1e-9), 0.0, 3.0)
         self._frame_sec = frame / float(sr)
 
-        env, _low, hop, t0 = onset_envelopes(samples, sr)
+        env, low, hop, t0 = onset_envelopes(samples, sr)
+        self._env = env
+        self._low = low
+        self._env_hop = hop
+        self._env_t0 = t0
         if env.size > 4:
             width = max(1, int(0.05 / hop))
             env = np.convolve(env, np.ones(width) / width, mode="same")
@@ -98,6 +106,23 @@ class EnergyMap:
         if best is None:
             return None
         return self._peak_times[best], self._peak_strength[best]
+
+    def onset_at(self, seconds: float) -> float:
+        env = getattr(self, "_env", None)
+        if env is None or env.size == 0:
+            return 0.0
+        index = int(round((seconds - self._env_t0) / max(self._env_hop, 1e-6)))
+        return float(env[min(max(index, 0), env.size - 1)])
+
+    def low_at(self, seconds: float) -> float:
+        env = getattr(self, "_low", None)
+        if env is None or env.size == 0:
+            return 0.0
+        index = int(round((seconds - self._env_t0) / max(self._env_hop, 1e-6)))
+        return float(env[min(max(index, 0), env.size - 1)])
+
+    def peak_density(self, seconds: float, window: float = 1.0) -> float:
+        return len(self.peaks_between(seconds - window, seconds + window)) / (2.0 * window)
 
     def peaks_between(self, start: float, end: float) -> list[float]:
         lo = bisect.bisect_left(self._peak_times, start)

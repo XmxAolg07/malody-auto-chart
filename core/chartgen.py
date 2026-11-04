@@ -20,7 +20,8 @@ import random
 from pathlib import Path
 
 from .energy import EnergyMap
-from .pattern_model import load_models, sample_mask, sample_spacing
+from .pattern_model import load_models as load_pattern_models, sample_mask, sample_spacing
+from .row_model import load_models as load_row_models, predict_size
 
 LANES = (0, 1, 2, 3)
 
@@ -414,6 +415,66 @@ def _grow_mask(mask: int, extra: int, style: str, rng) -> int:
     return mask
 
 
+def _timeline_bpm(beat: float, timeline) -> float:
+    seg = timeline[-1]
+    for candidate in timeline:
+        if beat <= candidate[1] + 1e-9:
+            seg = candidate
+            break
+    return seg[2]
+
+
+def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
+    model = row_models.get(style)
+    if not model or energy is None:
+        return notes
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    prev1 = prev2 = prev3 = 0.0
+    out = []
+    for beat in sorted(rows):
+        mask = rows[beat]
+        seconds = _beat_to_sec(beat, timeline)
+        peak = energy.nearest_peak(seconds, 0.12)
+        strength = peak[1] if peak else 0.0
+        dist = abs(peak[0] - seconds) if peak else 0.12
+        bpm = _timeline_bpm(beat, timeline)
+        features = [
+            energy.ratio_at(seconds),
+            energy.section_ratio(seconds),
+            energy.onset_at(seconds),
+            energy.low_at(seconds),
+            energy.ratio_at(seconds + 0.1) - energy.ratio_at(seconds - 0.1),
+            energy.section_ratio(seconds + 1.0) - energy.section_ratio(seconds - 1.0),
+            strength,
+            dist,
+            energy.peak_density(seconds, 1.0),
+            beat - int(beat),
+            (beat / 4.0) - int(beat / 4.0),
+            bpm / 180.0,
+            prev1,
+            prev2,
+            prev3,
+        ]
+        size = predict_size(model, features)
+        lanes = [lane for lane in range(4) if mask & (1 << lane)]
+        if size < len(lanes):
+            lanes = lanes[:size]
+        elif size > len(lanes):
+            for lane in range(4):
+                if lane not in lanes:
+                    lanes.append(lane)
+                    if len(lanes) >= size:
+                        break
+        mask = sum(1 << lane for lane in lanes)
+        out.append((beat, mask))
+        prev3, prev2, prev1 = prev2, prev1, len(lanes) / 4.0
+    return [(beat, lane) for beat, mask in out
+            for lane in range(4) if mask & (1 << lane)]
+
+
 def _apply_energy(style: str, notes, energy, timeline, rng):
     rows = {}
     for beat, lane in notes:
@@ -461,7 +522,8 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
     if energy is None and samples is not None and sample_rate:
         energy = EnergyMap(samples, sample_rate)
 
-    models = load_models()
+    models = load_pattern_models()
+    row_models = load_row_models()
     model = models.get(style)
     notes: list[tuple[float, int]] = []
     if model:
@@ -483,6 +545,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
             notes.extend(block)
 
     if energy is not None:
+        notes = _apply_row_model(style, notes, energy, timeline, row_models)
         notes = _apply_energy(style, notes, energy, timeline, rng)
     notes = _enforce_constraints(style, notes)
 
