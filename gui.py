@@ -33,6 +33,7 @@ from core.tempo_map import detect_tempo_map                      # noqa: E402
 from core.mc import tempo_segments_from_mc                       # noqa: E402
 from core.chartgen import (STYLES, DESCRIPTIONS, generate_chart,  # noqa: E402
                            save_chart, chart_stats)
+from preview import ChartPreviewWindow                            # noqa: E402
 from core.waveform import render_waveform, waveform_peaks        # noqa: E402
 from audio_player import AudioPlayer                             # noqa: E402
 
@@ -434,6 +435,8 @@ class App:
         self.global_rhythm = None
         self._prompted_scan = False
         self.scan_precision = "low"
+        self.last_chart_path = None
+        self._preview = None
         self.root.after(80, self._poll)
         self.root.after(60, self._tick)
         self.root.after(150, self._bring_to_front)
@@ -491,6 +494,8 @@ class App:
         right.pack(side="right")
         self.btn_open_dir = flat_button(right, "打开输出目录", self.open_out_dir)
         self.btn_open_dir.pack(side="right", padx=(8, 0))
+        self.btn_preview = flat_button(right, "预览谱面", self.preview_chart, size=9)
+        self.btn_preview.pack(side="right", padx=(8, 0))
         self.btn_chart = flat_button(right, "生成谱面", self.open_chart_dialog, kind="gold")
         self.btn_chart.pack(side="right", padx=(8, 0))
         self.btn_choose = flat_button(right, "选择音频", self.choose_file, kind="accent")
@@ -1358,10 +1363,35 @@ class App:
     def _on_chart_done(self, payload: dict) -> None:
         self.busy = False
         self._set_controls(True)
+        self.last_chart_path = payload["path"]
         stats = payload["stats"]
         name = Path(payload["path"]).name
         self.set_status(
             f"已生成 {STYLES[payload['style']]}：{stats['notes']} 音符 · {name}")
+
+    def preview_chart(self) -> None:
+        if self.samples is None or self.rhythm is None:
+            self.set_status("请先载入并分析音频", error=True)
+            return
+        if abs(self.rate - 1.0) > 1e-6:
+            self.set_status("预览前请把试听倍速调回 1.00", error=True)
+            return
+        path = self.last_chart_path
+        if not path or not Path(path).exists():
+            path = filedialog.askopenfilename(
+                title="选择要预览的谱面",
+                filetypes=[("Malody 谱面", "*.mc"), ("所有文件", "*.*")])
+        if not path:
+            return
+        try:
+            self.player.pause()
+            if self._preview is not None and self._preview.winfo_exists():
+                self._preview.close()
+            self._preview = ChartPreviewWindow(self, path)
+            self._preview.focus_set()
+            self.set_status(f"预览：{Path(path).name}")
+        except Exception as exc:
+            self.set_status(f"预览失败：{exc}", error=True)
 
     # -- queue / UI updates --------------------------------------------
     def _poll(self) -> None:
@@ -1649,6 +1679,15 @@ def run_selftest(audio_path: str) -> int:
         if chart_path.exists():
             import json as _json
             log.append(f"chart_notes={len(_json.loads(chart_path.read_text(encoding='utf-8'))['note'])}")
+            app.last_chart_path = str(chart_path)
+            app.preview_chart()
+            for _ in range(25):
+                root.update()
+                time.sleep(0.02)
+            if app._preview is not None and app._preview.winfo_exists():
+                log.append("preview=1")
+                app._preview.close()
+                root.update()
 
     # preview-rate scaling + playback position (silent, volume 0)
     if ok:
