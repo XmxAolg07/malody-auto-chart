@@ -19,6 +19,7 @@ import math
 import random
 from pathlib import Path
 
+from .energy import EnergyMap
 from .pattern_model import load_models, sample_mask, sample_spacing
 
 LANES = (0, 1, 2, 3)
@@ -317,13 +318,13 @@ def _style_notes(style, rng, model, start, end, bpm, state):
 
 POST_RULES = {
     "stream": {"lane_gap": 0.5, "max_jumps_per_beat": 1,
-               "max_run": 8, "run_gap": 0.25},
+               "max_run": 8, "run_gap": 0.25, "max_chord": 3},
     "speed": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
-              "max_run": 16, "run_gap": 0.25},
+              "max_run": 16, "run_gap": 0.25, "max_chord": 2},
     "jack": {"lane_gap": 0.25, "max_jumps_per_beat": 99,
-             "max_run": 99, "jack_repeat": 4},
+             "max_run": 99, "jack_repeat": 4, "max_chord": 4},
     "tech": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
-             "max_run": 8, "run_gap": 0.25},
+             "max_run": 8, "run_gap": 0.25, "max_chord": 3},
 }
 
 
@@ -357,6 +358,9 @@ def _enforce_constraints(style: str, notes: list[tuple[float, int]]) -> list[tup
                    and key - lane_last.get(lane, -99.0) >= rules["lane_gap"] - 1e-9]
         if not allowed:
             continue
+        limit = rules.get("max_chord", 4)
+        if len(allowed) > limit:
+            allowed = allowed[:limit]
         mask = sum(1 << lane for lane in allowed)
         if mask.bit_count() >= 2 and rules["max_jumps_per_beat"] < 90:
             bucket = int(math.floor(key + 1e-9))
@@ -382,14 +386,80 @@ def _enforce_constraints(style: str, notes: list[tuple[float, int]]) -> list[tup
             for lane in range(4) if mask & (1 << lane)]
 
 
+def _beat_to_sec(beat: float, timeline) -> float:
+    seg = timeline[-1]
+    for candidate in timeline:
+        if beat <= candidate[1] + 1e-9:
+            seg = candidate
+            break
+    return seg[3] + max(0.0, beat - seg[0]) * 60.0 / seg[2]
+
+
+def _sec_to_beat(seconds: float, timeline) -> float:
+    seg = timeline[-1]
+    for candidate in timeline:
+        start_beat, end_beat, bpm, start_sec = candidate
+        if seconds <= start_sec + (end_beat - start_beat) * 60.0 / bpm + 1e-9:
+            seg = candidate
+            break
+    return seg[0] + max(0.0, seconds - seg[3]) * seg[2] / 60.0
+
+
+def _grow_mask(mask: int, extra: int, style: str, rng) -> int:
+    max_size = {"stream": 3, "speed": 2, "jack": 4, "tech": 3}[style]
+    lanes = [lane for lane in range(4) if not mask & (1 << lane)]
+    rng.shuffle(lanes)
+    for lane in lanes[:max(0, max_size - mask.bit_count())]:
+        mask |= 1 << lane
+    return mask
+
+
+def _apply_energy(style: str, notes, energy, timeline, rng):
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    out = []
+    for beat in sorted(rows):
+        mask = rows[beat]
+        seconds = _beat_to_sec(beat, timeline)
+        level = energy.section_ratio(seconds)
+        peak = energy.nearest_peak(seconds, 0.12)
+        if level <= 0.95:
+            if peak is None:
+                if int(round(beat)) % 2:
+                    continue
+            else:
+                if level > 0.65 and int(round(peak[0] * 4)) % 2:
+                    continue
+                beat = _sec_to_beat(peak[0], timeline)
+                if level <= 0.65:
+                    low_lane = (mask & -mask).bit_length() - 1
+                    mask = 1 << low_lane
+        if level >= 1.15 and peak is not None:
+            extra = 1 if level < 1.35 else 2
+            if style == "speed":
+                extra = 1
+            mask = _grow_mask(mask, extra, style, rng)
+        elif style == "speed" and peak is None:
+            low_lane = (mask & -mask).bit_length() - 1
+            mask = 1 << low_lane
+        out.append((beat, mask))
+    return [(beat, lane) for beat, mask in out
+            for lane in range(4) if mask & (1 << lane)]
+
+
 def generate_chart(style: str, rhythm: dict, duration_s: float,
                    title: str = "", artist: str = "Unknown",
-                   seed: int | None = None) -> dict:
+                   seed: int | None = None, energy=None,
+                   samples=None, sample_rate: int | None = None) -> dict:
     """Build a Malody ``.mc`` dict for one of the four styles."""
     if style not in STYLES:
         raise ValueError(f"unknown style: {style}")
     rng = random.Random(seed)
     timeline = tempo_timeline(rhythm, duration_s)
+    if energy is None and samples is not None and sample_rate:
+        energy = EnergyMap(samples, sample_rate)
 
     models = load_models()
     model = models.get(style)
@@ -412,6 +482,8 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
                 block = _tech_block(rng, start_beat, end_beat, bpm)
             notes.extend(block)
 
+    if energy is not None:
+        notes = _apply_energy(style, notes, energy, timeline, rng)
     notes = _enforce_constraints(style, notes)
 
     unique = {}

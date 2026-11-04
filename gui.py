@@ -1352,7 +1352,8 @@ class App:
         try:
             duration = len(self.base_samples) / float(self.base_sr)
             title = self.path.stem if self.path else "Untitled"
-            chart = generate_chart(style, self.base_rhythm, duration, title=title)
+            chart = generate_chart(style, self.base_rhythm, duration, title=title,
+                                   samples=self.base_samples, sample_rate=self.base_sr)
             out = self.out_dir / f"{title}_auto_{style}.mc"
             save_chart(chart, out)
             self.queue.put(("chart_done", {"style": style, "path": str(out),
