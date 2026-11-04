@@ -24,6 +24,7 @@ from .energy import EnergyMap
 from .pattern_model import load_models as load_pattern_models, sample_mask, sample_spacing
 from .row_model import load_models as load_row_models, predict_size
 from .row_timing import load_models as load_timing_models, predict_timing
+from .lane_model import load_models as load_lane_models, sample_mask as sample_lane_mask
 
 LANES = (0, 1, 2, 3)
 
@@ -432,6 +433,27 @@ def _timeline_bpm(beat: float, timeline) -> float:
 ANCHOR_LIMIT = {"stream": 5, "jack": 5, "speed": 4, "tech": 6}
 
 
+def _apply_lane_model(style, notes, lane_models, rng):
+    model = lane_models.get(style)
+    if not model:
+        return notes
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    prev = None
+    out = []
+    for beat in sorted(rows):
+        size = rows[beat].bit_count()
+        if size <= 0:
+            continue
+        mask = sample_lane_mask(model, prev if prev is not None else 0, size, rng)
+        out.append((beat, mask))
+        prev = mask
+    return [(beat, lane) for beat, mask in out
+            for lane in range(4) if mask & (1 << lane)]
+
+
 def _limit_anchor(style: str, notes):
     """Break same-column runs longer than the style anchor limit.
 
@@ -686,6 +708,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
     models = load_pattern_models()
     row_models = load_row_models()
     timing_models = load_timing_models()
+    lane_models = load_lane_models()
     model = models.get(style)
     notes: list[tuple[float, int]] = []
     if model:
@@ -710,6 +733,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
         notes = _apply_timing(style, notes, energy, timeline, timing_models)
         notes = _apply_row_model(style, notes, energy, timeline, row_models)
         notes = _apply_energy(style, notes, energy, timeline, rng)
+    notes = _apply_lane_model(style, notes, lane_models, rng)
     notes = _enforce_constraints(style, notes)
     notes = _limit_anchor(style, notes)
     if style == "jack":
