@@ -31,6 +31,8 @@ from core.audio import load_audio, resample_audio                # noqa: E402
 from core.bpm import fixed_bpm_grid                              # noqa: E402
 from core.tempo_map import detect_tempo_map                      # noqa: E402
 from core.mc import tempo_segments_from_mc                       # noqa: E402
+from core.chartgen import (STYLES, DESCRIPTIONS, generate_chart,  # noqa: E402
+                           save_chart, chart_stats)
 from core.waveform import render_waveform, waveform_peaks        # noqa: E402
 from audio_player import AudioPlayer                             # noqa: E402
 
@@ -489,6 +491,8 @@ class App:
         right.pack(side="right")
         self.btn_open_dir = flat_button(right, "打开输出目录", self.open_out_dir)
         self.btn_open_dir.pack(side="right", padx=(8, 0))
+        self.btn_chart = flat_button(right, "生成谱面", self.open_chart_dialog, kind="gold")
+        self.btn_chart.pack(side="right", padx=(8, 0))
         self.btn_choose = flat_button(right, "选择音频", self.choose_file, kind="accent")
         self.btn_choose.pack(side="right")
 
@@ -1288,6 +1292,77 @@ class App:
         self._refresh_bpm_panel()
         self.set_status(f"已导入谱面 BPM：{len(segments)} 段（精确值）")
 
+    # -- chart generation ----------------------------------------------
+    def open_chart_dialog(self) -> None:
+        if self.busy or self.samples is None or self.rhythm is None:
+            self.set_status("请先载入并分析音频", error=True)
+            return
+        dlg = tk.Toplevel(self.root)
+        dlg.title("选择键型")
+        dlg.configure(bg=BG)
+        dlg.transient(self.root)
+        dlg.resizable(False, False)
+        tk.Label(dlg, text="选择要生成的键型", bg=BG, fg=TEXT,
+                 font=font(13, "bold")).pack(anchor="w", padx=22, pady=(18, 2))
+        tk.Label(dlg, text="四种常规键型，生成前先选一种", bg=BG, fg=DIM,
+                 font=font(9)).pack(anchor="w", padx=22, pady=(0, 10))
+        var = tk.StringVar(value="stream")
+        for style, label in STYLES.items():
+            tk.Radiobutton(
+                dlg, text=label, variable=var, value=style, bg=BG, fg=TEXT,
+                selectcolor=PANEL, activebackground=BG, activeforeground=GOLD,
+                font=font(10), anchor="w", highlightthickness=0, bd=0,
+            ).pack(anchor="w", padx=22, pady=(6, 0))
+            tk.Label(dlg, text=DESCRIPTIONS[style], bg=BG, fg=DIM, font=font(8),
+                     wraplength=430, justify="left").pack(anchor="w", padx=42)
+        result = {"style": None}
+
+        def confirm() -> None:
+            result["style"] = var.get()
+            dlg.destroy()
+
+        buttons = tk.Frame(dlg, bg=BG)
+        buttons.pack(fill="x", padx=22, pady=16)
+        flat_button(buttons, "生成谱面", confirm, kind="gold").pack(side="right")
+        flat_button(buttons, "取消", dlg.destroy).pack(side="right", padx=(0, 8))
+        dlg.bind("<Escape>", lambda _e: dlg.destroy())
+        dlg.update_idletasks()
+        x = self.root.winfo_rootx() + (self.root.winfo_width() - dlg.winfo_width()) // 2
+        y = self.root.winfo_rooty() + (self.root.winfo_height() - dlg.winfo_height()) // 3
+        dlg.geometry(f"+{max(0, x)}+{max(0, y)}")
+        dlg.grab_set()
+        self.root.wait_window(dlg)
+        if result["style"]:
+            self.generate_chart_style(result["style"])
+
+    def generate_chart_style(self, style: str) -> None:
+        if self.busy or self.base_rhythm is None or self.base_samples is None:
+            return
+        self.busy = True
+        self._set_controls(False)
+        self.set_status(f"正在生成 {STYLES[style]} 谱面…")
+        threading.Thread(target=self._worker_chart, args=(style,), daemon=True).start()
+
+    def _worker_chart(self, style: str) -> None:
+        try:
+            duration = len(self.base_samples) / float(self.base_sr)
+            title = self.path.stem if self.path else "Untitled"
+            chart = generate_chart(style, self.base_rhythm, duration, title=title)
+            out = self.out_dir / f"{title}_auto_{style}.mc"
+            save_chart(chart, out)
+            self.queue.put(("chart_done", {"style": style, "path": str(out),
+                                            "stats": chart_stats(chart)}))
+        except Exception as exc:
+            self.queue.put(("error", f"{type(exc).__name__}: {exc}"))
+
+    def _on_chart_done(self, payload: dict) -> None:
+        self.busy = False
+        self._set_controls(True)
+        stats = payload["stats"]
+        name = Path(payload["path"]).name
+        self.set_status(
+            f"已生成 {STYLES[payload['style']]}：{stats['notes']} 音符 · {name}")
+
     # -- queue / UI updates --------------------------------------------
     def _poll(self) -> None:
         try:
@@ -1305,6 +1380,8 @@ class App:
                         self._on_rate_done(payload)
                     elif kind == "tempo_scan":
                         self._on_tempo_scan(payload)
+                    elif kind == "chart_done":
+                        self._on_chart_done(payload)
                     elif kind == "exported":
                         self.set_status(f"已导出变速音频：{Path(payload).name}")
                     elif kind == "error":
@@ -1557,6 +1634,21 @@ def run_selftest(audio_path: str) -> int:
             time.sleep(0.02)
         log.append(f"high_segments={len(app.rhythm.get('segments') or [])}")
         log.append(f"scan_precision={app.scan_precision}")
+
+    # generated chart smoke test
+    if ok and app.base_rhythm is not None:
+        app.generate_chart_style("stream")
+        deadline = time.time() + 60
+        while app.busy and time.time() < deadline:
+            root.update()
+            time.sleep(0.02)
+        for _ in range(15):
+            root.update()
+            time.sleep(0.02)
+        chart_path = app.out_dir / f"{app.path.stem}_auto_stream.mc"
+        if chart_path.exists():
+            import json as _json
+            log.append(f"chart_notes={len(_json.loads(chart_path.read_text(encoding='utf-8'))['note'])}")
 
     # preview-rate scaling + playback position (silent, volume 0)
     if ok:

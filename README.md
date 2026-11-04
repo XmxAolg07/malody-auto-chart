@@ -1,7 +1,7 @@
-# Malody 4K 自动写谱 — 阶段 9：播放位置读数 + 谱面 BPM 导入
+# Malody 4K 自动写谱 — 阶段 10：四种键型自动写谱
 
 当前进度：**BPM 识别**、**波形图**、**桌面 GUI**、**试听/播放位置**、**试听倍速**、
-**变速检测/节点跳转**、**低/高精度**、**谱面 BPM 导入**、**播放位置读数**、**WAV/OGG 导出** 已完成。
+**变速检测/节点跳转**、**低/高精度**、**谱面 BPM 导入**、**播放位置读数**、**四键型自动写谱**、**WAV/OGG 导出** 已完成。
 PC 端可以当软件用：拖入音频 → 自动分析 → 试听/修正 → 导出 WAV 或 OGG。
 安卓端与写谱本体尚未开始（等确定技术路线）。
 
@@ -210,3 +210,27 @@ build_exe.cmd "C:\path\to\python.exe"
 
 > 建议先做 1（变速曲）和 2（4K 谱面生成），把“分析 → 生成 → 导出 .mc”闭环跑通，
 > 再决定安卓用哪条路线。
+
+## 10. 自动写谱（四种键型）
+
+点右上角 **「生成谱面」**，会先弹出四选一对话框，选定后再生成
+`out\<歌曲名>_auto_<style>.mc`，可直接拖进 Malody 打开。
+
+| 键型 | 生成规则 | 专栏实例 | 本地谱面实例 |
+|---|---|---|---|
+| 切换 / Stream | 单乱为主，每 4 拍双押、偶尔三押；相邻行不重复同列 | 夜樱 Yozakura - Mipha（单乱）；Loli Dive - NikoSek（双押切）；Satori De Pon - Lyenssa（三押切） | `reg stream\0\...Stream (10dan).mc` — Spin Eternally |
+| 大乱 / Speed | 高速单乱，1/4 或 1/2 拍密集排列，稀疏双押 | Euthanasia - tera（v3 Ex3 Speed） | `reg speed\0\...Speed (10dan).mc` — Yue Ai Yue Ye |
+| 叠键 / Jack | 同列连续 2-4 键成组切换，8 拍双押叠、16 拍三押叠 | Yetsume Ana - CrewK | `reg jack\0\...Jack (10dan).mc` — Hiensou |
+| 技巧 / Technical | 8 拍乐句循环：乱键、叠键、反拍、交互轮指 | Looking for Edge of Ground - Evening | `ex tech\0\...Technical (ex3).mc` — INTERNET OVERDOSE |
+
+生成器特点：
+
+- 按当前 BPM / 变速分段写 `time` 数组；导入过 `.mc` 的精确 BPM 会直接沿用
+- 所有音符落在 1/16 拍网格，自动去重，保证同拍同列不重复
+- 输出标准 `.mc` 结构（`meta` / `time` / `note` / `effect` / `extra`），4K 列号 0-3
+
+当前限制（v1）：
+
+- 密度是固定的，未根据音频起音强弱增减音符，安静段也可能铺满
+- 没有难度分级；复杂键型（如三押切）只是偶尔出现
+- 生成后仍建议在 Malody 编辑器里人工调整，尤其是段落起伏和手序
