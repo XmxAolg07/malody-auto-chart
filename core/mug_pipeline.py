@@ -28,8 +28,8 @@ if (ROOT / "vendor_torch").exists():
 DATA_DIR = ROOT / ".screen" / "neural"
 MODEL_PATH = ROOT / "assets" / "mug_pipeline.pt"
 CONFIG_PATH = ROOT / "assets" / "mug_pipeline.json"
-STYLE_IDS = {"stream": 0, "speed": 1, "jack": 2, "tech": 3}
-ATTR_DIM = 6  # style one-hot(4) + difficulty + ln ratio
+STYLE_IDS = {"stream": 0, "speed": 1, "jack": 2, "tech": 3, "community": 4}
+ATTR_DIM = 7  # style one-hot(5) + difficulty + ln ratio
 TIMESTEPS = 1000
 
 
@@ -39,7 +39,9 @@ def _torch():
 
 
 def load_index():
-    return json.loads((DATA_DIR / "index.json").read_text(encoding="utf-8"))
+    combined = DATA_DIR / "index_combined.json"
+    path = combined if combined.exists() else DATA_DIR / "index.json"
+    return json.loads(path.read_text(encoding="utf-8"))
 
 
 def load_song(name):
@@ -48,7 +50,7 @@ def load_song(name):
 
 
 def attributes(record, labels):
-    onehot = [0.0] * 4
+    onehot = [0.0] * len(STYLE_IDS)
     onehot[STYLE_IDS.get(record["style"], 0)] = 1.0
     density = float(labels.sum()) / max(1.0, labels.size)
     difficulty = min(1.0, density * 25.0)
@@ -196,8 +198,8 @@ def train(epochs: int = 120, crop: int = 512, batch: int = 8, lr: float = 2e-4):
     torch.save(model.state_dict(), MODEL_PATH)
     CONFIG_PATH.write_text(json.dumps({"history": history,
                                        "val": [r["file"] for r in val_records],
-                                       "attrs": ["style0", "style1", "style2", "style3",
-                                                 "difficulty", "ln"]}, indent=1),
+                                       "attrs": [f"style{i}" for i in range(len(STYLE_IDS))]
+                                       + ["difficulty", "ln"]}, indent=1),
                            encoding="utf-8")
     print("saved", MODEL_PATH)
 
