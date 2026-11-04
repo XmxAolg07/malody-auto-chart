@@ -31,6 +31,10 @@ MASKS_BY_SIZE = {size: [mask for mask in range(1, 16) if mask.bit_count() == siz
                  for size in range(1, 5)}
 
 
+def _mirror(mask: int) -> int:
+    return ((mask & 1) << 3) | ((mask & 2) << 1) | ((mask & 4) >> 1) | ((mask & 8) >> 3)
+
+
 def _parse_folder(folder: str):
     base = CORPUS / folder
     charts = []
@@ -67,10 +71,11 @@ def build_model(style: str, train_charts, val_charts):
     for _name, masks in train_charts:
         if not masks:
             continue
-        by_size_init[masks[0].bit_count()][masks[0]] += 1
-        for prev, cur in zip(masks, masks[1:]):
-            size = cur.bit_count()
-            transitions[(prev, size)][cur] += 1
+        for variant in (masks, [_mirror(mask) for mask in masks]):
+            by_size_init[variant[0].bit_count()][variant[0]] += 1
+            for prev, cur in zip(variant, variant[1:]):
+                size = cur.bit_count()
+                transitions[(prev, size)][cur] += 1
 
     init = {}
     for size in range(1, 5):

@@ -578,7 +578,7 @@ def _apply_timing(style: str, notes, energy, timeline, timing_models):
             min(8.0, energy.peak_density(seconds, 1.0)),
             rank,
         ]
-        if predict_timing(model, features) >= threshold:
+        if predict_timing(model, features) >= threshold * 0.70:
             selected.append(seconds)
     if not selected:
         return notes
@@ -598,7 +598,7 @@ def _apply_timing(style: str, notes, energy, timeline, timing_models):
                 if abs(existing[index] - key) <= 0.12:
                     near = True
                     break
-        if near or inserted >= 120:
+        if near or inserted >= 800:
             continue
         rows[key] = 1  # single note; row-size model may grow it later
         existing = sorted(rows)
