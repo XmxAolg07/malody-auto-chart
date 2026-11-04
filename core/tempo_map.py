@@ -28,6 +28,9 @@ PRESETS = {
     "high": {"window": 12.0, "hop": 2.0, "k": 3, "top": 5,
              "prior_oct": 0.6, "threshold": 0.05, "confirm": 3, "gap": 6.0,
              "validate": True},
+    "ultra": {"window": 3.0, "hop": 0.5, "k": 2, "top": 10,
+              "prior_oct": 1.2, "threshold": 0.02, "confirm": 2, "gap": 0.5,
+              "validate": False, "no_refine": True},
 }
 
 
@@ -142,7 +145,7 @@ def detect_tempo_map(y: np.ndarray, sr: int, global_bpm: float,
         seed = float(np.median(in_seg)) if in_seg else global_bpm
         i0 = max(0, int(round((start - t0) / hop)))
         i1 = min(env_grid.size, int(round((end - t0) / hop)))
-        if i1 - i0 < 48:
+        if i1 - i0 < 24 or cfg.get("no_refine"):
             segments.append(TempoSegment(start * 1000, end * 1000, seed))
             continue
         grid = env_grid[i0:i1]
@@ -173,7 +176,7 @@ def detect_tempo_map(y: np.ndarray, sr: int, global_bpm: float,
     segments = merged
 
     # merge very short segments into the neighbour with the closest tempo
-    changed = True
+    changed = (not cfg.get("no_refine"))
     while changed and len(segments) > 1:
         changed = False
         for idx, seg in enumerate(segments):
@@ -229,7 +232,9 @@ def detect_tempo_map(y: np.ndarray, sr: int, global_bpm: float,
 
     # final merge of adjacent segments that ended up at the same tempo
     merged_final: list[TempoSegment] = []
-    for seg in segments:
+    if cfg.get("no_refine"):
+        merged_final = segments
+    for seg in ([] if cfg.get("no_refine") else segments):
         if merged_final and abs(float(np.log2(seg.bpm / merged_final[-1].bpm))) < 0.04:
             merged_final[-1].end_ms = seg.end_ms
             merged_final[-1].beats_ms.extend(seg.beats_ms)

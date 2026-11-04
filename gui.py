@@ -512,10 +512,13 @@ class App:
         right.pack(side="right")
         self.seg_now = tk.Label(right, text="", bg=BG, fg=GOLD, font=font(9))
         self.seg_now.pack(side="right", padx=(8, 0))
-        self.btn_scan_high = flat_button(right, "高精度检测", lambda: self.run_tempo_scan("high"), size=8)
+        self.btn_scan_ultra = flat_button(right, "超高精度", lambda: self.run_tempo_scan("ultra"), size=8)
+        self.btn_scan_ultra.configure(padx=8, pady=3)
+        self.btn_scan_ultra.pack(side="right", padx=(6, 0))
+        self.btn_scan_high = flat_button(right, "高精度", lambda: self.run_tempo_scan("high"), size=8)
         self.btn_scan_high.configure(padx=8, pady=3)
         self.btn_scan_high.pack(side="right", padx=(6, 0))
-        self.btn_scan_low = flat_button(right, "低精度检测", lambda: self.run_tempo_scan("low"), size=8)
+        self.btn_scan_low = flat_button(right, "低精度", lambda: self.run_tempo_scan("low"), size=8)
         self.btn_scan_low.configure(padx=8, pady=3)
         self.btn_scan_low.pack(side="right")
 
@@ -1095,7 +1098,7 @@ class App:
             return
         self.busy = True
         self._set_controls(False)
-        label = "高精度" if precision == "high" else "低精度"
+        label = {"high": "高精度", "ultra": "超高精度"}.get(precision, "低精度")
         self._hide_scan_hint()
         self.set_status(f"{label}变速检测中…（可能需要几秒）")
         threading.Thread(target=self._worker_tempo_scan, args=(precision,),
@@ -1134,7 +1137,7 @@ class App:
         self.wave.set_beats(self.rhythm["beats_ms"])
         self._refresh_bpm_panel()
         self.scan_precision = precision
-        label = "高精度" if precision == "high" else "低精度"
+        label = {"high": "高精度", "ultra": "超高精度"}.get(precision, "低精度")
         if base.get("has_changes"):
             self.set_status(f"{label}变速检测：{len(base['segments'])} 段")
         else:
@@ -1293,9 +1296,14 @@ class App:
         self._set_confidence(conf)
 
         if rhythm.get("has_changes") and rhythm.get("segments"):
-            parts = [f"{fmt_time(s['start_ms'] / 1000)} {s['bpm']:.1f}"
-                     for s in rhythm["segments"][:3]]
-            self.tempo_badge.configure(text="变速：" + " · ".join(parts), fg=GOLD)
+            segs = rhythm["segments"]
+            if len(segs) > 8:
+                self.tempo_badge.configure(
+                    text=f"变速：{len(segs)} 段（点击波形节点跳转）", fg=GOLD)
+            else:
+                parts = [f"{fmt_time(s['start_ms'] / 1000)} {s['bpm']:.1f}"
+                         for s in segs[:3]]
+                self.tempo_badge.configure(text="变速：" + " · ".join(parts), fg=GOLD)
         else:
             self.tempo_badge.configure(text="恒定 BPM（未检测到变速）", fg=GREEN)
         self._refresh_nodes()
@@ -1325,6 +1333,14 @@ class App:
                      font=font(8)).pack(side="left")
             self.seg_now.configure(text="")
             self.wave.set_markers([])
+            return
+        if len(segments) > 10:
+            tk.Label(self.node_inner,
+                     text=f"{len(segments)} 个 BPM 节点（点击波形跳转）",
+                     bg=BG, fg=GOLD, font=font(8)).pack(side="left")
+            self.wave.set_markers([(s["start_ms"] / 1000, "")
+                                   for s in segments])
+            self.seg_now.configure(text="")
             return
         for seg in segments[:8]:
             btn = flat_button(
@@ -1380,6 +1396,7 @@ class App:
                     getattr(self, "btn_export_ogg", None),
                     getattr(self, "btn_scan_low", None),
                     getattr(self, "btn_scan_high", None),
+                    getattr(self, "btn_scan_ultra", None),
                     getattr(self, "btn_play", None),
                     getattr(self, "btn_stop", None)):
             if btn is not None:
@@ -1433,6 +1450,16 @@ def run_selftest(audio_path: str) -> int:
             time.sleep(0.02)
         log.append(f"high_segments={len(app.rhythm.get('segments') or [])}")
         log.append(f"scan_precision={app.scan_precision}")
+        app.run_tempo_scan("ultra")
+        deadline = time.time() + 180
+        while app.busy and time.time() < deadline:
+            root.update()
+            time.sleep(0.02)
+        for _ in range(20):
+            root.update()
+            time.sleep(0.02)
+        log.append(f"ultra_segments={len(app.rhythm.get('segments') or [])}")
+        log.append(f"ultra_precision={app.scan_precision}")
 
     # preview-rate scaling + playback position (silent, volume 0)
     if ok:
