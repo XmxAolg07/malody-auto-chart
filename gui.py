@@ -156,6 +156,7 @@ class WaveformView(tk.Canvas):
         self._resize_job = None
         self._moved = False
         self.playhead: float | None = None
+        self.markers: list[tuple[float, str]] = []
         self.on_seek = None
 
         self.bind("<Configure>", self._on_configure)
@@ -185,6 +186,10 @@ class WaveformView(tk.Canvas):
     def set_playhead(self, seconds: float | None) -> None:
         self.playhead = seconds
         self._draw_playhead()
+
+    def set_markers(self, markers) -> None:
+        self.markers = list(markers or [])
+        self.draw()
 
     def follow(self, seconds: float) -> None:
         """Scroll the view when the playhead leaves the visible window."""
@@ -339,6 +344,13 @@ class WaveformView(tk.Canvas):
                     self.create_line(x, y0, x, y1,
                                      fill=BEAT_ACCENT if accent else BEAT_LINE)
 
+        for t, label in self.markers:
+            if self.start - 0.01 <= t <= self.start + self.span + 0.01:
+                mx = self._x_at(t)
+                self.create_line(mx, y0, mx, y1, fill=GOLD, dash=(3, 4))
+                self.create_text(mx + 3, y0 + 2, text=label, fill=GOLD,
+                                 font=mono(8), anchor="nw")
+
         self.create_line(x0, cy, x1, cy, fill=CENTER_LINE)
 
         # time ruler
@@ -488,6 +500,12 @@ class App:
         self.wave = WaveformView(content)
         self.wave.pack(fill="both", expand=True)
         self.wave.on_seek = self.seek_playhead
+        self.node_bar = tk.Frame(content, bg=BG)
+        self.node_bar.pack(fill="x", pady=(6, 0))
+        self.node_inner = tk.Frame(self.node_bar, bg=BG)
+        self.node_inner.pack(side="left", fill="x", expand=True)
+        self.seg_now = tk.Label(self.node_bar, text="", bg=BG, fg=GOLD, font=font(9))
+        self.seg_now.pack(side="right")
         self._build_transport(content)
 
         # ---- drop zone -------------------------------------------------
@@ -737,6 +755,7 @@ class App:
             if self.samples is not None:
                 pos = self.player.position()
                 self.wave.set_playhead(pos)
+                self._update_active_node(pos)
                 self.time_label.configure(
                     text=f"{fmt_clock(pos)} / {fmt_clock(self.player.duration)}"
                 )
@@ -1160,6 +1179,7 @@ class App:
             self.tempo_badge.configure(text="变速：" + " · ".join(parts), fg=GOLD)
         else:
             self.tempo_badge.configure(text="恒定 BPM（未检测到变速）", fg=GREEN)
+        self._refresh_nodes()
 
         for child in self.cand_frame.winfo_children():
             child.destroy()
@@ -1174,6 +1194,53 @@ class App:
             )
             btn.configure(padx=9, pady=3)
             btn.pack(side="left", padx=(0, 6), pady=2)
+
+    def _refresh_nodes(self) -> None:
+        for child in self.node_inner.winfo_children():
+            child.destroy()
+        self._nodes = []
+        self._active_node = -1
+        segments = (self.rhythm or {}).get("segments") or []
+        if len(segments) <= 1:
+            tk.Label(self.node_inner, text="恒定 BPM", bg=BG, fg=GREEN,
+                     font=font(8)).pack(side="left")
+            self.seg_now.configure(text="")
+            self.wave.set_markers([])
+            return
+        for seg in segments[:8]:
+            btn = flat_button(
+                self.node_inner,
+                f"{fmt_time(seg['start_ms'] / 1000)}  {seg['bpm']:.1f}",
+                lambda t=seg['start_ms'] / 1000: self.seek_playhead(t),
+                size=8,
+            )
+            btn.configure(padx=8, pady=2)
+            btn.pack(side="left", padx=(0, 6))
+            self._nodes.append((btn, seg))
+        self.wave.set_markers([(s["start_ms"] / 1000, f"{s['bpm']:.0f}")
+                               for s in segments[1:]])
+        self.seg_now.configure(text="")
+
+    def _update_active_node(self, pos: float) -> None:
+        segments = (self.rhythm or {}).get("segments") or []
+        if len(segments) <= 1 or not getattr(self, "_nodes", None):
+            return
+        ms = pos * 1000.0
+        active = -1
+        for i, (btn, seg) in enumerate(self._nodes):
+            if seg["start_ms"] <= ms < seg["end_ms"]:
+                active = i
+                break
+        if active == getattr(self, "_active_node", -1):
+            return
+        self._active_node = active
+        for i, (btn, seg) in enumerate(self._nodes):
+            if i == active:
+                btn.configure(bg=GOLD, fg="#1a1204")
+            else:
+                btn.configure(bg=PANEL2, fg=TEXT)
+        if active >= 0:
+            self.seg_now.configure(text=f"当前 {segments[active]['bpm']:.1f} BPM")
 
     def _set_confidence(self, conf: float | None) -> None:
         self.conf_bar.delete("all")
@@ -1232,6 +1299,7 @@ def run_selftest(audio_path: str) -> int:
         time.sleep(0.03)
     ok = bool(app.rhythm and app.rhythm.get("bpm", 0) > 0)
     log.append(f"bpm={app.rhythm.get('bpm') if app.rhythm else None}")
+    log.append(f"segments={len(app.rhythm.get('segments') or []) if app.rhythm else 0}")
 
     # preview-rate scaling + playback position (silent, volume 0)
     if ok:
