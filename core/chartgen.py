@@ -615,7 +615,7 @@ def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
     for beat, lane in notes:
         key = round(beat * 48) / 48
         rows[key] = rows.get(key, 0) | (1 << lane)
-    prev1 = prev2 = prev3 = 0.0
+    prev1 = prev2 = prev3 = prev4 = prev5 = 0.0
     out = []
     for beat in sorted(rows):
         mask = rows[beat]
@@ -624,6 +624,8 @@ def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
         strength = peak[1] if peak else 0.0
         dist = abs(peak[0] - seconds) if peak else 0.12
         bpm = _timeline_bpm(beat, timeline)
+        phase = beat - int(beat)
+        bar = (beat / 4.0) - int(beat / 4.0)
         features = [
             energy.ratio_at(seconds),
             energy.section_ratio(seconds),
@@ -634,12 +636,19 @@ def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
             strength,
             dist,
             energy.peak_density(seconds, 1.0),
-            beat - int(beat),
-            (beat / 4.0) - int(beat / 4.0),
+            math.sin(2 * math.pi * phase),
+            math.cos(2 * math.pi * phase),
+            math.sin(2 * math.pi * bar),
+            math.cos(2 * math.pi * bar),
             bpm / 180.0,
             prev1,
             prev2,
             prev3,
+            prev4,
+            prev5,
+            energy.ratio_at(seconds + 0.05) - energy.ratio_at(seconds - 0.05),
+            energy.onset_at(seconds + 0.05) - energy.onset_at(seconds - 0.05),
+            energy.peak_density(seconds, 0.5),
         ]
         size = predict_size(model, features)
         lanes = [lane for lane in range(4) if mask & (1 << lane)]
@@ -653,7 +662,7 @@ def _apply_row_model(style: str, notes, energy, timeline, row_models) -> list:
                         break
         mask = sum(1 << lane for lane in lanes)
         out.append((beat, mask))
-        prev3, prev2, prev1 = prev2, prev1, len(lanes) / 4.0
+        prev5, prev4, prev3, prev2, prev1 = prev4, prev3, prev2, prev1, len(lanes) / 4.0
     return [(beat, lane) for beat, mask in out
             for lane in range(4) if mask & (1 << lane)]
 

@@ -11,6 +11,7 @@ Run ``python -m core.row_model`` to rebuild the cache, train variants and write
 from __future__ import annotations
 
 import json
+import math
 import random
 from pathlib import Path
 
@@ -33,8 +34,9 @@ FOLDERS = {
 }
 FEATURES = [
     "energy", "section", "onset", "low", "energy_slope", "section_slope",
-    "peak_strength", "peak_dist", "peak_density", "beat_phase", "bar_phase",
-    "bpm", "prev1", "prev2", "prev3",
+    "peak_strength", "peak_dist", "peak_density", "beat_sin", "beat_cos",
+    "bar_sin", "bar_cos", "bpm", "prev1", "prev2", "prev3", "prev4",
+    "prev5", "energy_pm", "onset_pm", "density_short",
 ]
 
 
@@ -118,12 +120,14 @@ def build_dataset(force: bool = False) -> dict:
                 energy = EnergyMap(samples, sr)
                 print(f"{style} chart {chart_id + 1}: {audio.stem[:44]} rows={len(rows)}",
                       flush=True)
-                prev1 = prev2 = prev3 = 0.0
+                prev1 = prev2 = prev3 = prev4 = prev5 = 0.0
                 for beat, seconds, mask, bpm in rows:
                     size = mask.bit_count()
                     peak = energy.nearest_peak(seconds, 0.12)
                     peak_strength = peak[1] if peak else 0.0
                     peak_dist = abs(peak[0] - seconds) if peak else 0.12
+                    phase = beat - int(beat)
+                    bar = (beat / 4.0) - int(beat / 4.0)
                     feats.append([
                         energy.ratio_at(seconds),
                         energy.section_ratio(seconds),
@@ -134,16 +138,23 @@ def build_dataset(force: bool = False) -> dict:
                         peak_strength,
                         peak_dist,
                         energy.peak_density(seconds, 1.0),
-                        beat - int(beat),
-                        (beat / 4.0) - int(beat / 4.0),
+                        math.sin(2 * math.pi * phase),
+                        math.cos(2 * math.pi * phase),
+                        math.sin(2 * math.pi * bar),
+                        math.cos(2 * math.pi * bar),
                         bpm / 180.0,
                         prev1,
                         prev2,
                         prev3,
+                        prev4,
+                        prev5,
+                        energy.ratio_at(seconds + 0.05) - energy.ratio_at(seconds - 0.05),
+                        energy.onset_at(seconds + 0.05) - energy.onset_at(seconds - 0.05),
+                        energy.peak_density(seconds, 0.5),
                     ])
                     targets.append(size - 1)
                     groups.append(chart_id)
-                    prev3, prev2, prev1 = prev2, prev1, size / 4.0
+                    prev5, prev4, prev3, prev2, prev1 = prev4, prev3, prev2, prev1, size / 4.0
                 chart_id += 1
         if feats:
             cache.parent.mkdir(parents=True, exist_ok=True)
