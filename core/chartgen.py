@@ -24,7 +24,9 @@ from .energy import EnergyMap
 from .pattern_model import load_models as load_pattern_models, sample_mask, sample_spacing
 from .row_model import load_models as load_row_models, predict_size
 from .row_timing import load_models as load_timing_models, predict_timing
-from .lane_model import load_models as load_lane_models, sample_mask as sample_lane_mask
+from .lane_model import (load_models as load_lane_models,
+                         sample_mask as sample_lane_mask,
+                         sample_mask_penalized as sample_lane_penalized)
 
 LANES = (0, 1, 2, 3)
 
@@ -482,7 +484,10 @@ def _apply_lane_model(style, notes, lane_models, rng):
         size = rows[beat].bit_count()
         if size <= 0:
             continue
-        mask = sample_lane_mask(model, prev if prev is not None else 0, size, rng)
+        if style == "jack":
+            mask = sample_lane_mask(model, prev if prev is not None else 0, size, rng)
+        else:
+            mask = sample_lane_penalized(model, prev if prev is not None else 0, size, rng)
         out.append((beat, mask))
         prev = mask
     return [(beat, lane) for beat, mask in out

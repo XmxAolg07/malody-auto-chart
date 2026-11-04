@@ -127,6 +127,31 @@ def main() -> None:
     print("saved", MODEL_PATH)
 
 
+
+def sample_mask_penalized(model: dict, prev_mask, size: int, rng,
+                          penalty: float = 0.55) -> int:
+    key = f"{prev_mask}|{size}"
+    dist = model.get("trans", {}).get(key)
+    if not dist:
+        dist = model.get("init", {}).get(str(size))
+    if not dist:
+        return rng.choice(MASKS_BY_SIZE[size])
+    masks = [int(mask) for mask in dist]
+    weights = []
+    for mask in masks:
+        weight = float(dist[str(mask)])
+        if prev_mask:
+            shared = (mask & prev_mask).bit_count()
+            weight *= max(0.04, 1.0 - penalty * shared / max(1, size))
+        weights.append(weight)
+    if size == 1 and prev_mask:
+        blocked = [mask for mask in masks if mask == prev_mask]
+        if len(blocked) < len(masks):
+            for index, mask in enumerate(masks):
+                if mask == prev_mask:
+                    weights[index] = 0.0
+    return rng.choices(masks, weights=weights, k=1)[0]
+
 def load_models(path: Path = MODEL_PATH) -> dict:
     try:
         return json.loads(path.read_text(encoding="utf-8"))

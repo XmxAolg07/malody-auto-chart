@@ -11,8 +11,17 @@ from __future__ import annotations
 import bisect
 import json
 import math
+import os
+import struct
+import tempfile
 import tkinter as tk
+import wave
 from pathlib import Path
+
+try:
+    import winsound
+except ImportError:  # non-Windows
+    winsound = None
 
 BG = "#0a0c11"
 PANEL = "#12161f"
@@ -88,13 +97,17 @@ class ChartPreviewWindow(tk.Toplevel):
         self.chart = load_chart(chart_path)
         self.title(f"谱面预览 — {self.chart_path.name}")
         self.configure(bg=BG)
-        self.geometry("1080x720")
-        self.minsize(820, 560)
+        self.geometry("1240x820")
+        self.minsize(900, 620)
         self.transient(app.root)
         self.offset_ms = 0.0
         self.speed = 620.0
         self.closed = False
         self._drag_seek = False
+        self.sound_on = tk.BooleanVar(value=True)
+        self.grid_on = tk.BooleanVar(value=True)
+        self.last_pos = app.player.position()
+        self.click_path = self._make_click()
         self._build()
         self.bind("<space>", lambda _e: self.toggle())
         self.bind("<Left>", lambda _e: self.seek_by(-1.0))
@@ -163,6 +176,15 @@ class ChartPreviewWindow(tk.Toplevel):
         self.speed_scale.set(620)
         self.speed_scale.pack(fill="x", padx=10)
 
+        options = tk.Frame(side, bg=PANEL)
+        options.pack(fill="x", padx=10, pady=(6, 0))
+        for label, variable in (("按键音", self.sound_on), ("网格", self.grid_on)):
+            tk.Checkbutton(
+                options, text=label, variable=variable, bg=PANEL, fg=TEXT,
+                selectcolor="#202736", activebackground=PANEL,
+                activeforeground=GOLD, font=("Microsoft YaHei UI", 8),
+            ).pack(side="left", padx=(0, 10))
+
         tk.Label(side, text="空格 播放/暂停 · ←/→ 1s · ↑/↓ 5s",
                  bg=PANEL, fg=FAINT, font=("Microsoft YaHei UI", 7),
                  wraplength=220, justify="left").pack(anchor="w", padx=14, pady=(10, 0))
@@ -180,6 +202,7 @@ class ChartPreviewWindow(tk.Toplevel):
     # -- controls -------------------------------------------------------
     def _on_offset(self, value) -> None:
         self.offset_ms = float(value)
+        self.last_pos = self._position()
         self.draw()
 
     def _on_speed(self, value) -> None:
@@ -194,6 +217,7 @@ class ChartPreviewWindow(tk.Toplevel):
             if player.position() >= player.duration - 0.05:
                 player.seek(0.0)
             player.play()
+            self.last_pos = player.position()
         self._sync_button()
 
     def _sync_button(self) -> None:
@@ -203,6 +227,7 @@ class ChartPreviewWindow(tk.Toplevel):
     def seek_by(self, delta: float) -> None:
         player = self.app.player
         player.seek(max(0.0, min(player.duration, player.position() + delta)))
+        self.last_pos = player.position()
         self.draw()
 
     def _seek_click(self, event) -> None:
@@ -220,6 +245,7 @@ class ChartPreviewWindow(tk.Toplevel):
         width = max(1, self.seek.winfo_width())
         fraction = min(1.0, max(0.0, x / width))
         self.app.player.seek(fraction * self.app.player.duration)
+        self.last_pos = self._position()
         self.draw()
 
     # -- position helper ------------------------------------------------
@@ -258,27 +284,50 @@ class ChartPreviewWindow(tk.Toplevel):
             canvas.create_line(x0, 0, x0, height, fill="#202736")
         canvas.create_line(width - margin, 0, width - margin, height, fill="#202736")
         canvas.create_line(margin, judge_y, width - margin, judge_y,
+                           fill="#5a4312", width=7)
+        canvas.create_line(margin, judge_y, width - margin, judge_y,
                            fill=GOLD, width=2)
         canvas.create_text(margin + 6, judge_y + 12, text="判定线",
                            fill=FAINT, font=("Microsoft YaHei UI", 7), anchor="w")
 
-        # measure lines every 4 beats
+        # beat grid: 1/4 beat lines, stronger at beats and measures
         start_beat, _bpm = self._beat_at(max(0.0, pos))
         end_beat, _bpm2 = self._beat_at(pos + judge_y / max(1.0, self.speed) + 0.5)
-        measure = math.floor(start_beat / 4.0) * 4.0
-        while measure <= end_beat:
-            beat_now = measure
-            seconds = self._time_at(beat_now)
-            y = judge_y - (seconds - pos) * self.speed
-            if 0 <= y <= height:
-                canvas.create_line(margin, y, width - margin, y, fill="#1b2230")
-            measure += 4.0
+        if self.grid_on.get():
+            step = 0.25
+            beat_now = math.floor(start_beat / step) * step
+            while beat_now <= end_beat:
+                seconds = self._time_at(beat_now)
+                y = judge_y - (seconds - pos) * self.speed
+                if 0 <= y <= height:
+                    if abs(beat_now - round(beat_now)) < 1e-6:
+                        measure = int(round(beat_now))
+                        color = "#3a4560" if measure % 4 == 0 else "#242c3d"
+                        thickness = 2 if measure % 4 == 0 else 1
+                    else:
+                        color, thickness = "#161c28", 1
+                    canvas.create_line(margin, y, width - margin, y,
+                                       fill=color, width=thickness)
+                beat_now += step
+        else:
+            measure = math.floor(start_beat / 4.0) * 4.0
+            while measure <= end_beat:
+                seconds = self._time_at(measure)
+                y = judge_y - (seconds - pos) * self.speed
+                if 0 <= y <= height:
+                    canvas.create_line(margin, y, width - margin, y, fill="#1b2230")
+                measure += 4.0
+
+        for lane in range(4):
+            center = margin + (lane + 0.5) * lane_w
+            canvas.create_text(center, 12, text=str(lane + 1), fill=FAINT,
+                               font=("Consolas", 9))
 
         # notes
         lookahead = judge_y / max(1.0, self.speed) + 0.4
         lo = bisect.bisect_left(self.chart["times"], pos - 0.2)
         hi = bisect.bisect_right(self.chart["times"], pos + lookahead)
-        note_h = 10
+        note_h = 12
         for index in range(lo, hi):
             when, lane = self.chart["notes"][index]
             y = judge_y - (when - pos) * self.speed
@@ -339,10 +388,53 @@ class ChartPreviewWindow(tk.Toplevel):
                            text=f"{int(duration // 60):02d}:{duration % 60:06.3f}",
                            fill=FAINT, font=("Consolas", 8), anchor="ne")
 
+    def _make_click(self):
+        if winsound is None:
+            return None
+        path = os.path.join(tempfile.gettempdir(), "malody_key_click.wav")
+        try:
+            frames = bytearray()
+            rate = 44100
+            for index in range(int(rate * 0.025)):
+                envelope = math.exp(-index / (rate * 0.006))
+                value = int(10000 * envelope * math.sin(2 * math.pi * 1600 * index / rate))
+                frames += struct.pack("<h", value)
+            with wave.open(path, "wb") as handle:
+                handle.setnchannels(1)
+                handle.setsampwidth(2)
+                handle.setframerate(rate)
+                handle.writeframes(bytes(frames))
+            return path
+        except Exception:
+            return None
+
+    def _play_click(self) -> None:
+        if winsound is None or not self.click_path:
+            return
+        try:
+            winsound.PlaySound(
+                self.click_path,
+                winsound.SND_FILENAME | winsound.SND_ASYNC | winsound.SND_NODEFAULT)
+        except Exception:
+            pass
+
+    def _play_hits(self, start: float, end: float) -> None:
+        if not self.sound_on.get():
+            return
+        offset = self.offset_ms / 1000.0
+        lo = bisect.bisect_right(self.chart["times"], start - offset)
+        hi = bisect.bisect_right(self.chart["times"], end - offset)
+        for _ in range(min(6, max(0, hi - lo))):
+            self._play_click()
+
     def _tick(self) -> None:
         if self.closed:
             return
         try:
+            position = self._position()
+            if self.app.player.playing and position > self.last_pos:
+                self._play_hits(self.last_pos, position)
+            self.last_pos = position
             self.draw()
             self._sync_button()
         except tk.TclError:
