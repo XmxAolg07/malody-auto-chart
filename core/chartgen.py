@@ -18,6 +18,8 @@ import json
 import random
 from pathlib import Path
 
+from .pattern_model import load_models, sample_mask, sample_spacing
+
 LANES = (0, 1, 2, 3)
 
 STYLES = {
@@ -163,6 +165,30 @@ def _tech_block(rng, start_beat, end_beat, bpm):
     return notes
 
 
+
+def _model_block(rng: random.Random, model: dict, start_beat: float,
+                 end_beat: float, bpm: float) -> list[tuple[float, int]]:
+    """Sample rows from the learned mask-transition model."""
+    notes: list[tuple[float, int]] = []
+    beat = start_beat
+    mask = sample_mask(model, rng)
+    phrase_end = start_beat + 32.0
+    while beat < end_beat - 1e-6:
+        for lane in range(4):
+            if mask & (1 << lane):
+                notes.append((beat, lane))
+        gap = sample_spacing(model, rng, bpm)
+        beat += gap
+        if beat >= end_beat - 1e-6:
+            break
+        mask = sample_mask(model, rng, mask)
+        if beat >= phrase_end:
+            phrase_end += 32.0
+            if rng.random() < 0.35:
+                mask = sample_mask(model, rng)
+    return notes
+
+
 def generate_chart(style: str, rhythm: dict, duration_s: float,
                    title: str = "", artist: str = "Unknown",
                    seed: int | None = None) -> dict:
@@ -172,18 +198,24 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
     rng = random.Random(seed)
     timeline = tempo_timeline(rhythm, duration_s)
 
+    models = load_models()
+    model = models.get(style)
     notes: list[tuple[float, int]] = []
-    for start_beat, end_beat, bpm, _start_sec in timeline:
-        if style == "stream":
-            block = _stream_block(rng, start_beat, end_beat, step=0.5,
-                                  jump_rate=0.18, hand_rate=0.03)
-        elif style == "speed":
-            block = _speed_block(rng, start_beat, end_beat, bpm)
-        elif style == "jack":
-            block = _jack_block(rng, start_beat, end_beat, bpm)
-        else:
-            block = _tech_block(rng, start_beat, end_beat, bpm)
-        notes.extend(block)
+    if model:
+        for start_beat, end_beat, bpm, _start_sec in timeline:
+            notes.extend(_model_block(rng, model, start_beat, end_beat, bpm))
+    else:
+        for start_beat, end_beat, bpm, _start_sec in timeline:
+            if style == "stream":
+                block = _stream_block(rng, start_beat, end_beat, step=0.5,
+                                      jump_rate=0.18, hand_rate=0.03)
+            elif style == "speed":
+                block = _speed_block(rng, start_beat, end_beat, bpm)
+            elif style == "jack":
+                block = _jack_block(rng, start_beat, end_beat, bpm)
+            else:
+                block = _tech_block(rng, start_beat, end_beat, bpm)
+            notes.extend(block)
 
     unique = {}
     for beat, lane in notes:
