@@ -296,14 +296,17 @@ def _jack_notes(rng, model, start, end, bpm, state):
     notes, lane_last, jump_count = [], {}, {}
     beat = start
     while beat < end - 1e-6:
-        size = rng.choices([1, 2, 3, 4], weights=[24, 43, 27, 6], k=1)[0]
+        size = rng.choices([1, 2, 3, 4], weights=[28, 45, 27, 0], k=1)[0]
         lanes = rng.sample(range(4), size)
-        mask = sum(1 << lane for lane in lanes)
         repeats = rng.choice([2, 3, 4])
-        for _ in range(repeats):
+        for repeat in range(repeats):
             if beat >= end - 1e-6:
                 break
+            row_index = state.get("jack_row", 0)
+            shifted = [(lane + row_index) % 4 for lane in lanes]
+            mask = sum(1 << lane for lane in shifted)
             _place(mask, beat, notes, lane_last, jump_count)
+            state["jack_row"] = row_index + 1
             beat += 0.25
         beat += rng.choice([0.5, 0.75])
     return notes
@@ -325,7 +328,7 @@ POST_RULES = {
     "speed": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
               "max_run": 16, "run_gap": 0.25, "max_chord": 2},
     "jack": {"lane_gap": 0.25, "max_jumps_per_beat": 99,
-             "max_run": 99, "jack_repeat": 4, "max_chord": 4},
+             "max_run": 99, "jack_repeat": 4, "max_chord": 3},
     "tech": {"lane_gap": 0.25, "max_jumps_per_beat": 2,
              "max_run": 8, "run_gap": 0.25, "max_chord": 3},
 }
@@ -424,6 +427,100 @@ def _timeline_bpm(beat: float, timeline) -> float:
             seg = candidate
             break
     return seg[2]
+
+
+ANCHOR_LIMIT = {"stream": 5, "jack": 5, "speed": 4, "tech": 6}
+
+
+def _limit_anchor(style: str, notes):
+    """Break same-column runs longer than the style anchor limit.
+
+    Row timing and note counts stay identical; only the column of an offending
+    note changes, so density is untouched.
+    """
+    limit = ANCHOR_LIMIT.get(style, 6)
+    rules = POST_RULES.get(style, {})
+    min_gap = rules.get("lane_gap", 0.25)
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    if not rows:
+        return notes
+    runs = {lane: 0 for lane in range(4)}
+    last = {lane: -99.0 for lane in range(4)}
+    prev_beat = None
+    out = []
+    rotation = 0
+    for beat in sorted(rows):
+        mask = rows[beat]
+        if prev_beat is not None and beat - prev_beat > 1.0:
+            runs = {lane: 0 for lane in range(4)}
+        lanes = [lane for lane in range(4) if mask & (1 << lane)]
+        if style == "jack":
+            size = len(lanes)
+            if size == 4 and any(runs[lane] + 1 > limit for lane in lanes):
+                size = 3
+            if size == 3:
+                lanes = [lane for lane in range(4) if lane != rotation % 4]
+            elif size == 2:
+                pair = (rotation * 2) % 4
+                lanes = [pair, (pair + 1) % 4]
+            elif size == 1:
+                lanes = [rotation % 4]
+            rotation += 1
+        for lane in (list(lanes) if style != "jack" else []):
+            if runs[lane] + 1 <= limit:
+                continue
+            candidates = [
+                other for other in range(4)
+                if other not in lanes
+                and beat - last[other] >= min_gap - 1e-9
+                and runs[other] + 1 <= limit
+            ]
+            if not candidates:
+                continue
+            replacement = min(candidates,
+                              key=lambda other: (runs[other], -(beat - last[other])))
+            lanes.remove(lane)
+            lanes.append(replacement)
+        for lane in range(4):
+            if lane in lanes:
+                runs[lane] += 1
+                last[lane] = beat
+            else:
+                runs[lane] = 0
+        out.append((beat, sum(1 << lane for lane in lanes)))
+        prev_beat = beat
+    return [(beat, lane) for beat, mask in out
+            for lane in range(4) if mask & (1 << lane)]
+
+
+
+
+def _rebuild_jack_anchor(notes):
+    """Jack: choose each row's columns with the shortest current anchor."""
+    rows = {}
+    for beat, lane in notes:
+        key = round(beat * 48) / 48
+        rows[key] = rows.get(key, 0) | (1 << lane)
+    runs = {lane: 0 for lane in range(4)}
+    last = {lane: -99.0 for lane in range(4)}
+    out = []
+    for beat in sorted(rows):
+        size = min(3, rows[beat].bit_count())
+        if size == 0:
+            continue
+        lanes = sorted(range(4), key=lambda lane: (runs[lane], last[lane], lane))[:size]
+        for lane in range(4):
+            if lane in lanes:
+                runs[lane] += 1
+                last[lane] = beat
+            else:
+                runs[lane] = 0
+        out.append((beat, sum(1 << lane for lane in lanes)))
+    return [(beat, lane) for beat, mask in out
+            for lane in range(4) if mask & (1 << lane)]
 
 
 def _apply_timing(style: str, notes, energy, timeline, timing_models):
@@ -612,6 +709,9 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
         notes = _apply_row_model(style, notes, energy, timeline, row_models)
         notes = _apply_energy(style, notes, energy, timeline, rng)
     notes = _enforce_constraints(style, notes)
+    notes = _limit_anchor(style, notes)
+    if style == "jack":
+        notes = _rebuild_jack_anchor(notes)
 
     unique = {}
     for beat, lane in notes:
