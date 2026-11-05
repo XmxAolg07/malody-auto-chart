@@ -33,3 +33,7 @@ __pycache__/
 /assets/latent_diffusion.pt
 /assets/mug_v2_ae.pt
 /assets/mug_v2_diff.pt
+/community_downloads/
+/community_clean/
+/.screen/Chartunes-src/
+/.screen/Mug-Diffusion-src/
