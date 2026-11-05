@@ -38,9 +38,16 @@ def _request(method: str, url: str, params=None, data=None):
     if params:
         url += "?" + urllib.parse.urlencode(params)
     body = urllib.parse.urlencode(data).encode() if data else None
-    req = urllib.request.Request(url, data=body, headers=HEADERS, method=method)
-    with urllib.request.urlopen(req, timeout=60) as response:
-        return response.read()
+    last = None
+    for attempt in range(3):
+        req = urllib.request.Request(url, data=body, headers=HEADERS, method=method)
+        try:
+            with urllib.request.urlopen(req, timeout=45) as response:
+                return response.read()
+        except Exception as exc:
+            last = exc
+            time.sleep(1.5 * (attempt + 1))
+    raise last
 
 
 def _json(raw: bytes):
@@ -108,6 +115,10 @@ def fetch_file(sid, uid, item, out_dir: Path):
 
 
 def main() -> None:
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--query", default="")
@@ -169,6 +180,12 @@ def main() -> None:
                 print("skip osu-port", cid, version)
                 continue
             out_dir = out_root / f"{cid}_{version.replace(' ', '_')}"
+            if out_dir.exists():
+                files = [p for p in out_dir.iterdir() if p.suffix.lower() in
+                         (".mc", ".mcz", ".osu", ".ogg", ".mp3", ".wav")]
+                if any(p.suffix.lower() in (".mc", ".osu") for p in files) and                         any(p.suffix.lower() in (".ogg", ".mp3", ".wav") for p in files):
+                    print("skip existing", cid, version)
+                    continue
             out_dir.mkdir(parents=True, exist_ok=True)
             (out_dir / "manifest.json").write_text(json.dumps(info, ensure_ascii=False, indent=1),
                                                    encoding="utf-8")
