@@ -764,3 +764,14 @@ python -m core.mug_v2 diff --epochs 10
 python scripts/build_chart_manifest.py
 `
 
+### 连续小批攒谱（不训练）
+
+scripts/accumulate.py 连续执行 100 张/批、1 并发、批间休息 30 秒，
+自动跳过已完成目录，结束后刷新清单。
+
+`powershell
+python scripts/accumulate.py --batches 3 --limit 100 --workers 1 --max-songs 250
+`
+
+实测第一批 100 张 **239 秒**，新增 96 张；服务器空闲时速度明显快于最初。
+
