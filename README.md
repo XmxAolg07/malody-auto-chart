@@ -668,3 +668,32 @@ mel 特征主要提升了 Jack 和镜像指标，未改变 70% 同键数的上�
 结论：训练流程与 Mug 对齐了，但 391 首 + 从零训练仍不足以学出有效 latent 分布；
 **不接入**。Mug 的质量来自更大数据 + 预训练 autoencoder/扩散权重。
 
+### 315 张社区蓝图重训统计先验
+
+从 315 张合格社区谱统计（core/community_stats.py）：
+
+- 和弦比例：单押 60.6%、双押 30.4%、三押 8.2%、四押 0.7%
+- 行间距：1/4 拍 47.9%、1/2 拍 20.4%、1/8 拍 14.2%
+- 镜像增强后的 P(next mask | prev mask, size) 转移表，共 60 个条件
+
+排列采样按 **30%** 混入社区转移概率。基准结果（16 张）：
+
+| 指标 | 混入前 | 混入后 |
+|---|---|---|
+| 行覆盖 | 90.7% | 90.7% |
+| 同键数 | 49.6% | 49.6% |
+| 精确 mask | 12.6% | 12.5% |
+| 镜像完美 | 23.9% | 23.9% |
+
+社区谱风格分布与段位基准不同，迁移收益基本为零；先验已保留，供后续按风格训练使用。
+
+### Mug-Diffusion 本地源码观察
+
+源码已下载到 .screen/Mug-Diffusion-src（4.6 MB，无权重/数据）：
+
+- 训练入口：main.py --base configs/mug/mug_diffusion_stft.yaml -t --gpus 0
+- 两阶段：configs/mug/autoencoder.yaml 训 KL autoencoder，再训 latent diffusion
+- 关键参数：latent 32 通道、x0 预测、L1、lr 5e-5、mirror 0.3、condition dropout 0.5、batch 16
+- 数据要求：data/beatmap_4k/beatmap.txt + 音频缓存；仓库不含训练数据
+- 预训练权重通过外部网盘分发，当前域名无法解析
+

@@ -128,14 +128,32 @@ def main() -> None:
 
 
 
+def _blend(dist, extra, key, size, weight):
+    if not extra:
+        return dist
+    community = extra.get(key)
+    if not community:
+        return dist
+    if not dist:
+        return community
+    merged = {}
+    for mask, prob in dist.items():
+        merged[str(mask)] = merged.get(str(mask), 0.0) + (1.0 - weight) * float(prob)
+    for mask, prob in community.items():
+        merged[str(mask)] = merged.get(str(mask), 0.0) + weight * float(prob)
+    return merged
+
+
 def sample_mask_penalized(model: dict, prev_mask, size: int, rng,
-                          penalty: float = 0.55) -> int:
+                          penalty: float = 0.55, extra=None,
+                          extra_weight: float = 0.3) -> int:
     key = f"{prev_mask}|{size}"
     dist = model.get("trans", {}).get(key)
     if not dist:
         dist = model.get("init", {}).get(str(size))
     if not dist:
         return rng.choice(MASKS_BY_SIZE[size])
+    dist = _blend(dist, extra, key, size, extra_weight)
     masks = [int(mask) for mask in dist]
     weights = []
     for mask in masks:
@@ -159,7 +177,8 @@ def load_models(path: Path = MODEL_PATH) -> dict:
         return {}
 
 
-def sample_mask(model: dict, prev_mask, size: int, rng) -> int:
+def sample_mask(model: dict, prev_mask, size: int, rng, extra=None,
+                extra_weight: float = 0.2) -> int:
     key = f"{prev_mask}|{size}"
     dist = model.get("trans", {}).get(key)
     if not dist:
@@ -167,6 +186,7 @@ def sample_mask(model: dict, prev_mask, size: int, rng) -> int:
     if not dist:
         masks = MASKS_BY_SIZE[size]
         return rng.choice(masks)
+    dist = _blend(dist, extra, key, size, extra_weight)
     masks = [int(mask) for mask in dist]
     weights = list(dist.values())
     return rng.choices(masks, weights=weights, k=1)[0]

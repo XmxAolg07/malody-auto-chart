@@ -484,7 +484,7 @@ def _fill_grid(style, notes, energy, timeline):
             for lane in range(4) if mask & (1 << lane)]
 
 
-def _apply_lane_model(style, notes, lane_models, rng):
+def _apply_lane_model(style, notes, lane_models, rng, community=None):
     model = lane_models.get(style)
     if not model:
         return notes
@@ -499,9 +499,9 @@ def _apply_lane_model(style, notes, lane_models, rng):
         if size <= 0:
             continue
         if style == "jack":
-            mask = sample_lane_mask(model, prev if prev is not None else 0, size, rng)
+            mask = sample_lane_mask(model, prev if prev is not None else 0, size, rng, extra=community, extra_weight=0.2)
         else:
-            mask = sample_lane_penalized(model, prev if prev is not None else 0, size, rng)
+            mask = sample_lane_penalized(model, prev if prev is not None else 0, size, rng, extra=community, extra_weight=0.3)
         out.append((beat, mask))
         prev = mask
     return [(beat, lane) for beat, mask in out
@@ -820,6 +820,13 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
     row_models = load_row_models()
     timing_models = load_timing_models()
     lane_models = load_lane_models()
+    community_stats = None
+    community_path = Path(__file__).resolve().parent.parent / "assets" / "community_stats.json"
+    if community_path.exists():
+        try:
+            community_stats = json.loads(community_path.read_text(encoding="utf-8"))["trans"]
+        except Exception:
+            community_stats = None
     model = models.get(style)
     notes: list[tuple[float, int]] = []
     if model:
@@ -845,7 +852,7 @@ def generate_chart(style: str, rhythm: dict, duration_s: float,
         notes = _apply_row_model(style, notes, energy, timeline, row_models, mel)
         notes = _apply_energy(style, notes, energy, timeline, rng)
         notes = _fill_grid(style, notes, energy, timeline)
-    notes = _apply_lane_model(style, notes, lane_models, rng)
+    notes = _apply_lane_model(style, notes, lane_models, rng, community_stats)
     notes = _snap_to_grid(style, notes)
     notes = _enforce_constraints(style, notes)
     notes = _limit_anchor(style, notes)
