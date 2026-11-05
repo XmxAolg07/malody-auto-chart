@@ -1,6 +1,6 @@
 # 训练谱面清单
 
-共 **408** 张。
+共 **493** 张。
 
 | # | 曲名 | 艺术家 | 难度 | BPM | 音符 | 时长(s) | 来源 | 路径 |
 |---|---|---|---|---|---|---|---|---|
@@ -397,18 +397,103 @@
 | 391 | Malody 4K Regular Dan v3-Technical | Various Artists | Reg-7 Six Acid Strings | 200.0 | 1799 | 132.0 | dan/reg/tech | `...AAA实例谱子存放处！\reg tech\0\Various Artists - Malody 4K Regular Dan v3-Technical (7dan).mc` |
 | 392 | Malody 4K Regular Dan v3-Technical | Various Artists | Reg-8 Yoru ni Kakeru (1.05x) | 136.5 | 2081 | 135.6 | dan/reg/tech | `...AAA实例谱子存放处！\reg tech\0\Various Artists - Malody 4K Regular Dan v3-Technical (8dan).mc` |
 | 393 | Malody 4K Regular Dan v3-Technical | Various Artists | Reg-9 Cold Planet | 174.0 | 1889 | 123.7 | dan/reg/tech | `...AAA实例谱子存放处！\reg tech\0\Various Artists - Malody 4K Regular Dan v3-Technical (9dan).mc` |
-| 394 | AXION | 削除 | 4K Easy Lv.7 | 160.0 | 242 | 115.5 | malody_download/community | `community_downloads\115257_4K_Easy_Lv.7\1649685000.mc` |
-| 395 | AXION | 削除 | 4K Hard Lv.16 | 160.0 | 567 | 115.5 | malody_download/community | `community_downloads\115270_4K_Hard_Lv.16\1649681908.mc` |
-| 396 | Dear You | DJ Genericname | 4K MX | 174.1 | 1122 | 112.9 | malody_download/community | `community_downloads\1077_4K_MX_Lv.25\DJ Genericname - Dear You (Taiwan-NAK) [4K MX].mc` |
-| 397 | Dear You | DJ Genericname | 4K NM | 174.1 | 414 | 112.9 | malody_download/community | `community_downloads\1078_4K_NM_Lv.14\DJ Genericname - Dear You (Taiwan-NAK) [4K NM].mc` |
-| 398 | Dear You | DJ Genericname | S.Star's 4K HD+ | 174.1 | 1046 | 113.6 | malody_download/community | `community_downloads\1082_S.Star's_4K_HD+_Lv.19\DJ Genericname - Dear You (Taiwan-NAK) [S.Star's 4K HD+].mc` |
-| 399 | Fantastic future (TV Size) | Tamura Yukari | 4K HD | 172.0 | 498 | 86.9 | malody_download/community | `community_downloads\1070_4K_HD_Lv.15\Tamura Yukari - Fantastic future (TV Size) (victorica_db) [4K HD].mc` |
-| 400 | Fantastic future (TV Size) | Tamura Yukari | 4K MX | 172.0 | 734 | 87.0 | malody_download/community | `community_downloads\1071_4K_MX_Lv.26\Tamura Yukari - Fantastic future (TV Size) (victorica_db) [4K MX].mc` |
-| 401 | Fantastic future (TV Size) | Tamura Yukari | 4K NM | 172.0 | 282 | 86.9 | malody_download/community | `community_downloads\1072_4K_NM_Lv.11\Tamura Yukari - Fantastic future (TV Size) (victorica_db) [4K NM].mc` |
-| 402 | IGNITE (TV size ver.) | Aoi Eir | 4K LV.6 | 171.01 | 316 | 86.8 | malody_download/community | `community_downloads\1083_4K_Lv.14\Aoi Eir - IGNITE (TV size ver.) (victorica_db) [4K LV.6].mc` |
-| 403 | IGNITE (TV size ver.) | Aoi Eir | 4K LV.9 | 171.01 | 575 | 86.8 | malody_download/community | `community_downloads\1084_4K_Lv.21\Aoi Eir - IGNITE (TV size ver.) (victorica_db) [4K LV.9].mc` |
-| 404 | IGNITE (TV size ver.) | Aoi Eir | 4K LV.12 | 171.01 | 727 | 86.8 | malody_download/community | `community_downloads\1085_4K_Lv.27\Aoi Eir - IGNITE (TV size ver.) (victorica_db) [4K LV.12].mc` |
-| 405 | Kimi ga Yume wo Tsuretekita (TV Size) | Pet na Kanojotachi | 4K HD | 135.0 | 643 | 86.9 | malody_download/community | `community_downloads\1074_4K_HD_Lv.25\Pet na Kanojotachi - Kimi ga Yume wo Tsuretekita (TV Size) (victorica_db) [4K HD].mc` |
-| 406 | Kimi ga Yume wo Tsuretekita (TV Size) | Pet na Kanojotachi | Spy&vic'4K NM | 135.0 | 316 | 86.7 | malody_download/community | `community_downloads\1076_Spy&vic'4K_NM_Lv.12\Pet na Kanojotachi - Kimi ga Yume wo Tsuretekita (TV Size) (victorica_db) [Spy&vic'4K NM].mc` |
-| 407 | Miku Miku ni Shite Ageru | ika | 4K Lv.6 | 160.0 | 443 | 95.8 | malody_download/community | `community_downloads\1089_4K_Lv.13\ika - Miku Miku ni Shite Ageru (Simple_Star) [4K Lv.6].mc` |
-| 408 | Miku Miku ni Shite Ageru | ika | 4K Lv.8 | 160.0 | 559 | 95.8 | malody_download/community | `community_downloads\1090_4K_Lv.17\ika - Miku Miku ni Shite Ageru (Simple_Star) [4K Lv.8].mc` |
+| 394 | Anisakis -somatic mutation type "Forza"- | 朱雀 | 4K Hard Lv.26 | 185.0 | 1234 | 130.1 | malody_download/community | `community_downloads\127370_4K_Hard_Lv.26\1681542872.mc` |
+| 395 | Anisakis -somatic mutation type "Forza"- | 朱雀 | 4K Normal Lv.18 | 185.0 | 1001 | 130.1 | malody_download/community | `community_downloads\127528_4K_Normal_Lv.18\1686706498.mc` |
+| 396 | Anisakis -somatic mutation type "Forza"- | 朱雀 | 4K Easy Lv.9 | 185.0 | 318 | 130.1 | malody_download/community | `community_downloads\127529_4K_Easy_Lv.9\1687072920.mc` |
+| 397 | AXION | 削除 | 4K Extra Lv.24 | 160.0 | 1082 | 116.1 | malody_download/community | `community_downloads\115247_4K_Extra_Lv.24\1649678779.mc` |
+| 398 | AXION | 削除 | 4K Easy Lv.7 | 160.0 | 242 | 115.5 | malody_download/community | `community_downloads\115257_4K_Easy_Lv.7\1649685000.mc` |
+| 399 | AXION | 削除 | 4K Hard Lv.16 | 160.0 | 567 | 115.5 | malody_download/community | `community_downloads\115270_4K_Hard_Lv.16\1649681908.mc` |
+| 400 | AXION | 削除 | 4K Another Lv.25 | 160.0 | 944 | 115.5 | malody_download/community | `community_downloads\116515_4K_Another_Lv.25\1603719964.mc` |
+| 401 | Bios | Hiroyuki Sawano feat. Mika Kobayashi | Lv.5 | 194.0 | 259 | 148.3 | malody_download/community | `community_downloads\1212_4K_Lv.5\Hiroyuki Sawano feat. Mika Kobayashi - Bios (Lieselotte) [Lv.5].mc` |
+| 402 | Bios | Hiroyuki Sawano feat. Mika Kobayashi | Lv.11 | 194.0 | 810 | 148.3 | malody_download/community | `community_downloads\1213_4K_Lv.11\Hiroyuki Sawano feat. Mika Kobayashi - Bios (Lieselotte) [Lv.11].mc` |
+| 403 | conflict | siromaru + cranky | 4K Normal Lv.9 | 160.0 | 528 | 144.4 | malody_download/community | `community_downloads\45434_4K_Normal_Lv.9\4KNormal.mc` |
+| 404 | conflict | siromaru + cranky | 4K Hyper Lv.19 | 160.0 | 964 | 144.4 | malody_download/community | `community_downloads\45435_4K_Hyper_Lv.19\4KHyper.mc` |
+| 405 | conflict | siromaru + cranky | 4K Another Lv.25 | 160.0 | 1573 | 144.4 | malody_download/community | `community_downloads\45436_4K_Another_Lv.25\4KAnother.mc` |
+| 406 | conflict | siromaru + cranky | 4K EX Lv.28 | 160.0 | 1688 | 144.4 | malody_download/community | `community_downloads\45437_4K_EX_Lv.29\4KEX.mc` |
+| 407 | conflict | siromaru + cranky | 4K Another 2019 | 160.0 | 1640 | 144.4 | malody_download/community | `community_downloads\46452_4K_Another_2019_Lv.26\4Kre.mc` |
+| 408 | Dango Daikazoku (TV Animation Ver.) | Chata | 4K Normal | 100.0 | 161 | 83.4 | malody_download/community | `community_downloads\1093_4K_Normal_Lv.8\Chata - Dango Daikazoku (TV Animation Ver.) (Simple_Star) [4K Normal].mc` |
+| 409 | Dear You | DJ Genericname | 4K MX | 174.1 | 1122 | 112.9 | malody_download/community | `community_downloads\1077_4K_MX_Lv.25\DJ Genericname - Dear You (Taiwan-NAK) [4K MX].mc` |
+| 410 | Dear You | DJ Genericname | 4K NM | 174.1 | 414 | 112.9 | malody_download/community | `community_downloads\1078_4K_NM_Lv.14\DJ Genericname - Dear You (Taiwan-NAK) [4K NM].mc` |
+| 411 | Dear You | DJ Genericname | S.Star's 4K HD+ | 174.1 | 1046 | 113.6 | malody_download/community | `community_downloads\1082_S.Star's_4K_HD+_Lv.19\DJ Genericname - Dear You (Taiwan-NAK) [S.Star's 4K HD+].mc` |
+| 412 | Destin Histoire (TV Size) | yoshiki*lisa | Easy | 166.0 | 204 | 83.3 | malody_download/community | `community_downloads\1105_4K_Easy_Lv.11\yoshikilisa - Destin Histoire (TV Size) (victorica_db) [Easy].mc` |
+| 413 | Destin Histoire (TV Size) | yoshiki*lisa | Hard | 166.0 | 505 | 83.9 | malody_download/community | `community_downloads\1106_4K_Hard_Lv.20\yoshikilisa - Destin Histoire (TV Size) (victorica_db) [Hard].mc` |
+| 414 | Destin Histoire (TV Size) | yoshiki*lisa | Normal | 166.0 | 325 | 83.9 | malody_download/community | `community_downloads\1107_4K_Normal_Lv.15\yoshikilisa - Destin Histoire (TV Size) (victorica_db) [Normal].mc` |
+| 415 | entelecheia | Rche | 4K Another Lv.30 | 185.0 | 1452 | 100.5 | malody_download/community | `community_downloads\1178_4K_Another_Lv.30\Rche - entelecheia (lansb) [Another].mc` |
+| 416 | entelecheia | Rche | 4K Hyper Lv.23 | 185.0 | 1058 | 100.5 | malody_download/community | `community_downloads\1179_4K_Hyper_Lv.23\Rche - entelecheia (lansb) [Hyper].mc` |
+| 417 | entelecheia | Rche | 4K Normal Lv.8 | 185.0 | 502 | 100.5 | malody_download/community | `community_downloads\1180_4K_Normal_Lv.8\Rche - entelecheia (lansb) [Normal].mc` |
+| 418 | Fantastic future (TV Size) | Tamura Yukari | 4K HD | 172.0 | 498 | 86.9 | malody_download/community | `community_downloads\1070_4K_HD_Lv.15\Tamura Yukari - Fantastic future (TV Size) (victorica_db) [4K HD].mc` |
+| 419 | Fantastic future (TV Size) | Tamura Yukari | 4K MX | 172.0 | 734 | 87.0 | malody_download/community | `community_downloads\1071_4K_MX_Lv.26\Tamura Yukari - Fantastic future (TV Size) (victorica_db) [4K MX].mc` |
+| 420 | Fantastic future (TV Size) | Tamura Yukari | 4K NM | 172.0 | 282 | 86.9 | malody_download/community | `community_downloads\1072_4K_NM_Lv.11\Tamura Yukari - Fantastic future (TV Size) (victorica_db) [4K NM].mc` |
+| 421 | Harumodoki | yanaginagi | Hard | 174.0 | 442 | 85.3 | malody_download/community | `community_downloads\1232_4K_Hard_Lv.16\yanaginagi - Harumodoki (victorica_db) [Hard].mc` |
+| 422 | Harumodoki | yanaginagi | Insane | 174.0 | 663 | 85.3 | malody_download/community | `community_downloads\1233_4K_Insane_Lv.24\yanaginagi - Harumodoki (victorica_db) [Insane].mc` |
+| 423 | Himawari no Saku Koro ni | nao | Easy | 125.0 | 482 | 143.5 | malody_download/community | `community_downloads\1175_4K_Easy_Lv.7\nao - Himawari no Saku Koro ni ([ S a k u r a ]) [Easy].mc` |
+| 424 | Himawari no Saku Koro ni | nao | Hard | 125.0 | 1047 | 147.8 | malody_download/community | `community_downloads\1176_4K_Hard_Lv.12\nao - Himawari no Saku Koro ni ([ S a k u r a ]) [Hard].mc` |
+| 425 | Himawari no Saku Koro ni | nao | Normal | 125.0 | 718 | 144.0 | malody_download/community | `community_downloads\1177_4K_Normal_Lv.10\nao - Himawari no Saku Koro ni ([ S a k u r a ]) [Normal].mc` |
+| 426 | Himitsu no Door kara Ai ni Kite (TV Size) | Tamura Yukari | Lv.6 | 184.0 | 287 | 82.3 | malody_download/community | `community_downloads\1218_4K_Lv.6\Tamura Yukari - Himitsu no Door kara Ai ni Kite (TV Size) (victorica_db) [Lv.6].mc` |
+| 427 | Himitsu no Door kara Ai ni Kite (TV Size) | Tamura Yukari | Lv.10 | 184.0 | 590 | 82.5 | malody_download/community | `community_downloads\1219_4K_Lv.10\Tamura Yukari - Himitsu no Door kara Ai ni Kite (TV Size) (victorica_db) [Lv.10].mc` |
+| 428 | Himitsu no Door kara Ai ni Kite (TV Size) | Tamura Yukari | Lv.13 | 184.0 | 878 | 82.3 | malody_download/community | `community_downloads\1220_4K_Lv.13\Tamura Yukari - Himitsu no Door kara Ai ni Kite (TV Size) (victorica_db) [Lv.13].mc` |
+| 429 | Holy Knight | eyemedia | 4K MX | 155.0 | 1102 | 132.0 | malody_download/community | `community_downloads\1278_4K_MX_Lv.24\eyemedia - Holy Knight (biemote) [4K MX].mc` |
+| 430 | Holy Knight | eyemedia | 4K HD for mobile | 155.0 | 722 | 132.0 | malody_download/community | `community_downloads\1279_4K_HD_for_mobile_Lv.17\eyemedia - Holy Knight (biemote) [4K HD for mobile].mc` |
+| 431 | Holy Knight | eyemedia | 4K NM for mobile | 155.0 | 401 | 132.0 | malody_download/community | `community_downloads\1280_4K_NM_for_mobile_Lv.9\eyemedia - Holy Knight (biemote) [4K NM for mobile].mc` |
+| 432 | Holy Night | Kugimiya Rie & Kitamura Eri | VicStar's Lv.6 | 110.0 | 545 | 172.4 | malody_download/community | `community_downloads\1097_4K_VicStar's_Lv.12\Kugimiya Rie & Kitamura Eri - Holy Night (victorica_db) [VicStar's Lv.6].mc` |
+| 433 | Holy Night | Kugimiya Rie & Kitamura Eri | VicStar's Lv.9 | 110.0 | 961 | 172.4 | malody_download/community | `community_downloads\1098_4K_VicStar's_Lv.17\Kugimiya Rie & Kitamura Eri - Holy Night (victorica_db) [VicStar's Lv.9].mc` |
+| 434 | Identity Part 5 | SHK | LV.5 | 140.0 | 607 | 127.3 | malody_download/community | `community_downloads\1192_4K_Easy_Lv.12\SHK - Identity Part 5 (Lieselotte) [LV.5].mc` |
+| 435 | Identity Part 5 | SHK | LV.6 | 140.0 | 643 | 127.3 | malody_download/community | `community_downloads\1193_4K_Normal_Lv.15\SHK - Identity Part 5 (Lieselotte) [LV.6].mc` |
+| 436 | Identity Part 5 | SHK | LV.12 | 140.0 | 797 | 127.3 | malody_download/community | `community_downloads\1194_4K_Hard_Lv.20\SHK - Identity Part 5 (Lieselotte) [LV.12].mc` |
+| 437 | Identity Part 5 | SHK | LV.14 | 140.0 | 1005 | 126.9 | malody_download/community | `community_downloads\1195_4K_Super_Hard_Lv.25\SHK - Identity Part 5 (Lieselotte) [LV.14].mc` |
+| 438 | IGNITE (TV size ver.) | Aoi Eir | 4K LV.6 | 171.01 | 316 | 86.8 | malody_download/community | `community_downloads\1083_4K_Lv.14\Aoi Eir - IGNITE (TV size ver.) (victorica_db) [4K LV.6].mc` |
+| 439 | IGNITE (TV size ver.) | Aoi Eir | 4K LV.9 | 171.01 | 575 | 86.8 | malody_download/community | `community_downloads\1084_4K_Lv.21\Aoi Eir - IGNITE (TV size ver.) (victorica_db) [4K LV.9].mc` |
+| 440 | IGNITE (TV size ver.) | Aoi Eir | 4K LV.12 | 171.01 | 727 | 86.8 | malody_download/community | `community_downloads\1085_4K_Lv.27\Aoi Eir - IGNITE (TV size ver.) (victorica_db) [4K LV.12].mc` |
+| 441 | It's Only the Fairy Tale | Alissa Sears | 4K-NM | 150.0 | 307 | 132.8 | malody_download/community | `community_downloads\1092_4K_NM_Lv.10\Alissa Sears - It's Only the Fairy Tale (spboxer3) [4K-NM].mc` |
+| 442 | Kimi ga Yume wo Tsuretekita (TV Size) | Pet na Kanojotachi | 4K HD | 135.0 | 643 | 86.9 | malody_download/community | `community_downloads\1074_4K_HD_Lv.25\Pet na Kanojotachi - Kimi ga Yume wo Tsuretekita (TV Size) (victorica_db) [4K HD].mc` |
+| 443 | Kimi ga Yume wo Tsuretekita (TV Size) | Pet na Kanojotachi | Spy&vic'4K NM | 135.0 | 316 | 86.7 | malody_download/community | `community_downloads\1076_Spy&vic'4K_NM_Lv.12\Pet na Kanojotachi - Kimi ga Yume wo Tsuretekita (TV Size) (victorica_db) [Spy&vic'4K NM].mc` |
+| 444 | Megami no Kuchidzuke wo | senya | 4K NM+ | 140.0 | 1382 | 232.1 | malody_download/community | `community_downloads\1191_4K_NM+_Lv.19\senya - Megami no Kuchidzuke wo (asd123iii) [4K NM+].mc` |
+| 445 | MERRY MERRY MERRY MENU... Ne! | Tamura Yukari | 4K HD | 180.0 | 666 | 78.0 | malody_download/community | `community_downloads\1199_4K_HD_Lv.18\Tamura Yukari - MERRY MERRY MERRY MENU... Ne! (redfire099) [4K HD].mc` |
+| 446 | MERRY MERRY MERRY MENU... Ne! | Tamura Yukari | 4K MX | 180.0 | 851 | 78.0 | malody_download/community | `community_downloads\1200_4K_MX_Lv.23\Tamura Yukari - MERRY MERRY MERRY MENU... Ne! (redfire099) [4K MX].mc` |
+| 447 | MERRY MERRY MERRY MENU... Ne! | Tamura Yukari | 4K NM | 180.0 | 413 | 78.0 | malody_download/community | `community_downloads\1201_4K_NM_Lv.12\Tamura Yukari - MERRY MERRY MERRY MENU... Ne! (redfire099) [4K NM].mc` |
+| 448 | MIIRO | AKINO from bless4 | HD | 195.0 | 629 | 86.9 | malody_download/community | `community_downloads\1141_4K_HD_Lv.14\AKINO from bless4 - MIIRO ([ S a k u r a ]) [HD].mc` |
+| 449 | MIIRO | AKINO from bless4 | Julie's EZ | 195.0 | 239 | 86.8 | malody_download/community | `community_downloads\1142_4K_Julie's_EZ_Lv.8\AKINO from bless4 - MIIRO ([ S a k u r a ]) [Julie's EZ].mc` |
+| 450 | MIIRO | AKINO from bless4 | NM | 195.0 | 477 | 86.9 | malody_download/community | `community_downloads\1143_4K_NM_Lv.11\AKINO from bless4 - MIIRO ([ S a k u r a ]) [NM].mc` |
+| 451 | MIIRO | AKINO from bless4 | yuyul's MX | 195.0 | 715 | 86.9 | malody_download/community | `community_downloads\1144_4K_yuyul's_MX_Lv.25\AKINO from bless4 - MIIRO ([ S a k u r a ]) [yuyul's MX].mc` |
+| 452 | MIIRO | AKINO from bless4 | Hard | 195.0 | 1534 | 249.5 | malody_download/community | `community_downloads\1363_4K_Hard_Lv.15\AKINO from bless4 - MIIRO ([ S a k u r a ]) [Hard].mc` |
+| 453 | MIIRO | AKINO from bless4 | Normal | 195.0 | 1197 | 249.5 | malody_download/community | `community_downloads\1364_4K_Normal_Lv.12\AKINO from bless4 - MIIRO ([ S a k u r a ]) [Normal].mc` |
+| 454 | MIIRO | AKINO from bless4 | Poi | 195.0 | 2191 | 249.5 | malody_download/community | `community_downloads\1365_4K_Poi_Lv.23\AKINO from bless4 - MIIRO ([ S a k u r a ]) [Poi].mc` |
+| 455 | Miku Miku ni Shite Ageru | ika | 4K Lv.6 | 160.0 | 443 | 95.8 | malody_download/community | `community_downloads\1089_4K_Lv.13\ika - Miku Miku ni Shite Ageru (Simple_Star) [4K Lv.6].mc` |
+| 456 | Miku Miku ni Shite Ageru | ika | 4K Lv.8 | 160.0 | 559 | 95.8 | malody_download/community | `community_downloads\1090_4K_Lv.17\ika - Miku Miku ni Shite Ageru (Simple_Star) [4K Lv.8].mc` |
+| 457 | Miku Miku ni Shite Ageru | ika | 4K Lv.11 | 160.0 | 951 | 97.3 | malody_download/community | `community_downloads\1091_4K_Lv.25\ika - Miku Miku ni Shite Ageru (Simple_Star) [4K Lv.11].mc` |
+| 458 | Minna no Namae o Irete Kudasai TV size ver | Hanazawa Kana &  Itou Shizuka & Toyosaki Aki | HD | 190.0 | 567 | 83.1 | malody_download/community | `community_downloads\1126_4K_HD_Lv.16\Hanazawa Kana &  Itou Shizuka & Toyosaki Aki - Minna no Namae o Irete Kudasai TV size ver (hokin1995) [HD].mc` |
+| 459 | Minna no Namae o Irete Kudasai TV size ver | Hanazawa Kana &  Itou Shizuka & Toyosaki Aki | MX | 190.0 | 757 | 83.1 | malody_download/community | `community_downloads\1128_4K_MX_Lv.23\Hanazawa Kana &  Itou Shizuka & Toyosaki Aki - Minna no Namae o Irete Kudasai TV size ver (hokin1995) [MX].mc` |
+| 460 | Minna no Namae o Irete Kudasai TV size ver | Hanazawa Kana &  Itou Shizuka & Toyosaki Aki | NM | 190.0 | 337 | 83.1 | malody_download/community | `community_downloads\1129_4K_NM_Lv.11\Hanazawa Kana &  Itou Shizuka & Toyosaki Aki - Minna no Namae o Irete Kudasai TV size ver (hokin1995) [NM].mc` |
+| 461 | Netoge Haijin Sprechchor (short ver.) | Hatsune Miku | Lv.13 | 175.0 | 1184 | 112.3 | malody_download/community | `community_downloads\1162_4K_Lv.28\Hatsune Miku - Netoge Haijin Sprechchor (short ver.) (Lieselotte) [Lv.13].mc` |
+| 462 | Sakura Reflection | Ryu* | 4K Lv.7 | 181.01 | 474 | 99.4 | malody_download/community | `community_downloads\1234_4K_Lv.7\Ryu - Sakura Reflection (Simple_Star) [4K Lv.7].mc` |
+| 463 | Sakura Reflection | Ryu* | 4K Lv.8 | 181.01 | 479 | 99.4 | malody_download/community | `community_downloads\1235_4K_Lv.8\Ryu - Sakura Reflection (Simple_Star) [4K Lv.8].mc` |
+| 464 | Sakura Reflection | Ryu | 4K Another Lv.26 | 181.01 | 1042 | 100.1 | malody_download/community | `community_downloads\1236_4K_Another_Lv.26\Ryu - Sakura Reflection (Simple_Star) [4K Lv.11].mc` |
+| 465 | Sayonara Trip | Dormir | victorica's 4K Lv.9 | 133.0 | 619 | 91.6 | malody_download/community | `community_downloads\1099_victorica's_4K_Lv.22\Dormir - Sayonara Trip (Simple_Star) [victorica's 4K Lv.9].mc` |
+| 466 | Sayonara Trip | Dormir | 4K Lv.3 | 133.0 | 262 | 97.4 | malody_download/community | `community_downloads\1100_4K_Lv.10\Dormir - Sayonara Trip (SiStar) [4K Lv.3].mc` |
+| 467 | Sayonara Trip | Dormir | 4K Lv.7 | 133.0 | 618 | 97.4 | malody_download/community | `community_downloads\1101_4K_Lv.18\Dormir - Sayonara Trip (SiStar) [4K Lv.7].mc` |
+| 468 | Second Heaven | Ryu* | 4K Another | 149.0 | 889 | 112.8 | malody_download/community | `community_downloads\1181_4K_Another_Lv.20\Ryu - Second Heaven (Spy) [4K Another].mc` |
+| 469 | Second Heaven | Ryu* | Mashiro's 4K Normal+ | 149.0 | 607 | 112.8 | malody_download/community | `community_downloads\1182_Mashiro's_4K_Normal+_Lv.12\Ryu - Second Heaven (Spy) [Mashiro's 4K Normal+].mc` |
+| 470 | Second Heaven | Ryu* | S.Spy's 4K Heavens BASIC | 149.0 | 343 | 112.8 | malody_download/community | `community_downloads\1183_S.Spy's_4K_Heavens_BASIC_Lv.7\Ryu - Second Heaven (Spy) [S.Spy's 4K Heavens BASIC].mc` |
+| 471 | Second Heaven | Ryu* | victorica's 4K EXTREME | 149.0 | 928 | 112.8 | malody_download/community | `community_downloads\1184_victorica's_4K_EXTREME_Lv.24\Ryu - Second Heaven (Spy) [victorica's 4K EXTREME].mc` |
+| 472 | Shoujo Gensou ~Necro-Fantasy | IWA | 4K MX Lv.25 | 164.0 | 1466 | 155.1 | malody_download/community | `community_downloads\1266_4K_MX_Lv.25\IWA - Shoujo Gensou ~Necro-Fantasy (biemote) [4K MX].mc` |
+| 473 | Shoujo Gensou ~Necro-Fantasy | IWA | 4K MPaz's HD Lv.18 | 164.0 | 1112 | 159.1 | malody_download/community | `community_downloads\1267_4K_MPaz's_HD_Lv.18\IWA - Shoujo Gensou ~Necro-Fantasy (biemote) [MPaz's 4K HD].mc` |
+| 474 | Shoujo Gensou ~Necro-Fantasy | IWA | 4K NM Lv.9 | 164.0 | 625 | 155.1 | malody_download/community | `community_downloads\1268_4K_NM_Lv.9\IWA - Shoujo Gensou ~Necro-Fantasy (biemote) [4K NM].mc` |
+| 475 | Shoujo Gensou ~Necro-Fantasy | IWA | 4K MX ver.2023 Lv.25 | 164.0 | 1651 | 155.1 | malody_download/community | `community_downloads\131623_4K_MX_ver.2023_Lv.25\IWA - Shoujo Gensou ~Necro-Fantasy (biemote) [4K MX ver.2023].mc` |
+| 476 | Trust in you (TV Size) | sweet ARMS | Lv.5 | 190.0 | 314 | 81.8 | malody_download/community | `community_downloads\1130_4K_Lv.5\sweet ARMS - Trust in you (TV Size) (victorica_db) [Lv.5].mc` |
+| 477 | Trust in you (TV Size) | sweet ARMS | Lv.12 | 190.0 | 762 | 97.1 | malody_download/community | `community_downloads\1131_4K_Lv.12\sweet ARMS - Trust in you (TV Size) (victorica_db) [Lv.12].mc` |
+| 478 | Trust in you (TV Size) | sweet ARMS | S.Star's Lv.9 | 190.0 | 674 | 96.9 | malody_download/community | `community_downloads\1132_4K_S.Star's_Lv.9\sweet ARMS - Trust in you (TV Size) (victorica_db) [S.Star's Lv.9].mc` |
+| 479 | Umeyukiyo | Qrispy Joybox feat.mao | 4K Hard | 167.0 | 804 | 103.1 | malody_download/community | `community_downloads\1288_4K_Hard_Lv.17\Qrispy Joybox feat.mao - Umeyukiyo (k1suke) [4K Hard].mc` |
+| 480 | Umeyukiyo | Qrispy Joybox feat.mao | 4K Normal | 167.0 | 361 | 90.5 | malody_download/community | `community_downloads\1289_4K_Normal_Lv.8\Qrispy Joybox feat.mao - Umeyukiyo (k1suke) [4K Normal].mc` |
+| 481 | Valanga | DJ TOTTO | 4K BASIC Lv.8 | 186.0 | 387 | 105.6 | malody_download/community | `community_downloads\21520_4K_BASIC_Lv.8\DJ TOTTO - Valanga (HXJ_Crafter) [4K BASIC Lv.8].mc` |
+| 482 | Valanga | DJ TOTTO | 4K HARD Lv.17 | 186.0 | 872 | 105.6 | malody_download/community | `community_downloads\21521_4K_HARD_Lv.17\DJ TOTTO - Valanga (HXJ_Crafter) [4K HARD Lv.16].mc` |
+| 483 | Valanga | DJ TOTTO | 4K SPECIAL Lv.25 | 186.0 | 1214 | 105.6 | malody_download/community | `community_downloads\21522_4K_SPECIAL_Lv.25\DJ TOTTO - Valanga (HXJ_Crafter) [4K SPECIAL Lv.25].mc` |
+| 484 | Won(*3*)Chu KissMe! (TV Size) | SAKURA*TRICK | 4K HD | 153.0 | 516 | 87.6 | malody_download/community | `community_downloads\1185_4K_HD_Lv.18\SAKURATRICK - Won(3)Chu KissMe! (TV Size) (victorica_db) [4K HD].mc` |
+| 485 | Won(*3*)Chu KissMe! (TV Size) | SAKURA*TRICK | 4K MX | 153.0 | 799 | 85.9 | malody_download/community | `community_downloads\1186_4K_MX_Lv.25\SAKURATRICK - Won(3)Chu KissMe! (TV Size) (victorica_db) [4K MX].mc` |
+| 486 | Won(*3*)Chu KissMe! (TV Size) | SAKURA*TRICK | 4K NM | 153.0 | 279 | 87.6 | malody_download/community | `community_downloads\1187_4K_NM_Lv.8\SAKURATRICK - Won(3)Chu KissMe! (TV Size) (victorica_db) [4K NM].mc` |
+| 487 | Yamato Nadeshiko Education | Triple Booking | EZ 'Tsuda' | 172.0 | 222 | 72.6 | malody_download/community | `community_downloads\1228_4K_EZ_'Tsuda'_Lv.7\Triple Booking - Yamato Nadeshiko Education (- Bad Apple -) [EZ 'Tsuda'].mc` |
+| 488 | Yamato Nadeshiko Education | Triple Booking | HD 'Aria' | 172.0 | 608 | 72.6 | malody_download/community | `community_downloads\1229_4K_HD_'Aria'_Lv.16\Triple Booking - Yamato Nadeshiko Education (- Bad Apple -) [HD 'Aria'].mc` |
+| 489 | Yamato Nadeshiko Education | Triple Booking | MX 'Shino' | 172.0 | 737 | 72.4 | malody_download/community | `community_downloads\1230_4K_MX_'Shino'_Lv.22\Triple Booking - Yamato Nadeshiko Education (- Bad Apple -) [MX 'Shino'].mc` |
+| 490 | Yamato Nadeshiko Education | Triple Booking | NM 'Suzu' | 172.0 | 350 | 72.6 | malody_download/community | `community_downloads\1231_4K_NM_'Suzu'_Lv.12\Triple Booking - Yamato Nadeshiko Education (- Bad Apple -) [NM 'Suzu'].mc` |
+| 491 | You & Me | Tamura Yukari ft motsu from m.o.v.e | 4k Easy | 160.0 | 560 | 232.1 | malody_download/community | `community_downloads\1221_4K_Easy\Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -) [4k Easy].mc` |
+| 492 | You & Me | Tamura Yukari ft motsu from m.o.v.e | 4K NM | 160.0 | 668 | 232.3 | malody_download/community | `community_downloads\1222_4K_NM\Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -) [4K NM].mc` |
+| 493 | You & Me | Tamura Yukari ft motsu from m.o.v.e | justhow's 4K MX | 160.0 | 1817 | 232.1 | malody_download/community | `community_downloads\1227_4K_justhow's_MX_Lv.24\Tamura Yukari ft motsu from m.o.v.e - You & Me (- R u m i a -) [justhow's 4K MX].mc` |

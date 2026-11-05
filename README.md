@@ -747,3 +747,20 @@ scripts/osu_to_mc.py 转成 .mc（TimingPoints、圆圈/长条、4 轨映射）�
 批量：word='a' 单次可枚举 3960 首去重歌曲（原始列表 36,226 条），
 配合 --queries 与 --limit 可扩到数万样本；下载目录已 gitignore。
 
+### 分批下载与逐批训练（第一批）
+
+- 每批 100 张，1 并发；第一批耗时 20.7 分钟，新增 85 张（总目录 100）
+- 新谱转 Mel/钢琴卷：94 张成功，21 张因音频过短/错配剔除
+- 有效训练集：**464 首**
+- 每批训练：python -m core.mug_v2 diff --epochs 10，第一批 L1 1.59（仍不可用）
+- 清单：[docs/training_charts.md](docs/training_charts.md)
+
+下一批命令（自动跳过已完成）：
+
+`powershell
+python scripts/malody_bulk.py --queries "a" --limit 100 --workers 1 --max-songs 200
+python -m core.batch_data
+python -m core.mug_v2 diff --epochs 10
+python scripts/build_chart_manifest.py
+`
+
