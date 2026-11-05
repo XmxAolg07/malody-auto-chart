@@ -29,3 +29,5 @@ __pycache__/
 /1330.wav
 /assets/chartnet_v2.pt
 /assets/mug_pipeline.pt
+/assets/latent_ae.pt
+/assets/latent_diffusion.pt

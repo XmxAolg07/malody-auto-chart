@@ -652,3 +652,19 @@ mel 特征主要提升了 Jack 和镜像指标，未改变 70% 同键数的上�
 部分验证曲直接采样为空/全负，说明模型仍不稳定；同键数 0–8%，远低于规则生成器 49.6%。
 **仍不接入**。核心瓶颈是 10ms 单帧表示 + 从零训练，不是单纯数据量。
 
+### 复现 Mug 两阶段训练（KL autoencoder + latent diffusion）
+
+按 Mug 配置实现：
+
+1. **First stage**：1D KL autoencoder，4 轨钢琴卷 → 32 通道 latent（时间下采样 8×），
+   BCE + KL，20 epoch，重构损失 0.04。
+2. **Latent diffusion**：在 latent 上做 x0 预测 + L1 loss，linear β 1e-4–0.02，
+   mel 下采样后与 latent 拼接，属性 FiLM，EMA(0.999)，条件 dropout 0.5，
+   镜像 0.3，lr 5e-5，80 epoch，L1 = 0.88。
+
+采样（DDIM 50 步、EMA 权重）结果：解码出的 4 轨概率几乎为常数（0.01–0.10），
+峰值集中在首尾，参考谱覆盖 0%、同键数 0%。说明 latent 采样退化，模型只学到均值。
+
+结论：训练流程与 Mug 对齐了，但 391 首 + 从零训练仍不足以学出有效 latent 分布；
+**不接入**。Mug 的质量来自更大数据 + 预训练 autoencoder/扩散权重。
+
