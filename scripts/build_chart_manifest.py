@@ -124,6 +124,14 @@ def main() -> None:
         for item in json.loads(CLEAN.read_text(encoding="utf-8")):
             entries.append({"path": item["path"], "source": "community_clean",
                             "style": "community"})
+    osu_index = ROOT / "community_osu_mc" / "index.json"
+    if osu_index.exists():
+        for item in json.loads(osu_index.read_text(encoding="utf-8")):
+            mc_path = Path(item["mc"])
+            if not mc_path.is_absolute():
+                mc_path = ROOT / mc_path
+            entries.append({"path": str(mc_path), "source": "osu_corpus",
+                            "style": "community"})
     if DOWNLOADS.exists():
         for path in sorted(DOWNLOADS.rglob("*.mc")):
             entries.append({"path": str(path), "source": "malody_download",

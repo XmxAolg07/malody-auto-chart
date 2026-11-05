@@ -775,3 +775,16 @@ python scripts/accumulate.py --batches 3 --limit 100 --workers 1 --max-songs 250
 
 实测第一批 100 张 **239 秒**，新增 96 张；服务器空闲时速度明显快于最初。
 
+### 新增 osu! 4K 实例谱
+
+新加入的实例包是 osu!mania 谱（.osu + 多速率 mp3），已处理：
+
+- 扫描实例库 412 个 .osu，4K mania 转换 **411 张**
+- 统一输出到 community_osu_mc/，不动只读原目录
+- 记录 AudioFilename 映射：410 张能配到音频
+- 转成 10ms Mel/钢琴卷后，训练集从 464 扩到 **874 首**
+- 训练清单扩到 **1165 张**（含 osu 源）
+
+转换脚本复用 scripts/osu_to_mc.py；数据接入 core/osu_data.py。
+多速率谱（0.7x–1.1x）会作为独立样本保留，后续可按 md5 去重。
+
