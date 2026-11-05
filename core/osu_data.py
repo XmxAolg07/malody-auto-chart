@@ -23,7 +23,16 @@ def build() -> int:
     combined = json.loads(COMBINED.read_text(encoding="utf-8")) if COMBINED.exists() else []
     known = {record.get("chart") for record in combined}
     added = 0
-    for index, item in enumerate(osu_records):
+    mirror_pairs = []
+    mirror_root = ROOT / "osu_mirror"
+    if mirror_root.exists():
+        for chart in sorted(mirror_root.rglob("*.mc")):
+            audio = next((p for p in chart.parent.iterdir()
+                          if p.suffix.lower() in (".mp3", ".ogg", ".wav")), None)
+            if audio:
+                mirror_pairs.append({"mc": str(chart), "audio": str(audio),
+                                     "title": chart.stem, "artist": "", "version": ""})
+    for index, item in enumerate(list(osu_records) + mirror_pairs):
         chart_path = Path(item["mc"])
         if not chart_path.is_absolute():
             chart_path = ROOT / chart_path

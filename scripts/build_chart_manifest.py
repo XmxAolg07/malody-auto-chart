@@ -132,6 +132,11 @@ def main() -> None:
                 mc_path = ROOT / mc_path
             entries.append({"path": str(mc_path), "source": "osu_corpus",
                             "style": "community"})
+    mirror = ROOT / "osu_mirror"
+    if mirror.exists():
+        for path in sorted(mirror.rglob("*.mc")):
+            entries.append({"path": str(path), "source": "osu_mirror",
+                            "style": "community"})
     if DOWNLOADS.exists():
         for path in sorted(DOWNLOADS.rglob("*.mc")):
             entries.append({"path": str(path), "source": "malody_download",

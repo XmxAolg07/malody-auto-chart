@@ -788,3 +788,23 @@ python scripts/accumulate.py --batches 3 --limit 100 --workers 1 --max-songs 250
 转换脚本复用 scripts/osu_to_mc.py；数据接入 core/osu_data.py。
 多速率谱（0.7x–1.1x）会作为独立样本保留，后续可按 md5 去重。
 
+### Sayobot osu! 镜像下载
+
+scripts/sayobot_download.py，接口来自镜像站前端：
+
+- 列表：POST https://api.sayobot.cn/?post，body {"cmd":"beatmaplist","mode":3,...}
+- modes 是位掩码，**8 = mania**；脚本过滤 modes & 8
+- 下载：https://dl.sayobot.cn/beatmaps/download/novideo/<sid>
+- 解包 .osz，提取 Mode:3 + CircleSize:4 的 .osu 和音频
+- 用 scripts/osu_to_mc.py 转成 .mc
+
+实测（量少）：
+
+- 关键词 mania,malody,dan,4k，命中 8 个 mania 套
+- 5 套里 4 套成功，得到 **8 张 4K**；另 1 套 503（已加 3 次重试）
+- 镜像谱已纳入清单：**1174 张**；训练集 **883 首**
+
+`powershell
+python scripts/sayobot_download.py --keywords "mania,malody,dan,4k" --limit 20 --amount 20
+`
+

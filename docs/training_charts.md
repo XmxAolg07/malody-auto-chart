@@ -1,6 +1,6 @@
 # 训练谱面清单
 
-共 **1165** 张。
+共 **1174** 张。
 
 | # | 曲名 | 艺术家 | 难度 | BPM | 音符 | 时长(s) | 来源 | 路径 |
 |---|---|---|---|---|---|---|---|---|
@@ -1169,3 +1169,12 @@
 | 1163 | wds0 Dan - Jack | Various Artists | Final - Stellaria | 227.0 | 3653 | 136.0 | osu_corpus/community | `community_osu_mc\Various_Artists_-_wds0_Dan_-_Jack_wds0_Final_-_Stellaria__56df9feb.mc` |
 | 1164 | wds0 Dan - Jack | Various Artists | JB - 1.05x Endymion(gmtn. remix) | 157.5 | 3289 | 152.4 | osu_corpus/community | `community_osu_mc\Various_Artists_-_wds0_Dan_-_Jack_wds0_JB_-_1.05x_Endymion_gmtn._remix__a38a7566.mc` |
 | 1165 | wds0 Dan - Jack | Various Artists | NB - Legend of the Fastest Mountain Road in Yunnan | 160.0 | 3104 | 127.5 | osu_corpus/community | `community_osu_mc\Various_Artists_-_wds0_Dan_-_Jack_wds0_NB_-_Legend_of_the_Fastest_Mountain_Road_in_Yunnan__cc4584b1.mc` |
+| 1166 | King of the Princess | HathiouziP feat.HatsuneMiku | Extreme | 150.0 | 1226 | 129.3 | osu_mirror/community | `osu_mirror\2220739\HathiouziP feat.HatsuneMiku - King of the Princess (LuigiGames) [Extreme].mc` |
+| 1167 | Purgatorium | Arcaea | Hard With Drum hit | 150.0 | 1103 | 147.1 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Hard With Drum hit].mc` |
+| 1168 | Purgatorium | Arcaea | Malody Hard | 150.0 | 823 | 147.1 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Malody Hard].mc` |
+| 1169 | Purgatorium | Arcaea | Special | 150.0 | 1264 | 146.9 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Special].mc` |
+| 1170 | Sacrifice | Ouse Akira | The truth | 105.0 | 2944 | 214.0 | osu_mirror/community | `osu_mirror\2211150\Ouse Akira - Sacrifice (Yudii) [The truth].mc` |
+| 1171 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Concepte's EX | 136.2 | 3446 | 181.5 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Concepte's EX].mc` |
+| 1172 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Tamania's IN | 136.2 | 2346 | 181.5 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Tamania's IN].mc` |
+| 1173 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Utiba's HY | 136.2 | 1871 | 176.2 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Utiba's HY].mc` |
+| 1174 | stresstest | yax03 | tera's fortheboundless | 180.0 | 5825 | 295.7 | osu_mirror/community | `osu_mirror\2613635\yax03 - stresstest (Callionet) [tera's fortheboundless].mc` |
