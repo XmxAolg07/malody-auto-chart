@@ -31,3 +31,5 @@ __pycache__/
 /assets/mug_pipeline.pt
 /assets/latent_ae.pt
 /assets/latent_diffusion.pt
+/assets/mug_v2_ae.pt
+/assets/mug_v2_diff.pt

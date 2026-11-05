@@ -697,3 +697,22 @@ mel 特征主要提升了 Jack 和镜像指标，未改变 70% 同键数的上�
 - 数据要求：data/beatmap_4k/beatmap.txt + 音频缓存；仓库不含训练数据
 - 预训练权重通过外部网盘分发，当前域名无法解析
 
+### v2 框架重写（STFT/Mel + S4 + latent diffusion）
+
+按 Mug 结构重写的新管线 core/mug_v2.py，与规则生成器完全解耦：
+
+- **音频**：64 带 log-Mel（10ms）→ 2D/1D 卷积下采样 → 双向对角状态空间层（S4 类，
+  16 状态）→ 128 维音频上下文
+- **谱面**：16 通道钢琴卷（note / LN start / hold / end × 4 轨）
+- **Stage 1**：KL autoencoder，16 通道 → 32 latent（8× 时间压缩），10 epoch，loss 0.08
+- **Stage 2**：latent diffusion，x0 预测 + L1，linear β，EMA 0.999，CFG dropout 0.5，
+  镜像 0.3，40 epoch，L1 1.14
+- **后处理**：gridify、
+emove_mini_jacks、uto_snap、镜像增强
+
+采样（DDIM 50 步、EMA）结果：解码概率最大仅 0.19–0.20、均值 0.043，
+阈值 0.3 以上无音符，覆盖/同键 0%。latent 仍然退化。
+
+结论：框架已按 Mug 重写，但 391 首从零训练无法得到可用分布；不接入，
+规则生成器继续作为默认。权重已 gitignore。
+
