@@ -808,3 +808,21 @@ scripts/sayobot_download.py，接口来自镜像站前端：
 python scripts/sayobot_download.py --keywords "mania,malody,dan,4k" --limit 20 --amount 20
 `
 
+### 双路并行下载（Malody + Sayobot）
+
+两路各 1 并发同时跑：
+
+- Malody：scripts/accumulate.py，目录已达 410，继续分批
+- Sayobot：scripts/sayobot_batch.py，36 个 mania 套 → 28 套成功，
+  并入 101 张 4K 谱；部分套 503，已重试
+- 训练集：**984 首**
+- 清单：**1347 张**
+
+Sayobot 批量命令：
+
+`powershell
+python scripts/sayobot_batch.py --pages 2 --amount 50 --limit 40
+`
+
+跑完自动执行 core.osu_data 与清单刷新。
+
