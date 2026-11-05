@@ -115,8 +115,11 @@ def main() -> None:
     parser.add_argument("--limit", type=int, default=2)
     parser.add_argument("--out", default="community_downloads")
     parser.add_argument("--4k-only", dest="four_k_only", action="store_true")
-    parser.add_argument("--unpack", action="store_true", help="extract JSON .mc from downloaded zip")
-    parser.add_argument("--allow-osu", action="store_true", help="also keep osu! ports")
+    parser.add_argument("--no-unpack", dest="unpack", action="store_false",
+                        help="keep .mc as zip instead of extracting JSON")
+    parser.add_argument("--native-only", action="store_true",
+                        help="skip osu! ports (default: include and convert)")
+    parser.set_defaults(unpack=True)
     parser.add_argument("--user", default=os.environ.get("MALODY_USER"))
     parser.add_argument("--pwd", default=os.environ.get("MALODY_PWD"))
     parser.add_argument("--key", default=os.environ.get("MALODY_KEY"))
@@ -161,7 +164,8 @@ def main() -> None:
                 print("skip", cid, exc)
                 continue
             names = [str(item.get("name") or "") for item in info.get("list") or []]
-            if not args.allow_osu and not any(name.lower().endswith(".mc") for name in names):
+            has_mc = any(name.lower().endswith(".mc") for name in names)
+            if args.native_only and not has_mc:
                 print("skip osu-port", cid, version)
                 continue
             out_dir = out_root / f"{cid}_{version.replace(' ', '_')}"
@@ -184,6 +188,16 @@ def main() -> None:
                             pass
                 except SystemExit as exc:
                     print("  fail", item.get("name"), exc)
+            if not has_mc:
+                try:
+                    from osu_to_mc import convert_file
+                    osu = next(iter(sorted(out_dir.glob("*.osu"))), None)
+                    if osu is not None:
+                        converted = convert_file(osu)
+                        if converted:
+                            print("  converted osu ->", converted.name)
+                except Exception as exc:
+                    print("  osu convert failed", exc)
             print(f"downloaded cid={cid} {title} [{version}] -> {out_dir}")
             downloaded += 1
             time.sleep(0.4)

@@ -716,3 +716,34 @@ emove_mini_jacks、uto_snap、镜像增强
 结论：框架已按 Mug 重写，但 391 首从零训练无法得到可用分布；不接入，
 规则生成器继续作为默认。权重已 gitignore。
 
+### Malody 社区谱自动下载
+
+scripts/malody_download.py，接口与 Chartunes 一致：
+
+- 登录：POST /cgi/login（md5 密码，凭证只走环境变量，不落盘）
+- 搜索：/cgi/list?type=1
+- 难度：/cgi/list?type=2&sid=
+- 清单：/cgi/chart/download?v=2&cid=
+- 文件：http://cdn0.machart.top/<sid>/<uid>/<file>，md5 校验
+
+用法：
+
+`powershell
+="..."
+="..."
+python scripts/malody_download.py --queries "a,b,c" --limit 200 --4k-only --out community_downloads
+`
+
+原生 .mc 自动解包为 JSON；osu!mania 4K 移植谱默认保留，并用
+scripts/osu_to_mc.py 转成 .mc（TimingPoints、圆圈/长条、4 轨映射）。
+
+实测（2026-11-05）：
+
+- 登录成功 uid=368406
+- Sakuzyo 命中 25 首，下载 AXION 4K Easy Lv.7（243 音符）与 4K Hard Lv.16（568 音符），
+  音频/曲绘/谱面完整
+- osu 移植 Fantastic future 4K HD Lv.15 转换成功：498 音符、172 BPM、4 轨、87 秒
+
+批量：word='a' 单次可枚举 3960 首去重歌曲（原始列表 36,226 条），
+配合 --queries 与 --limit 可扩到数万样本；下载目录已 gitignore。
+
