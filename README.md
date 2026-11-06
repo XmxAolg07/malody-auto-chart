@@ -826,3 +826,15 @@ python scripts/sayobot_batch.py --pages 2 --amount 50 --limit 40
 
 跑完自动执行 core.osu_data 与清单刷新。
 
+### 自动循环下载（目标 12000）
+
+scripts/auto_download.py：登录一次，按查询词枚举 4K 难度，分批下载，
+跳过已存在目录，自动进入下一批/下一查询，直到目标数量；结束后统一转 Mel 并刷新清单。
+
+`powershell
+python scripts/auto_download.py --target 12000 --batch 100 --workers 1 --songs 800
+`
+
+实测稳定：查询  得到 1113 个 4K 任务、479 个新目录，首小时约 100 张/4 分钟。
+Malody 仍是主力；Sayobot 搜索已接近枯竭，只作补充。
+

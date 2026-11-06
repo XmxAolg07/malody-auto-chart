@@ -134,7 +134,7 @@ def main() -> None:
     def needed(task):
         _song, entry = task
         out_dir = Path(args.out) / f"{entry.get('cid')}_{str(entry.get('version') or '').replace(' ', '_')}"
-        return not has_complete(out_dir)
+        return not out_dir.exists()
     tasks = [task for task in tasks if needed(task)][: args.limit]
     out_root = Path(args.out)
     started = time.time()
