@@ -38,7 +38,7 @@ def download_one(song, entry, root: Path) -> bool:
         return False
     try:
         info = md.manifest(entry["cid"], md.KEY, md.UID)
-    except Exception:
+    except BaseException:
         return False
     names = [str(i.get("name") or "") for i in info.get("list") or []]
     has_mc = any(n.lower().endswith(".mc") for n in names)
@@ -96,7 +96,7 @@ def enumerate_tasks(word: str, songs_limit: int, key: str, uid: str) -> list:
             song = futures[future]
             try:
                 entries = future.result()
-            except Exception:
+            except BaseException:
                 continue
             for entry in entries:
                 if "4K" not in str(entry.get("version") or "").upper():
@@ -119,6 +119,8 @@ def main() -> None:
     parser.add_argument("--queries", default="a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,0,1,2,3,4,5,6,7,8,9")
     parser.add_argument("--out", default="community_downloads")
     parser.add_argument("--pause", type=float, default=1.0)
+    parser.add_argument("--cooldown", type=int, default=1800,
+                        help="sleep seconds when a batch makes no progress (quota)")
     parser.add_argument("--convert", action="store_true", default=True)
     parser.add_argument("--no-convert", dest="convert", action="store_false")
     parser.add_argument("--key", default=os.environ.get("MALODY_KEY"))
@@ -141,8 +143,10 @@ def main() -> None:
         tasks = enumerate_tasks(word, args.songs, md.KEY, md.UID)
         pending = [task for task in tasks if not out_dir_for(task[1], root).exists()]
         print(f"{word}: pending={len(pending)} downloaded={total}", flush=True)
-        for start in range(0, len(pending), args.batch):
-            chunk = pending[start:start + args.batch]
+        index = 0
+        while index < len(pending):
+            chunk = pending[index:index + args.batch]
+            before = total
             with ThreadPoolExecutor(max_workers=args.workers) as pool:
                 futures = [pool.submit(download_one, song, entry, root)
                            for song, entry in chunk]
@@ -150,9 +154,14 @@ def main() -> None:
                     try:
                         if future.result():
                             total += 1
-                    except Exception:
+                    except BaseException:
                         pass
             print(f"{word}: batch done, total={total}", flush=True)
+            if total == before:
+                print(f"no progress, cooldown {args.cooldown}s (quota/rate limit)", flush=True)
+                time.sleep(args.cooldown)
+                continue
+            index += args.batch
             if total >= args.target:
                 break
             time.sleep(args.pause)
