@@ -44,6 +44,9 @@ def metrics(path: Path, data: dict) -> dict:
             times.append((beat(item["beat"]), float(item["bpm"])))
         except Exception:
             continue
+    times = [(b, bpm) for b, bpm in times if bpm > 0]
+    if not times:
+        return {}
     times.sort()
     segments, seconds = [], 0.0
     for index, (b, bpm) in enumerate(times):
