@@ -894,3 +894,16 @@ python scripts/osu_direct_batch.py --offset 900 --pages 30 --limit 300
 
 镜像已成为主力来源，不消耗 Malody 金币。
 
+### 无上限自动镜像下载
+
+scripts/download_forever.py：
+
+- 从 offset 开始，每批 30 页 × 50 套、目标 300 张
+- 自动递增 offset，跳过已存在
+- 每批结束自动转 Mel/钢琴卷并刷新清单
+- **E 盘剩余 < 50GB 自动停止**
+- 连续 3 批无新增也停止（镜像挖尽）
+- 手动停止：终止后台 python 进程
+
+当前训练集 4933 首，清单 6551 张。
+
