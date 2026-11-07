@@ -868,3 +868,18 @@ python scripts/osu_direct_batch.py --offset 0 --pages 30 --limit 300
 
 实测 offset 0–150 已新增 80+ 张，跑完自动执行 core.osu_data 与清单刷新。
 
+### 镜像批量成果（osu.direct + Sayobot）
+
+单批 30 页 × 50 套：
+
+- 新增 **308 张 4K**，失败 5 套 503
+- 训练集 **1308 首**
+- 训练清单 **2925 张**
+- 每 50 套约 5–14 个 4K 套，单套 1–11 张
+
+继续下一批：
+
+`powershell
+python scripts/osu_direct_batch.py --offset 900 --pages 30 --limit 300
+`
+
