@@ -851,3 +851,20 @@ Malody 仍是主力；Sayobot 搜索已接近枯竭，只作补充。
 
 当前目录：**1717**；训练集仍为旧索引 994，等下载恢复后统一转换。
 
+### osu.direct 枚举 + Sayobot 下载（镜像批量）
+
+Sayobot 的列表接口不暴露 mode 过滤，改用公开镜像 API：
+
+- https://osu.direct/api/v2/search?m=3&limit=50&offset=N
+- 返回每套 eatmaps，含 mode、cs、convert
+- 先筛 mode=mania、cs=4、convert=false，再按 sid 从 Sayobot 下载
+- 50 套里通常有 8–14 个 4K 套，每套 1–7 张
+
+脚本：scripts/osu_direct_batch.py
+
+`powershell
+python scripts/osu_direct_batch.py --offset 0 --pages 30 --limit 300
+`
+
+实测 offset 0–150 已新增 80+ 张，跑完自动执行 core.osu_data 与清单刷新。
+
