@@ -1,6 +1,6 @@
 # 训练谱面清单
 
-共 **4731** 张。
+共 **5033** 张。
 
 | # | 曲名 | 艺术家 | 难度 | BPM | 音符 | 时长(s) | 来源 | 路径 |
 |---|---|---|---|---|---|---|---|---|
@@ -2501,2237 +2501,2539 @@
 | 2495 | !!! IMPULSIVE <!!> WAVE !!! | LUZE | Miaurichesu's Insane | 390.0 | 2633 | 163.1 | osu_mirror/community | `osu_mirror\2438724\LUZE - !!! IMPULSIVE !! WAVE !!! (Valedict) [Miaurichesu's Insane].mc` |
 | 2496 | !!! IMPULSIVE <!!> WAVE !!! | LUZE | VERMILLION SCOURGE | 390.0 | 3631 | 163.1 | osu_mirror/community | `osu_mirror\2438724\LUZE - !!! IMPULSIVE !! WAVE !!! (Valedict) [VERMILLION SCOURGE].mc` |
 | 2497 | "Boku wa..." | Atarayo | Unrequited | 180.0 | 1200 | 229.2 | osu_mirror/community | `osu_mirror\2183726\Atarayo - Boku wa... (emO_Oticon) [Unrequited].mc` |
-| 2498 | #WE <3 YURI | Juztan | YURI TIME WA OWARANAI | 230.0 | 7670 | 384.8 | osu_mirror/community | `osu_mirror\2555754\Juztan - #WE 3 YURI (SuzumeAyase) [YURI TIME WA OWARANAI].mc` |
-| 2499 | +ERABY+E CONNEC+10N | Camellia | 1024 G1GABY+ES | 230.0 | 2652 | 299.5 | osu_mirror/community | `osu_mirror\2554787\Camellia - +ERABY+E CONNEC+10N (lik_0) [1024 G1GABY+ES].mc` |
-| 2500 | 1,2,3 no LOVE Sign | DJ Genki feat. Aitsuki Nakuru | Heartflutter | 180.0 | 1723 | 228.0 | osu_mirror/community | `osu_mirror\2498155\DJ Genki feat. Aitsuki Nakuru - 1,2,3 no LOVE Sign (Usagi_) [Heartflutter].mc` |
-| 2501 | 1,2,3 no LOVE Sign | DJ Genki feat. Aitsuki Nakuru | Insane | 180.0 | 3289 | 228.0 | osu_mirror/community | `osu_mirror\2498155\DJ Genki feat. Aitsuki Nakuru - 1,2,3 no LOVE Sign (Usagi_) [Insane].mc` |
-| 2502 | 168 - 401 | saradisk | easy | 200.0 | 381 | 76.2 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [easy].mc` |
-| 2503 | 168 - 401 | saradisk | hard | 200.0 | 743 | 76.7 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [hard].mc` |
-| 2504 | 168 - 401 | saradisk | insane | 200.0 | 1040 | 76.7 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [insane].mc` |
-| 2505 | 168 - 401 | saradisk | my bloodline ends with me | 200.0 | 1031 | 76.3 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [my bloodline ends with me].mc` |
-| 2506 | 168 - 401 | saradisk | normal | 200.0 | 503 | 76.2 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [normal].mc` |
-| 2507 | 2isin6 | Notk.Y | Another | 202.6 | 1630 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Another].mc` |
-| 2508 | 2isin6 | Notk.Y | Insane | 202.6 | 1336 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Insane].mc` |
-| 2509 | 2isin6 | Notk.Y | Llee's Hard | 202.6 | 999 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Llee's Hard].mc` |
-| 2510 | 2isin6 | Notk.Y | Sya's Easy | 202.6 | 431 | 116.1 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Sya's Easy].mc` |
-| 2511 | 2isin6 | Notk.Y | Syr's Normal | 202.6 | 809 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Syr's Normal].mc` |
-| 2512 | 39-byou | respon feat. Hatsune Miku | Easy | 158.0 | 79 | 36.3 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [Easy].mc` |
-| 2513 | 39-byou | respon feat. Hatsune Miku | Hard | 158.0 | 187 | 35.9 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [Hard].mc` |
-| 2514 | 39-byou | respon feat. Hatsune Miku | Insane | 158.0 | 242 | 35.9 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [Insane].mc` |
-| 2515 | 39-byou | respon feat. Hatsune Miku | SN's Normal | 158.0 | 194 | 36.3 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [SN's Normal].mc` |
-| 2516 | 514 | maritumix | Subterranean Rose | 135.0 | 1500 | 257.1 | osu_mirror/community | `osu_mirror\2516975\maritumix - 514 ([GB]Cinelia) [Subterranean Rose].mc` |
-| 2517 | 67 (Six Seven) | Gazan | 6_7 | 120.0 | 836 | 80.0 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [6_7].mc` |
-| 2518 | 67 (Six Seven) | Gazan | Adv6nc7d | 120.0 | 476 | 81.8 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [Adv6nc7d].mc` |
-| 2519 | 67 (Six Seven) | Gazan | H6p7r | 120.0 | 583 | 81.2 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [H6p7r].mc` |
-| 2520 | 67 (Six Seven) | Gazan | Ins6n7 | 120.0 | 715 | 81.2 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [Ins6n7].mc` |
-| 2521 | <3#006 w/yax03 | sath4 | Insane, | 140.0 | 2233 | 260.6 | osu_mirror/community | `osu_mirror\2141771\sath4 - 3#006 wyax03 (AlexDunk) [Insane,].mc` |
-| 2522 | <3#006 w/yax03 | sath4 | Recollectia, w/ [-SVzzZ-] | 140.0 | 2265 | 260.6 | osu_mirror/community | `osu_mirror\2141771\sath4 - 3#006 wyax03 (AlexDunk) [Recollectia, w [-SVzzZ-]].mc` |
-| 2523 | ?_? | 7_7 | !_! // collab insane | 220.0 | 1746 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [!_!  collab insane].mc` |
-| 2524 | ?_? | 7_7 | #_# // znow's expert | 220.0 | 2335 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [#_#  znow's expert].mc` |
-| 2525 | ?_? | 7_7 | @_@ // extra | 220.0 | 2564 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [@_@  extra].mc` |
-| 2526 | ?_? | 7_7 | ^_^ // another | 220.0 | 2067 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [^_^  another].mc` |
-| 2527 | A Cybernetic-Superluminal-Apocalyptic Post-War Divination | Xyris | Affective Disorder | 80.0 | 3655 | 216.7 | osu_mirror/community | `osu_mirror\2527014\Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination (Concepte) [Affective Disorder].mc` |
-| 2528 | A Match Into Water | Pierce The Veil | Worthless' Hard | 196.0 | 1726 | 204.5 | osu_mirror/community | `osu_mirror\2508953\Pierce The Veil - A Match Into Water (Roupus) [Worthless' Hard].mc` |
-| 2529 | A Match Into Water | Pierce The Veil | Worthless' Prayer and a Promise | 196.0 | 2299 | 204.5 | osu_mirror/community | `osu_mirror\2508953\Pierce The Veil - A Match Into Water (Roupus) [Worthless' Prayer and a Promise].mc` |
-| 2530 | A! Mei Li Ka Luo | ChiliChill | Good Afternoon | 108.0 | 1017 | 226.5 | osu_mirror/community | `osu_mirror\2532676\ChiliChill - A! Mei Li Ka Luo (AelSan) [Good Afternoon].mc` |
-| 2531 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | dcdd's Normal | 146.0 | 350 | 85.4 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [dcdd's Normal].mc` |
-| 2532 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | DH's Insane | 146.0 | 664 | 85.9 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [DH's Insane].mc` |
-| 2533 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | Kenran no Koi | 146.0 | 607 | 85.8 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [Kenran no Koi].mc` |
-| 2534 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | Nabi's Hard | 146.0 | 623 | 85.9 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [Nabi's hard].mc` |
-| 2535 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | pai's Easy | 146.0 | 243 | 85.9 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [pai's Easy].mc` |
-| 2536 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | Xi's Extra | 146.0 | 647 | 85.8 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [Xi's Extra].mc` |
-| 2537 | Abendstern | seatrus | AndreyChomik's Hyper | 247.0 | 983 | 111.0 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [AndreyChomik's Hyper].mc` |
-| 2538 | Abendstern | seatrus | Ascension | 247.0 | 1713 | 109.9 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Ascension].mc` |
-| 2539 | Abendstern | seatrus | Hard | 247.0 | 1024 | 109.9 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Hard].mc` |
-| 2540 | Abendstern | seatrus | Insane | 247.0 | 1349 | 109.6 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Insane].mc` |
-| 2541 | Abendstern | seatrus | Normal | 247.0 | 537 | 110.6 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Normal].mc` |
-| 2542 | Abendstern | seatrus | Vincus' Extra | 247.0 | 1651 | 110.4 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Vincus' Extra].mc` |
-| 2543 | ADRENA | YOASOBI | Everchanging Days | 170.0 | 1529 | 183.9 | osu_mirror/community | `osu_mirror\2570715\YOASOBI - ADRENA (SansanQWQ) [Everchanging days].mc` |
-| 2544 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Hard | 128.0 | 101 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Hard].mc` |
-| 2545 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Insane | 128.0 | 73 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Insane].mc` |
-| 2546 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Normal | 128.0 | 70 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Normal].mc` |
-| 2547 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Uma | 128.0 | 101 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Uma].mc` |
-| 2548 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Hard | 128.0 | 252 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Hard].mc` |
-| 2549 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Insane | 128.0 | 352 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Insane].mc` |
-| 2550 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Normal | 128.0 | 106 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Normal].mc` |
-| 2551 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Uma | 128.0 | 472 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Uma].mc` |
-| 2552 | Ai no Zanshi | Aitsuki Nakuru | Boring's First Judgement | 174.0 | 804 | 190.6 | osu_mirror/community | `osu_mirror\2438960\Aitsuki Nakuru - Ai no Zanshi (LINQAQ) [Boring's First Judgement].mc` |
-| 2553 | Ai no Zanshi | Aitsuki Nakuru | Final Execution | 174.0 | 918 | 192.8 | osu_mirror/community | `osu_mirror\2438960\Aitsuki Nakuru - Ai no Zanshi (LINQAQ) [Final Execution].mc` |
-| 2554 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.05x | 210.0 | 657 | 249.1 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.05x].mc` |
-| 2555 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.15x | 230.0 | 657 | 227.4 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.15x].mc` |
-| 2556 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.1x | 220.0 | 657 | 237.8 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.1x].mc` |
-| 2557 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.2x | 240.0 | 657 | 217.9 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.2x].mc` |
-| 2558 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN | 200.0 | 657 | 261.5 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN].mc` |
-| 2559 | Aishite Aishite Aishite | Kikuo | 1.0 [0.9x Rate] | 207.0 | 2469 | 250.0 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [0.9x Rate]].mc` |
-| 2560 | Aishite Aishite Aishite | Kikuo | 1.0 [1.1x Rate] | 253.0 | 2748 | 224.7 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [1.1x Rate]].mc` |
-| 2561 | Aishite Aishite Aishite | Kikuo | 1.0 [1.2x Rate] | 276.0 | 2748 | 206.0 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [1.2x Rate]].mc` |
-| 2562 | Aishite Aishite Aishite | Kikuo | 1.0 [1.3x Rate] | 299.0 | 2748 | 190.2 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [1.3x Rate]].mc` |
-| 2563 | Aishite Aishite Aishite | Kikuo | 1.0 | 230.0 | 2748 | 247.2 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0].mc` |
-| 2564 | Aitoki*Cherishing (Game Ver.) | KyoKa | Fapu's Normal / Amairo Chocolate 2 | 182.0 | 411 | 94.9 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [Fapu's Normal  Amairo Chocolate 2].mc` |
-| 2565 | Aitoki*Cherishing (Game Ver.) | KyoKa | G1NYA's Hard / Amairo Chocolate 3 | 182.0 | 548 | 94.6 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [G1NYA's Hard  Amairo Chocolate 3].mc` |
-| 2566 | Aitoki*Cherishing (Game Ver.) | KyoKa | My Beloved Kohana | 182.0 | 677 | 94.9 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [My Beloved Kohana].mc` |
-| 2567 | Aitoki*Cherishing (Game Ver.) | KyoKa | SuiFeng's Easy / Amairo Chocolate 1 | 182.0 | 144 | 94.9 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [SuiFeng's Easy  Amairo Chocolate 1].mc` |
-| 2568 | Akashic Hex | Halv | Echoes of the Primordials | 150.0 | 1146 | 332.7 | osu_mirror/community | `osu_mirror\2442155\Halv - Akashic Hex (Saemitsu) [Echoes of the Primordials].mc` |
-| 2569 | AKRASIA | Sydosys | INDOLENCE (NSV) | 170.0 | 1241 | 146.8 | osu_mirror/community | `osu_mirror\2250149\Sydosys - AKRASIA (TheFunk) [INDOLENCE (NSV)].mc` |
-| 2570 | AKRASIA | Sydosys | INDOLENCE | 170.0 | 1241 | 4.4 | osu_mirror/community | `osu_mirror\2250149\Sydosys - AKRASIA (TheFunk) [INDOLENCE].mc` |
-| 2571 | Algebra | Function Phantom | Logaritmo Natural 1.05x | 185.85 | 142 | 224.9 | osu_mirror/community | `osu_mirror\1568619\Function Phantom - Algebra (juankristal) [Logaritmo Natural 1.05x].mc` |
-| 2572 | Algebra | Function Phantom | Logaritmo Natural 1.1x | 194.7 | 142 | 214.6 | osu_mirror/community | `osu_mirror\1568619\Function Phantom - Algebra (juankristal) [Logaritmo Natural 1.1x].mc` |
-| 2573 | Algebra | Function Phantom | Logaritmo Natural | 177.0 | 142 | 236.1 | osu_mirror/community | `osu_mirror\1568619\Function Phantom - Algebra (juankristal) [Logaritmo Natural].mc` |
-| 2574 | All in on Your Shadow | NormalM vs. f2 | Bargaining Chip | 150.0 | 3476 | 306.4 | osu_mirror/community | `osu_mirror\2612696\NormalM vs. f2 - All in on Your Shadow (rikan) [Bargaining Chip].mc` |
-| 2575 | All Star | No Reply | Jazz Star | 63.5 | 575 | 145.4 | osu_mirror/community | `osu_mirror\2592373\No Reply - All Star (GDBlack) [Jazz Star].mc` |
-| 2576 | allnight flipers on midsummer | allnight flipers | Scatteredstreet | 128.0 | 2318 | 284.1 | osu_mirror/community | `osu_mirror\2494950\allnight flipers - allnight flipers on midsummer (QwertYui345) [Scatteredstreet].mc` |
-| 2577 | Alpha Centauri (Receptor Remix) (Cut Ver.) | Noisia | Terminal | 102.0 | 3123 | 305.9 | osu_mirror/community | `osu_mirror\1670140\Noisia - Alpha Centauri (Receptor Remix) (Cut Ver.) (hna) [Terminal].mc` |
-| 2578 | Altitude | kioik | Another // pura's 4K | 188.0 | 1560 | 142.7 | osu_mirror/community | `osu_mirror\2416343\kioik - Altitude (-GRJ-) [Another  pura's 4K].mc` |
-| 2579 | Altitude | kioik | Insane // G1NYA's 4K | 188.0 | 1171 | 141.5 | osu_mirror/community | `osu_mirror\2416343\kioik - Altitude (-GRJ-) [Insane  G1NYA's 4K].mc` |
-| 2580 | Altitude | kioik | Nefelibata // G1NYA's 4K | 188.0 | 1310 | 141.5 | osu_mirror/community | `osu_mirror\2416343\kioik - Altitude (-GRJ-) [Nefelibata  G1NYA's 4K].mc` |
-| 2581 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 1 | 222.0 | 583 | 156.5 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [1].mc` |
-| 2582 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 3 | 222.0 | 1089 | 156.4 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [3].mc` |
-| 2583 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 5 | 222.0 | 1680 | 156.4 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [5].mc` |
-| 2584 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 7 | 222.0 | 2166 | 156.6 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [7].mc` |
-| 2585 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | Mystery of Night Sky | 222.0 | 2754 | 156.4 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [Mystery of Night Sky].mc` |
-| 2586 | Anchorite | KOAN Sound | Hyperluminal | 155.0 | 2890 | 297.5 | osu_mirror/community | `osu_mirror\2479871\KOAN Sound - Anchorite (Auros) [Hyperluminal].mc` |
-| 2587 | Angel Ring | cygnus | Another | 140.0 | 2027 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Another].mc` |
-| 2588 | Angel Ring | cygnus | Beginner | 140.0 | 192 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Beginner].mc` |
-| 2589 | Angel Ring | cygnus | Easy | 140.0 | 462 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Easy].mc` |
-| 2590 | Angel Ring | cygnus | Extra | 140.0 | 2291 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Extra].mc` |
-| 2591 | Angel Ring | cygnus | Extreme | 140.0 | 2541 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Extreme].mc` |
-| 2592 | Angel Ring | cygnus | Hard | 140.0 | 1284 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Hard].mc` |
-| 2593 | Angel Ring | cygnus | Hyper | 140.0 | 1508 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Hyper].mc` |
-| 2594 | Angel Ring | cygnus | Insane | 140.0 | 1738 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Insane].mc` |
-| 2595 | Angel Ring | cygnus | Normal | 140.0 | 826 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Normal].mc` |
-| 2596 | Ankh Natron Collider | Kou! | Condensed | 166.0 | 5394 | 345.8 | osu_mirror/community | `osu_mirror\2527757\Kou! - Ankh Natron Collider ([GB]Kita-) [Condensed].mc` |
-| 2597 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Easy | 180.0 | 328 | 102.5 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Easy].mc` |
-| 2598 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Hanabi | 180.0 | 854 | 102.2 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Hanabi].mc` |
-| 2599 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Hard | 180.0 | 654 | 102.5 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Hard].mc` |
-| 2600 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Normal | 180.0 | 493 | 102.5 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Normal].mc` |
-| 2601 | ANTICYCLONE | inabakumori | Secret sounds for you | 154.0 | 39614 | 2270.4 | osu_mirror/community | `osu_mirror\2114594\inabakumori - ANTICYCLONE (caracol) [Secret sounds for you].mc` |
-| 2602 | Antinomie | aa...hisuichazuke... | advanced | 242.0 | 1240 | 138.8 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [advanced].mc` |
-| 2603 | Antinomie | aa...hisuichazuke... | contradistinction feat. lude | 242.0 | 2015 | 138.2 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [contradistinction feat. lude].mc` |
-| 2604 | Antinomie | aa...hisuichazuke... | dendro_'s master | 242.0 | 2049 | 138.7 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [dendro_'s master].mc` |
-| 2605 | Antinomie | aa...hisuichazuke... | maiiy's expert | 242.0 | 1642 | 138.7 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [maiiy's expert].mc` |
-| 2606 | Antinomie | aa...hisuichazuke... | toumin's basic | 242.0 | 642 | 126.3 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [toumin's basic].mc` |
-| 2607 | Antisphere | DJ Raisei | +- | 134.0 | 1876 | 200.5 | osu_mirror/community | `osu_mirror\2526770\DJ Raisei - Antisphere (PlatinumSplash) [+-].mc` |
-| 2608 | Antler | Juggernaut. | Blossom | 180.0 | 691 | 197.3 | osu_mirror/community | `osu_mirror\2462963\Juggernaut. - Antler (lan_qiu) [Blossom].mc` |
-| 2609 | Antler | Juggernaut. | Expert | 180.0 | 618 | 197.2 | osu_mirror/community | `osu_mirror\2462963\Juggernaut. - Antler (lan_qiu) [Expert].mc` |
-| 2610 | Are We Still Young | Grant feat. Juneau | Growing Up is Optional | 110.0 | 608 | 208.9 | osu_mirror/community | `osu_mirror\2600104\Grant feat. Juneau - Are We Still Young (OJQ) [Growing Up is Optional].mc` |
-| 2611 | Arielle's Wish | Aethoro | I yearned for nothing but happiness, and now I have received... | 57.0 | 1712 | 406.0 | osu_mirror/community | `osu_mirror\2533002\Aethoro - Arielle's Wish (- ASAHINA -) [I yearned for nothing but happiness, and now I have received...].mc` |
-| 2612 | Artlunefal feat. eili | roer & NormalM (as Final Art) | Unwavering Courage :: Unadulterated Divinity | 240.0 | 2498 | 236.7 | osu_mirror/community | `osu_mirror\2521429\roer & NormalM (as Final Art) - Artlunefal feat. eili (soup3r) [Unwavering Courage  Unadulterated Divinity].mc` |
-| 2613 | AscensiO | Raphiiel | IllusiO :: Lament of the Unredeemed | 105.0 | 4937 | 349.7 | osu_mirror/community | `osu_mirror\2608888\Raphiiel - AscensiO ([Crz]Cardiloid) [IllusiO  Lament of the Unredeemed].mc` |
-| 2614 | Asgard (Game Ver.) | Yousei Teikoku | andryzx's Hard | 260.0 | 868 | 92.2 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [andryzx's Hard].mc` |
-| 2615 | Asgard (Game Ver.) | Yousei Teikoku | Cyy's Normal | 260.0 | 628 | 92.5 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [Cyy's Normal].mc` |
-| 2616 | Asgard (Game Ver.) | Yousei Teikoku | eZmmR's Humanoid | 260.0 | 1403 | 92.1 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [eZmmR's Humanoid].mc` |
-| 2617 | Asgard (Game Ver.) | Yousei Teikoku | Insane | 260.0 | 1102 | 91.2 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [Insane].mc` |
-| 2618 | Ashita no Hanatachi (TV Size) | Sanshuu Chuugaku Yuusha-bu | Hard | 178.0 | 417 | 83.6 | osu_mirror/community | `osu_mirror\2560261\Sanshuu Chuugaku Yuusha-bu - Ashita no Hanatachi (TV Size) (Xiaollull) [Hard].mc` |
-| 2619 | Ashita no Hanatachi (TV Size) | Sanshuu Chuugaku Yuusha-bu | Insane | 178.0 | 326 | 83.3 | osu_mirror/community | `osu_mirror\2560261\Sanshuu Chuugaku Yuusha-bu - Ashita no Hanatachi (TV Size) (Xiaollull) [Insane].mc` |
-| 2620 | Ashita no Hanatachi (TV Size) | Sanshuu Chuugaku Yuusha-bu | Normal | 178.0 | 249 | 83.6 | osu_mirror/community | `osu_mirror\2560261\Sanshuu Chuugaku Yuusha-bu - Ashita no Hanatachi (TV Size) (Xiaollull) [Normal].mc` |
-| 2621 | asphyxia | Co shu Nie | eZmmR's 4K anesthesia | 102.0 | 569 | 163.8 | osu_mirror/community | `osu_mirror\760885\Co shu Nie - asphyxia (MisterLuka) [eZmmR's 4K anesthesia].mc` |
-| 2622 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Easy | 71.7 | 97 | 46.9 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Easy].mc` |
-| 2623 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Geo's Insane | 71.7 | 460 | 46.1 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Geo's Insane].mc` |
-| 2624 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Hyper | 71.7 | 374 | 46.7 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Hyper].mc` |
-| 2625 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | In the Waterlogged City | 71.7 | 566 | 46.7 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [In the Waterlogged City].mc` |
-| 2626 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Murumoo's Hard | 71.7 | 349 | 45.4 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Murumoo's Hard].mc` |
-| 2627 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Normal | 71.7 | 148 | 46.9 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Normal].mc` |
-| 2628 | Autonomy | Kotone | Independence | 230.0 | 3612 | 223.2 | osu_mirror/community | `osu_mirror\2525692\Kotone - Autonomy (Oceanus) [Independence].mc` |
-| 2629 | AWAKE | Hoshimachi Suisei | Sentience | 145.0 | 443 | 188.1 | osu_mirror/community | `osu_mirror\2366067\Hoshimachi Suisei - AWAKE (anatharax) [Sentience].mc` |
-| 2630 | Back to the Real Life | Yoon Sang | False Reality 1.1x | 135.3 | 2880 | 141.5 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.1x].mc` |
-| 2631 | Back to the Real Life | Yoon Sang | False Reality 1.2x | 147.6 | 2880 | 129.7 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.2x].mc` |
-| 2632 | Back to the Real Life | Yoon Sang | False Reality 1.3x | 159.9 | 2880 | 119.7 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.3x].mc` |
-| 2633 | Back to the Real Life | Yoon Sang | False Reality 1.4x | 172.2 | 2880 | 111.1 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.4x].mc` |
-| 2634 | Back to the Real Life | Yoon Sang | False Reality | 123.0 | 2880 | 155.6 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality].mc` |
-| 2635 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Beginner | 95.0 | 53 | 39.8 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Beginner].mc` |
-| 2636 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Easy | 95.0 | 135 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Easy].mc` |
-| 2637 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Hard | 95.0 | 308 | 39.8 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Hard].mc` |
-| 2638 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Hyper | 95.0 | 378 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Hyper].mc` |
-| 2639 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Moyai | 95.0 | 474 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Moyai].mc` |
-| 2640 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Normal | 95.0 | 199 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Normal].mc` |
-| 2641 | Bad Apple!! feat. nomico | Masayoshi Minoshima | Where Good Falls Apart | 138.0 | 1694 | 208.7 | osu_mirror/community | `osu_mirror\2525813\Masayoshi Minoshima - Bad Apple!! feat. nomico (-Enma-) [Where Good Falls Apart].mc` |
-| 2642 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Avel's Extra | 200.0 | 3153 | 185.8 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Avel's Extra].mc` |
-| 2643 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Bring me back to the place I want to be | 200.0 | 3313 | 187.2 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Bring me back to the place I want to be].mc` |
-| 2644 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Hard | 200.0 | 1967 | 185.8 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Hard].mc` |
-| 2645 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Insane | 200.0 | 2468 | 185.8 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Insane].mc` |
-| 2646 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | insane... | 180.0 | 1538 | 114.8 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [insane...].mc` |
-| 2647 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | kingkiller's hard... | 180.0 | 1254 | 114.7 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [kingkiller's hard...].mc` |
-| 2648 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | nicknem's normal... | 180.0 | 908 | 114.7 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [nicknem's normal...].mc` |
-| 2649 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | ruin... | 180.0 | 1902 | 114.8 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [ruin...].mc` |
-| 2650 | Balloon Party (feat. *namirin) | Mitsukiyo | Beginner | 145.0 | 455 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Beginner].mc` |
-| 2651 | Balloon Party (feat. *namirin) | Mitsukiyo | Easy | 145.0 | 730 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Easy].mc` |
-| 2652 | Balloon Party (feat. *namirin) | Mitsukiyo | Happy Air Parade | 145.0 | 1324 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Happy Air Parade].mc` |
-| 2653 | Balloon Party (feat. *namirin) | Mitsukiyo | Hard | 145.0 | 1212 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Hard].mc` |
-| 2654 | Balloon Party (feat. *namirin) | Mitsukiyo | Normal | 145.0 | 1071 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Normal].mc` |
-| 2655 | Be alone | Bigdog oof | Morning glow, soft rays, and you. | 175.0 | 987 | 170.1 | osu_mirror/community | `osu_mirror\2506235\BigDog Oof - Be alone (suixiaofeng) [Morning glow, soft rays, and you.].mc` |
-| 2656 | Becoming Myself | nenpulse | Kiseki no Sairai | 175.0 | 1132 | 264.9 | osu_mirror/community | `osu_mirror\2461083\nenpulse - Becoming Myself (FlappiBakuse) [Kiseki no Sairai].mc` |
-| 2657 | Bed Bath & Batman Beyond | Origami Angel | Advanced | 205.0 | 372 | 54.3 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Advanced].mc` |
-| 2658 | Bed Bath & Batman Beyond | Origami Angel | Cactus | 205.0 | 775 | 52.2 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Cactus].mc` |
-| 2659 | Bed Bath & Batman Beyond | Origami Angel | Duckys' Hard | 205.0 | 533 | 52.2 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Duckys' Hard].mc` |
-| 2660 | Bed Bath & Batman Beyond | Origami Angel | Insane | 205.0 | 676 | 52.2 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Insane].mc` |
-| 2661 | Bed Bath & Batman Beyond | Origami Angel | Intermediate | 205.0 | 179 | 54.3 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Intermediate].mc` |
-| 2662 | Believe (feat. Tsuyuri Karin) | P4koo | Azukkii's Normal | 177.0 | 340 | 68.8 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Azukkii's Normal].mc` |
-| 2663 | Believe (feat. Tsuyuri Karin) | P4koo | Easy | 177.0 | 139 | 59.4 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Easy].mc` |
-| 2664 | Believe (feat. Tsuyuri Karin) | P4koo | Seitora's Hard | 177.0 | 502 | 70.2 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Seitora's Hard].mc` |
-| 2665 | Believe (feat. Tsuyuri Karin) | P4koo | Trust Yourself | 177.0 | 609 | 70.2 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Trust yourself].mc` |
-| 2666 | bigbean gonna go byebye (not rly) | bigbean | byebye o/ | 160.0 | 1039 | 121.8 | osu_mirror/community | `osu_mirror\2555375\bigbean - bigbean gonna go byebye (not rly) (Linlime) [byebye o].mc` |
-| 2667 | bigbean gonna go byebye (not rly) | bigbean | hard | 160.0 | 890 | 121.8 | osu_mirror/community | `osu_mirror\2555375\bigbean - bigbean gonna go byebye (not rly) (Linlime) [Hard].mc` |
-| 2668 | bigbean gonna go byebye (not rly) | bigbean | insane | 160.0 | 914 | 121.8 | osu_mirror/community | `osu_mirror\2555375\bigbean - bigbean gonna go byebye (not rly) (Linlime) [Insane].mc` |
-| 2669 | Birds of Plague | ARForest | Easy | 200.0 | 375 | 152.9 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Easy].mc` |
-| 2670 | Birds of Plague | ARForest | Hard | 200.0 | 910 | 149.2 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Hard].mc` |
-| 2671 | Birds of Plague | ARForest | Insane | 200.0 | 881 | 143.9 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Insane].mc` |
-| 2672 | Birds of Plague | ARForest | Normal | 200.0 | 489 | 149.2 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Normal].mc` |
-| 2673 | Birds of Plague | ARForest | The Cure | 200.0 | 686 | 143.9 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [The Cure].mc` |
-| 2674 | BLACKOUT | D-D-Dice | World's Eclipse | 50.0 | 3288 | 180.4 | osu_mirror/community | `osu_mirror\2504403\D-D-Dice - BLACKOUT (Murumoo) [World's Eclipse].mc` |
-| 2675 | bleeding out | estes_ | easy | 175.0 | 225 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [easy].mc` |
-| 2676 | bleeding out | estes_ | hard | 175.0 | 610 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [Hard].mc` |
-| 2677 | bleeding out | estes_ | normal | 175.0 | 404 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [normal].mc` |
-| 2678 | bleeding out | estes_ | null | 175.0 | 771 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [null].mc` |
-| 2679 | bloo cat, bloo | linear ring | ^ -. -^   meow, woof   u^ w^ u | 103.0 | 1372 | 129.6 | osu_mirror/community | `osu_mirror\2610887\linear ring - bloo cat, bloo (DiscorDBoI) [^ -. -^   meow, woof   u^ w^ u].mc` |
-| 2680 | bloo cat, bloo | linear ring | extra   >.<"" | 103.0 | 1189 | 129.6 | osu_mirror/community | `osu_mirror\2610887\linear ring - bloo cat, bloo (DiscorDBoI) [extra   .].mc` |
-| 2681 | bloo cat, bloo | linear ring | szh's insane   ouo | 103.0 | 986 | 129.6 | osu_mirror/community | `osu_mirror\2610887\linear ring - bloo cat, bloo (DiscorDBoI) [szh's insane   ouo].mc` |
-| 2682 | Blood Theme (TV Size) | Daniel Licht | 4K Hard | 87.15 | 71 | 36.2 | osu_mirror/community | `osu_mirror\2503137\Daniel Licht - Blood Theme (TV Size) (keksikosu) [4K Hard].mc` |
-| 2683 | Blood Theme (TV Size) | Daniel Licht | 4K Just can't prove it... | 87.15 | 88 | 36.2 | osu_mirror/community | `osu_mirror\2503137\Daniel Licht - Blood Theme (TV Size) (keksikosu) [4K Just can't prove it...].mc` |
-| 2684 | Blood Theme (TV Size) | Daniel Licht | 4K Normal | 87.15 | 35 | 35.6 | osu_mirror/community | `osu_mirror\2503137\Daniel Licht - Blood Theme (TV Size) (keksikosu) [4K Normal].mc` |
-| 2685 | Bloodlines (The Impaler Finale) | Nstryder | Final Boss | 131.0 | 5749 | 254.9 | osu_mirror/community | `osu_mirror\2285625\Nstryder - Bloodlines (The Impaler Finale) (Vincy_02) [Final Boss].mc` |
-| 2686 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Azukkii's Hard | 163.2 | 551 | 74.8 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Azukkii's Hard].mc` |
-| 2687 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Easy | 163.2 | 193 | 80.4 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Easy].mc` |
-| 2688 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Love Affection <3 | 163.2 | 716 | 74.8 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Love Affection 3].mc` |
-| 2689 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Normal | 163.2 | 433 | 80.9 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Normal].mc` |
-| 2690 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Easy | 179.96 | 247 | 77.7 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Easy].mc` |
-| 2691 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Hard | 179.96 | 486 | 77.2 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Hard].mc` |
-| 2692 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Insane | 179.96 | 583 | 77.7 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Insane].mc` |
-| 2693 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Normal | 179.96 | 485 | 87.9 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Normal].mc` |
-| 2694 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | The Role I Never Wanted to End | 179.96 | 499 | 78.5 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [The Role I Never Wanted to End].mc` |
-| 2695 | Bluemark Canvas | Mitsukiyo | Immersion | 180.0 | 1630 | 127.6 | osu_mirror/community | `osu_mirror\2617920\Mitsukiyo - Bluemark Canvas ([Crz]Cardiloid) [Immersion].mc` |
-| 2696 | Bluemark Canvas | Mitsukiyo | kokor0's Hard | 180.0 | 1171 | 127.9 | osu_mirror/community | `osu_mirror\2617920\Mitsukiyo - Bluemark Canvas ([Crz]Cardiloid) [kokor0's Hard].mc` |
-| 2697 | Bluemark Canvas | Mitsukiyo | Vexxxx's Advanced | 180.0 | 989 | 127.9 | osu_mirror/community | `osu_mirror\2617920\Mitsukiyo - Bluemark Canvas ([Crz]Cardiloid) [Vexxxx's Advanced].mc` |
-| 2698 | Body F10ating in the Zero Gravity Space | Camellia | Exit This Earth's Atomosphere | 170.0 | 2420 | 248.5 | osu_mirror/community | `osu_mirror\2631845\Camellia - Body F10ating in the Zero Gravity Space ([GB]Cinelia) [Exit This Earth's Atomosphere].mc` |
-| 2699 | Body to the Drum | Slax | Expert | 230.0 | 2535 | 183.7 | osu_mirror/community | `osu_mirror\2540169\Slax - Body to the Drum (Naiibe) [Expert].mc` |
-| 2700 | Body to the Drum | Slax | Insane | 230.0 | 1789 | 183.7 | osu_mirror/community | `osu_mirror\2540169\Slax - Body to the Drum (Naiibe) [Insane].mc` |
-| 2701 | Bosen | betcover!! | ashi o awasete! | 116.8 | 2654 | 166.4 | osu_mirror/community | `osu_mirror\2387241\betcover!! - bosen (Atman) [ashi o awasete!].mc` |
-| 2702 | Boulevard Of Broken Dreams | Green Day | Holiday | 75.5 | 3574 | 238.5 | osu_mirror/community | `osu_mirror\2556726\Green Day - Boulevard Of Broken Dreams (P45ta) [Holiday].mc` |
-| 2703 | Bourei | siraph | Where do ghosts go? Where do you go? | 150.0 | 3877 | 256.7 | osu_mirror/community | `osu_mirror\2419237\siraph - Bourei (caracol) [Where do ghosts go Where do you go].mc` |
-| 2704 | Breakcore WTF!? | LeaF | Miau's Extra | 250.0 | 1745 | 127.4 | osu_mirror/community | `osu_mirror\2362903\LeaF - Breakcore WTF! (Niko_Plays) [Miau's Extra].mc` |
-| 2705 | Breakcore WTF!? | LeaF | Mio's Insane | 250.0 | 1405 | 127.4 | osu_mirror/community | `osu_mirror\2362903\LeaF - Breakcore WTF! (Niko_Plays) [Mio's Insane].mc` |
-| 2706 | Breakcore WTF!? | LeaF | Mou Yada! | 250.0 | 2105 | 127.4 | osu_mirror/community | `osu_mirror\2362903\LeaF - Breakcore WTF! (Niko_Plays) [Mou Yada!].mc` |
-| 2707 | BRING IT ON | HIMEHINA | Superiority | 160.0 | 1666 | 225.9 | osu_mirror/community | `osu_mirror\2523928\HIMEHINA - BRING IT ON (VividCycle) [Superiority].mc` |
-| 2708 | Broken Hearts | eFeL | </3 | 100.0 | 352 | 223.2 | osu_mirror/community | `osu_mirror\2581376\eFeL - Broken Hearts (P45ta) [3].mc` |
-| 2709 | Bubblin' | HIMEHINA | Bubble Ladies, Bubble Love | 198.0 | 1771 | 192.4 | osu_mirror/community | `osu_mirror\2429015\HIMEHINA - Bubblin' (- Rika -) [Bubble ladies, Bubble love].mc` |
-| 2710 | bug | Kairiki bear feat. Hatsune Miku | Flawful | 186.0 | 511 | 163.5 | osu_mirror/community | `osu_mirror\1854104\Kairiki bear feat. Hatsune Miku - Bug (Micleak) [Flawful].mc` |
-| 2711 | BUILD AND SCRAP | Nanahoshi Kangengakudan feat. Hatsune Miku | REFITTED | 280.0 | 82 | 193.9 | osu_mirror/community | `osu_mirror\2250136\Nanahoshi Kangengakudan feat. Hatsune Miku - BUILD AND SCRAP (Hylotl) [REFITTED].mc` |
-| 2712 | Bukan Superstar | Project Pop | Superstar | 136.0 | 3228 | 229.4 | osu_mirror/community | `osu_mirror\2502631\Project Pop - Bukan Superstar (P45ta) [Superstar].mc` |
-| 2713 | BUZZ CUTZ | TWC Sound Team "Strike Back Squad" | FLOURISH | 193.0 | 7727 | 509.8 | osu_mirror/community | `osu_mirror\2551350\TWC Sound Team Strike Back Squad - BUZZ CUTZ (IceDynamix) [FLOURISH].mc` |
-| 2714 | BUZZ CUTZ | TWC Sound Team "Strike Back Squad" | Luminescence | 193.0 | 4553 | 303.2 | osu_mirror/community | `osu_mirror\2552201\TWC Sound Team Strike Back Squad - BUZZ CUTZ (-[ Peachy ]-) [Luminescence].mc` |
-| 2715 | Bye My Monster | ONF | Insane | 109.0 | 895 | 194.3 | osu_mirror/community | `osu_mirror\2312852\ONF - Bye My Monster (Xinhong1003) [Insane].mc` |
-| 2716 | Bye My Monster | ONF | Redemption | 109.0 | 803 | 192.9 | osu_mirror/community | `osu_mirror\2312852\ONF - Bye My Monster (Xinhong1003) [Redemption].mc` |
-| 2717 | Byouka | culenasm | Easy | 200.0 | 269 | 147.3 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Easy].mc` |
-| 2718 | Byouka | culenasm | Hard | 200.0 | 681 | 147.0 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Hard].mc` |
-| 2719 | Byouka | culenasm | Normal | 200.0 | 576 | 147.3 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Normal].mc` |
-| 2720 | Byouka | culenasm | Sava's Everlasting Summer | 200.0 | 1743 | 147.2 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Sava's Everlasting Summer].mc` |
-| 2721 | Byouka | culenasm | Sava's Hyper | 200.0 | 1131 | 147.1 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Sava's Hyper].mc` |
-| 2722 | Byouka | culenasm | Sava's Insane | 200.0 | 1321 | 147.2 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Sava's Insane].mc` |
-| 2723 | C-TYPE | Tanaka Hirokazu | Easy | 149.3 | 118 | 37.4 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [Easy].mc` |
-| 2724 | C-TYPE | Tanaka Hirokazu | Hard | 149.3 | 285 | 37.6 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [Hard].mc` |
-| 2725 | C-TYPE | Tanaka Hirokazu | Normal | 149.3 | 219 | 37.4 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [Normal].mc` |
-| 2726 | C-TYPE | Tanaka Hirokazu | T-SPIN!!! | 149.3 | 407 | 37.6 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [T-SPIN!!!].mc` |
-| 2727 | C://YOU NEX-TIME | takehirotei as "Infinite Limit" | C://YOU A-GAIN | 211.0 | 2820 | 389.0 | osu_mirror/community | `osu_mirror\2555395\takehirotei as Infinite Limit - CYOU NEX-TIME (-XnlinE-) [CYOU A-GAIN].mc` |
-| 2728 | Calamity of the Mystic Garden : Doom | Laur | Abnormal / Normal | 170.0 | 1053 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [Abnormal  Normal].mc` |
-| 2729 | Calamity of the Mystic Garden : Doom | Laur | astat11's Fable / Hard | 170.0 | 1840 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [astat11's Fable  Hard].mc` |
-| 2730 | Calamity of the Mystic Garden : Doom | Laur | astat11's Lure / Easy | 170.0 | 583 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [astat11's Lure  Easy].mc` |
-| 2731 | Calamity of the Mystic Garden : Doom | Laur | Helpless Resistance: Despair | 170.0 | 3180 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [Helpless Resistance Despair].mc` |
-| 2732 | Calamity of the Mystic Garden : Doom | Laur | Mysterious Tragedy / Insane | 170.0 | 2585 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [Mysterious Tragedy  Insane].mc` |
-| 2733 | Can you feel the wind? | strxwberrymilk | Insane | 186.0 | 1910 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [Insane].mc` |
-| 2734 | Can you feel the wind? | strxwberrymilk | MD's Hard | 186.0 | 1589 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [MD's Hard].mc` |
-| 2735 | Can you feel the wind? | strxwberrymilk | mirac1e's Easy | 186.0 | 836 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [mirac1e's Easy].mc` |
-| 2736 | Can you feel the wind? | strxwberrymilk | Normal | 186.0 | 1198 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [Normal].mc` |
-| 2737 | Can you feel the wind? | strxwberrymilk | Typhoon | 186.0 | 2035 | 196.9 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [Typhoon].mc` |
-| 2738 | can't be anything | momone | Auros's expert | 205.0 | 2264 | 140.1 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Auros's Expert].mc` |
-| 2739 | can't be anything | momone | hyper | 205.0 | 1395 | 140.3 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Hyper].mc` |
-| 2740 | can't be anything | momone | insane | 205.0 | 2029 | 140.3 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Insane].mc` |
-| 2741 | can't be anything | momone | stay with me | 205.0 | 2548 | 140.3 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Stay with me].mc` |
-| 2742 | Canaria | ReoNa | I wanted to be at your side forever. | 52.26 | 232 | 247.4 | osu_mirror/community | `osu_mirror\2528618\ReoNa - Canaria (melae) [I wanted to be at your side forever.].mc` |
-| 2743 | carbon skin | Giuseppe Gilardi | Quixotic | 144.0 | 2791 | 253.3 | osu_mirror/community | `osu_mirror\2484237\Giuseppe Gilardi - carbon skin (Auros) [Quixotic].mc` |
-| 2744 | Carry on singing to the sky | Unlucky Morpheus | ...Always remember what he sang | 121.0 | 2840 | 281.0 | osu_mirror/community | `osu_mirror\2443056\Unlucky Morpheus - Carry on singing to the sky (Ratchet0203) [...Always remember what he sang].mc` |
-| 2745 | Cartoon Candy | Kobaryo | Candy Party | 124.0 | 2390 | 182.1 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Candy Party].mc` |
-| 2746 | Cartoon Candy | Kobaryo | Ming's Expert | 124.0 | 2456 | 182.0 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Ming's Expert].mc` |
-| 2747 | Cartoon Candy | Kobaryo | Nicknem's Extra | 124.0 | 2434 | 182.1 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Nicknem's Extra].mc` |
-| 2748 | Cartoon Candy | Kobaryo | Selitation's Another | 124.0 | 1761 | 182.1 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Selitation's Another].mc` |
-| 2749 | Catch You Catch Me (TV Size) | Gumi | anatha's Sakura | 128.0 | 191 | 71.7 | osu_mirror/community | `osu_mirror\2522565\Gumi - Catch You Catch Me (TV Size) (Ballistic) [anatha's Sakura].mc` |
-| 2750 | Catch You Catch Me (TV Size) | Gumi | Hard | 128.0 | 96 | 71.7 | osu_mirror/community | `osu_mirror\2522565\Gumi - Catch You Catch Me (TV Size) (Ballistic) [Hard].mc` |
-| 2751 | Catch You Catch Me (TV Size) | Gumi | Normal | 128.0 | 155 | 71.7 | osu_mirror/community | `osu_mirror\2522565\Gumi - Catch You Catch Me (TV Size) (Ballistic) [Normal].mc` |
-| 2752 | Catharsis (Cut Ver.) | Romos | Clarity | 200.0 | 553 | 105.1 | osu_mirror/community | `osu_mirror\2264736\Romos - Catharsis (Cut Ver.) (iiJohn0) [Clarity].mc` |
-| 2753 | Catharsis (Cut Ver.) | Romos | Hard | 200.0 | 514 | 104.8 | osu_mirror/community | `osu_mirror\2264736\Romos - Catharsis (Cut Ver.) (iiJohn0) [Hard].mc` |
-| 2754 | Catharsis (Cut Ver.) | Romos | Normal | 200.0 | 281 | 102.9 | osu_mirror/community | `osu_mirror\2264736\Romos - Catharsis (Cut Ver.) (iiJohn0) [Normal].mc` |
-| 2755 | Catharticus ~ Herald angels sing | DJ Raisei | Omnes redeunt, illa manet | 281.0 | 3400 | 395.3 | osu_mirror/community | `osu_mirror\2609591\DJ Raisei - Catharticus ~ Herald angels sing (Hylotl) [Omnes redeunt, illa manet].mc` |
-| 2756 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Advanced | 180.0 | 862 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Advanced].mc` |
-| 2757 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Hard | 180.0 | 1742 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Hard].mc` |
-| 2758 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Insane | 180.0 | 2600 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Insane].mc` |
-| 2759 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Normal | 180.0 | 477 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Normal].mc` |
-| 2760 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | OB[LIV]ION BE/Y[ON]D | 180.0 | 3100 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [OB[LIV]ION BEY[ON]D].mc` |
-| 2761 | Change Everything | good-cool | Starlight | 130.0 | 3599 | 266.2 | osu_mirror/community | `osu_mirror\2532655\good-cool - Change Everything (-MysticEyes) [Starlight].mc` |
-| 2762 | Change the Formality | Infected Mushroom | People Killing People for a Reason | 145.0 | 5358 | 423.7 | osu_mirror/community | `osu_mirror\2017220\Infected Mushroom - Change the Formality (Auros) [People killing people for a Reason].mc` |
-| 2763 | Chimera Dragons | Camellia | Set the Seas Ablaze | 300.0 | 1925 | 283.4 | osu_mirror/community | `osu_mirror\2421186\Camellia - Chimera Dragons (ZirconEscalus) [Set the Seas Ablaze].mc` |
-| 2764 | Chimera Dragons | Camellia | La mort de la Chimere | 300.0 | 2329 | 283.8 | osu_mirror/community | `osu_mirror\2495468\Camellia - Chimera Dragons (Lowla) [La mort de la Chimere].mc` |
-| 2765 | Chromatically | Haywyre | Aberration | 120.0 | 934 | 187.9 | osu_mirror/community | `osu_mirror\2578885\Haywyre - Chromatically (foxgirls) [Aberration].mc` |
-| 2766 | Chromatically | Haywyre | Bubba's Insane | 120.0 | 842 | 184.4 | osu_mirror/community | `osu_mirror\2578885\Haywyre - Chromatically (foxgirls) [Bubba's Insane].mc` |
-| 2767 | Chronologue | La priere | It's Singing For You, It's Singing For Me <3 | 44.5 | 2508 | 388.0 | osu_mirror/community | `osu_mirror\2320053\La priere - Chronologue (Forthnos) [It's Singing For You, It's Singing For Me 3].mc` |
-| 2768 | Chronostasis | Release Hallucination | Time Freeze Illusion | 170.0 | 5264 | 340.9 | osu_mirror/community | `osu_mirror\1665948\Release Hallucination - Chronostasis (Lazurent) [Time Freeze Illusion].mc` |
-| 2769 | Chronostasis | Kurokotei | ~=Asteria's Temporal Insanity=~ | 196.0 | 1629 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=Asteria's Temporal Insanity=~].mc` |
-| 2770 | Chronostasis | Kurokotei | ~=Frozen Fate=~ | 196.0 | 1867 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=Frozen Fate=~].mc` |
-| 2771 | Chronostasis | Kurokotei | ~=H / Illusions=~ | 196.0 | 1267 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=H  Illusions=~].mc` |
-| 2772 | Chronostasis | Kurokotei | ~=N+ / Aion=~ | 196.0 | 910 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=N+  Aion=~].mc` |
-| 2773 | CICADA3302 | Camellia | Easy | 155.0 | 1155 | 433.4 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Easy].mc` |
-| 2774 | CICADA3302 | Camellia | Hard | 155.0 | 3318 | 433.2 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Hard].mc` |
-| 2775 | CICADA3302 | Camellia | Insane | 155.0 | 3936 | 433.4 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Insane].mc` |
-| 2776 | CICADA3302 | Camellia | K A I S E R | 155.0 | 4402 | 427.2 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [K A I S E R].mc` |
-| 2777 | CICADA3302 | Camellia | Normal | 155.0 | 2079 | 433.4 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Normal].mc` |
-| 2778 | CICADA3302 | Camellia | Q U A T T U O R | 155.0 | 4711 | 427.0 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Q U A T T U O R].mc` |
-| 2779 | CICADA3302 | Camellia | WILDCARD_CHASE'S QUATTUOR SV | 155.0 | 4711 | 427.0 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [WILDCARD_CHASE'S QUATTUOR SV].mc` |
-| 2780 | Circuit Surfer | kors k | Archaic's ALT-EXCEED | 230.0 | 2425 | 121.5 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [Archaic's ALT-EXCEED].mc` |
-| 2781 | Circuit Surfer | kors k | Eclipse's ALT-MAXIMUM | 230.0 | 2001 | 121.5 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [Eclipse's ALT-MAXIMUM].mc` |
-| 2782 | Circuit Surfer | kors k | EXCEED | 230.0 | 1957 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [EXCEED].mc` |
-| 2783 | Circuit Surfer | kors k | EXHAUST | 230.0 | 1578 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [EXHAUST].mc` |
-| 2784 | Circuit Surfer | kors k | HI-TECH | 230.0 | 2375 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [HI-TECH].mc` |
-| 2785 | Circuit Surfer | kors k | MAXIMUM | 230.0 | 1787 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [MAXIMUM].mc` |
-| 2786 | Circuit Surfer | kors k | ULTIMATE | 230.0 | 2189 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [ULTIMATE].mc` |
-| 2787 | Circulation | Neko Hacker | Azukkii's Normal | 135.0 | 216 | 50.4 | osu_mirror/community | `osu_mirror\2553140\Neko Hacker - Circulation (-Zell) [Azukkii's Normal].mc` |
-| 2788 | Circulation | Neko Hacker | Easy | 135.0 | 93 | 51.1 | osu_mirror/community | `osu_mirror\2553140\Neko Hacker - Circulation (-Zell) [Easy].mc` |
-| 2789 | Circulation | Neko Hacker | h-hmpph~~ | 135.0 | 238 | 51.1 | osu_mirror/community | `osu_mirror\2553140\Neko Hacker - Circulation (-Zell) [h-hmpph~~].mc` |
-| 2790 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Easy | 160.0 | 345 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Easy].mc` |
-| 2791 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Hard | 160.0 | 663 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Hard].mc` |
-| 2792 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Normal | 160.0 | 498 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Normal].mc` |
-| 2793 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Teledancer | 160.0 | 742 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Teledancer].mc` |
-| 2794 | Clarity (feat. Foxes) | Zedd | Legibility | 128.0 | 1790 | 261.8 | osu_mirror/community | `osu_mirror\2398089\Zedd - Clarity (feat. Foxes) (-[ Peachy ]-) [Legibility].mc` |
-| 2795 | Cloud Nine | Grant Bowtie | Over the Moon | 160.0 | 1012 | 197.9 | osu_mirror/community | `osu_mirror\2598587\Grant Bowtie - Cloud Nine (Ucitysm) [Over the Moon].mc` |
-| 2796 | CNP-Nya | Hayakore Tatsumi | Ron-Nya!!! | 196.0 | 5460 | 342.9 | osu_mirror/community | `osu_mirror\2567232\Hayakore Tatsumi - CNP-Nya (Chrisse) [Ron-Nya!!!].mc` |
-| 2797 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Advanced | 170.0 | 1167 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Advanced].mc` |
-| 2798 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Chocho Chocho | 170.0 | 2186 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Chocho Chocho].mc` |
-| 2799 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Hard | 170.0 | 1512 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Hard].mc` |
-| 2800 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Insane | 170.0 | 1884 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Insane].mc` |
-| 2801 | Coffee Break Is Over | Dirty Loops | Advanced | 77.1 | 1215 | 93.4 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Advanced].mc` |
-| 2802 | Coffee Break Is Over | Dirty Loops | Extra | 77.1 | 2406 | 93.5 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Extra].mc` |
-| 2803 | Coffee Break Is Over | Dirty Loops | Hyper | 77.1 | 1407 | 93.5 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Hyper].mc` |
-| 2804 | Coffee Break Is Over | Dirty Loops | Insane | 77.1 | 1764 | 93.5 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Insane].mc` |
-| 2805 | Coin Locker Baby | MARETU | No Escape | 90.5 | 2604 | 191.1 | osu_mirror/community | `osu_mirror\2589355\MARETU - Coin Locker Baby (-Enma-) [No Escape].mc` |
-| 2806 | Cold Fusion | kanemiko | Cryogenic Pressure | 205.0 | 3028 | 234.4 | osu_mirror/community | `osu_mirror\2523771\kanemiko - Cold Fusion (Naiibe) [Cryogenic Pressure].mc` |
-| 2807 | cold weather | glass beach | 4K Hard | 92.0 | 1275 | 106.5 | osu_mirror/community | `osu_mirror\2603242\glass beach - cold weather (-Enma-) [4K Hard].mc` |
-| 2808 | cold weather | glass beach | 4K I didn't miss the cold weather, I just missed you | 92.0 | 1663 | 106.5 | osu_mirror/community | `osu_mirror\2603242\glass beach - cold weather (-Enma-) [4K I didn't miss the cold weather, I just missed you].mc` |
-| 2809 | comet casting capsule ("catching celestial clusters" Long Ver.) | kanemiko | ornate supernal universe! | 250.0 | 2664 | 298.2 | osu_mirror/community | `osu_mirror\2539679\kanemiko - comet casting capsule (catching celestial clusters Long Ver.) (AverageBoi) [ornate supernal universe!].mc` |
-| 2810 | comet casting capsule ("catching celestial clusters" Long Ver.) | kanemiko | ucitysm's insane! | 250.0 | 2000 | 298.1 | osu_mirror/community | `osu_mirror\2539679\kanemiko - comet casting capsule (catching celestial clusters Long Ver.) (AverageBoi) [ucitysm's insane!].mc` |
-| 2811 | complex feelings about my own existence feat. jungkook | in love with a ghost | Easy | 100.0 | 93 | 89.4 | osu_mirror/community | `osu_mirror\2532180\in love with a ghost - complex feelings about my own existence feat. jungkook (Foxide) [Easy].mc` |
-| 2812 | complex feelings about my own existence feat. jungkook | in love with a ghost | Hard | 100.0 | 277 | 90.6 | osu_mirror/community | `osu_mirror\2532180\in love with a ghost - complex feelings about my own existence feat. jungkook (Foxide) [hard].mc` |
-| 2813 | complex feelings about my own existence feat. jungkook | in love with a ghost | Normal | 100.0 | 185 | 90.3 | osu_mirror/community | `osu_mirror\2532180\in love with a ghost - complex feelings about my own existence feat. jungkook (Foxide) [Normal].mc` |
-| 2814 | contra88 | Kola Kid | 8bit-like | 200.0 | 1579 | 136.3 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [8bit-like].mc` |
-| 2815 | contra88 | Kola Kid | Bailondo's Normal | 200.0 | 767 | 134.6 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [Bailondo's normal].mc` |
-| 2816 | contra88 | Kola Kid | Cobalt's Hard | 200.0 | 1196 | 136.5 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [Cobalt's Hard].mc` |
-| 2817 | contra88 | Kola Kid | xujiarong's Easy | 200.0 | 543 | 136.5 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [xujiarong's Easy].mc` |
-| 2818 | Cool Up | De Lux | Gotta Have a Good Time | 142.0 | 4823 | 294.0 | osu_mirror/community | `osu_mirror\2554830\De Lux - Cool Up (Auros) [Gotta Have a Good Time].mc` |
-| 2819 | Copycats feat. underscores | Danny Brown | s1sw's hard | 136.0 | 825 | 160.0 | osu_mirror/community | `osu_mirror\2492303\Danny Brown - Copycats feat. underscores (Livium) [s1sw's hard].mc` |
-| 2820 | Copycats feat. underscores | Danny Brown | star* | 136.0 | 941 | 162.5 | osu_mirror/community | `osu_mirror\2492303\Danny Brown - Copycats feat. underscores (Livium) [Star].mc` |
-| 2821 | COSMIC CROWN | Kyutatsuki | DOMINATOR | 152.0 | 2877 | 389.1 | osu_mirror/community | `osu_mirror\2595550\Kyutatsuki - COSMIC CROWN (Lowla) [DOMINATOR].mc` |
-| 2822 | Cosmic Princess Kaguya! Songs Compilation | Various Artists | Kaguya | 101.0 | 1699 | 237.8 | osu_mirror/community | `osu_mirror\2529807\Various Artists - Cosmic Princess Kaguya! Songs Compilation (eZmmR) [Kaguya].mc` |
-| 2823 | Count down 321 | t+pazolite | Expert | 321.0 | 1898 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [Expert].mc` |
-| 2824 | Count down 321 | t+pazolite | Niko's Hyper | 321.0 | 1646 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [Niko's hyper].mc` |
-| 2825 | Count down 321 | t+pazolite | riunosk's 321 Galore | 321.0 | 1209 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [riunosk's 321 Galore].mc` |
-| 2826 | Count down 321 | t+pazolite | Ultra Rice | 321.0 | 3049 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [Ultra Rice].mc` |
-| 2827 | Counting Breaths feat. eili | Gardens | Cycles | 170.0 | 2871 | 300.2 | osu_mirror/community | `osu_mirror\2524447\Gardens - Counting Breaths feat. eili (VividCycle) [Cycles].mc` |
-| 2828 | Counting Breaths feat. eili | Gardens | Pray. | 170.0 | 3552 | 300.5 | osu_mirror/community | `osu_mirror\2524546\Gardens - Counting Breaths feat. eili (AelSan) [Pray.].mc` |
-| 2829 | CoUNTrYfolx | Vorso, euphee, djeb, Popbot | Obnubilation | 116.0 | 3707 | 320.8 | osu_mirror/community | `osu_mirror\2549278\Vorso, euphee, djeb, Popbot - CoUNTrYfolx (Auros) [Obnubilation].mc` |
-| 2830 | courage (TV Size) | Tomatsu Haruka | andryzx's Beginner | 180.0 | 133 | 83.3 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [andryzx's Beginner].mc` |
-| 2831 | courage (TV Size) | Tomatsu Haruka | Extra | 180.0 | 509 | 83.0 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Extra].mc` |
-| 2832 | courage (TV Size) | Tomatsu Haruka | Ferdi's Normal | 180.0 | 436 | 83.3 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Ferdi's Normal].mc` |
-| 2833 | courage (TV Size) | Tomatsu Haruka | Onta's Zekken | 180.0 | 438 | 83.0 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Onta's Zekken].mc` |
-| 2834 | courage (TV Size) | Tomatsu Haruka | Peachy's Easy | 180.0 | 252 | 83.3 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Peachy's Easy].mc` |
-| 2835 | courage (TV Size) | Tomatsu Haruka | Sayana's Hard | 180.0 | 472 | 83.2 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Sayana's Hard].mc` |
-| 2836 | courage (TV Size) | Tomatsu Haruka | Sleeping Knights | 180.0 | 486 | 83.2 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Sleeping Knights].mc` |
-| 2837 | courage (TV Size) | Tomatsu Haruka | Syr's Insane | 180.0 | 580 | 83.2 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Syr's Insane].mc` |
-| 2838 | Crab Rave | Noisestorm | Dancing Crabs | 125.0 | 1008 | 138.2 | osu_mirror/community | `osu_mirror\2523458\Noisestorm - Crab Rave (P45ta) [Dancing Crabs].mc` |
-| 2839 | Crab Rave | Noisestorm | Hard | 125.0 | 794 | 138.2 | osu_mirror/community | `osu_mirror\2523458\Noisestorm - Crab Rave (P45ta) [Hard].mc` |
-| 2840 | Crimson Horizon | Sakamiya feat. Misoramimi | Twilight | 181.0 | 2649 | 257.2 | osu_mirror/community | `osu_mirror\2589079\Sakamiya feat. Misoramimi - Crimson Horizon (gzdongsheng) [Twilight].mc` |
-| 2841 | Cryochemistry | BilliumMoto x Akiri | -238 F | 135.0 | 3374 | 265.6 | osu_mirror/community | `osu_mirror\2577628\BilliumMoto x Akiri - Cryochemistry (nanonbandusty) [-238 F].mc` |
-| 2842 | Cuentame | Pedro suarez vertiz | Normal | 87.0 | 1009 | 230.2 | osu_mirror/community | `osu_mirror\1863904\Pedro suarez vertiz - Cuentame (Reoii) [Normal].mc` |
-| 2843 | Currencore Song Tutorial | Curren | ENDING (But I Still Love You) | 165.0 | 1426 | 209.8 | osu_mirror/community | `osu_mirror\2399246\Curren - Currencore Song Tutorial (QwertYui345) [ENDING (But I Still Love You)].mc` |
-| 2844 | cute and soft | in love with a ghost | easy | 116.0 | 99 | 40.9 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [easy].mc` |
-| 2845 | cute and soft | in love with a ghost | hard | 116.0 | 149 | 40.6 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [hard].mc` |
-| 2846 | cute and soft | in love with a ghost | normal | 116.0 | 155 | 40.9 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [normal].mc` |
-| 2847 | cute and soft | in love with a ghost | warm and cozy | 116.0 | 151 | 40.9 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [warm and cozy].mc` |
-| 2848 | CuttingEdgeInsaneArtifact | Marmalade butcher | UltraModernArtifact | 190.0 | 2828 | 217.9 | osu_mirror/community | `osu_mirror\2522815\Marmalade butcher - CuttingEdgeInsaneArtifact (P45ta) [UltraModernArtifact].mc` |
-| 2849 | CuttingEdgeInsaneArtifact | Marmalade butcher | Another | 190.0 | 1000 | 217.9 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Another].mc` |
-| 2850 | CuttingEdgeInsaneArtifact | Marmalade butcher | Basic | 190.0 | 425 | 210.8 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Basic].mc` |
-| 2851 | CuttingEdgeInsaneArtifact | Marmalade butcher | Hyper | 190.0 | 1410 | 210.6 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Hyper].mc` |
-| 2852 | CuttingEdgeInsaneArtifact | Marmalade butcher | Intermediate | 190.0 | 1153 | 217.9 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Intermediate].mc` |
-| 2853 | CuttingEdgeInsaneArtifact | Marmalade butcher | MysticalCelestialArtifactBeneathTheEndlessOceanOfStars | 190.0 | 800 | 217.3 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [MysticalCelestialArtifactBeneathTheEndlessOceanOfStars].mc` |
-| 2854 | CuttingEdgeInsaneArtifact | Marmalade butcher | Standard | 190.0 | 730 | 218.1 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Standard].mc` |
-| 2855 | Cyclic Universe Theory | N_dog | Antithesis | 155.0 | 3122 | 355.1 | osu_mirror/community | `osu_mirror\2298998\N_dog - Cyclic Universe Theory (soup3r) [Antithesis].mc` |
-| 2856 | Da Shi Sui Xiong Kou | Omnipotent Youth Society | That Crazy Song Rings Out Again | 106.0 | 5415 | 394.2 | osu_mirror/community | `osu_mirror\2573324\Omnipotent Youth Society - Da Shi Sui Xiong Kou (Auros) [That Crazy Song Rings Out Again].mc` |
-| 2857 | Daishibyo set 15 ~ Jinja no Atarashii Kaze | Rin | tapperruiii's Hard | 128.0 | 683 | 92.6 | osu_mirror/community | `osu_mirror\2600955\Rin - Daishibyo set 15 ~ Jinja no Atarashii Kaze (Tokyo 727) [tapperruiii's Hard].mc` |
-| 2858 | Daishibyo set 15 ~ Jinja no Atarashii Kaze | Rin | tapperruiii's Insane | 128.0 | 811 | 92.6 | osu_mirror/community | `osu_mirror\2600955\Rin - Daishibyo set 15 ~ Jinja no Atarashii Kaze (Tokyo 727) [tapperruiii's Insane].mc` |
-| 2859 | Daishibyo set 15 ~ Jinja no Atarashii Kaze | Rin | tapperruiii's Normal | 128.0 | 532 | 92.6 | osu_mirror/community | `osu_mirror\2600955\Rin - Daishibyo set 15 ~ Jinja no Atarashii Kaze (Tokyo 727) [tapperruiii's Normal].mc` |
-| 2860 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | Easy | 194.0 | 312 | 86.3 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [Easy].mc` |
-| 2861 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | Hard | 194.0 | 761 | 86.6 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [Hard].mc` |
-| 2862 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | I Love Karane >< | 194.0 | 1057 | 86.6 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [I Love Karane ].mc` |
-| 2863 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | Normal | 194.0 | 526 | 86.3 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [Normal].mc` |
-| 2864 | Dango Daikazoku (TV Size) | Chata | Easy | 100.0 | 156 | 83.4 | osu_mirror/community | `osu_mirror\2542308\Chata - Dango Daikazoku (TV Size) (LINQAQ) [Easy].mc` |
-| 2865 | Dango Daikazoku (TV Size) | Chata | Normal | 100.0 | 230 | 83.4 | osu_mirror/community | `osu_mirror\2542308\Chata - Dango Daikazoku (TV Size) (LINQAQ) [Normal].mc` |
-| 2866 | Danzai wa Amaneku Ningen no Moto ni | Unlucky Morpheus | Lunatic | 170.0 | 3257 | 288.1 | osu_mirror/community | `osu_mirror\2550836\Unlucky Morpheus - Danzai wa Amaneku Ningen no Moto ni (Maiiy) [Lunatic].mc` |
-| 2867 | Day of Reflection | Disasterpeace | EZ | 117.5 | 47 | 78.9 | osu_mirror/community | `osu_mirror\2535552\Disasterpeace - Day of Reflection (LeCrazy) [EZ].mc` |
-| 2868 | Day of Reflection | Disasterpeace | NM | 117.5 | 24 | 48.4 | osu_mirror/community | `osu_mirror\2535552\Disasterpeace - Day of Reflection (LeCrazy) [NM].mc` |
-| 2869 | Dead Aire | Supire | Boundless | 172.0 | 1000 | 346.7 | osu_mirror/community | `osu_mirror\2455636\Supire - Dead Aire (ImperialTrinity) [Boundless].mc` |
-| 2870 | Dead End Station | Viznode, acloudyskye & aspect | A Journey Through Love | 158.0 | 3025 | 328.7 | osu_mirror/community | `osu_mirror\2576188\Viznode, acloudyskye & aspect - Dead End Station (Zonifyy) [A Journey Through Love].mc` |
-| 2871 | Dear Diary | YERI | Dear Twenty, | 86.0 | 680 | 209.8 | osu_mirror/community | `osu_mirror\2534730\YERI - Dear Diary (fvrex) [Dear Twenty,].mc` |
-| 2872 | Desert | Hakushi Hasegawa | Till Dawn | 178.0 | 1018 | 228.2 | osu_mirror/community | `osu_mirror\2475778\Hakushi Hasegawa - Desert (V1do-) [Till Dawn].mc` |
-| 2873 | Devil Connection | AAAA | AAAAFanboy's Normal | 112.0 | 245 | 80.0 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [AAAAFanboy's Normal].mc` |
-| 2874 | Devil Connection | AAAA | Debirun | 112.0 | 69 | 81.8 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [Debirun].mc` |
-| 2875 | Devil Connection | AAAA | Hard | 112.0 | 368 | 88.9 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [Hard].mc` |
-| 2876 | Devil Connection | AAAA | Hyper | 112.0 | 170 | 82.3 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [Hyper].mc` |
-| 2877 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 0.95 | 190.0 | 4884 | 242.1 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [0.95].mc` |
-| 2878 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 0.9 | 180.0 | 4884 | 255.5 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [0.9].mc` |
-| 2879 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.05 | 210.0 | 4884 | 219.0 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.05].mc` |
-| 2880 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.15 | 230.0 | 4884 | 200.0 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.15].mc` |
-| 2881 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.1 | 220.0 | 4884 | 209.0 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.1].mc` |
-| 2882 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.2 | 240.0 | 4884 | 191.6 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.2].mc` |
-| 2883 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | SSS | 200.0 | 4884 | 229.9 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [SSS].mc` |
-| 2884 | DIAL LOOP | ePiaeon | 911, What's your emergency? | 169.0 | 549 | 181.4 | osu_mirror/community | `osu_mirror\2598405\ePiaeon - DIAL LOOP (Foxide) [911, What's your emergency].mc` |
-| 2885 | DIAL LOOP | ePiaeon | Azukkii's Hard | 169.0 | 993 | 182.3 | osu_mirror/community | `osu_mirror\2598405\ePiaeon - DIAL LOOP (Foxide) [Azukkii's Hard].mc` |
-| 2886 | diamond | bill wurtz | advanced | 105.0 | 268 | 33.8 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [advanced].mc` |
-| 2887 | diamond | bill wurtz | hard | 105.0 | 345 | 33.8 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [hard].mc` |
-| 2888 | diamond | bill wurtz | normal | 105.0 | 215 | 33.9 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [normal].mc` |
-| 2889 | diamond | bill wurtz | rhombus | 105.0 | 456 | 33.9 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [rhombus].mc` |
-| 2890 | Digibuprofen | Kolaa & Mestie | Lauren | 1.0 | 307 | 0.1 | osu_mirror/community | `osu_mirror\2062256\Kolaa & Mestie - Digibuprofen (Paturages) [Lauren].mc` |
-| 2891 | Digibuprofen | Kolaa & Mestie | NSV | 79.0 | 1235 | 187.5 | osu_mirror/community | `osu_mirror\2062256\Kolaa & Mestie - Digibuprofen (Paturages) [NSV].mc` |
-| 2892 | DILF repellent | leroy | S4 E1: ADVANCED tutorial | 195.0 | 753 | 127.7 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E1 ADVANCED tutorial].mc` |
-| 2893 | DILF repellent | leroy | S4 E2: HYPER shadow breakdown | 195.0 | 1074 | 127.9 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E2 HYPER shadow breakdown].mc` |
-| 2894 | DILF repellent | leroy | S4 E3: INSANE delusions | 195.0 | 1424 | 128.2 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E3 INSANE delusions].mc` |
-| 2895 | DILF repellent | leroy | S4 E4: EXTRA naiibe & znow synergy | 195.0 | 1839 | 128.2 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E4 EXTRA naiibe & znow synergy].mc` |
-| 2896 | DILF repellent | leroy | S4 E5: DILF-Free Zone | 195.0 | 2137 | 128.3 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E5 DILF-Free Zone].mc` |
-| 2897 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Cai Bu Shi Mei Kong | 200.0 | 350 | 86.5 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Cai Bu Shi Mei Kong].mc` |
-| 2898 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | ChickenGold's Insane | 200.0 | 585 | 87.8 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [ChickenGold's Insane].mc` |
-| 2899 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | DH's Expert | 200.0 | 172 | 86.9 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [DH's Expert].mc` |
-| 2900 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Dzar03's Extra | 200.0 | 477 | 87.8 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Dzar03's Extra].mc` |
-| 2901 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Hard | 200.0 | 552 | 87.8 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Hard].mc` |
-| 2902 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Normal | 200.0 | 380 | 87.2 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Normal].mc` |
-| 2903 | Dispel[/]Function | Feryquitous | Resolve | 135.0 | 837 | 180.6 | osu_mirror/community | `osu_mirror\2267481\Feryquitous - Dispel[]Function (elexire) [Resolve].mc` |
-| 2904 | Do It | underscores | If you don't know me, and I don't know you | 124.0 | 4020 | 211.0 | osu_mirror/community | `osu_mirror\2536062\underscores - Do it (Concepte) [If you don't know me, and I don't know you].mc` |
-| 2905 | Don't Forget | Laura Shigihara | Beginner | 53.5 | 20 | 16.6 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Beginner].mc` |
-| 2906 | Don't Forget | Laura Shigihara | Determination | 53.5 | 20 | 20.3 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Determination].mc` |
-| 2907 | Don't Forget | Laura Shigihara | Easy | 53.5 | 39 | 20.1 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Easy].mc` |
-| 2908 | Don't Forget | Laura Shigihara | Normal | 53.5 | 40 | 20.1 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Normal].mc` |
-| 2909 | Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante | TUYU | 11Bit's Fallen Angel | 225.0 | 2915 | 188.8 | osu_mirror/community | `osu_mirror\1248382\TUYU - Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante (flashnias) [11Bit's Fallen Angel].mc` |
-| 2910 | Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante | TUYU | Eternal Wings | 225.0 | 1131 | 182.0 | osu_mirror/community | `osu_mirror\1248382\TUYU - Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante (flashnias) [Eternal Wings].mc` |
-| 2911 | Doves | Model/Actriz | A third of the stars | 132.0 | 2907 | 218.2 | osu_mirror/community | `osu_mirror\2388836\ModelActriz - Doves (mukotsuu) [A third of the stars].mc` |
-| 2912 | Dream Leaf | Mitsukiyo | Imaginary Dream | 155.0 | 1034 | 218.6 | osu_mirror/community | `osu_mirror\2531080\Mitsukiyo - Dream Leaf (Yurizono Seia-) [Imaginary Dream].mc` |
-| 2913 | Dream of Us (feat. Okayu) | Fujiyori, EONI | Continuum | 134.0 | 2915 | 229.3 | osu_mirror/community | `osu_mirror\2527897\Fujiyori, EONI - Dream of Us (feat. Okayu) (Muse Dash) [Continuum].mc` |
-| 2914 | Dream ON (Game Ver.) | Ayane | eZmmR's Hard | 196.0 | 695 | 88.2 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game Ver.) (Ihram) [eZmmR's Hard].mc` |
-| 2915 | Dream ON (Game Ver.) | Ayane | Game ON! | 196.0 | 749 | 88.2 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game ver.) (Ihram) [Game ON!].mc` |
-| 2916 | Dream ON (Game Ver.) | Ayane | Sava's Easy | 196.0 | 237 | 85.9 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game Ver.) (Ihram) [Sava's Easy].mc` |
-| 2917 | Dream ON (Game Ver.) | Ayane | Slowpoke's Normal | 196.0 | 561 | 88.2 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game Ver.) (Ihram) [Slowpoke's Normal].mc` |
-| 2918 | DREAMMODE | Atena feat. Otomachi Una, Kaai Yuki | DREAMMODE!! | 134.0 | 511 | 133.9 | osu_mirror/community | `osu_mirror\2556039\Atena feat. Otomachi Una, Kaai Yuki - DREAMMODE (aminos111) [DREAMMODE!!].mc` |
-| 2919 | DREAMMODE | Atena feat. Otomachi Una, Kaai Yuki | HARDMODE!! | 134.0 | 962 | 135.7 | osu_mirror/community | `osu_mirror\2556039\Atena feat. Otomachi Una, Kaai Yuki - DREAMMODE (aminos111) [HARDMODE!!].mc` |
-| 2920 | DREAMMODE | Atena feat. Otomachi Una, Kaai Yuki | NORMALMODE!! | 134.0 | 742 | 135.7 | osu_mirror/community | `osu_mirror\2556039\Atena feat. Otomachi Una, Kaai Yuki - DREAMMODE (aminos111) [NORMALMODE!!].mc` |
-| 2921 | Drenched in Air | Camellia feat. Ninomae Ina'nis | Flower. | 189.0 | 3372 | 285.6 | osu_mirror/community | `osu_mirror\2552361\Camellia feat. Ninomae Ina'nis - Drenched in Air (NineSey) [Flower.].mc` |
-| 2922 | Dzwony na nieszpory | HOYO-MiX | -Zell's Hope | 105.0 | 292 | 95.5 | osu_mirror/community | `osu_mirror\2595914\HOYO-MiX - Dzwony na nieszpory (hydrogen b0mb) [-Zell's Hope].mc` |
-| 2923 | Dzwony na nieszpory | HOYO-MiX | Beginner | 105.0 | 114 | 95.5 | osu_mirror/community | `osu_mirror\2595914\HOYO-MiX - Dzwony na nieszpory (hydrogen b0mb) [Beginner].mc` |
-| 2924 | Dzwony na nieszpory | HOYO-MiX | Easy | 105.0 | 134 | 95.8 | osu_mirror/community | `osu_mirror\2595914\HOYO-MiX - Dzwony na nieszpory (hydrogen b0mb) [Easy].mc` |
-| 2925 | Early Morning | tachibanaka | Beginner | 100.0 | 65 | 76.8 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Beginner].mc` |
-| 2926 | Early Morning | tachibanaka | Cup of Coffee | 100.0 | 267 | 57.0 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Cup of Coffee].mc` |
-| 2927 | Early Morning | tachibanaka | Easy | 100.0 | 191 | 77.1 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Easy].mc` |
-| 2928 | Early Morning | tachibanaka | Intermediate | 100.0 | 214 | 77.1 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Intermediate].mc` |
-| 2929 | Early Morning | tachibanaka | Normal | 100.0 | 217 | 57.6 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Normal].mc` |
-| 2930 | Easy Breezy (7_7 Bootleg) | chelmico | Expert | 210.0 | 2539 | 135.5 | osu_mirror/community | `osu_mirror\2555689\chelmico - Easy Breezy (7_7 Bootleg) (MOSTULS) [Expert].mc` |
-| 2931 | Easy Breezy (7_7 Bootleg) | chelmico | Hard | 210.0 | 1613 | 135.5 | osu_mirror/community | `osu_mirror\2555689\chelmico - Easy Breezy (7_7 Bootleg) (MOSTULS) [Hard].mc` |
-| 2932 | Easy Breezy (7_7 Bootleg) | chelmico | Insane | 210.0 | 2104 | 135.5 | osu_mirror/community | `osu_mirror\2555689\chelmico - Easy Breezy (7_7 Bootleg) (MOSTULS) [Insane].mc` |
-| 2933 | easymotion | xarva | Stage 1: Estimate | 15.0 | 739 | 12.0 | osu_mirror/community | `osu_mirror\948786\xarva - easymotion (zero2snow) [Stage 1 Estimate].mc` |
-| 2934 | EDM Chordjack Practice Pack | Various | Alvin Risk feat. Jason Aalon Butler - PUT EM UP | 140.0 | 3910 | 165.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Alvin Risk feat. Jason Aalon Butler - PUT EM UP].mc` |
-| 2935 | EDM Chordjack Practice Pack | Various | Bart Claessen - Playmo (1st Play) | 139.0 | 7137 | 408.8 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Bart Claessen - Playmo (1st Play)].mc` |
-| 2936 | EDM Chordjack Practice Pack | Various | David Guetta  - Jack Is Back | 130.0 | 2587 | 105.2 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [David Guetta  - Jack Is Back].mc` |
-| 2937 | EDM Chordjack Practice Pack | Various | David Guetta & Nicky Romero - Metropolis | 128.0 | 6127 | 329.8 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [David Guetta & Nicky Romero - Metropolis].mc` |
-| 2938 | EDM Chordjack Practice Pack | Various | DJ Snake & Yellow Claw & Spanker - Slow Down | 100.0 | 3731 | 249.3 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [DJ Snake & Yellow Claw & Spanker - Slow Down].mc` |
-| 2939 | EDM Chordjack Practice Pack | Various | G-Buck - #Twurnt (cut) | 100.0 | 1178 | 62.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [G-Buck - #Twurnt (cut)].mc` |
-| 2940 | EDM Chordjack Practice Pack | Various | Hard Rock Sofa - Quasar | 128.0 | 5538 | 288.3 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Hard Rock Sofa - Quasar].mc` |
-| 2941 | EDM Chordjack Practice Pack | Various | Knife Party - Destroy Them With Lazers | 128.0 | 3813 | 225.0 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Knife Party - Destroy Them With Lazers].mc` |
-| 2942 | EDM Chordjack Practice Pack | Various | Maddix feat. Leila K - Open Sesame (Abracadabra) | 155.0 | 3992 | 211.0 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Maddix feat. Leila K - Open Sesame (Abracadabra)].mc` |
-| 2943 | EDM Chordjack Practice Pack | Various | Promise Land - X-Press | 128.0 | 4085 | 247.5 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Promise Land - X-Press].mc` |
-| 2944 | EDM Chordjack Practice Pack | Various | SkisM - Like This | 140.0 | 4441 | 234.9 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [SkisM - Like This].mc` |
-| 2945 | EDM Chordjack Practice Pack | Various | Zomboy & MUST DIE! - Survivors | 140.0 | 4628 | 219.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Zomboy & MUST DIE! - Survivors].mc` |
-| 2946 | EDM Chordjack Practice Pack | Various | Zomboy - Resurrected | 140.0 | 2704 | 123.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Zomboy - Resurrected].mc` |
-| 2947 | enchanted love (and the witch's selfish heart) | linear ring | magical, words | 190.0 | 2008 | 283.7 | osu_mirror/community | `osu_mirror\2489861\linear ring - enchanted love (and the witch's selfish heart) (Nicknem_) [magical, words].mc` |
-| 2948 | envidia (Game Ver.) | Nekomata Gekidan | desire | 134.0 | 543 | 116.4 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [desire].mc` |
-| 2949 | envidia (Game Ver.) | Nekomata Gekidan | hard | 134.0 | 486 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [Hard].mc` |
-| 2950 | envidia (Game Ver.) | Nekomata Gekidan | normal | 134.0 | 590 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [Normal].mc` |
-| 2951 | envidia (Game Ver.) | Nekomata Gekidan | xnery's easy | 134.0 | 292 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [xnery's easy].mc` |
-| 2952 | envidia (Game Ver.) | Nekomata Gekidan | xnery's extra | 134.0 | 1162 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [xnery's extra].mc` |
-| 2953 | envidia (Game Ver.) | Nekomata Gekidan | xnery's insane | 134.0 | 1031 | 118.2 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [xnery's insane].mc` |
-| 2954 | escape (the looking-glass, and what alice found there) | Kurokotei feat. Sennzai | The Antagonistic Mirror World | 160.0 | 4063 | 293.3 | osu_mirror/community | `osu_mirror\2377120\Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (-Ming-) [The Antagonistic Mirror World].mc` |
-| 2955 | espial | Oliver Buckland | wonder | 160.0 | 2039 | 211.9 | osu_mirror/community | `osu_mirror\2396349\Oliver Buckland - espial (caracol) [wonder].mc` |
-| 2956 | Etazhi | ANGUISH, deepins & ily | Advanced | 170.0 | 835 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Advanced].mc` |
-| 2957 | Etazhi | ANGUISH, deepins & ily | Hard | 170.0 | 1119 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Hard].mc` |
-| 2958 | Etazhi | ANGUISH, deepins & ily | Insane | 170.0 | 1394 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Insane].mc` |
-| 2959 | Etazhi | ANGUISH, deepins & ily | Intermediate | 170.0 | 513 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Intermediate].mc` |
-| 2960 | Etazhi | ANGUISH, deepins & ily | Mimo etazhi | 170.0 | 1572 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Mimo etazhi].mc` |
-| 2961 | Etazhi | ANGUISH, deepins & ily | Normal | 170.0 | 685 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Normal].mc` |
-| 2962 | Eternal Ember | sugosugiii vs. 11784492 vs. THE BEAT WIZARD feat. Ethereal_Winter | Twilight's Final Vigil | 60.0 | 3000 | 354.4 | osu_mirror/community | `osu_mirror\2486011\sugosugiii vs. 11784492 vs. THE BEAT WIZARD feat. Ethereal_Winter - Eternal Ember ([TCD] Dzar03) [Twilight's Final Vigil].mc` |
-| 2963 | Evergreen (TV Size) | sajou no hana | Daybreak | 182.0 | 469 | 82.4 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [Daybreak].mc` |
-| 2964 | Evergreen (TV Size) | sajou no hana | Ferdi's Easy | 182.0 | 286 | 86.9 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [Ferdi's Easy].mc` |
-| 2965 | Evergreen (TV Size) | sajou no hana | kekou's Hard | 182.0 | 481 | 86.4 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [kekou's Hard].mc` |
-| 2966 | Evergreen (TV Size) | sajou no hana | Normal | 182.0 | 445 | 86.9 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [Normal].mc` |
-| 2967 | Everlasting Eternity | Ludicin | What could it be now? | 150.0 | 3243 | 300.8 | osu_mirror/community | `osu_mirror\2372657\Ludicin - Everlasting Eternity (Furimuu-) [What could it be now].mc` |
-| 2968 | Everybody Wants To Rule The World | Tears For Fears | Freedom | 112.06 | 2997 | 236.5 | osu_mirror/community | `osu_mirror\2543185\Tears For Fears - Everybody Wants To Rule The World (P45ta) [Freedom].mc` |
-| 2969 | Everything will freeze | UNDEAD CORPORATION | Advanced | 240.0 | 1248 | 192.9 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Advanced].mc` |
-| 2970 | Everything will freeze | UNDEAD CORPORATION | Claim your time! | 240.0 | 3470 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Claim your time!].mc` |
-| 2971 | Everything will freeze | UNDEAD CORPORATION | Easy | 240.0 | 473 | 190.4 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Easy].mc` |
-| 2972 | Everything will freeze | UNDEAD CORPORATION | Hard | 240.0 | 2243 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Hard].mc` |
-| 2973 | Everything will freeze | UNDEAD CORPORATION | Hyper | 240.0 | 2792 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Hyper].mc` |
-| 2974 | Everything will freeze | UNDEAD CORPORATION | Insane | 240.0 | 2995 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Insane].mc` |
-| 2975 | Everything will freeze | UNDEAD CORPORATION | Lunatic | 240.0 | 3467 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Lunatic].mc` |
-| 2976 | Everything will freeze | UNDEAD CORPORATION | Normal | 240.0 | 784 | 192.9 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Normal].mc` |
-| 2977 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.05 | 136.5 | 2488 | 158.2 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.05].mc` |
-| 2978 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.15 | 149.5 | 2488 | 144.4 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.15].mc` |
-| 2979 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.1 | 143.0 | 2488 | 151.0 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.1].mc` |
-| 2980 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.25 | 162.5 | 2488 | 132.9 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.25].mc` |
-| 2981 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.2 | 156.0 | 2488 | 138.4 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.2].mc` |
-| 2982 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.3 | 169.0 | 2488 | 127.8 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.3].mc` |
-| 2983 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It | 130.0 | 2488 | 166.1 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It].mc` |
-| 2984 | Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix) | Mori Calliope | Multigenre Smackdown | 131.89 | 4758 | 416.5 | osu_mirror/community | `osu_mirror\2454917\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's Dude Whats A Genre Remix) ([GB]Cinelia) [Multigenre Smackdown].mc` |
-| 2985 | Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) | Camellia | Artificial Horizon | 200.0 | 2719 | 344.3 | osu_mirror/community | `osu_mirror\907789\Camellia - Exit This Earth's Atomosphere (Camellia's PLANETARY200STEP Remix) (Oscyy) [Artificial Horizon].mc` |
-| 2986 | EYES ON ME | asteria | CONCEPTE'S NORMAL | 60.0 | 573 | 92.3 | osu_mirror/community | `osu_mirror\2591350\asteria - EYES ON ME (keksikosu) [CONCEPTE'S NORMAL].mc` |
-| 2987 | EYES ON ME | asteria | XXX | 60.0 | 894 | 92.3 | osu_mirror/community | `osu_mirror\2591350\asteria - EYES ON ME (keksikosu) [XXX].mc` |
-| 2988 | FAKE UP | ePiaeon | Foxide's Advanced | 108.6 | 1002 | 183.8 | osu_mirror/community | `osu_mirror\2598366\ePiaeon - FAKE UP (Azukkii) [Foxide's Advanced].mc` |
-| 2989 | FAKE UP | ePiaeon | Neon's Hard | 108.6 | 1285 | 183.6 | osu_mirror/community | `osu_mirror\2598366\ePiaeon - FAKE UP (Azukkii) [Neon's Hard].mc` |
-| 2990 | FAKE UP | ePiaeon | Won't you praise me? | 108.6 | 1407 | 176.1 | osu_mirror/community | `osu_mirror\2598366\ePiaeon - FAKE UP (Azukkii) [Won't you praise me].mc` |
-| 2991 | Falling | Magnetude | Collapse | 174.0 | 3235 | 286.9 | osu_mirror/community | `osu_mirror\2539608\Magnetude - Falling (Ainer) [Collapse].mc` |
-| 2992 | falling up (feat. clwdy, stephie) | vai5000 | fragments of you still remain here. | 150.0 | 733 | 215.8 | osu_mirror/community | `osu_mirror\2418280\vai5000 - falling up (feat. clwdy, stephie) (QwertYui345) [fragments of you still remain here.].mc` |
-| 2993 | Feel The Melody | S3RL feat. Sara | ApioRojizo's Hard | 175.0 | 1992 | 218.1 | osu_mirror/community | `osu_mirror\2640112\S3RL feat. Sara - Feel The Melody (menphiss) [ApioRojizo's Hard].mc` |
-| 2994 | Feel The Melody | S3RL feat. Sara | Let The Bass Kick! | 175.0 | 2738 | 218.1 | osu_mirror/community | `osu_mirror\2640112\S3RL feat. Sara - Feel The Melody (menphiss) [Let The Bass Kick!].mc` |
-| 2995 | Feel The Melody | S3RL feat. Sara | NikoSek's Insane | 175.0 | 2401 | 218.1 | osu_mirror/community | `osu_mirror\2640112\S3RL feat. Sara - Feel The Melody (menphiss) [NikoSek's Insane].mc` |
-| 2996 | Fermion Amplification | Kou! | Superconductivity | 164.0 | 3550 | 329.2 | osu_mirror/community | `osu_mirror\2435372\Kou! - Fermion Amplification (-mint-) [Superconductivity].mc` |
-| 2997 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | beginner | 168.0 | 72 | 48.0 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [beginner].mc` |
-| 2998 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | hard | 168.0 | 398 | 63.9 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [hard].mc` |
-| 2999 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | insane | 168.0 | 480 | 63.9 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [insane].mc` |
-| 3000 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | normal | 168.0 | 223 | 53.3 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [normal].mc` |
-| 3001 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | take's easy | 168.0 | 114 | 53.3 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [take's easy].mc` |
-| 3002 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | WORTHLESS' SOMEBODY SCREAMMMMMMMMMMMMMMMMMMMMMMMMMMMMM | 168.0 | 106 | 63.9 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [WORTHLESS' SOMEBODY SCREAMMMMMMMMMMMMMMMMMMMMMMMMMMMMM].mc` |
-| 3003 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | easy | 168.0 | 313 | 74.6 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [easy].mc` |
-| 3004 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | fieryrage goes hardcore on the accordion (GONE WRONG) | 168.0 | 913 | 74.1 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [fieryrage goes hardcore on the accordion (GONE WRONG)].mc` |
-| 3005 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | hard | 168.0 | 791 | 74.6 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [hard].mc` |
-| 3006 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | normal | 168.0 | 518 | 74.6 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [normal].mc` |
-| 3007 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Easy | 195.0 | 273 | 84.9 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Easy].mc` |
-| 3008 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Elfie | 195.0 | 950 | 84.8 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Elfie].mc` |
-| 3009 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Hard | 195.0 | 596 | 84.8 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Hard].mc` |
-| 3010 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Insane | 195.0 | 784 | 84.9 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Insane].mc` |
-| 3011 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Normal | 195.0 | 443 | 84.8 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Normal].mc` |
-| 3012 | Flashback (feat. RANASOL) | Andora | Snapback | 109.0 | 446 | 178.3 | osu_mirror/community | `osu_mirror\2598441\Andora - Flashback (feat. RANASOL) (My Angel Chen) [Snapback].mc` |
-| 3013 | FLOP ERA | ePiaeon | Lizyuu's Easy | 163.0 | 546 | 152.9 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [Lizyuu's Easy].mc` |
-| 3014 | FLOP ERA | ePiaeon | mirac1e's Hard | 163.0 | 1002 | 152.9 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [mirac1e's Hard].mc` |
-| 3015 | FLOP ERA | ePiaeon | Normal | 163.0 | 707 | 152.9 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [Normal].mc` |
-| 3016 | FLOP ERA | ePiaeon | Yearning | 163.0 | 1059 | 153.1 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [Yearning].mc` |
-| 3017 | Floremie | MIMI | Color the blue dream with your presence // Insane | 108.0 | 1611 | 221.9 | osu_mirror/community | `osu_mirror\2578511\MIMI - Floremie ([TCD] Dzar03) [Color the blue dream with your presence  Insane].mc` |
-| 3018 | Floremie | MIMI | Empty heart // Normal | 108.0 | 964 | 222.1 | osu_mirror/community | `osu_mirror\2578511\MIMI - Floremie ([TCD] Dzar03) [Empty heart  Normal].mc` |
-| 3019 | Floremie | MIMI | Uncertain future // LINQAQ's Hard | 108.0 | 1143 | 221.0 | osu_mirror/community | `osu_mirror\2578511\MIMI - Floremie ([TCD] Dzar03) [Uncertain Future  LINQAQ's Hard].mc` |
-| 3020 | flower of wilderness | Camellia | wildrose | 220.0 | 1651 | 312.0 | osu_mirror/community | `osu_mirror\2555103\Camellia - flower of wilderness (Ainer) [wildrose].mc` |
-| 3021 | Fly Again | Fujiyori | Easy | 85.0 | 349 | 146.4 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Easy].mc` |
-| 3022 | Fly Again | Fujiyori | Falling Up | 85.0 | 1092 | 147.3 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Falling Up].mc` |
-| 3023 | Fly Again | Fujiyori | Hard | 85.0 | 872 | 147.3 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Hard].mc` |
-| 3024 | Fly Again | Fujiyori | Normal | 85.0 | 483 | 147.3 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Normal].mc` |
-| 3025 | Fly to night, tonight | Camellia | Where Dawn Never Breaks | 132.0 | 1303 | 232.7 | osu_mirror/community | `osu_mirror\2522406\Camellia - Fly to night, tonight (QwertYui345) [Where Dawn Never Breaks].mc` |
-| 3026 | Forgotten Hate | Supire | Breach of Faith | 220.0 | 1757 | 297.8 | osu_mirror/community | `osu_mirror\2529640\Supire - Forgotten Hate (Adachi Rei-) [Breach of Faith].mc` |
-| 3027 | Fractal Vertex | kanemiko & Kyutatsuki & Aoi | she Fractal on my Vertex 'till i fc | 161.0 | 4067 | 300.0 | osu_mirror/community | `osu_mirror\2523349\kanemiko & Kyutatsuki & Aoi - Fractal Vertex (Alumence) [she Fractal on my Vertex 'till i fc].mc` |
-| 3028 | Fractured Light (feat. eili) | Gardens & Sad Keyboard Guy | Glory Knight | 230.0 | 2441 | 290.3 | osu_mirror/community | `osu_mirror\2580914\Gardens & Sad Keyboard Guy - Fractured Light (feat. Eili) (AelSan) [Glory Knight].mc` |
-| 3029 | FRAGMENT. (feat. A.Dokuga) | P4koo | AVEL'S EASY | 220.0 | 236 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [AVEL'S EASY].mc` |
-| 3030 | FRAGMENT. (feat. A.Dokuga) | P4koo | FATE | 220.0 | 1398 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [FATE].mc` |
-| 3031 | FRAGMENT. (feat. A.Dokuga) | P4koo | HARD | 220.0 | 636 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [HARD].mc` |
-| 3032 | FRAGMENT. (feat. A.Dokuga) | P4koo | MIGHTY'S HYPER | 220.0 | 840 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [MIGHTY'S HYPER].mc` |
-| 3033 | FRAGMENT. (feat. A.Dokuga) | P4koo | NORMAL | 220.0 | 446 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [NORMAL].mc` |
-| 3034 | FRAGMENT. (feat. A.Dokuga) | P4koo | UCITYSM VS. JOHNO'S INSANE | 220.0 | 1106 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [UCITYSM VS. JOHNO'S INSANE].mc` |
-| 3035 | FREAK LIKE ME | DnsT3r_7 | FREAKY SARAGI | 250.0 | 1603 | 77.5 | osu_mirror/community | `osu_mirror\2539962\DnsT3r_7 - FREAK LIKE ME (ONYXY) [FREAKY SARAGI ].mc` |
-| 3036 | Friends | cute girls doing cute things | :3 | 92.0 | 691 | 214.9 | osu_mirror/community | `osu_mirror\2537709\cute girls doing cute things - Friends (Antipole) [3].mc` |
-| 3037 | Furachi na Kassai | Police Piccadilly feat. KAFU | Deny 1.1x (174bpm) | 173.8 | 490 | 123.1 | osu_mirror/community | `osu_mirror\1875866\Police Piccadilly feat. KAFU - Furachi na Kassai (Ballistic) [Deny 1.1x (174bpm)].mc` |
-| 3038 | Furachi na Kassai | Police Piccadilly feat. KAFU | Deny 1.2x (190bpm) | 189.6 | 490 | 112.8 | osu_mirror/community | `osu_mirror\1875866\Police Piccadilly feat. KAFU - Furachi na Kassai (Ballistic) [Deny 1.2x (190bpm)].mc` |
-| 3039 | Furachi na Kassai | Police Piccadilly feat. KAFU | Deny | 158.0 | 490 | 135.4 | osu_mirror/community | `osu_mirror\1875866\Police Piccadilly feat. KAFU - Furachi na Kassai (Ballistic) [Deny].mc` |
-| 3040 | Fushigi Purupuru Pururin Rin! (TV Size) | Pururin (CV: Shishido Rumi) | Normal | 150.0 | 203 | 87.3 | osu_mirror/community | `osu_mirror\2553092\Pururin (CV Shishido Rumi) - Fushigi Purupuru Pururin Rin! (TV Size) (Ballistic) [Normal].mc` |
-| 3041 | Fushigi Purupuru Pururin Rin! (TV Size) | Pururin (CV: Shishido Rumi) | Ringtone | 150.0 | 285 | 86.4 | osu_mirror/community | `osu_mirror\2553092\Pururin (CV Shishido Rumi) - Fushigi Purupuru Pururin Rin! (TV Size) (Ballistic) [Ringtone].mc` |
-| 3042 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | Be My Valentine | 181.0 | 617 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [Be My Valentine].mc` |
-| 3043 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | Hard | 181.0 | 546 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [Hard].mc` |
-| 3044 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | MiuOtter's Easy | 181.0 | 278 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [MiuOtter's Easy].mc` |
-| 3045 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | Normal | 181.0 | 339 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [Normal].mc` |
-| 3046 | Fuujin Raijin | Colorful Sounds Port | Harsh Wind // 4K Normal | 90.0 | 1113 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [Harsh Wind  4K Normal].mc` |
-| 3047 | Fuujin Raijin | Colorful Sounds Port | Raging Thunder // 4K Hyper | 90.0 | 1712 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [Raging Thunder  4K Hyper].mc` |
-| 3048 | Fuujin Raijin | Colorful Sounds Port | The Forces of Nature in Harmony // 4K Another | 90.0 | 2155 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [The Forces of Nature in Harmony  4K Another].mc` |
-| 3049 | Fuujin Raijin | Colorful Sounds Port | Turbulence // Dzar03's 4K Beginner | 90.0 | 786 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [Turbulence  Dzar03's 4K Beginner].mc` |
-| 3050 | Fuyu | Homareda Miyuki | Flower of Happiness | 80.0 | 31 | 61.5 | osu_mirror/community | `osu_mirror\2206786\Homareda Miyuki - Fuyu ([-E S I A-]) [Flower of Happiness].mc` |
-| 3051 | Galaxy feat. Moon Jelly | Stariah | Intergalactic | 124.0 | 1635 | 224.5 | osu_mirror/community | `osu_mirror\2550171\Stariah - Galaxy feat. Moon Jelly (Foxide) [Intergalactic].mc` |
-| 3052 | GALVANIZER | Ashrount | VULCAN | 288.0 | 1493 | 128.4 | osu_mirror/community | `osu_mirror\2253764\Ashrount - GALVANIZER (guden) [Vulcan].mc` |
-| 3053 | GANGNAM STYLE [GRAY REMIX] | PSY | SEXY LADY | 125.0 | 797 | 185.8 | osu_mirror/community | `osu_mirror\2546686\PSY - GANGNAM STYLE [GRAY REMIX] (GDBlack) [Sexy Lady].mc` |
-| 3054 | Gate Openerz | DJ SHARPNEL | Logiik | 198.68 | 4511 | 251.8 | osu_mirror/community | `osu_mirror\2570132\DJ SHARPNEL - Gate Openerz (Comiaaa) [Logiik].mc` |
-| 3055 | Gaucho | Culprate & Joe Ford | Cathartic Degradation | 172.0 | 2331 | 274.9 | osu_mirror/community | `osu_mirror\2569825\Culprate & Joe Ford - Gaucho (Znow) [Cathartic Degradation].mc` |
-| 3056 | Genre Police (feat. Lexi) | S3RL | Extra | 160.0 | 1862 | 188.9 | osu_mirror/community | `osu_mirror\2599383\S3RL - Genre Police (feat. Lexi) (Anwul_) [Extra].mc` |
-| 3057 | Genre Police (feat. Lexi) | S3RL | Insane | 160.0 | 1697 | 188.9 | osu_mirror/community | `osu_mirror\2599383\S3RL - Genre Police (feat. Lexi) (Anwul_) [Insane].mc` |
-| 3058 | Ghost Of Me | Make Them Suffer | Hopeless | 140.0 | 3791 | 219.5 | osu_mirror/community | `osu_mirror\2419712\Make Them Suffer - Ghost Of Me (Ventilo le vrai) [Hopeless].mc` |
-| 3059 | GHOUL | Camellia | EXTRA STAGE / LAST BREATH OF A SPECTRE; | 0.0 | 2963 | 2.3 | osu_mirror/community | `osu_mirror\2031975\Camellia - GHOUL (Orca-) [EXTRA STAGE  LAST BREATH OF A SPECTRE;].mc` |
-| 3060 | GHOUL | Camellia | NSV | 230.0 | 2963 | 256.7 | osu_mirror/community | `osu_mirror\2031975\Camellia - GHOUL (Orca-) [NSV].mc` |
-| 3061 | Gi -lirile- | Kurokotei * eili | Ecclesia | 175.0 | 5467 | 803.3 | osu_mirror/community | `osu_mirror\2150233\Kurokotei  eili - Gi -lirile- (Reiraa_) [Ecclesia].mc` |
-| 3062 | Gilded Runner | HOYO-MiX | Fibonacci | 90.67 | 735 | 236.6 | osu_mirror/community | `osu_mirror\2593046\HOYO-MiX - Gilded Runner (Linlime) [Fibonacci].mc` |
-| 3063 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | ADVANCED | 210.0 | 789 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [ADVANCED].mc` |
-| 3064 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | ANOTHER | 210.0 | 1187 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [ANOTHER].mc` |
-| 3065 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | EASY | 210.0 | 417 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [EASY].mc` |
-| 3066 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | EXTRA | 210.0 | 1413 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [EXTRA].mc` |
-| 3067 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | EXTREME | 210.0 | 1567 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [EXTREME].mc` |
-| 3068 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | HARD | 210.0 | 909 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [HARD].mc` |
-| 3069 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | HYPER | 210.0 | 1026 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [HYPER].mc` |
-| 3070 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | NORMAL | 210.0 | 635 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [NORMAL].mc` |
-| 3071 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | YOUR EMPTY EYES | 210.0 | 1649 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [YOUR EMPTY EYES].mc` |
-| 3072 | Glow | Chiru-san | Easy | 150.0 | 504 | 189.6 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Easy].mc` |
-| 3073 | Glow | Chiru-san | Glimmer | 150.0 | 1644 | 191.4 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Glimmer].mc` |
-| 3074 | Glow | Chiru-san | Hard | 150.0 | 1314 | 191.4 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Hard].mc` |
-| 3075 | Glow | Chiru-san | Insane | 150.0 | 1444 | 191.4 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Insane].mc` |
-| 3076 | Glow | Chiru-san | Normal | 150.0 | 915 | 191.0 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Normal].mc` |
-| 3077 | Godzilla (feat. Juice WRLD) | Eminem | Advanced | 166.0 | 1346 | 207.1 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Advanced].mc` |
-| 3078 | Godzilla (feat. Juice WRLD) | Eminem | Azukkii's Hard | 166.0 | 1865 | 207.1 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Azukkii's Hard].mc` |
-| 3079 | Godzilla (feat. Juice WRLD) | Eminem | Expert | 166.0 | 2927 | 207.2 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Expert].mc` |
-| 3080 | Godzilla (feat. Juice WRLD) | Eminem | Menphiss' Insane | 166.0 | 2477 | 207.1 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Menphiss' Insane].mc` |
-| 3081 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Easy | 154.0 | 213 | 88.8 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Easy].mc` |
-| 3082 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Slowpoke's Normal | 154.0 | 246 | 86.7 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Slowpoke's Normal].mc` |
-| 3083 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Unforgettable Memories | 154.0 | 547 | 87.2 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Unforgettable Memories].mc` |
-| 3084 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Usagi's Hard | 154.0 | 410 | 88.8 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Usagi's Hard].mc` |
-| 3085 | Grabinschrift der Goetter | ikaruga_nex vs. Kagetora. | Ragnarok | 200.0 | 3077 | 307.1 | osu_mirror/community | `osu_mirror\2483755\ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter ([GB]Cinelia) [Ragnarok].mc` |
-| 3086 | Grace | Jeff Buckley | Drown | 57.47 | 4016 | 286.7 | osu_mirror/community | `osu_mirror\2577371\Jeff Buckley - Grace (Biosphere) [Drown].mc` |
-| 3087 | Gray Zone | Parang | Extra | 141.0 | 1635 | 144.3 | osu_mirror/community | `osu_mirror\2588509\Parang - Gray Zone (Furryswan) [Extra].mc` |
-| 3088 | Gray Zone | Parang | Insane | 141.0 | 1398 | 143.9 | osu_mirror/community | `osu_mirror\2588509\Parang - Gray Zone (Furryswan) [Insane].mc` |
-| 3089 | Gray Zone | Parang | Top Difficulty | 141.0 | 1875 | 144.3 | osu_mirror/community | `osu_mirror\2588509\Parang - Gray Zone (Furryswan) [Top Difficulty].mc` |
-| 3090 | Grayed Out -Antifront- | Getty vs. DJ DiA | Another | 190.0 | 1326 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Another].mc` |
-| 3091 | Grayed Out -Antifront- | Getty vs. DJ DiA | Beginner | 190.0 | 396 | 109.9 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Beginner].mc` |
-| 3092 | Grayed Out -Antifront- | Getty vs. DJ DiA | Hyper | 190.0 | 1002 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Hyper].mc` |
-| 3093 | Grayed Out -Antifront- | Getty vs. DJ DiA | Normal | 190.0 | 700 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Normal].mc` |
-| 3094 | Grayed Out -Antifront- | Getty vs. DJ DiA | Nova | 190.0 | 1662 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Nova].mc` |
-| 3095 | Guess Who Is Back (Sped Up & Ringtone Size) | Koda Kumi | Azukkii's Chordjacks | 240.0 | 633 | 28.9 | osu_mirror/community | `osu_mirror\2544191\Koda Kumi - Guess Who Is Back (Sped Up & Ringtone Size) (IcedTea96) [Azukkii's Chordjacks].mc` |
-| 3096 | Guess Who Is Back (Sped Up & Ringtone Size) | Koda Kumi | Azukkii's Kiyo Moments | 240.0 | 487 | 28.9 | osu_mirror/community | `osu_mirror\2544191\Koda Kumi - Guess Who Is Back (Sped Up & Ringtone Size) (IcedTea96) [Azukkii's Kiyo Moments].mc` |
-| 3097 | Gumbarlzo! | t+pazolite | Hidden's Festival | 103.0 | 3518 | 298.1 | osu_mirror/community | `osu_mirror\2472360\t+pazolite - Gumbarlzo! (V1do-) [Hidden's Festival].mc` |
-| 3098 | Gumbarlzo! | t+pazolite | Matsuri | 103.0 | 3095 | 298.1 | osu_mirror/community | `osu_mirror\2472360\t+pazolite - Gumbarlzo! (V1do-) [Matsuri].mc` |
-| 3099 | Gumbarlzo! | t+pazolite | MOVE TO THE FUNKY BEAT! | 103.0 | 5780 | 298.4 | osu_mirror/community | `osu_mirror\2530315\t+pazolite - Gumbarlzo! (Ryax) [MOVE TO THE FUNKY BEAT!].mc` |
-| 3100 | ha@ppy s@mmer v@c@tion!! (long ver.) | AAAA + Hino Isuka | s@mmer get@w@y!! | 186.0 | 2682 | 201.3 | osu_mirror/community | `osu_mirror\2600839\AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (long ver.) (Oceanus) [s@mmer get@w@y!!].mc` |
-| 3101 | Hakase no Suki Nano Nano | Hakase (CV: Konno Hiromi) | Wind-Up | 170.0 | 438 | 239.6 | osu_mirror/community | `osu_mirror\2572994\Hakase (CV Konno Hiromi) - Hakase no Suki Nano Nano (Ballistic) [Wind-Up].mc` |
-| 3102 | Hakuchu-mu | BPM15Q | Insane | 174.0 | 1926 | 219.7 | osu_mirror/community | `osu_mirror\2502888\BPM15Q - Hakuchu-mu (Quzy3315) [Insane].mc` |
-| 3103 | Halcyon | xi | Advanced | 191.0 | 720 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Advanced].mc` |
-| 3104 | Halcyon | xi | Avel's Insane | 191.0 | 656 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Avel's Insane].mc` |
-| 3105 | Halcyon | xi | Extra | 191.0 | 810 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Extra].mc` |
-| 3106 | Halcyon | xi | Hyper | 191.0 | 1030 | 145.4 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Hyper].mc` |
-| 3107 | Halcyon | xi | Idyllic Days | 191.0 | 448 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Idyllic days].mc` |
-| 3108 | Halcyon | xi | Novice | 191.0 | 439 | 142.9 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Novice].mc` |
-| 3109 | hallucinate (game ver.) | solfa feat. nao | advanced | 90.0 | 584 | 95.9 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [advanced].mc` |
-| 3110 | hallucinate (game ver.) | solfa feat. nao | another | 90.0 | 929 | 94.9 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [another].mc` |
-| 3111 | hallucinate (game ver.) | solfa feat. nao | expert | 90.0 | 1091 | 94.9 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [expert].mc` |
-| 3112 | hallucinate (game ver.) | solfa feat. nao | hyper | 90.0 | 785 | 96.0 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [hyper].mc` |
-| 3113 | hallucinate (game ver.) | solfa feat. nao | intermediate | 90.0 | 321 | 94.7 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [intermediate].mc` |
-| 3114 | Hanataba | MIMI feat. KAFU | A Goodbye to the Past // Hard | 119.0 | 893 | 141.3 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [A Goodbye to the Past  Hard].mc` |
-| 3115 | Hanataba | MIMI feat. KAFU | Accelerated Feelings // Aratoji's Normal | 119.0 | 735 | 141.3 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [Accelerated Feelings  Aratoji's Normal].mc` |
-| 3116 | Hanataba | MIMI feat. KAFU | Dancing in the Middle of Nothingness with a Bouquet // Insane | 119.0 | 737 | 141.3 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [Dancing in the Middle of Nothingness with a Bouquet  Insane].mc` |
-| 3117 | Hanataba | MIMI feat. KAFU | Destination Lost // Dereck's Easy | 119.0 | 336 | 140.7 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [Destination Lost  Dereck's Easy].mc` |
-| 3118 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Bandusty's Another | 102.5 | 938 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Bandusty's Another].mc` |
-| 3119 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Beginner | 102.5 | 248 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Beginner].mc` |
-| 3120 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Easy | 102.5 | 375 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Easy].mc` |
-| 3121 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Initial's Insane | 102.5 | 1196 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Initial's Insane].mc` |
-| 3122 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Karin's Expert | 102.5 | 1010 | 161.3 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Karin's Expert].mc` |
-| 3123 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | lik_0's Hyper | 102.5 | 1020 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [lik_0's Hyper].mc` |
-| 3124 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Normal | 102.5 | 740 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Normal].mc` |
-| 3125 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Subsolar Inflorescence | 102.5 | 1022 | 154.9 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Subsolar Inflorescence].mc` |
-| 3126 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | ZTactix's Advanced | 102.5 | 835 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [ZTactix's Advanced].mc` |
-| 3127 | HANIPAGANDA | Akatsuki Records | HANIWA | 181.0 | 3271 | 198.3 | osu_mirror/community | `osu_mirror\1780259\Akatsuki Records - HANIPAGANDA (Alicia) [HANIWA].mc` |
-| 3128 | HANIPAGANDA | Akatsuki Records | INSANE | 181.0 | 2787 | 198.3 | osu_mirror/community | `osu_mirror\1780259\Akatsuki Records - HANIPAGANDA (Alicia) [INSANE].mc` |
-| 3129 | Happppy song | SOOOO | Happppy birthday! | 226.0 | 4841 | 301.3 | osu_mirror/community | `osu_mirror\2549289\SOOOO - Happppy song (LeCrazy) [Happppy birthday!].mc` |
-| 3130 | Hayo, New World. (TV Size) | Sakuragawa Megu | Easy | 185.0 | 189 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Easy].mc` |
-| 3131 | Hayo, New World. (TV Size) | Sakuragawa Megu | Hard | 185.0 | 422 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Hard].mc` |
-| 3132 | Hayo, New World. (TV Size) | Sakuragawa Megu | hiyo~hiyo~DH | 185.0 | 687 | 56.8 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [hiyo~hiyo~DH].mc` |
-| 3133 | Hayo, New World. (TV Size) | Sakuragawa Megu | Insane | 185.0 | 533 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Insane].mc` |
-| 3134 | Hayo, New World. (TV Size) | Sakuragawa Megu | Normal | 185.0 | 326 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Normal].mc` |
-| 3135 | Heaven's Fall | Helblinde | Immoral 1.05x (210bpm) | 210.0 | 4628 | 237.1 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.05x (210bpm)].mc` |
-| 3136 | Heaven's Fall | Helblinde | Immoral 1.15x (230bpm) | 230.0 | 4628 | 216.5 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.15x (230bpm)].mc` |
-| 3137 | Heaven's Fall | Helblinde | Immoral 1.1x (220bpm) | 220.0 | 4628 | 226.3 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.1x (220bpm)].mc` |
-| 3138 | Heaven's Fall | Helblinde | Immoral 1.25x (250bpm) | 250.0 | 4628 | 199.1 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.25x (250bpm)].mc` |
-| 3139 | Heaven's Fall | Helblinde | Immoral 1.2x (240bpm) | 240.0 | 4628 | 207.4 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.2x (240bpm)].mc` |
-| 3140 | Heaven's Fall | Helblinde | Immoral 1.35x (270bpm) | 270.0 | 4628 | 184.4 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.35x (270bpm)].mc` |
-| 3141 | Heaven's Fall | Helblinde | Immoral 1.3x (260bpm) | 260.0 | 4628 | 191.5 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.3x (260bpm)].mc` |
-| 3142 | Heaven's Fall | Helblinde | Immoral 1.45x (290bpm) | 290.0 | 4628 | 171.7 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.45x (290bpm)].mc` |
-| 3143 | Heaven's Fall | Helblinde | Immoral 1.4x (280bpm) | 280.0 | 4628 | 177.8 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.4x (280bpm)].mc` |
-| 3144 | Heaven's Fall | Helblinde | Immoral | 200.0 | 4628 | 248.9 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral].mc` |
-| 3145 | Heaven's Fall | Helblinde | remove this plz | 15.0 | 2 | 606.0 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [remove this plz].mc` |
-| 3146 | helical symmetry | Annabel | double helix | 122.0 | 2913 | 250.0 | osu_mirror/community | `osu_mirror\2322108\Annabel - helical symmetry (elexire) [double helix].mc` |
-| 3147 | Helios | Supire | Analog Signal | 180.0 | 4331 | 305.2 | osu_mirror/community | `osu_mirror\2489234\Supire - Helios (chy030_ft_pH5_6) [Analog Signal].mc` |
-| 3148 | Helios | Supire | Solar Apocalypse | 180.0 | 2459 | 304.9 | osu_mirror/community | `osu_mirror\2498821\Supire - Helios (Lott) [Solar Apocalypse].mc` |
-| 3149 | Hello to the your first video game | Camellia | Welcome to mania | 128.0 | 1828 | 273.7 | osu_mirror/community | `osu_mirror\2573821\Camellia - Hello to the your first video game (puqi_a) [Welcome to mania].mc` |
-| 3150 | Hello!My World!! (TV Size) | fhana | -Zell's Hard | 141.0 | 612 | 86.8 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [-Zell's Hard].mc` |
-| 3151 | Hello!My World!! (TV Size) | fhana | A Revolution Written in Light | 141.0 | 1040 | 86.6 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [A Revolution Written in Light].mc` |
-| 3152 | Hello!My World!! (TV Size) | fhana | Easy | 141.0 | 261 | 86.8 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [Easy].mc` |
-| 3153 | Hello!My World!! (TV Size) | fhana | eZmmR's Insane | 141.0 | 906 | 86.6 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [eZmmR's Insane].mc` |
-| 3154 | Hello!My World!! (TV Size) | fhana | Hyper | 141.0 | 723 | 86.8 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [Hyper].mc` |
-| 3155 | Hello!My World!! (TV Size) | fhana | Normal | 141.0 | 468 | 86.6 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [Normal].mc` |
-| 3156 | Hemisphere | ARForest | Circumnavigation | 193.0 | 1234 | 111.8 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Circumnavigation].mc` |
-| 3157 | Hemisphere | ARForest | Easy | 193.0 | 356 | 111.9 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Easy].mc` |
-| 3158 | Hemisphere | ARForest | Hard | 193.0 | 845 | 111.9 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Hard].mc` |
-| 3159 | Hemisphere | ARForest | Insane | 193.0 | 1049 | 111.8 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Insane].mc` |
-| 3160 | Hemisphere | ARForest | Normal | 193.0 | 588 | 111.8 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Normal].mc` |
-| 3161 | Hercules | Abel | Advanced | 195.0 | 778 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Advanced].mc` |
-| 3162 | Hercules | Abel | Another | 195.0 | 1334 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Another].mc` |
-| 3163 | Hercules | Abel | Hyper | 195.0 | 1074 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Hyper].mc` |
-| 3164 | Hercules | Abel | Normal | 195.0 | 533 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Normal].mc` |
-| 3165 | Hercules | Abel | Of his flaming blade | 195.0 | 1421 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Of his flaming blade].mc` |
-| 3166 | Hero's March | TFD500 | Journey | 120.0 | 543 | 147.5 | osu_mirror/community | `osu_mirror\2539716\TFD500 - Hero's March (NyuPenyu) [Journey].mc` |
-| 3167 | Hesitation Snow -version 2024- (Cut Ver.) | fripSide | Hard | 70.0 | 819 | 154.7 | osu_mirror/community | `osu_mirror\2486779\fripSide - Hesitation Snow -version 2024- (Cut Ver.) (FerdiXIA-) [Hard].mc` |
-| 3168 | Hesitation Snow -version 2024- (Cut Ver.) | fripSide | Normal | 70.0 | 475 | 150.9 | osu_mirror/community | `osu_mirror\2486779\fripSide - Hesitation Snow -version 2024- (Cut Ver.) (FerdiXIA-) [Normal].mc` |
-| 3169 | Hesitation Snow -version 2024- (Cut Ver.) | fripSide | Sakura | 70.0 | 969 | 154.6 | osu_mirror/community | `osu_mirror\2486779\fripSide - Hesitation Snow -version 2024- (Cut Ver.) (FerdiXIA-) [Sakura].mc` |
-| 3170 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Another | 158.0 | 841 | 171.9 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Another].mc` |
-| 3171 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | InSensitive!! | 158.0 | 863 | 171.9 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [InSensitive!!].mc` |
-| 3172 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Lin's Advanced | 158.0 | 707 | 171.4 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Lin's Advanced].mc` |
-| 3173 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Maiiy's Hyper | 158.0 | 860 | 171.6 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Maiiy's Hyper].mc` |
-| 3174 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Slowpoke's Intermediate | 158.0 | 464 | 170.9 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Slowpoke's Intermediate].mc` |
-| 3175 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | EZ | 190.0 | 342 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [EZ].mc` |
-| 3176 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | HD | 190.0 | 638 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [HD].mc` |
-| 3177 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | NM | 190.0 | 465 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [NM].mc` |
-| 3178 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | Peachy's MX | 190.0 | 812 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [Peachy's MX].mc` |
-| 3179 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | SC | 190.0 | 1002 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [SC].mc` |
-| 3180 | Hikari yo | KikuoHana | Reprieve | 256.0 | 4287 | 248.3 | osu_mirror/community | `osu_mirror\2623905\KikuoHana - Hikari yo (elexire) [Reprieve].mc` |
-| 3181 | Hikoutei feat. AVER | King Gnu | Can't wait...! | 80.0 | 1889 | 252.2 | osu_mirror/community | `osu_mirror\2503440\King Gnu - Hikoutei feat. AVER (NineSey) [Can't wait...!].mc` |
-| 3182 | Himegoto*Crisisters (nenpulse bootleg remix) | ONIMAI SISTERS | One More Time! | 180.0 | 2519 | 368.0 | osu_mirror/community | `osu_mirror\2492026\ONIMAI SISTERS - HimegotoCrisisters (nenpulse bootleg remix) (Gsuncraft) [One More Time!].mc` |
-| 3183 | Hinagesi | Nor | Ayame / Easy | 172.0 | 217 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Ayame  Easy].mc` |
-| 3184 | Hinagesi | Nor | Kikyou / Hard | 172.0 | 728 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Kikyou  Hard].mc` |
-| 3185 | Hinagesi | Nor | Nagusa / Expert | 172.0 | 754 | 108.8 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Nagusa  Expert].mc` |
-| 3186 | Hinagesi | Nor | Renge / Normal | 172.0 | 457 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Renge  Normal].mc` |
-| 3187 | Hinagesi | Nor | Yukari / Insane | 172.0 | 824 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Yukari  Insane].mc` |
-| 3188 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Foxide's Hard | 128.0 | 1296 | 226.8 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Foxide's Hard].mc` |
-| 3189 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Insane | 128.0 | 1626 | 227.0 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Insane].mc` |
-| 3190 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Normal | 128.0 | 716 | 227.5 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Normal].mc` |
-| 3191 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Torru's Easy | 128.0 | 737 | 226.5 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Torru's Easy].mc` |
-| 3192 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Hard | 200.0 | 935 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Hard].mc` |
-| 3193 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Insane | 200.0 | 1266 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Insane].mc` |
-| 3194 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Miau's Another | 200.0 | 1600 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Miau's Another].mc` |
-| 3195 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Normal | 200.0 | 808 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Normal].mc` |
-| 3196 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Praise me! | 200.0 | 1840 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Praise me!].mc` |
-| 3197 | Honma ni "Yada" | San-Z | Insane | 131.5 | 419 | 84.0 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Insane].mc` |
-| 3198 | Honma ni "Yada" | San-Z | Normal | 131.5 | 304 | 81.8 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Normal].mc` |
-| 3199 | Honma ni "Yada" | San-Z | Revv's Easy | 131.5 | 216 | 83.4 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Revv's Easy].mc` |
-| 3200 | Honma ni "Yada" | San-Z | Revv's Hard | 131.5 | 460 | 82.9 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Revv's Hard].mc` |
-| 3201 | Honma ni "Yada" | San-Z | Yada! | 131.5 | 404 | 84.0 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Yada!].mc` |
-| 3202 | HOT LIMIT (Game Ver.) | Shimamura Uzuki (CV: Ohashi Ayaka) | HARD | 138.0 | 937 | 106.0 | osu_mirror/community | `osu_mirror\1493610\Shimamura Uzuki (CV Ohashi Ayaka) - HOT LIMIT (Game Ver.) (MarioUniverseZ) [HARD].mc` |
-| 3203 | HOT LIMIT (Game Ver.) | Shimamura Uzuki (CV: Ohashi Ayaka) | HOT BLOOD | 138.0 | 1279 | 106.0 | osu_mirror/community | `osu_mirror\1493610\Shimamura Uzuki (CV Ohashi Ayaka) - HOT LIMIT (Game Ver.) (MarioUniverseZ) [HOT BLOOD].mc` |
-| 3204 | HOT LIMIT (Game Ver.) | Shimamura Uzuki (CV: Ohashi Ayaka) | NORMAL | 138.0 | 563 | 106.0 | osu_mirror/community | `osu_mirror\1493610\Shimamura Uzuki (CV Ohashi Ayaka) - HOT LIMIT (Game Ver.) (MarioUniverseZ) [NORMAL].mc` |
-| 3205 | Houkago Mermaid | Shigure Ui | The Title is After School Mermaid | 164.0 | 952 | 216.5 | osu_mirror/community | `osu_mirror\2551742\Shigure Ui - Houkago Mermaid (Ainer) [The title is After School Mermaid].mc` |
-| 3206 | Houkai no Bigaku | Ariabl'eyeS | Collapse | 232.0 | 4680 | 238.8 | osu_mirror/community | `osu_mirror\2531219\Ariabl'eyeS - Houkai no Bigaku ([GB]Kita-) [Collapse].mc` |
-| 3207 | Houmuru Kagerou | ELFENSJoN | Fading Illusion | 64.33 | 861 | 213.6 | osu_mirror/community | `osu_mirror\2531128\ELFENSJoN - Houmuru Kagerou (ChaoSharkouo) [Fading Illusion].mc` |
-| 3208 | How to make Slime | O2i3 | No borax | 130.0 | 525 | 168.9 | osu_mirror/community | `osu_mirror\2198573\O2i3 - How to make Slime (fvrex) [No borax].mc` |
-| 3209 | How to make Slime | O2i3 | okthen's Hard | 130.0 | 407 | 167.5 | osu_mirror/community | `osu_mirror\2198573\O2i3 - How to make Slime (fvrex) [okthen's Hard].mc` |
-| 3210 | How to make Slime | O2i3 | Ucitysm's Normal | 130.0 | 326 | 167.5 | osu_mirror/community | `osu_mirror\2198573\O2i3 - How to make Slime (fvrex) [Ucitysm's Normal].mc` |
-| 3211 | Hyadain's Jojo Yujo | Hyadain | Helvetica Standard | 200.0 | 480 | 240.2 | osu_mirror/community | `osu_mirror\2604526\Hyadain - Hyadain's Jojo Yujo (fvrex) [Helvetica Standard].mc` |
-| 3212 | Hyouryuu Hyourei | Kou! | Collider Zero | 156.0 | 3209 | 304.1 | osu_mirror/community | `osu_mirror\2553755\Kou! - Hyouryuu Hyourei ([GB]Cinelia) [Collider Zero].mc` |
-| 3213 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.05 | 183.75 | 2756 | 135.8 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.05].mc` |
-| 3214 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.15 | 201.25 | 2756 | 124.0 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.15].mc` |
-| 3215 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.1 | 192.5 | 2756 | 129.7 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.1].mc` |
-| 3216 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.2 | 210.0 | 2756 | 118.9 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.2].mc` |
-| 3217 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 | 175.0 | 2756 | 142.6 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33].mc` |
-| 3218 | I Can't Wait feat. GUMI | d0tc0mmie | Advanced | 128.38 | 674 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Advanced].mc` |
-| 3219 | I Can't Wait feat. GUMI | d0tc0mmie | Another | 128.38 | 1301 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Another].mc` |
-| 3220 | I Can't Wait feat. GUMI | d0tc0mmie | Beginner | 128.38 | 169 | 89.7 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Beginner].mc` |
-| 3221 | I Can't Wait feat. GUMI | d0tc0mmie | Easy | 128.38 | 163 | 90.2 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Easy].mc` |
-| 3222 | I Can't Wait feat. GUMI | d0tc0mmie | Expert | 128.38 | 1423 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Expert].mc` |
-| 3223 | I Can't Wait feat. GUMI | d0tc0mmie | Hard | 128.38 | 860 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Hard].mc` |
-| 3224 | I Can't Wait feat. GUMI | d0tc0mmie | Hyper | 128.38 | 1055 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Hyper].mc` |
-| 3225 | I Can't Wait feat. GUMI | d0tc0mmie | Insane | 128.38 | 1204 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Insane].mc` |
-| 3226 | I Can't Wait feat. GUMI | d0tc0mmie | Love Me Love Me AHH AHH AHH | 128.38 | 1599 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Love Me Love Me AHH AHH AHH].mc` |
-| 3227 | I Can't Wait feat. GUMI | d0tc0mmie | Normal | 128.38 | 476 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Normal].mc` |
-| 3228 | I Don't Know (Nightcore & Ringtone Edit) | Erika | chordjacks | 185.0 | 199 | 10.4 | osu_mirror/community | `osu_mirror\2550152\Erika - I Don't Know (Nightcore & Ringtone Edit) (XBladeXGMD) [chordjacks].mc` |
-| 3229 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Advanced | 240.0 | 990 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Advanced].mc` |
-| 3230 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Another | 240.0 | 1766 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Another].mc` |
-| 3231 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Devotion into abyss | 240.0 | 2111 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Devotion into abyss].mc` |
-| 3232 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Hyper | 240.0 | 1336 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Hyper].mc` |
-| 3233 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Intermediate | 240.0 | 466 | 109.8 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Intermediate].mc` |
-| 3234 | I have 7001 GAY FURRY in my FRIDGECORE | spoonXYZ | !!\/\/ ( o A o  ///) | 280.73 | 4702 | 217.7 | osu_mirror/community | `osu_mirror\2518016\spoonXYZ - I have 7001 GAY FURRY in my FRIDGECORE (Mich_) [!! ( o A o  )].mc` |
-| 3235 | I swear (TV Size) | sweet ARMS | Castle of Devouring Time | 167.97 | 593 | 94.1 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Castle of Devouring Time].mc` |
-| 3236 | I swear (TV Size) | sweet ARMS | Dzar03's Normal | 167.97 | 403 | 94.1 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Dzar03's Normal].mc` |
-| 3237 | I swear (TV Size) | sweet ARMS | Easy | 167.97 | 344 | 92.6 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Easy].mc` |
-| 3238 | I swear (TV Size) | sweet ARMS | Sava's Hard | 167.97 | 583 | 94.4 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Sava's Hard].mc` |
-| 3239 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | G1NYA's STELLA | 200.0 | 1338 | 149.7 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [G1NYA's STELLA].mc` |
-| 3240 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | Jukomu's HARD | 200.0 | 1258 | 149.7 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [Jukomu's HARD].mc` |
-| 3241 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | nyamushi's OLIVIER | 200.0 | 919 | 144.8 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [nyamushi's OLIVIER].mc` |
-| 3242 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | pura's EXTRA | 200.0 | 1334 | 141.6 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [pura's EXTRA].mc` |
-| 3243 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | Spy's NORMAL | 200.0 | 561 | 141.4 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [Spy's NORMAL].mc` |
-| 3244 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | Stay With You | 200.0 | 743 | 149.7 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [Stay With You].mc` |
-| 3245 | I Want You to Tell Me the Moon is Beautiful! | Kasasagi | I Love U! | 160.0 | 599 | 145.1 | osu_mirror/community | `osu_mirror\2620660\Kasasagi - I Want You to Tell Me the Moon is Beautiful! (puqi_a) [I Love U!].mc` |
-| 3246 | I wanted to dance in your pulse feat. Hatsune Miku | Picon | Recollection under the snowfall // Aratoji's Hard | 75.0 | 517 | 232.8 | osu_mirror/community | `osu_mirror\2506453\Picon - I wanted to dance in your pulse feat. Hatsune Miku ([TCD] Ena-suki) [Recollection under the snowfall  Aratoji's Hard].mc` |
-| 3247 | I wanted to dance in your pulse feat. Hatsune Miku | Picon | Your blurred shape, behind the cold mist // Insane | 75.0 | 128 | 228.8 | osu_mirror/community | `osu_mirror\2506453\Picon - I wanted to dance in your pulse feat. Hatsune Miku ([TCD] Ena-suki) [Your blurred shape, behind the cold mist  Insane].mc` |
-| 3248 | I.R.I.S | takehirotei as "Infinite Limit" | Final Sight | 38.0 | 4752 | 162.4 | osu_mirror/community | `osu_mirror\2027242\takehirotei as Infinite Limit - I.R.I.S (-Kori) [Final Sight].mc` |
-| 3249 | Ichiban no Takaramono (Yui Final Ver.) | Girls Dead Monster STARRING LiSA | Memories | 110.78 | 1451 | 311.6 | osu_mirror/community | `osu_mirror\2529434\Girls Dead Monster STARRING LiSA - Ichiban no Takaramono (Yui Final Ver.) (eZmmR) [Memories].mc` |
-| 3250 | Ideal | Paspal | 4K - Alu's Advanced | 50.0 | 133 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Alu's Advanced].mc` |
-| 3251 | Ideal | Paspal | 4K - Normal | 50.0 | 107 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Normal].mc` |
-| 3252 | Ideal | Paspal | 4K - Reading's Beginner | 50.0 | 75 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Reading's Beginner].mc` |
-| 3253 | Ideal | Paspal | 4K - Take's Easy | 50.0 | 132 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Take's Easy].mc` |
-| 3254 | Ideal | Paspal | 4K - Wilderness | 50.0 | 167 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Wilderness].mc` |
-| 3255 | Ievan Polkka | Otomania | 4K NSV | 119.0 | 948 | 144.7 | osu_mirror/community | `osu_mirror\993703\Otomania - Ievan Polkka (BossMadWolf) [4K NSV].mc` |
-| 3256 | Ievan Polkka | Otomania | 4K SV | 0.0 | 948 | 0.9 | osu_mirror/community | `osu_mirror\993703\Otomania - Ievan Polkka (BossMadWolf) [4K SV].mc` |
-| 3257 | If Summer is calling us | *Luna feat. Wakabayashi | Then we will call tommorow | 152.0 | 2035 | 264.3 | osu_mirror/community | `osu_mirror\2387328\Luna feat. Wakabayashi - If Summer is calling us (mirac1e_xf) [Then we will call tommorow].mc` |
-| 3258 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | amano's Easy | 192.0 | 335 | 99.7 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [Amano's Easy].mc` |
-| 3259 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | ara's Normal | 192.0 | 606 | 103.6 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [ara's Normal].mc` |
-| 3260 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | ATing's Hard | 192.0 | 718 | 99.8 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [ATing's Hard].mc` |
-| 3261 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | kekou's Insane | 192.0 | 1089 | 103.7 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [kekou's Insane].mc` |
-| 3262 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | netzoid's Hyper | 192.0 | 910 | 103.7 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [netzoid's Hyper].mc` |
-| 3263 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | There's The Door | 192.0 | 1255 | 103.8 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [There's The Door].mc` |
-| 3264 | If You Feel My Love (Chaow Mix) | Blaxy Girls | Dzar03's Hard | 96.0 | 1933 | 189.7 | osu_mirror/community | `osu_mirror\2569938\Blaxy Girls - If You Feel My Love (Chaow Mix) (menphiss) [Dzar03's Hard].mc` |
-| 3265 | If You Feel My Love (Chaow Mix) | Blaxy Girls | I Don't Need You To Succeed | 96.0 | 2627 | 189.8 | osu_mirror/community | `osu_mirror\2569938\Blaxy Girls - If You Feel My Love (Chaow Mix) (menphiss) [I Don't Need You To Succeed].mc` |
-| 3266 | Illusion's End ~ Reflection's Awakening | o!mLN4 Sound Team | Dilemma of Inverse Worlds: Sin's Absolution | 58.85 | 666 | 111.0 | osu_mirror/community | `osu_mirror\2455633\o!mLN4 Sound Team - Illusion's End ~ Reflection's Awakening ([Crz]Crysarlene) [Dilemma of Inverse Worlds Sin's Absolution].mc` |
-| 3267 | Imagination | lunari.io & Shiroi-Ice | Hard | 150.0 | 972 | 156.6 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Hard].mc` |
-| 3268 | Imagination | lunari.io & Shiroi-Ice | Insane | 150.0 | 1194 | 156.6 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Insane].mc` |
-| 3269 | Imagination | lunari.io & Shiroi-Ice | Normal | 150.0 | 593 | 156.6 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Normal].mc` |
-| 3270 | Imagination | lunari.io & Shiroi-Ice | Souzouryoku | 150.0 | 1617 | 156.8 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Souzouryoku].mc` |
-| 3271 | Inferno City | Ponchi feat. haxchi | Ayase's Hard | 215.0 | 941 | 116.9 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Ayase's Hard].mc` |
-| 3272 | Inferno City | Ponchi feat. haxchi | Easy | 215.0 | 327 | 117.0 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Easy].mc` |
-| 3273 | Inferno City | Ponchi feat. haxchi | Eyes of Eternity | 215.0 | 1835 | 116.9 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Eyes of Eternity].mc` |
-| 3274 | Inferno City | Ponchi feat. haxchi | FAMoss' Insane | 215.0 | 1654 | 116.9 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [FAMoss' Insane].mc` |
-| 3275 | Inferno City | Ponchi feat. haxchi | Yui's Normal | 215.0 | 461 | 116.5 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Yui's Normal].mc` |
-| 3276 | innocent arrogance (TV Size) | BiSH | Pairo's Normal | 170.0 | 386 | 87.4 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Pairo's normal].mc` |
-| 3277 | innocent arrogance (TV Size) | BiSH | Shiro's Hard | 170.0 | 568 | 87.2 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Shiro's Hard].mc` |
-| 3278 | innocent arrogance (TV Size) | BiSH | Tengoku | 170.0 | 608 | 87.3 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Tengoku].mc` |
-| 3279 | innocent arrogance (TV Size) | BiSH | Ulis' Intermediate | 170.0 | 275 | 87.4 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Ulis' Intermediate].mc` |
-| 3280 | Insomnia | Chiru-san | Another | 135.0 | 1384 | 146.7 | osu_mirror/community | `osu_mirror\2580819\Chiru-san - Insomnia (_Yunazu) [another].mc` |
-| 3281 | Insomnia | Chiru-san | Insane | 135.0 | 1180 | 146.7 | osu_mirror/community | `osu_mirror\2580819\Chiru-san - Insomnia (_Yunazu) [insane].mc` |
-| 3282 | intel 4K Core Pack Vol.2 | Various Artists | AAAA // Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (???) | 224.0 | 2517 | 145.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [AAAA  Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) ()].mc` |
-| 3283 | intel 4K Core Pack Vol.2 | Various Artists | AAAA // Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (HD) | 224.0 | 1171 | 145.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [AAAA  Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (HD)].mc` |
-| 3284 | intel 4K Core Pack Vol.2 | Various Artists | AAAA // Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (MX) | 224.0 | 1964 | 145.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [AAAA  Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (MX)].mc` |
-| 3285 | intel 4K Core Pack Vol.2 | Various Artists | kofu // snow motion (EZ) | 181.0 | 511 | 116.7 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [kofu  snow motion (EZ)].mc` |
-| 3286 | intel 4K Core Pack Vol.2 | Various Artists | kofu // snow motion (HD) | 181.0 | 615 | 116.7 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [kofu  snow motion (HD)].mc` |
-| 3287 | intel 4K Core Pack Vol.2 | Various Artists | kofu // snow motion (MX) | 181.0 | 906 | 116.7 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [kofu  snow motion (MX)].mc` |
-| 3288 | intel 4K Core Pack Vol.2 | Various Artists | Kurenainagi Tabibito // Otenba Koimusume (Cut & Sped Up Ver.) (HD) | 168.0 | 345 | 120.2 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [Kurenainagi Tabibito  Otenba Koimusume (Cut & Sped Up Ver.) (HD)].mc` |
-| 3289 | intel 4K Core Pack Vol.2 | Various Artists | Kurenainagi Tabibito // Otenba Koimusume (Cut & Sped Up Ver.) (NM) | 168.0 | 226 | 122.1 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [Kurenainagi Tabibito  Otenba Koimusume (Cut & Sped Up Ver.) (NM)].mc` |
-| 3290 | intel 4K Core Pack Vol.2 | Various Artists | Kurenainagi Tabibito // Otenba Koimusume (Cut & Sped Up Ver.) (SC) | 168.0 | 490 | 121.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [Kurenainagi Tabibito  Otenba Koimusume (Cut & Sped Up Ver.) (SC)].mc` |
-| 3291 | intel 4K Core Pack Vol.2 | Various Artists | P*Light feat. mow*2 // OVERDRIVERS (HD) | 177.0 | 625 | 111.2 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [PLight feat. mow2  OVERDRIVERS (HD)].mc` |
-| 3292 | intel 4K Core Pack Vol.2 | Various Artists | P*Light feat. mow*2 // OVERDRIVERS (MX) | 177.0 | 395 | 111.2 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [PLight feat. mow2  OVERDRIVERS (MX)].mc` |
-| 3293 | intel 4K Core Pack Vol.2 | Various Artists | P*Light feat. mow*2 // OVERDRIVERS (NM) | 177.0 | 369 | 108.5 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [PLight feat. mow2  OVERDRIVERS (NM)].mc` |
-| 3294 | intel 4K Core Pack Vol.2 | Various Artists | TAG x PON // PUNISHER (HD) | 180.0 | 363 | 113.3 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [TAG x PON  PUNISHER (HD)].mc` |
-| 3295 | intel 4K Core Pack Vol.2 | Various Artists | TAG x PON // PUNISHER (NM) | 180.0 | 237 | 113.3 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [TAG x PON  PUNISHER (NM)].mc` |
-| 3296 | intel 4K Core Pack Vol.2 | Various Artists | TAG x PON // PUNISHER (SC) | 180.0 | 450 | 113.3 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [TAG x PON  PUNISHER (SC)].mc` |
-| 3297 | intel 4K Core Pack Vol.2 | Various Artists | w_tre // Shannon's Theorem (HD) | 175.0 | 1103 | 112.4 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [w_tre  Shannon's Theorem (HD)].mc` |
-| 3298 | intel 4K Core Pack Vol.2 | Various Artists | w_tre // Shannon's Theorem (MX) | 175.0 | 1572 | 112.5 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [w_tre  Shannon's Theorem (MX)].mc` |
-| 3299 | intel 4K Core Pack Vol.2 | Various Artists | w_tre // Shannon's Theorem (SC) | 175.0 | 2137 | 112.5 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [w_tre  Shannon's Theorem (SC)].mc` |
-| 3300 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Maiiy's Hard | 100.0 | 479 | 77.2 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV Size) (NineSey) [Maiiy's Hard].mc` |
-| 3301 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Monster Energy Ultra | 100.0 | 758 | 79.0 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV Size) (NineSey) [Monster Energy Ultra].mc` |
-| 3302 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Natsu's Insane | 100.0 | 762 | 78.7 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV Size) (NineSey) [Natsu's Insane].mc` |
-| 3303 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Slowpoke's Advanced | 100.0 | 502 | 77.5 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV SIZE) (NineSey) [Slowpoke's Advanced].mc` |
-| 3304 | Internet Exploder | Sunnexo | getting DDOSed on MW2's OP | 174.0 | 2969 | 210.3 | osu_mirror/community | `osu_mirror\2612657\Sunnexo - Internet Exploder (James May) [getting DDOSed on MW2's OP].mc` |
-| 3305 | intro | shuzeios | advanced | 193.0 | 208 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [advanced].mc` |
-| 3306 | intro | shuzeios | hard | 193.0 | 264 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [hard].mc` |
-| 3307 | intro | shuzeios | insane | 193.0 | 319 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [insane].mc` |
-| 3308 | intro | shuzeios | intermediate | 193.0 | 133 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [intermediate].mc` |
-| 3309 | intro | shuzeios | intro | 193.0 | 364 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [intro].mc` |
-| 3310 | Irodori Canvas | SUGAR RUSH | Hard | 180.0 | 1083 | 148.8 | osu_mirror/community | `osu_mirror\2520341\SUGAR RUSH - Irodori Canvas (Savageeeee) [Hard].mc` |
-| 3311 | Irodori Canvas | SUGAR RUSH | The First Shade of a New World | 180.0 | 1101 | 148.8 | osu_mirror/community | `osu_mirror\2520341\SUGAR RUSH - Irodori Canvas (Savageeeee) [The First Shade of a New World].mc` |
-| 3312 | IroniA | Lemm | right answer is not in me | 94.0 | 3926 | 300.7 | osu_mirror/community | `osu_mirror\2564557\Lemm - IroniA (caracol) [right answer is not in me].mc` |
-| 3313 | is this available? | Lubalin | Hydria's Easy | 110.0 | 102 | 41.3 | osu_mirror/community | `osu_mirror\2514096\Lubalin - is this available (YunoMaya) [Hydria's Easy].mc` |
-| 3314 | is this available? | Lubalin | Normal | 110.0 | 84 | 41.5 | osu_mirror/community | `osu_mirror\2514096\Lubalin - is this available (YunoMaya) [Normal].mc` |
-| 3315 | is this available? | Lubalin | Thsnks | 110.0 | 114 | 41.5 | osu_mirror/community | `osu_mirror\2514096\Lubalin - is this available (YunoMaya) [thsnks].mc` |
-| 3316 | Jashin no Konrei, Gi wa Ai to Shiru. | Imperial Circus Dead Decadence | Desperate Soul | 240.0 | 6236 | 287.9 | osu_mirror/community | `osu_mirror\2535368\Imperial Circus Dead Decadence - Jashin no Konrei, Gi wa Ai to Shiru. (Carpihat) [Desperate Soul].mc` |
-| 3317 | Jasmine | KUN | Just mine! | 160.0 | 2841 | 228.8 | osu_mirror/community | `osu_mirror\2589624\KUN - Jasmine (oid45) [just mine!].mc` |
-| 3318 | jellyous | ILLIT | :D | 162.0 | 1185 | 153.9 | osu_mirror/community | `osu_mirror\2442615\ILLIT - jellyous (Livium) [D].mc` |
-| 3319 | jellyous | ILLIT | Johno's Hard | 162.0 | 763 | 153.9 | osu_mirror/community | `osu_mirror\2442615\ILLIT - jellyous (Livium) [Johno's Hard].mc` |
-| 3320 | jellyous | ILLIT | Znow's Hyper | 162.0 | 1203 | 154.1 | osu_mirror/community | `osu_mirror\2442615\ILLIT - jellyous (Livium) [Znow's Hyper].mc` |
-| 3321 | Jester | Culprate & Skorpion | AS%4DLJ@9P#1)F5BH68*$JK!1O3KDC2XV | 172.0 | 1860 | 224.0 | osu_mirror/community | `osu_mirror\2544108\Culprate & Skorpion - Jester (Stereotype) [AS%4DLJ@9P#1)F5BH68$JK!1O3KDC2XV].mc` |
-| 3322 | JETSTICK PT.1.5 | DOT96 | Foxide's DRUMKIT.WAV | 174.0 | 2436 | 233.1 | osu_mirror/community | `osu_mirror\2153113\DOT96 - JETSTICK PT.1.5 (UniUniverse) [Foxide's DRUMKIT.WAV].mc` |
-| 3323 | Jikan wa Tsugu | siraph | elexire's Lapse | 135.0 | 3647 | 270.4 | osu_mirror/community | `osu_mirror\2431448\siraph - Jikan wa Tsugu (caracol) [elexire's Lapse].mc` |
-| 3324 | Jikan wa Tsugu | siraph | Syntony | 135.0 | 4842 | 310.7 | osu_mirror/community | `osu_mirror\2431448\siraph - Jikan wa Tsugu (caracol) [Syntony].mc` |
-| 3325 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Easy! | 155.0 | 262 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Easy!].mc` |
-| 3326 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Hard! | 155.0 | 606 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Hard!].mc` |
-| 3327 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Normal! | 155.0 | 437 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Normal!].mc` |
-| 3328 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Yay! | 155.0 | 866 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Yay!].mc` |
-| 3329 | Jul i Svingen (TV Size) | Odd Nordstoga | God jul! | 132.0 | 47 | 24.4 | osu_mirror/community | `osu_mirror\2492835\Odd Nordstoga - Jul i Svingen (TV Size) (TonyWorep) [God jul!].mc` |
-| 3330 | Jump On It | Mestie, The Big Blind | Insane | 104.0 | 1013 | 147.7 | osu_mirror/community | `osu_mirror\2545208\Mestie, The Big Blind - Jump On It (Auros) [Insane].mc` |
-| 3331 | Jump On It | Mestie, The Big Blind | jianfeng's Hard | 104.0 | 623 | 147.7 | osu_mirror/community | `osu_mirror\2545208\Mestie, The Big Blind - Jump On It (Auros) [jianfeng's Hard].mc` |
-| 3332 | Jump On It | Mestie, The Big Blind | Sample Chopper | 104.0 | 1939 | 147.7 | osu_mirror/community | `osu_mirror\2545208\Mestie, The Big Blind - Jump On It (Auros) [Sample Chopper].mc` |
-| 3333 | Jumpstream Of Fighters Vol. 1A | Various Artists | (Marathon) - Delete Upon Download | 200.0 | 2 | 1360.0 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [(Marathon) - Delete Upon Download].mc` |
-| 3334 | Jumpstream Of Fighters Vol. 1A | Various Artists | aran feat. Kanae Asaba - Dance All Night [Leo137 24] | 124.0 | 1812 | 123.8 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [aran feat. Kanae Asaba - Dance All Night [Leo137 24]].mc` |
-| 3335 | Jumpstream Of Fighters Vol. 1A | Various Artists | Bang! - Shooting Star (Ham's Mix) [Leo137 23] | 178.72 | 1943 | 140.9 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Bang! - Shooting Star (Ham's Mix) [Leo137 23]].mc` |
-| 3336 | Jumpstream Of Fighters Vol. 1A | Various Artists | daiji+lobsak - Happy*mooN [Leo137 23] | 185.0 | 1826 | 107.6 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [daiji+lobsak - HappymooN [Leo137 23]].mc` |
-| 3337 | Jumpstream Of Fighters Vol. 1A | Various Artists | DJ Genki feat. Yukacco - MAGIC & LOVE [Blaziken 19] | 185.01 | 1448 | 113.0 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [DJ Genki feat. Yukacco - MAGIC & LOVE [Blaziken 19]].mc` |
-| 3338 | Jumpstream Of Fighters Vol. 1A | Various Artists | DJ Shimamura feat. Yukacco - Magic Night (JAKAZID Remix) [Blaziken 23] | 170.0 | 2762 | 203.3 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [DJ Shimamura feat. Yukacco - Magic Night (JAKAZID Remix) [Blaziken 23]].mc` |
-| 3339 | Jumpstream Of Fighters Vol. 1A | Various Artists | Helblinde - Dreams Come True [Leo137 24] | 200.0 | 2948 | 215.9 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Helblinde - Dreams Come True [Leo137 24]].mc` |
-| 3340 | Jumpstream Of Fighters Vol. 1A | Various Artists | HEXAHEDRA - KRAKEN [Leo137 23] | 172.0 | 2081 | 139.5 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [HEXAHEDRA - KRAKEN [Leo137 23]].mc` |
-| 3341 | Jumpstream Of Fighters Vol. 1A | Various Artists | kors k feat. Yukacco & MC STONE - Big Ship [Blaziken 22] | 177.01 | 1834 | 141.8 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [kors k feat. Yukacco & MC STONE - Big Ship [Blaziken 22]].mc` |
-| 3342 | Jumpstream Of Fighters Vol. 1A | Various Artists | LeaF - Calamity Fortune [Wiosna 22] | 200.0 | 1764 | 128.3 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [LeaF - Calamity Fortune [Wiosna 22]].mc` |
-| 3343 | Jumpstream Of Fighters Vol. 1A | Various Artists | REDALiCE feat. Shihori - Express Emotion [Leo137 22] | 182.0 | 1717 | 117.7 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [REDALiCE feat. Shihori - Express Emotion [Leo137 22]].mc` |
-| 3344 | Jumpstream Of Fighters Vol. 1A | Various Artists | SawanoHiroyuki[nZk]:Gemie - X.U. (ETIA. Hardcore Bootleg Remix) [Leo137 25] | 172.0 | 4097 | 234.8 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [SawanoHiroyuki[nZk]Gemie - X.U. (ETIA. Hardcore Bootleg Remix) [Leo137 25]].mc` |
-| 3345 | Jumpstream Of Fighters Vol. 1A | Various Artists | Shiraishi - Happico Happico [Leo137 22] | 180.0 | 1870 | 117.3 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Shiraishi - Happico Happico [Leo137 22]].mc` |
-| 3346 | Jumpstream Of Fighters Vol. 1A | Various Artists | Shiraishi - Loki [Leo137 18] | 152.0 | 1979 | 126.2 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Shiraishi - Loki [Leo137 18]].mc` |
-| 3347 | Jumpstream Of Fighters Vol. 1A | Various Artists | Shoji Meguro feat. Yumi Kawamura - Kimi no Kioku (Aethral Remix) [Leo137 22] | 170.0 | 3961 | 293.4 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Shoji Meguro feat. Yumi Kawamura - Kimi no Kioku (Aethral Remix) [Leo137 22]].mc` |
-| 3348 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Flame Thrower / BB's Hard | 150.24 | 598 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Flame Thrower  BB's Hard].mc` |
-| 3349 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Laser / Advanced | 150.24 | 460 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Laser  Advanced].mc` |
-| 3350 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Machine Gun / Ulis-'s Hyper | 150.24 | 675 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Machine Gun  Ulis-'s Hyper].mc` |
-| 3351 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Spread Gun / Insane | 150.24 | 846 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Spread Gun  Insane].mc` |
-| 3352 | Just Right (Jakki Remix) | Tessa Violet | Insanely in love | 120.0 | 2161 | 172.5 | osu_mirror/community | `osu_mirror\2147051\Tessa Violet - Just Right (Jakki Remix) (Gera) [Insanely in love].mc` |
-| 3353 | Just Right (Jakki Remix) | Tessa Violet | My heart keeps singing~ | 120.0 | 2817 | 172.8 | osu_mirror/community | `osu_mirror\2147051\Tessa Violet - Just Right (Jakki Remix) (Gera) [My heart keeps singing~].mc` |
-| 3354 | Just Right (Jakki Remix) | Tessa Violet | Yisus got hypercharged by her smile | 120.0 | 1679 | 171.6 | osu_mirror/community | `osu_mirror\2147051\Tessa Violet - Just Right (Jakki Remix) (Gera) [Yisus got hypercharged by her smile].mc` |
-| 3355 | Justice Breaker | Affected | Dreamless | 190.0 | 2041 | 211.8 | osu_mirror/community | `osu_mirror\2605585\Affected - Justice Breaker (Chrisse) [Dreamless].mc` |
-| 3356 | Kaisei | Leo/need x MEIKO | Wonderful Summer | 172.0 | 1600 | 253.1 | osu_mirror/community | `osu_mirror\2394070\Leoneed x MEIKO - Kaisei (LINQAQ) [Wonderful summer].mc` |
-| 3357 | Kakeru, Kusai Made | Qutabire | ~ Run, to the edge of the sky ~ | 208.0 | 1311 | 165.1 | osu_mirror/community | `osu_mirror\2359689\Qutabire - Kakeru, Kusai Made (MapRequester) [~ Run, to the edge of the sky ~].mc` |
-| 3358 | Kako ni Torawarete Iru | TUYU | Bow down | 180.0 | 1388 | 224.2 | osu_mirror/community | `osu_mirror\1245730\TUYU - Kako ni Torawarete Iru (deta5859) [Bow down].mc` |
-| 3359 | Kako ni Torawarete Iru | TUYU | Collab Hard | 180.0 | 1291 | 220.7 | osu_mirror/community | `osu_mirror\1245730\TUYU - Kako ni Torawarete Iru (deta5859) [Collab Hard].mc` |
-| 3360 | Kamigami ga Koishita Gensoukyou | Unlucky Morpheus | The Promise from the Gods | 155.0 | 2617 | 232.3 | osu_mirror/community | `osu_mirror\2469450\Unlucky Morpheus - Kamigami ga Koishita Gensoukyou ([TCD] Ena-suki) [The Promise from the Gods].mc` |
-| 3361 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | Advanced | 235.0 | 874 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [Advanced].mc` |
-| 3362 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | Beyond Ethereal | 235.0 | 1261 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [Beyond Ethereal].mc` |
-| 3363 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | GDBlack's Insanity | 235.0 | 1195 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [GDBlack's Insanity].mc` |
-| 3364 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | GDBlack's Master | 235.0 | 1441 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [GDBlack's Master].mc` |
-| 3365 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | Hyper | 235.0 | 1069 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [Hyper].mc` |
-| 3366 | Kan Saete Kuyashiiwa (Cut Ver.) | ZUTOMAYO | It's not you, (cut) | 148.0 | 1635 | 89.9 | osu_mirror/community | `osu_mirror\2421245\ZUTOMAYO - Kan Saete Kuyashiiwa (Cut Ver.) (caracol) [It's not you, (cut)].mc` |
-| 3367 | Kan Saete Kuyashiiwa (Cut Ver.) | ZUTOMAYO | It's not you, | 110.0 | 2608 | 146.2 | osu_mirror/community | `osu_mirror\2421245\ZUTOMAYO - Kan Saete Kuyashiiwa (Cut Ver.) (caracol) [It's not you,].mc` |
-| 3368 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | A Flower the World Forgot to Notice | 184.0 | 649 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [A Flower the World Forgot to Notice].mc` |
-| 3369 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Ferdi's Normal | 184.0 | 481 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Ferdi's Normal].mc` |
-| 3370 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Gahyeon's Insane | 184.0 | 424 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Gahyeon's Insane].mc` |
-| 3371 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Kibitz's Hard | 184.0 | 521 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Kibitz's Hard].mc` |
-| 3372 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Sya's Easy | 184.0 | 257 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Sya's Easy].mc` |
-| 3373 | Keep smiling. | AAAA + Hino Isuka | :) | 150.0 | 1773 | 295.9 | osu_mirror/community | `osu_mirror\2576176\AAAA + Hino Isuka - Keep smiling. (Ballistic) [)].mc` |
-| 3374 | Kefka2006.Dekishi2.7 | Starcatcher | Crazy Jumpstyle | 142.0 | 1026 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Crazy Jumpstyle ].mc` |
-| 3375 | Kefka2006.Dekishi2.7 | Starcatcher | Easy Jumpstyle | 142.0 | 690 | 55.6 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Easy Jumpstyle ].mc` |
-| 3376 | Kefka2006.Dekishi2.7 | Starcatcher | Extreme Jumpstyle | 142.0 | 928 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Extreme Jumpstyle].mc` |
-| 3377 | Kefka2006.Dekishi2.7 | Starcatcher | Hard Jumpstyle | 142.0 | 765 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Hard Jumpstyle ].mc` |
-| 3378 | Kefka2006.Dekishi2.7 | Starcatcher | Jumpstyle Beginer | 142.0 | 572 | 55.6 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Jumpstyle Beginer].mc` |
-| 3379 | Kefka2006.Dekishi2.7 | Starcatcher | JUMPSTYLE GOD | 142.0 | 1128 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [JUMPSTYLE GOD].mc` |
-| 3380 | Kefka2006.Dekishi2.7 | Starcatcher | Jumpstyle MASTER | 142.0 | 1067 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Jumpstyle MASTER].mc` |
-| 3381 | Kefka2006.Dekishi2.7 | Starcatcher | Normal Jumpstyle | 142.0 | 780 | 55.6 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Normal Jumpstyle].mc` |
-| 3382 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Easy | 177.0 | 184 | 75.3 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Easy].mc` |
-| 3383 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Sava's Hard | 177.0 | 799 | 75.3 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Sava's Hard].mc` |
-| 3384 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Sava's Normal | 177.0 | 512 | 75.3 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Sava's Normal].mc` |
-| 3385 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Unbreakable Resolve | 177.0 | 875 | 83.8 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Unbreakable Resolve].mc` |
-| 3386 | Ketsui no Uta (TV Size) | Ohara Yuiko | Easy | 107.0 | 167 | 65.8 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Easy].mc` |
-| 3387 | Ketsui no Uta (TV Size) | Ohara Yuiko | Journey of a Lifetime | 107.0 | 293 | 66.4 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Journey of a Lifetime].mc` |
-| 3388 | Ketsui no Uta (TV Size) | Ohara Yuiko | Sava's Hard | 107.0 | 364 | 63.4 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Sava's Hard].mc` |
-| 3389 | Ketsui no Uta (TV Size) | Ohara Yuiko | Sava's Normal | 107.0 | 292 | 67.4 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Sava's Normal].mc` |
-| 3390 | KICK BACK | Kenshi Yonezu | Ryoshi | 204.0 | 700 | 84.0 | osu_mirror/community | `osu_mirror\1918924\Kenshi Yonezu - KICK BACK (Lung_P) [Ryoshi].mc` |
-| 3391 | Kikai No Tsubasa (feat. Kasane Teto) | Camellia | The Wings That Never Rust | 200.0 | 4317 | 499.5 | osu_mirror/community | `osu_mirror\2451984\Camellia - Kikai No Tsubasa (feat. Kasane Teto) (phuongkhoa102) [The Wings That Never Rust].mc` |
-| 3392 | Kikoeteimasu ka Bokura no Koe ga... | Rengoku Teien | Cherry Blossom | 100.0 | 1488 | 304.8 | osu_mirror/community | `osu_mirror\2544770\Rengoku Teien - Kikoeteimasu ka Bokura no Koe ga... (PinkXT) [Cherry Blossom].mc` |
-| 3393 | Kill me Darling feat. null | Haiiro Nemuri | Easy | 160.0 | 522 | 176.1 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Easy].mc` |
-| 3394 | Kill me Darling feat. null | Haiiro Nemuri | Hard | 160.0 | 1495 | 176.1 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Hard].mc` |
-| 3395 | Kill me Darling feat. null | Haiiro Nemuri | Normal | 160.0 | 922 | 174.0 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Normal].mc` |
-| 3396 | Kill me Darling feat. null | Haiiro Nemuri | Simulated Happiness | 160.0 | 1957 | 176.1 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Simulated Happiness].mc` |
-| 3397 | KiLLKiSS (TV Size) | Ave Mujica | Easy | 200.0 | 297 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Easy].mc` |
-| 3398 | KiLLKiSS (TV Size) | Ave Mujica | Hard | 200.0 | 738 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Hard].mc` |
-| 3399 | KiLLKiSS (TV Size) | Ave Mujica | killkiss | 200.0 | 792 | 84.3 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [killkiss].mc` |
-| 3400 | KiLLKiSS (TV Size) | Ave Mujica | Normal | 200.0 | 465 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Normal].mc` |
-| 3401 | KiLLKiSS (TV Size) | Ave Mujica | Usagi_'s Insane | 200.0 | 723 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Usagi_'s Insane].mc` |
-| 3402 | Kimi ga Yume o Tsuretekita (TV Size) | Pet na Kanojotachi | Easy | 135.0 | 162 | 86.4 | osu_mirror/community | `osu_mirror\2490158\Pet na Kanojotachi - Kimi ga Yume o Tsuretekita (TV Size) (Sympho) [Easy].mc` |
-| 3403 | Kimi ga Yume o Tsuretekita (TV Size) | Pet na Kanojotachi | Last Graduation | 135.0 | 396 | 86.7 | osu_mirror/community | `osu_mirror\2490158\Pet na Kanojotachi - Kimi ga Yume o Tsuretekita (TV Size) (Sympho) [Last Graduation].mc` |
-| 3404 | Kimi ga Yume o Tsuretekita (TV Size) | Pet na Kanojotachi | Normal | 135.0 | 333 | 87.6 | osu_mirror/community | `osu_mirror\2490158\Pet na Kanojotachi - Kimi ga Yume o Tsuretekita (TV Size) (Sympho) [Normal].mc` |
-| 3405 | Kimi wa Koibito | Oishi Masayoshi | Advanced | 94.0 | 849 | 214.0 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [Advanced].mc` |
-| 3406 | Kimi wa Koibito | Oishi Masayoshi | Hard | 94.0 | 1030 | 214.4 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [Hard].mc` |
-| 3407 | Kimi wa Koibito | Oishi Masayoshi | Intermediate | 94.0 | 436 | 210.2 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [Intermediate].mc` |
-| 3408 | Kimi wa Koibito | Oishi Masayoshi | My Angel Mahiru | 94.0 | 807 | 209.4 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [My Angel Mahiru].mc` |
-| 3409 | Kimiiro (Game Ver.) | Yasaka Kanon (CV: Akabane Kyouko) | Hard | 158.0 | 377 | 90.9 | osu_mirror/community | `osu_mirror\2540707\Yasaka Kanon (CV Akabane Kyouko) - Kimiiro (Game Ver.) (nai_) [Hard].mc` |
-| 3410 | Kimiiro (Game Ver.) | Yasaka Kanon (CV: Akabane Kyouko) | ni de yan se | 158.0 | 316 | 90.9 | osu_mirror/community | `osu_mirror\2540707\Yasaka Kanon (CV Akabane Kyouko) - Kimiiro (Game Ver.) (nai_) [ni de yan se].mc` |
-| 3411 | Kimiiro (Game Ver.) | Yasaka Kanon (CV: Akabane Kyouko) | SuiFeng's Normal | 158.0 | 331 | 90.9 | osu_mirror/community | `osu_mirror\2540707\Yasaka Kanon (CV Akabane Kyouko) - Kimiiro (Game Ver.) (nai_) [SuiFeng's Normal].mc` |
-| 3412 | King of the Princess | HathiouziP feat.HatsuneMiku | Extreme | 150.0 | 1226 | 129.3 | osu_mirror/community | `osu_mirror\2220739\HathiouziP feat.HatsuneMiku - King of the Princess (LuigiGames) [Extreme].mc` |
-| 3413 | KINGDOM COME | RoughSketch | ADVANCED | 282.0 | 729 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [ADVANCED].mc` |
-| 3414 | KINGDOM COME | RoughSketch | BASIC | 282.0 | 216 | 131.5 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [BASIC].mc` |
-| 3415 | KINGDOM COME | RoughSketch | EXCEED | 282.0 | 1556 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [EXCEED].mc` |
-| 3416 | KINGDOM COME | RoughSketch | EXHAUST | 282.0 | 1013 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [EXHAUST].mc` |
-| 3417 | KINGDOM COME | RoughSketch | MAXIMUM | 282.0 | 1187 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [MAXIMUM].mc` |
-| 3418 | KINGDOM COME | RoughSketch | NABLA | 282.0 | 1872 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [NABLA].mc` |
-| 3419 | KINGDOM COME | RoughSketch | NOVICE | 282.0 | 400 | 131.9 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [NOVICE].mc` |
-| 3420 | KINGDOM COME | RoughSketch | ULTIMATE | 282.0 | 1992 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [ULTIMATE].mc` |
-| 3421 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Easy | 180.0 | 527 | 126.5 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Easy].mc` |
-| 3422 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Insane | 180.0 | 1628 | 126.6 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Insane].mc` |
-| 3423 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Lunatic | 180.0 | 2018 | 126.6 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Lunatic].mc` |
-| 3424 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Normal | 180.0 | 888 | 126.7 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Normal].mc` |
-| 3425 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Snowy's Hard | 180.0 | 1320 | 126.7 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Snowy's Hard].mc` |
-| 3426 | Kiss Me Again (Nightcore Mix) | ROY BEE | Advanced | 168.32 | 879 | 131.9 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [Advanced].mc` |
-| 3427 | Kiss Me Again (Nightcore Mix) | ROY BEE | astat11's Intermediate | 168.32 | 574 | 131.2 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [astat11's Intermediate].mc` |
-| 3428 | Kiss Me Again (Nightcore Mix) | ROY BEE | Hyper | 168.32 | 1317 | 131.2 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [Hyper].mc` |
-| 3429 | Kiss Me Again (Nightcore Mix) | ROY BEE | I Remember One Day | 168.32 | 1787 | 131.2 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [I Remember One Day].mc` |
-| 3430 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.00 | 187.5 | 61 | 144.6 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.00].mc` |
-| 3431 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.05 | 196.88 | 61 | 137.8 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.05].mc` |
-| 3432 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.10 | 206.25 | 61 | 131.5 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.10].mc` |
-| 3433 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.15 | 215.62 | 61 | 125.8 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.15].mc` |
-| 3434 | Knight of Firmament | Eye XY feat. Yoneko | Hard | 75.0 | 952 | 112.1 | osu_mirror/community | `osu_mirror\2036133\EYE XY feat. Yoneko - Knight Of Firmament (Chandelure) [Hard].mc` |
-| 3435 | Knight of Firmament | Eye XY feat. Yoneko | Heaven's Fall | 75.0 | 1630 | 112.1 | osu_mirror/community | `osu_mirror\2036133\EYE XY feat. Yoneko - Knight Of Firmament (Chandelure) [Heaven's Fall].mc` |
-| 3436 | Knight of Firmament | Eye XY feat. Yoneko | Insane | 75.0 | 1279 | 112.1 | osu_mirror/community | `osu_mirror\2036133\EYE XY feat. Yoneko - Knight Of Firmament (Chandelure) [Insane].mc` |
-| 3437 | Koeru (TV Size) | [Alexandros] | Easy | 200.0 | 281 | 86.7 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [Easy].mc` |
-| 3438 | Koeru (TV Size) | [Alexandros] | eZmmR's Hard | 200.0 | 761 | 86.9 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [eZmmR's Hard].mc` |
-| 3439 | Koeru (TV Size) | [Alexandros] | Sayana's Normal | 200.0 | 519 | 86.9 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [Sayana's Normal].mc` |
-| 3440 | Koeru (TV Size) | [Alexandros] | The Super Horse, Oguri Cap! | 200.0 | 891 | 86.9 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [The Super Horse, Oguri Cap!].mc` |
-| 3441 | Koi (TV Size) | Gen Hoshino | Normal | 158.0 | 240 | 91.8 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [Normal].mc` |
-| 3442 | Koi (TV Size) | Gen Hoshino | Sava's Advanced | 158.0 | 408 | 91.8 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [Sava's Advanced].mc` |
-| 3443 | Koi (TV Size) | Gen Hoshino | Sava's Hard | 158.0 | 445 | 91.0 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [Sava's Hard].mc` |
-| 3444 | Koi (TV Size) | Gen Hoshino | True Love | 158.0 | 400 | 91.0 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [True Love].mc` |
-| 3445 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | . | 138.0 | 346 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [.].mc` |
-| 3446 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | Easy | 138.0 | 212 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [Easy].mc` |
-| 3447 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | Hard | 138.0 | 333 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [Hard].mc` |
-| 3448 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | Normal | 138.0 | 404 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [Normal].mc` |
-| 3449 | Koisuru Kirigirisu | yuki | CS' Normal | 142.0 | 955 | 231.8 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [CS' Normal].mc` |
-| 3450 | Koisuru Kirigirisu | yuki | DH's Hard | 142.0 | 1410 | 238.9 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [DH's Hard].mc` |
-| 3451 | Koisuru Kirigirisu | yuki | Easy | 142.0 | 467 | 231.3 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [Easy].mc` |
-| 3452 | Koisuru Kirigirisu | yuki | mirac1e's Hyper | 142.0 | 1346 | 237.7 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [mirac1e's Hyper].mc` |
-| 3453 | Koisuru Kirigirisu | yuki | Transient Blue, Waking Reverie | 142.0 | 800 | 238.8 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [Transient Blue, Waking Reverie].mc` |
-| 3454 | Kokoro Float (feat. nicamoq) | Yunomi | Sweet and Bitter Together (w/ Yuiesta) | 122.0 | 1919 | 274.1 | osu_mirror/community | `osu_mirror\2639744\Yunomi - Kokoro Float (feat. nicamoq) ([TCD] Dzar03) [Sweet and Bitter Together (w Yuiesta)].mc` |
-| 3455 | Kokou no Sousei | Yousei Teikoku | Genesis | 240.0 | 4787 | 305.9 | osu_mirror/community | `osu_mirror\2427146\Yousei Teikoku - Kokou no Sousei (Niko_Plays) [Genesis].mc` |
-| 3456 | Kokudou Slope | Kinoko Teikoku | Highway 246, Outdoor Scenes | 107.0 | 1752 | 170.6 | osu_mirror/community | `osu_mirror\2468393\Kinoko Teikoku - Kokudou Slope (QwertYui345) [Highway 246, Outdoor scenes].mc` |
-| 3457 | KOKUSHIMUSOU | Laur | 0.85 | 144.5 | 3808 | 220.0 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.85].mc` |
-| 3458 | KOKUSHIMUSOU | Laur | 0.8 | 136.0 | 3808 | 233.7 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.8].mc` |
-| 3459 | KOKUSHIMUSOU | Laur | 0.95 | 161.5 | 3808 | 196.8 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.95].mc` |
-| 3460 | KOKUSHIMUSOU | Laur | 0.9 | 153.0 | 3808 | 207.7 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.9].mc` |
-| 3461 | KOKUSHIMUSOU | Laur | 1.05 | 178.5 | 3808 | 178.1 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [1.05].mc` |
-| 3462 | KOKUSHIMUSOU | Laur | 1.15 | 195.5 | 3808 | 162.6 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [1.15].mc` |
-| 3463 | KOKUSHIMUSOU | Laur | 1.1 | 187.0 | 3808 | 170.0 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [1.1].mc` |
-| 3464 | KOKUSHIMUSOU | Laur | ISSEN | 170.0 | 3808 | 187.0 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [ISSEN].mc` |
-| 3465 | Komorebi (Rough Mix) | m-taku | Bygone | 103.0 | 1436 | 204.9 | osu_mirror/community | `osu_mirror\2478382\m-taku - Komorebi (Rough Mix) (LINQAQ) [Bygone].mc` |
-| 3466 | konata izumi | blednost. | all winter i couldn't get you off my mind, and we are still apart. forever. | 190.0 | 2775 | 242.4 | osu_mirror/community | `osu_mirror\2485513\blednost. - konata izumi (DiscorDBoI) [all winter i couldn't get you off my mind, and we are still apart. forever.].mc` |
-| 3467 | Konton Boogie | Yoshino | Boogie Woogie | 190.0 | 2190 | 151.5 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Boogie Woogie].mc` |
-| 3468 | Konton Boogie | Yoshino | Hard | 190.0 | 1380 | 151.4 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Hard].mc` |
-| 3469 | Konton Boogie | Yoshino | Insane | 190.0 | 1918 | 151.5 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Insane].mc` |
-| 3470 | Konton Boogie | Yoshino | Normal | 190.0 | 551 | 141.5 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Normal].mc` |
-| 3471 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Easy | 140.0 | 210 | 112.9 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Easy].mc` |
-| 3472 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Hard | 140.0 | 498 | 114.2 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Hard].mc` |
-| 3473 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Insane | 140.0 | 614 | 114.0 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Insane].mc` |
-| 3474 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Normal | 140.0 | 544 | 114.4 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Normal].mc` |
-| 3475 | Kousoku 105gou XXXsen | TAKIO | Advanced | 200.0 | 718 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Advanced].mc` |
-| 3476 | Kousoku 105gou XXXsen | TAKIO | Beginner | 200.0 | 360 | 137.4 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Beginner].mc` |
-| 3477 | Kousoku 105gou XXXsen | TAKIO | Extra | 200.0 | 1029 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Extra].mc` |
-| 3478 | Kousoku 105gou XXXsen | TAKIO | Hard | 200.0 | 1106 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Hard].mc` |
-| 3479 | Kousoku 105gou XXXsen | TAKIO | Hyper | 200.0 | 1406 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Hyper].mc` |
-| 3480 | Kousoku 105gou XXXsen | TAKIO | Insane | 200.0 | 1122 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Insane].mc` |
-| 3481 | Kousoku 105gou XXXsen | TAKIO | Intermediate | 200.0 | 442 | 137.8 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Intermediate].mc` |
-| 3482 | Kousoku 105gou XXXsen | TAKIO | Sayonara | 200.0 | 986 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Sayonara].mc` |
-| 3483 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | \: / Concepte's Hard \ :/ | 185.0 | 1403 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [  Concepte's Hard  ].mc` |
-| 3484 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | (: / Advanced \ :) | 185.0 | 1153 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [(  Advanced  )].mc` |
-| 3485 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | (: / Easy \ :) | 185.0 | 420 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [(  Easy  )].mc` |
-| 3486 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | \.>-<./ / Krasavitsa Meow  \  \.>-<./ | 185.0 | 2146 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [.-.  Krasavitsa Meow    .-.].mc` |
-| 3487 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | =-= / ThatGoy's Insane \ =-= | 185.0 | 1684 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [=-=  ThatGoy's Insane  =-=].mc` |
-| 3488 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | [: / Normal \ :] | 185.0 | 860 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [[  Normal  ]].mc` |
-| 3489 | kto? | Zemfira | twoj aniolek | 96.0 | 2026 | 164.7 | osu_mirror/community | `osu_mirror\2281952\Zemfira - kto (caracol) [twoj aniolek].mc` |
-| 3490 | Kyouki Chinden (TV Size) | Yousei Teikoku | Another | 280.0 | 735 | 91.9 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [Another].mc` |
-| 3491 | Kyouki Chinden (TV Size) | Yousei Teikoku | DEAD END | 280.0 | 784 | 92.0 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [DEAD END].mc` |
-| 3492 | Kyouki Chinden (TV Size) | Yousei Teikoku | Extra | 280.0 | 686 | 92.0 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [Extra].mc` |
-| 3493 | Kyouki Chinden (TV Size) | Yousei Teikoku | Extreme | 280.0 | 853 | 92.1 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [Extreme].mc` |
-| 3494 | Kyuukou | katagiri | Airflow | 162.0 | 2903 | 312.6 | osu_mirror/community | `osu_mirror\2452664\katagiri - Kyuukou (Concepte) [Airflow].mc` |
-| 3495 | L'Amour Toujours (Nightcore & Cut Ver.) | Gigi D'Agostino | paige's Ricecore | 181.5 | 1960 | 121.0 | osu_mirror/community | `osu_mirror\2615141\Gigi D'Agostino - L'Amour Toujours (Nightcore & Cut Ver.) (nichijou) [paige's ricecore].mc` |
-| 3496 | L2 -Reminiscence- | Ice | Tranquil Dawn -the renewal, resurgence & revival- | 152.0 | 1470 | 394.7 | osu_mirror/community | `osu_mirror\2496712\Ice - L2 -Reminiscence- (Carpihat) [Tranquil Dawn -the renewal, resurgence & revival-].mc` |
-| 3497 | Labyrinth (Cut Ver.) | Makari | Although of course you end up becoming yourself | 147.0 | 398 | 146.4 | osu_mirror/community | `osu_mirror\1291607\Makari - Labyrinth (Cut Ver.) (Abraxos) [Although of course you end up becoming yourself].mc` |
-| 3498 | Lamento - Memory | Takamachi Walk | Chen's 4K Memory | 145.0 | 2380 | 330.8 | osu_mirror/community | `osu_mirror\2005179\Takamachi Walk - Lamento - Memory (Vostok645) [Chen's 4k Memory].mc` |
-| 3499 | last fortune | fripSide | Lv.1 | 134.0 | 672 | 289.5 | osu_mirror/community | `osu_mirror\2546806\fripSide - last fortune (eZmmR) [Lv.1].mc` |
-| 3500 | last fortune | fripSide | Lv.20 | 134.0 | 1375 | 289.5 | osu_mirror/community | `osu_mirror\2546806\fripSide - last fortune (eZmmR) [Lv.20].mc` |
-| 3501 | last fortune | fripSide | Lv.45 | 134.0 | 1580 | 289.5 | osu_mirror/community | `osu_mirror\2546806\fripSide - last fortune (eZmmR) [Lv.45].mc` |
-| 3502 | Laur-chan Taisou Daiichi | Laur | 4K // Standard | 120.0 | 1318 | 39.6 | osu_mirror/community | `osu_mirror\1761807\Laur - Laur-chan Taisou Daiichi (hemoo) [4K  Standard].mc` |
-| 3503 | layxa's Extension Overdrive Pack 3 | Various Artists | Delete | 150.0 | 2 | 960.0 | osu_mirror/community | `osu_mirror\2380919\Various Artists - layxa's Extension Overdrive Pack 3 (layxa) [Delete].mc` |
-| 3504 | Lead Control | Kaga Sumire | Lead Control / Extra | 130.0 | 1918 | 141.2 | osu_mirror/community | `osu_mirror\2574711\Kaga Sumire - Lead Control (Tamania) [Lead Control  Extra].mc` |
-| 3505 | Lead Control | Kaga Sumire | Override / Another | 130.0 | 1662 | 141.3 | osu_mirror/community | `osu_mirror\2574711\Kaga Sumire - Lead Control (Tamania) [Override  Another].mc` |
-| 3506 | Lead Control | Kaga Sumire | Signal / Insane | 130.0 | 1546 | 141.2 | osu_mirror/community | `osu_mirror\2574711\Kaga Sumire - Lead Control (Tamania) [Signal  Insane].mc` |
-| 3507 | Lemonade Fizz | BlackY feat. Risa Yuzuki | Fizzy Days | 126.0 | 2063 | 321.8 | osu_mirror/community | `osu_mirror\2568499\BlackY feat. Risa Yuzuki - Lemonade Fizz (LeCrazy) [Fizzy Days].mc` |
-| 3508 | Let's End the World | Mori Calliope, Giga & TeddyLoid | Cine's Insane | 138.0 | 1806 | 173.8 | osu_mirror/community | `osu_mirror\2458496\Mori Calliope, Giga & TeddyLoid - Let's End the World (RTrigger) [Cine's Insane].mc` |
-| 3509 | Let's End the World | Mori Calliope, Giga & TeddyLoid | END IS NIGH | 138.0 | 1384 | 172.9 | osu_mirror/community | `osu_mirror\2458496\Mori Calliope, Giga & TeddyLoid - Let's End the World (RTrigger) [END IS NIGH].mc` |
-| 3510 | Let's Go With... | Various Artists | Another | 180.0 | 2453 | 250.0 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Another].mc` |
-| 3511 | Let's Go With... | Various Artists | Easy | 180.0 | 834 | 251.3 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Easy].mc` |
-| 3512 | Let's Go With... | Various Artists | Hard | 180.0 | 2030 | 253.3 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [HARD].mc` |
-| 3513 | Let's Go With... | Various Artists | Insane | 180.0 | 2560 | 253.3 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Insane].mc` |
-| 3514 | Let's Go With... | Various Artists | Mochineko's Go...! | 180.0 | 1599 | 247.5 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Mochineko's Go...!].mc` |
-| 3515 | Let's Go With... | Various Artists | Normal | 180.0 | 1400 | 253.0 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Normal].mc` |
-| 3516 | Let's Go! Onmyouji | Yabeno Hikomaro & Kotohime With Bouzu Dancers | akuryo taisan | 150.0 | 3107 | 313.6 | osu_mirror/community | `osu_mirror\799781\Yabeno Hikomaro & Kotohime With Bouzu Dancers - Let's Go! Onmyouji (Mashiro-Fang) [akuryo taisan].mc` |
-| 3517 | Lian Fan Nao Ye Rong Ru Tian Kong | Monster Siren Records | Trail's End. Wind's Rest | 172.0 | 1832 | 167.1 | osu_mirror/community | `osu_mirror\2598781\Monster Siren Records - Lian Fan Nao Ye Rong Ru Tian Kong (AelSan) [Trail's End. Wind's Rest].mc` |
-| 3518 | LiftOff | MAYA AKAI | Expert // ji zhang shen qing qi fei | 137.0 | 1679 | 128.5 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Expert  ji zhang shen qing qi fei].mc` |
-| 3519 | LiftOff | MAYA AKAI | Expert // Platinum's zhe dao ti xing wo le | 137.0 | 796 | 128.3 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Expert  Platinum's zhe dao ti xing wo le].mc` |
-| 3520 | LiftOff | MAYA AKAI | Hard // oid45's jin wan jiu yong zhe ge le | 137.0 | 920 | 127.8 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Hard  oid45's jin wan jiu yong zhe ge le].mc` |
-| 3521 | LiftOff | MAYA AKAI | Insane // ni kan kan zhe dou ji dian le | 137.0 | 1275 | 128.4 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Insane  ni kan kan zhe dou ji dian le].mc` |
-| 3522 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE BORING? // Hard | 129.0 | 627 | 86.9 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE BORING  Hard].mc` |
-| 3523 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE KIBITZ? // Easy | 129.0 | 137 | 85.5 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE KIBITZ  Easy].mc` |
-| 3524 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE MIRAC1E? // Insane | 129.0 | 748 | 86.4 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE MIRAC1E  Insane].mc` |
-| 3525 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE NABI? //  Normal | 129.0 | 373 | 86.0 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE NABI   Normal].mc` |
-| 3526 | Lobelia (Short Ver.) | AAAA | Advanced | 198.0 | 624 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Advanced].mc` |
-| 3527 | Lobelia (Short Ver.) | AAAA | Hyper | 198.0 | 994 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Hyper].mc` |
-| 3528 | Lobelia (Short Ver.) | AAAA | Insane | 198.0 | 1187 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Insane].mc` |
-| 3529 | Lobelia (Short Ver.) | AAAA | Lavender | 198.0 | 939 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Lavender].mc` |
-| 3530 | Locus Amoenus (feat. Megurine Luka) | ArXe | Collab Easy | 165.0 | 317 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [Collab Easy].mc` |
-| 3531 | Locus Amoenus (feat. Megurine Luka) | ArXe | FREEDOM | 165.0 | 1448 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [FREEDOM].mc` |
-| 3532 | Locus Amoenus (feat. Megurine Luka) | ArXe | Hard | 165.0 | 992 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [Hard].mc` |
-| 3533 | Locus Amoenus (feat. Megurine Luka) | ArXe | Insane | 165.0 | 1239 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [Insane].mc` |
-| 3534 | Locus Amoenus (feat. Megurine Luka) | ArXe | tapperruiii's Normal | 165.0 | 586 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [tapperruiii's Normal].mc` |
-| 3535 | Loop (feat. WaMi) | Yunosuke | Endless Despair | 114.0 | 1749 | 248.0 | osu_mirror/community | `osu_mirror\2525226\Yunosuke - Loop (feat. WaMi) (Dereck101026) [Endless Despair].mc` |
-| 3536 | Looping the Rooms feat. Hatsune Miku | rusino | Advanced | 162.0 | 587 | 128.3 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Advanced].mc` |
-| 3537 | Looping the Rooms feat. Hatsune Miku | rusino | Insane | 162.0 | 696 | 129.3 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Insane].mc` |
-| 3538 | Looping the Rooms feat. Hatsune Miku | rusino | Kurikaesu | 162.0 | 495 | 128.9 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Kurikaesu].mc` |
-| 3539 | Looping the Rooms feat. Hatsune Miku | rusino | Siroocake's Hyper | 162.0 | 543 | 128.0 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Siroocake's Hyper].mc` |
-| 3540 | Looping the Rooms feat. Hatsune Miku | rusino | 27-5? | 162.0 | 1772 | 129.8 | osu_mirror/community | `osu_mirror\2601060\rusino - Looping the Rooms feat. Hatsune Miku (caracol) [27-5].mc` |
-| 3541 | Looping the Rooms feat. Hatsune Miku | rusino | Hard | 162.0 | 1365 | 129.8 | osu_mirror/community | `osu_mirror\2601060\rusino - Looping the Rooms feat. Hatsune Miku (caracol) [Hard].mc` |
-| 3542 | Looping the Rooms feat. Hatsune Miku | rusino | Insane | 162.0 | 1601 | 129.8 | osu_mirror/community | `osu_mirror\2601060\rusino - Looping the Rooms feat. Hatsune Miku (caracol) [Insane].mc` |
-| 3543 | Lord of Fiends | Monster Siren Records | King of Sarkaz | 132.0 | 3773 | 271.1 | osu_mirror/community | `osu_mirror\2369027\Monster Siren Records - Lord of Fiends (foxgirls) [King of Sarkaz].mc` |
-| 3544 | LORELEI | Camellia | Dendoparadigm | 215.0 | 1352 | 84.8 | osu_mirror/community | `osu_mirror\1943145\Camellia - LORELEI (Aquarius_hps) [Dendoparadigm].mc` |
-| 3545 | LORELEI | Camellia | Diastalsis | 215.0 | 1298 | 84.8 | osu_mirror/community | `osu_mirror\1943145\Camellia - LORELEI (Aquarius_hps) [Diastalsis].mc` |
-| 3546 | lost found melody | Chroma | reinterpretation | 151.0 | 1561 | 227.3 | osu_mirror/community | `osu_mirror\2555412\Chroma - lost found melody (_Yunazu) [reinterpretation].mc` |
-| 3547 | Lost Umbrella (7_7 Bootleg) | 7_7 | where the hell is my umbrella broseraphicdominatrixa | 340.0 | 3862 | 155.3 | osu_mirror/community | `osu_mirror\2536986\7_7 - Lost Umbrella (7_7 Bootleg) (osuisunderrated) [where the hell is my umbrella broseraphicdominatrixa].mc` |
-| 3548 | Love | Disasterpeace | EZ | 73.0 | 56 | 49.0 | osu_mirror/community | `osu_mirror\2534445\Disasterpeace - Love (doops) [EZ].mc` |
-| 3549 | Love | Disasterpeace | NM | 73.0 | 100 | 51.9 | osu_mirror/community | `osu_mirror\2534445\Disasterpeace - Love (doops) [NM].mc` |
-| 3550 | Love Kills U | EmoCosine | Dorosu Collab Normal | 160.0 | 851 | 131.8 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Dorosu Collab Normal].mc` |
-| 3551 | Love Kills U | EmoCosine | Easy | 160.0 | 393 | 131.6 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Easy].mc` |
-| 3552 | Love Kills U | EmoCosine | Hard | 160.0 | 1160 | 131.4 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Hard].mc` |
-| 3553 | Love Kills U | EmoCosine | Painful love | 160.0 | 1554 | 131.4 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Painful love].mc` |
-| 3554 | Love Letter | YOASOBI | Rabureta LN [1.1x Rate] | 220.0 | 1289 | 184.4 | osu_mirror/community | `osu_mirror\1665027\YOASOBI - Love Letter (Castella) [Rabureta LN [1.1x Rate]].mc` |
-| 3555 | Love Letter | YOASOBI | Rabureta LN [1.2x Rate] | 240.0 | 1289 | 169.0 | osu_mirror/community | `osu_mirror\1665027\YOASOBI - Love Letter (Castella) [Rabureta LN [1.2x Rate]].mc` |
-| 3556 | Love Letter | YOASOBI | Rabureta LN | 200.0 | 1289 | 202.8 | osu_mirror/community | `osu_mirror\1665027\YOASOBI - Love Letter (Castella) [Rabureta LN].mc` |
-| 3557 | Love Love Sensation (Short Ver.) | solfa feat. nao | Beginner / 4K | 187.0 | 254 | 93.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Beginner  4K].mc` |
-| 3558 | Love Love Sensation (Short Ver.) | solfa feat. nao | Easy / 4K | 187.0 | 365 | 98.2 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Easy  4K].mc` |
-| 3559 | Love Love Sensation (Short Ver.) | solfa feat. nao | Hard / 4K | 187.0 | 613 | 98.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Hard  4K].mc` |
-| 3560 | Love Love Sensation (Short Ver.) | solfa feat. nao | Normal / 4K | 187.0 | 506 | 98.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Normal  4K].mc` |
-| 3561 | Love Love Sensation (Short Ver.) | solfa feat. nao | Wedding Bliss / 4K | 187.0 | 683 | 98.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Wedding Bliss  4K].mc` |
-| 3562 | Love On The Brain | Rihanna | Rugama On The Brain | 172.0 | 3612 | 219.2 | osu_mirror/community | `osu_mirror\2563364\Rihanna - Love On The Brain (Drimba) [Rugama On The Brain].mc` |
-| 3563 | Love Pills | EmoCosine | Overdose | 160.0 | 2614 | 208.5 | osu_mirror/community | `osu_mirror\2534786\EmoCosine - Love Pills (MiuOtter) [Overdose].mc` |
-| 3564 | Love You Not | Akiri | Hard | 165.0 | 304 | 67.4 | osu_mirror/community | `osu_mirror\2526970\Akiri - Love You Not (LeCrazy) [Hard].mc` |
-| 3565 | Love You Not | Akiri | Normal | 165.0 | 174 | 68.9 | osu_mirror/community | `osu_mirror\2526970\Akiri - Love You Not (LeCrazy) [Normal].mc` |
-| 3566 | Lowermost revolt ("Jeremiad" Long ver.) | Camellia feat. Kagekiha Gakusei | 4K Atrocious Demolition | 219.2 | 3600 | 286.3 | osu_mirror/community | `osu_mirror\1466485\Camellia feat. Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver.) (AWMRone) [4K Atrocious Demolition].mc` |
-| 3567 | Lowermost revolt ("Jeremiad" Long ver.) | Camellia feat. Kagekiha Gakusei | 4K Easy | 219.2 | 893 | 289.6 | osu_mirror/community | `osu_mirror\1466485\Camellia feat. Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver.) (AWMRone) [4K Easy].mc` |
-| 3568 | Lowermost revolt ("Jeremiad" Long ver.) | Camellia feat. Kagekiha Gakusei | Alptraum's 4K Another | 219.2 | 2647 | 289.3 | osu_mirror/community | `osu_mirror\1466485\Camellia feat. Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver.) (AWMRone) [Alptraum's 4K Another].mc` |
-| 3569 | Ludicrous Speed | F-777 | Beyond Escape Velocity // 4K Insane | 166.0 | 1505 | 171.9 | osu_mirror/community | `osu_mirror\2540267\F-777 - Ludicrous Speed ([TCD] Ena-suki) [Beyond Escape Velocity  4K Insane].mc` |
-| 3570 | Ludicrous Speed | F-777 | Incredible Relativistic Effect // 4K Expert | 166.0 | 1800 | 171.9 | osu_mirror/community | `osu_mirror\2540267\F-777 - Ludicrous Speed ([TCD] Ena-suki) [Incredible Relativistic Effect  4K Expert].mc` |
-| 3571 | lulu. (TV Size) | Mrs. GREEN APPLE | easy | 175.0 | 214 | 86.6 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [easy].mc` |
-| 3572 | lulu. (TV Size) | Mrs. GREEN APPLE | everlasting | 175.0 | 477 | 75.3 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [everlasting].mc` |
-| 3573 | lulu. (TV Size) | Mrs. GREEN APPLE | sava's hard | 175.0 | 594 | 86.4 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [Sava's Hard].mc` |
-| 3574 | lulu. (TV Size) | Mrs. GREEN APPLE | sava's normal | 175.0 | 421 | 87.6 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [Sava's Normal].mc` |
-| 3575 | LUV U NEED U | Slushii | EASY | 147.0 | 309 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [EASY].mc` |
-| 3576 | LUV U NEED U | Slushii | HARD | 147.0 | 776 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [HARD].mc` |
-| 3577 | LUV U NEED U | Slushii | I CAN'T LOSE U IN THIS RAIN | 147.0 | 714 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [I CAN'T LOSE U IN THIS RAIN].mc` |
-| 3578 | LUV U NEED U | Slushii | NORMAL | 147.0 | 617 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [NORMAL].mc` |
-| 3579 | Luv*Lab*Poison 22ate! | t+pazolite | Poo Po Po | 114.0 | 4363 | 229.7 | osu_mirror/community | `osu_mirror\2608197\t+pazolite - LuvLabPoison 22ate! (Furryswan) [Poo Po Po].mc` |
-| 3580 | made me more observative | cluli | Expert | 64.0 | 3355 | 194.9 | osu_mirror/community | `osu_mirror\2497157\cluli - made me more observative (TSMCARPALTUNNEL) [Expert].mc` |
-| 3581 | made me more observative | cluli | obSerVable uniVerSe | 64.0 | 2444 | 198.3 | osu_mirror/community | `osu_mirror\2497157\cluli - made me more observative (TSMCARPALTUNNEL) [obSerVable uniVerSe].mc` |
-| 3582 | made me more observative | cluli | all that we know | 128.0 | 2543 | 212.2 | osu_mirror/community | `osu_mirror\2543543\cluli - made me more observative (Alumence) [all that we know].mc` |
-| 3583 | Made Of Fire | Niko | Advanced | 162.0 | 593 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Advanced].mc` |
-| 3584 | Made Of Fire | Niko | Another | 162.0 | 901 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Another].mc` |
-| 3585 | Made Of Fire | Niko | Can't get a comfortable spot for my right hand | 162.0 | 924 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Can't get a comfortable spot for my right hand].mc` |
-| 3586 | Made Of Fire | Niko | Hyper | 162.0 | 790 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Hyper].mc` |
-| 3587 | Made Of Fire | Niko | Moderate | 162.0 | 323 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Moderate].mc` |
-| 3588 | MAdEaR MAdEaR | SLAVE.V-V-R feat. Nikaido Hiro (CV: Shinonome Haru) | BOrInG'S HD // rEbIRTh | 100.0 | 1264 | 213.6 | osu_mirror/community | `osu_mirror\2495866\SLAVE.V-V-R feat. Nikaido Hiro (CV Shinonome Haru) - MAdEaR MAdEaR (LINQAQ) [BOrInG'S HD  rEbIRTh].mc` |
-| 3589 | MAdEaR MAdEaR | SLAVE.V-V-R feat. Nikaido Hiro (CV: Shinonome Haru) | IN // rEvIVAl | 100.0 | 1379 | 213.6 | osu_mirror/community | `osu_mirror\2495866\SLAVE.V-V-R feat. Nikaido Hiro (CV Shinonome Haru) - MAdEaR MAdEaR (LINQAQ) [IN  rEvIVAl].mc` |
-| 3590 | MAGENTA POTION | EmoCosine | Easy | 150.0 | 285 | 138.6 | osu_mirror/community | `osu_mirror\2483415\EmoCosine - MAGENTA POTION (Calcul0us) [Easy].mc` |
-| 3591 | MAGENTA POTION | EmoCosine | Hard | 150.0 | 871 | 140.7 | osu_mirror/community | `osu_mirror\2483415\EmoCosine - MAGENTA POTION (Calcul0us) [Hard].mc` |
-| 3592 | MAGENTA POTION | EmoCosine | Normal | 150.0 | 523 | 140.6 | osu_mirror/community | `osu_mirror\2483415\EmoCosine - MAGENTA POTION (Calcul0us) [Normal].mc` |
-| 3593 | Magic Girl !! | A-One feat. Shihori | Everlasting emotion makes me bright! | 156.0 | 3270 | 239.2 | osu_mirror/community | `osu_mirror\2534821\A-One feat. Shihori - Magic Girl !! (SimpForTakagi) [Everlasting emotion makes me bright!].mc` |
-| 3594 | Magical Girl | Kirara Magic | Magical Insane | 113.0 | 1255 | 169.8 | osu_mirror/community | `osu_mirror\2503211\Kirara Magic - Magical Girl ([SHK]Boring) [Magical Insane].mc` |
-| 3595 | Make It Bun Dem | Skrillex & Damian "Jr Gong" Marley | Give It To Dem | 140.0 | 2103 | 205.7 | osu_mirror/community | `osu_mirror\2501706\Skrillex & Damian Jr Gong Marley - Make It Bun Dem (Concepte) [Give It To Dem].mc` |
-| 3596 | Make It Bun Dem | Skrillex & Damian "Jr Gong" Marley | Hyper | 140.0 | 1934 | 205.7 | osu_mirror/community | `osu_mirror\2501706\Skrillex & Damian Jr Gong Marley - Make It Bun Dem (Concepte) [Hyper].mc` |
-| 3597 | Makkuro na Ame | KINEMA106 | Angel Shigure | 90.0 | 1187 | 255.0 | osu_mirror/community | `osu_mirror\2488009\KINEMA106 - Makkuro na Ame (nai_) [Angel Shigure].mc` |
-| 3598 | Malas Decisiones | Kenia OS | perritos 1.05x (116bpm) | 115.5 | 1518 | 131.7 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.05x (116bpm)].mc` |
-| 3599 | Malas Decisiones | Kenia OS | perritos 1.1x (121bpm) | 121.0 | 1518 | 125.7 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.1x (121bpm)].mc` |
-| 3600 | Malas Decisiones | Kenia OS | perritos 1.2x (132bpm) | 132.0 | 1518 | 115.2 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.2x (132bpm)].mc` |
-| 3601 | Malas Decisiones | Kenia OS | perritos 1.3x (143bpm) | 143.0 | 1518 | 106.4 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.3x (143bpm)].mc` |
-| 3602 | Malas Decisiones | Kenia OS | perritos 1.4x (154bpm) | 154.0 | 1518 | 98.8 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.4x (154bpm)].mc` |
-| 3603 | Malas Decisiones | Kenia OS | perritos | 110.0 | 1518 | 138.3 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos].mc` |
-| 3604 | Mare Aeterna | kuro | Pelagic Apotheosis | 150.0 | 3726 | 351.0 | osu_mirror/community | `osu_mirror\2596710\kuro - Mare Aeterna (OxalicAcid) [Pelagic Apotheosis].mc` |
-| 3605 | MARENOL | LeaF | †orture,~ | 140.0 | 925 | 138.9 | osu_mirror/community | `osu_mirror\1183657\LeaF - MARENOL (eZmmR) [ü⌡orture,~].mc` |
-| 3606 | Marine Blue Magic <3 | Vivlos (CV: Itou Ayasa) | DH's Insane | 172.0 | 858 | 207.0 | osu_mirror/community | `osu_mirror\2432285\Vivlos (CV Itou Ayasa) - Marine Blue Magic 3 (Mochineko) [DH's Insane].mc` |
-| 3607 | Marine Blue Magic <3 | Vivlos (CV: Itou Ayasa) | Nabi's Another | 172.0 | 965 | 206.9 | osu_mirror/community | `osu_mirror\2432285\Vivlos (CV Itou Ayasa) - Marine Blue Magic 3 (Mochineko) [Nabi's Another].mc` |
-| 3608 | Marine Blue Magic <3 | Vivlos (CV: Itou Ayasa) | Voyage Etincelant | 172.0 | 1214 | 207.2 | osu_mirror/community | `osu_mirror\2432285\Vivlos (CV Itou Ayasa) - Marine Blue Magic 3 (Mochineko) [Voyage Etincelant].mc` |
-| 3609 | Marisa wa Taihen na Mono o Nusunde Ikimashita | IOSYS | Marisa Stole My Precious Accuracy | 170.0 | 1619 | 225.9 | osu_mirror/community | `osu_mirror\2270637\IOSYS - Marisa wa Taihen na Mono o Nusunde Ikimashita (DraterTD) [Marisa Stole my Precious Accuracy].mc` |
-| 3610 | Mas?uerade Rhapsody Re?uest | Ave Mujica | Hard | 190.0 | 2527 | 233.7 | osu_mirror/community | `osu_mirror\2321063\Ave Mujica - Masuerade Rhapsody Reuest (Murasame) [Hard].mc` |
-| 3611 | Mas?uerade Rhapsody Re?uest | Ave Mujica | Insane | 190.0 | 3123 | 233.6 | osu_mirror/community | `osu_mirror\2321063\Ave Mujica - Masuerade Rhapsody Reuest (Murasame) [Insane].mc` |
-| 3612 | Mas?uerade Rhapsody Re?uest | Ave Mujica | Masquerade | 190.0 | 3475 | 233.6 | osu_mirror/community | `osu_mirror\2321063\Ave Mujica - Masuerade Rhapsody Reuest (Murasame) [Masquerade].mc` |
-| 3613 | Masks and Avatars | Akts | Fracture | 220.0 | 2429 | 184.4 | osu_mirror/community | `osu_mirror\2479291\Akts - Masks and Avatars (Sayaku) [Fracture].mc` |
-| 3614 | Masshiro na Yuki | Halozy | Shirogane Higan | 170.0 | 3047 | 327.2 | osu_mirror/community | `osu_mirror\2586507\Halozy - Masshiro na Yuki (aminos111) [Shirogane Higan].mc` |
-| 3615 | Mawaru Sora Usagi (feat. Hatsune Miku) | Orangestar | Towards the Distant Moon // Hard | 105.0 | 317 | 167.7 | osu_mirror/community | `osu_mirror\2543662\Orangestar - Mawaru Sora Usagi (feat. Hatsune Miku) ([TCD] Ena-suki) [Towards the Distant Moon  Hard].mc` |
-| 3616 | Mayday | Tsukuyomi | Collab Normal | 172.0 | 1167 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [Collab Normal].mc` |
-| 3617 | Mayday | Tsukuyomi | Despair | 172.0 | 1968 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [Despair].mc` |
-| 3618 | Mayday | Tsukuyomi | mirac1e's Hard | 172.0 | 1734 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [mirac1e's Hard].mc` |
-| 3619 | Mayday | Tsukuyomi | MiuOtter's Easy | 172.0 | 448 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [MiuOtter's Easy].mc` |
-| 3620 | Mebuku Toki | yonige | It's not like I'm looking for the "right answer" anymore | 150.0 | 518 | 210.9 | osu_mirror/community | `osu_mirror\2543656\yonige - Mebuku Toki (Alicia) [It's not like I'm looking for the right answer anymore].mc` |
-| 3621 | Mebuku Toki (TV Size) | yonige | Easy | 150.0 | 230 | 86.2 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Easy].mc` |
-| 3622 | Mebuku Toki (TV Size) | yonige | Extra | 150.0 | 399 | 85.9 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Extra].mc` |
-| 3623 | Mebuku Toki (TV Size) | yonige | Hard | 150.0 | 482 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Hard].mc` |
-| 3624 | Mebuku Toki (TV Size) | yonige | Insane | 150.0 | 521 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Insane].mc` |
-| 3625 | Mebuku Toki (TV Size) | yonige | Normal | 150.0 | 352 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Normal].mc` |
-| 3626 | Mebuku Toki (TV Size) | yonige | Sakenomi | 150.0 | 321 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Sakenomi].mc` |
-| 3627 | MEGALOVANIA (Camellia Remix) | toby fox | REVERSE | 242.0 | 2583 | 350.9 | osu_mirror/community | `osu_mirror\1037578\Toby Fox - MEGALOVANIA (Camellia Remix) (Ppass) [REVERSE].mc` |
-| 3628 | Meltdown | iroha(sasaki) | Meltdown | 165.0 | 2415 | 313.1 | osu_mirror/community | `osu_mirror\2527334\iroha(sasaki) - Meltdown (LINQAQ) [Meltdown].mc` |
-| 3629 | MEOWWW | Akiri | Hard | 128.0 | 252 | 74.8 | osu_mirror/community | `osu_mirror\2523537\Akiri - MEOWWW (DraterTD) [Hard].mc` |
-| 3630 | MEOWWW | Akiri | Normal | 128.0 | 230 | 74.8 | osu_mirror/community | `osu_mirror\2523537\Akiri - MEOWWW (DraterTD) [Normal].mc` |
-| 3631 | Merry's Last World | tokyo babel | It's not the last, but the reconstructed world. | 82.0 | 1452 | 228.4 | osu_mirror/community | `osu_mirror\2548471\tokyo babel - Merry's Last World (Carpihat) [It's not the last, but the reconstructed world.].mc` |
-| 3632 | Metal vs Dugem | Project Pop | Leng geleng geleng geleng geleng geleng geleng | 85.7 | 3310 | 195.9 | osu_mirror/community | `osu_mirror\2482204\Project Pop - Metal vs Dugem (P45ta) [Leng geleng geleng geleng geleng geleng geleng].mc` |
-| 3633 | Metamodernity | Vansire | Hard | 122.0 | 498 | 159.3 | osu_mirror/community | `osu_mirror\2526405\Vansire - Metamodernity (kooo) [Hard].mc` |
-| 3634 | Metamodernity | Vansire | Yearning | 122.0 | 567 | 159.3 | osu_mirror/community | `osu_mirror\2526405\Vansire - Metamodernity (kooo) [Yearning].mc` |
-| 3635 | Metamorphism | cygnus | 4K - Another | 160.0 | 1470 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Another].mc` |
-| 3636 | Metamorphism | cygnus | 4K - Beginner | 160.0 | 193 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Beginner].mc` |
-| 3637 | Metamorphism | cygnus | 4K - Easy | 160.0 | 374 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Easy].mc` |
-| 3638 | Metamorphism | cygnus | 4K - Hard | 160.0 | 975 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Hard].mc` |
-| 3639 | Metamorphism | cygnus | 4K - Insane | 160.0 | 1270 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Insane].mc` |
-| 3640 | Metamorphism | cygnus | 4K - Normal | 160.0 | 598 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Normal].mc` |
-| 3641 | Metamorphism | cygnus | 4K - Transformation | 160.0 | 1797 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Transformation].mc` |
-| 3642 | Meteora | Imy | Beginner | 132.0 | 486 | 220.3 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Beginner].mc` |
-| 3643 | Meteora | Imy | Easy | 132.0 | 833 | 220.3 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Easy].mc` |
-| 3644 | Meteora | Imy | Fall | 132.0 | 2507 | 217.6 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Fall].mc` |
-| 3645 | Meteora | Imy | Hard | 132.0 | 1457 | 217.5 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Hard].mc` |
-| 3646 | Meteora | Imy | Hyper | 132.0 | 1778 | 217.5 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Hyper].mc` |
-| 3647 | Meteora | Imy | Insane | 132.0 | 2213 | 217.5 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Insane].mc` |
-| 3648 | Meteora | Imy | Normal | 132.0 | 1099 | 220.3 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Normal].mc` |
-| 3649 | Midnight grow feat. mami | Mameyudoufu | caracol's Insane | 150.0 | 2180 | 192.0 | osu_mirror/community | `osu_mirror\2300542\Mameyudoufu - Midnight grow feat. mami (-MysticEyes) [caracol's Insane].mc` |
-| 3650 | Midnight grow feat. mami | Mameyudoufu | Constellation | 150.0 | 2643 | 192.0 | osu_mirror/community | `osu_mirror\2300542\Mameyudoufu - Midnight grow feat. mami (-MysticEyes) [Constellation].mc` |
-| 3651 | Milk Iro no Touge | Chirinuruwowaka | Logix Ficsario / Escha Malier | 216.5 | 1574 | 224.1 | osu_mirror/community | `osu_mirror\2526869\Chirinuruwowaka - Milk Iro no Touge (eZmmR) [Logix Ficsario  Escha Malier].mc` |
-| 3652 | Minesweeper / Sekai | Shaito | Expert | 200.0 | 2433 | 154.5 | osu_mirror/community | `osu_mirror\2518613\Shaito - Minesweeper  Sekai (Tamania) [Expert].mc` |
-| 3653 | Minesweeper / Sekai | Shaito | Hyper | 200.0 | 1442 | 154.5 | osu_mirror/community | `osu_mirror\2518613\Shaito - Minesweeper  Sekai (Tamania) [Hyper].mc` |
-| 3654 | Minesweeper / Sekai | Shaito | Insane | 200.0 | 1849 | 154.5 | osu_mirror/community | `osu_mirror\2518613\Shaito - Minesweeper  Sekai (Tamania) [Insane].mc` |
-| 3655 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Easy | 188.0 | 272 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Easy].mc` |
-| 3656 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Gsun's Insane | 188.0 | 551 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Gsun's Insane].mc` |
-| 3657 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Hard | 188.0 | 700 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Hard].mc` |
-| 3658 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Muses' Hyper | 188.0 | 531 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Muses' Hyper].mc` |
-| 3659 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Normal | 188.0 | 514 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Normal].mc` |
-| 3660 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Sweetie | 188.0 | 418 | 86.8 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Sweetie].mc` |
-| 3661 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | winter's Expert | 188.0 | 481 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [winter's Expert].mc` |
-| 3662 | Misty Memory (Night Ver.) | Monster Siren Records | Sunny Day | 115.0 | 2255 | 227.5 | osu_mirror/community | `osu_mirror\2525513\Monster Siren Records - Misty Memory (Night Ver.) (AelSan) [Sunny Day].mc` |
-| 3663 | Mizutamari Tobikoete (with Nanahira) | *namirin | Beginner | 194.0 | 577 | 257.0 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Beginner].mc` |
-| 3664 | Mizutamari Tobikoete (with Nanahira) | *namirin | Easy | 194.0 | 834 | 256.5 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Easy].mc` |
-| 3665 | Mizutamari Tobikoete (with Nanahira) | *namirin | Hard | 194.0 | 1515 | 256.9 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Hard].mc` |
-| 3666 | Mizutamari Tobikoete (with Nanahira) | *namirin | Normal | 194.0 | 1533 | 257.0 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Normal].mc` |
-| 3667 | Mizutamari Tobikoete (with Nanahira) | *namirin | Puddle | 194.0 | 1591 | 256.9 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Puddle].mc` |
-| 3668 | Mmmmmmm | DJ Sharpnel | Fffffff | 192.9 | 4160 | 260.0 | osu_mirror/community | `osu_mirror\2428964\DJ Sharpnel - Mmmmmmm (Znow) [Fffffff].mc` |
-| 3669 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Flutter | 175.0 | 1136 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Flutter].mc` |
-| 3670 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Insane | 175.0 | 996 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Insane].mc` |
-| 3671 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Normal | 175.0 | 563 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Normal].mc` |
-| 3672 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Sava's Easy | 175.0 | 365 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Sava's Easy].mc` |
-| 3673 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Sava's Hard | 175.0 | 812 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Sava's Hard].mc` |
-| 3674 | MONTAGEM COMA | ANDROMEDA/Elysian | X | 120.0 | 899 | 69.0 | osu_mirror/community | `osu_mirror\2430762\ANDROMEDAElysian - MONTAGEM COMA (keksikosu) [X].mc` |
-| 3675 | Moonshot (TV Size) | Hoshimachi Suisei | Azukkii's Normal | 185.0 | 451 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV size) (-Zell) [Azukkii's Normal].mc` |
-| 3676 | Moonshot (TV Size) | Hoshimachi Suisei | Easy | 185.0 | 248 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV Size) (-Zell) [Easy].mc` |
-| 3677 | Moonshot (TV Size) | Hoshimachi Suisei | Hard | 185.0 | 712 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV Size) (-Zell) [Hard].mc` |
-| 3678 | Moonshot (TV Size) | Hoshimachi Suisei | Tune In to the Midnight | 185.0 | 896 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV size) (-Zell) [Tune In To The Midnight].mc` |
-| 3679 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | Alu's Normal | 120.0 | 195 | 73.0 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [Alu's Normal].mc` |
-| 3680 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | Alu's Serenity | 120.0 | 202 | 73.2 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [Alu's Serenity].mc` |
-| 3681 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | LeCrazy's Easy | 120.0 | 66 | 72.5 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [LeCrazy's Easy].mc` |
-| 3682 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | LeCrazy's Intermediate | 120.0 | 178 | 73.5 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [LeCrazy's Intermediate].mc` |
-| 3683 | Motto Memory | Remo (CV: Hanamori Yumiri) | Kono sekai o mamoru | 138.0 | 1412 | 231.3 | osu_mirror/community | `osu_mirror\1960391\Remo (CV Hanamori Yumiri) - Motto Memory (cdwcgt) [Kono sekai o mamoru].mc` |
-| 3684 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Advanced | 110.0 | 535 | 135.0 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Advanced].mc` |
-| 3685 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Delusional Disorder | 110.0 | 460 | 136.2 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Delusional Disorder].mc` |
-| 3686 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Hard | 110.0 | 675 | 136.2 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Hard].mc` |
-| 3687 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Normal | 110.0 | 340 | 133.9 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Normal].mc` |
-| 3688 | Mukashi e Okuru Kotoba (feat. Miyamai Moca) | kaede | Kazemachi no Nagai Yoru, Dear. | 87.0 | 1070 | 252.8 | osu_mirror/community | `osu_mirror\2572295\kaede - Mukashi e Okuru Kotoba (feat. Miyamai Moca) (Yelina) [Kazemachi no Nagai Yoru, Dear.].mc` |
-| 3689 | Multo | Cup of Joe | Azukkii's Hard | 104.0 | 573 | 225.9 | osu_mirror/community | `osu_mirror\2442103\Cup of Joe - Multo (Seitora) [Azukkii's Hard].mc` |
-| 3690 | Multo | Cup of Joe | Haplos ng Alaala | 104.0 | 837 | 225.6 | osu_mirror/community | `osu_mirror\2442103\Cup of Joe - Multo (Seitora) [Haplos ng Alaala].mc` |
-| 3691 | My Feelings | Dan Salvato | Mahiru's 4K Intermediate | 72.0 | 28 | 52.6 | osu_mirror/community | `osu_mirror\2570112\Dan Salvato - My Feelings (Azukkii) [Mahiru's 4K Intermediate].mc` |
-| 3692 | My Feelings | Dan Salvato | Zell's 4K Beginner | 72.0 | 31 | 49.6 | osu_mirror/community | `osu_mirror\2570112\Dan Salvato - My Feelings (Azukkii) [Zell's 4K Beginner].mc` |
-| 3693 | My Girlfriend is a Raver | S3RL x LIDA | Insane | 175.0 | 1761 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [Insane].mc` |
-| 3694 | My Girlfriend is a Raver | S3RL x LIDA | keksikosu's Easy | 175.0 | 473 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [keksikosu's Easy].mc` |
-| 3695 | My Girlfriend is a Raver | S3RL x LIDA | Menphiss' Hard | 175.0 | 1369 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [Menphiss' Hard].mc` |
-| 3696 | My Girlfriend is a Raver | S3RL x LIDA | NikoSek's Expert | 175.0 | 2033 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [NikoSek's Expert].mc` |
-| 3697 | My Girlfriend is a Raver | S3RL x LIDA | Normal | 175.0 | 958 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [Normal].mc` |
-| 3698 | Namae no Nai Kaibutsu (Game Ver.) | Nekoashi Tsubomi (CV: Serizawa Yu) | Fapu's Hard | 180.0 | 595 | 134.0 | osu_mirror/community | `osu_mirror\2529073\Nekoashi Tsubomi (CV Serizawa Yu) - Namae No Nai Kaibutsu (Game Ver.) (nai_) [Fapu's Hard].mc` |
-| 3699 | Namae no Nai Kaibutsu (Game Ver.) | Nekoashi Tsubomi (CV: Serizawa Yu) | LINQAQ's Normal | 180.0 | 532 | 134.0 | osu_mirror/community | `osu_mirror\2529073\Nekoashi Tsubomi (CV Serizawa Yu) - Namae No Nai Kaibutsu (Game Ver.) (nai_) [LINQAQ's Normal].mc` |
-| 3700 | Namae no Nai Kaibutsu (Game Ver.) | Nekoashi Tsubomi (CV: Serizawa Yu) | Nai Monster | 180.0 | 672 | 133.1 | osu_mirror/community | `osu_mirror\2529073\Nekoashi Tsubomi (CV Serizawa Yu) - Namae No Nai Kaibutsu (Game Ver.) (nai_) [Nai Monster].mc` |
-| 3701 | Nani mo Nai Youna | MIMI | Story | 119.0 | 984 | 193.2 | osu_mirror/community | `osu_mirror\2523383\MIMI - Nani mo nai Youna (NineSey) [Story].mc` |
-| 3702 | Narwhal | Haloweak | Retribution (Buffed) 1.05x (145bpm) | 144.9 | 2633 | 123.4 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.05x (145bpm)].mc` |
-| 3703 | Narwhal | Haloweak | Retribution (Buffed) 1.15x (159bpm) | 158.7 | 2633 | 112.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.15x (159bpm)].mc` |
-| 3704 | Narwhal | Haloweak | Retribution (Buffed) 1.1x (152bpm) | 151.8 | 2633 | 117.8 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.1x (152bpm)].mc` |
-| 3705 | Narwhal | Haloweak | Retribution (Buffed) 1.25x (172bpm) | 172.5 | 2633 | 103.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.25x (172bpm)].mc` |
-| 3706 | Narwhal | Haloweak | Retribution (Buffed) 1.2x (166bpm) | 165.6 | 2633 | 108.0 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.2x (166bpm)].mc` |
-| 3707 | Narwhal | Haloweak | Retribution (Buffed) 1.3x (179bpm) | 179.4 | 2633 | 99.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.3x (179bpm)].mc` |
-| 3708 | Narwhal | Haloweak | Retribution (Buffed) | 138.0 | 2633 | 129.6 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed)].mc` |
-| 3709 | Narwhal | Haloweak | Retribution 1.1x (152bpm) | 151.8 | 2170 | 117.8 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution 1.1x (152bpm)].mc` |
-| 3710 | Narwhal | Haloweak | Retribution 1.2x (166bpm) | 165.6 | 2170 | 108.0 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution 1.2x (166bpm)].mc` |
-| 3711 | Narwhal | Haloweak | Retribution 1.3x (179bpm) | 179.4 | 2170 | 99.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution 1.3x (179bpm)].mc` |
-| 3712 | Narwhal | Haloweak | Retribution | 138.0 | 2170 | 129.6 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution].mc` |
-| 3713 | Nastrond | Helblinde | Akuma | 190.0 | 3401 | 301.9 | osu_mirror/community | `osu_mirror\2524635\Helblinde - Nastrond (Antipole) [Akuma].mc` |
-| 3714 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Ainer's Hard | 166.0 | 746 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Ainer's Hard].mc` |
-| 3715 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Cure Arcana Shadow | 166.0 | 752 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Cure Arcana Shadow].mc` |
-| 3716 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Nabi's Insane | 166.0 | 759 | 87.3 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Nabi's Insane].mc` |
-| 3717 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Syr's Normal | 166.0 | 623 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Syr's Normal].mc` |
-| 3718 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | upan's Easy | 166.0 | 322 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [upan's Easy].mc` |
-| 3719 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Advanced Neko | 205.0 | 350 | 95.0 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Advanced Neko].mc` |
-| 3720 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Easy Neko | 205.0 | 200 | 95.9 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Easy Neko].mc` |
-| 3721 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Llee's Hard Neko | 205.0 | 591 | 95.8 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Llee's Hard Neko].mc` |
-| 3722 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Normal Neko | 205.0 | 120 | 95.6 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Normal Neko].mc` |
-| 3723 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Nyanyannyanyan | 205.0 | 762 | 94.9 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Nyanyannyanyan].mc` |
-| 3724 | Nemesis | MUZZ | [WARM-UP] VS. AKASHA | 150.0 | 1500 | 252.0 | osu_mirror/community | `osu_mirror\2567618\MUZZ - Nemesis (Akasha-) [[WARM-UP] VS. AKASHA].mc` |
-| 3725 | Nemesis | MUZZ | [WARNING!!] VS. AHHHHHHHHHHHHHH | 150.0 | 1831 | 252.3 | osu_mirror/community | `osu_mirror\2567618\MUZZ - Nemesis (Akasha-) [[WARNING!!] VS. AHHHHHHHHHHHHHH].mc` |
-| 3726 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Easy | 113.34 | 245 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Easy].mc` |
-| 3727 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Flade's Normal | 113.34 | 389 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Flade's Normal].mc` |
-| 3728 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Hard | 113.34 | 543 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Hard].mc` |
-| 3729 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Hyper | 113.34 | 652 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Hyper].mc` |
-| 3730 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Insane | 113.34 | 727 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Insane].mc` |
-| 3731 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Never Gonna Play Mania | 113.34 | 884 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Never Gonna Play Mania].mc` |
-| 3732 | Never Rezort | uynet | AelSan's Angel | 162.0 | 1483 | 195.6 | osu_mirror/community | `osu_mirror\2214270\uynet - Never Rezort (Garden) [AelSan's Angel].mc` |
-| 3733 | Never Rezort | uynet | AelSan's Hard | 162.0 | 1269 | 195.6 | osu_mirror/community | `osu_mirror\2214270\uynet - Never Rezort (Garden) [AelSan's Hard].mc` |
-| 3734 | Never Rezort | uynet | AelSan's Insane | 162.0 | 1318 | 195.6 | osu_mirror/community | `osu_mirror\2214270\uynet - Never Rezort (Garden) [AelSan's Insane].mc` |
-| 3735 | Newspapers for Magicians | Camellia | Magics for the Witches | 150.0 | 2688 | 279.7 | osu_mirror/community | `osu_mirror\2498647\Camellia - Newspapers for Magicians (Nicknem_) [Magics for the Witches].mc` |
-| 3736 | Night Sky Solitude | XenjeS | Advanced | 160.0 | 1104 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Advanced].mc` |
-| 3737 | Night Sky Solitude | XenjeS | Another | 160.0 | 2276 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Another].mc` |
-| 3738 | Night Sky Solitude | XenjeS | Easy | 160.0 | 521 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Easy].mc` |
-| 3739 | Night Sky Solitude | XenjeS | Hyper | 160.0 | 1681 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Hyper].mc` |
-| 3740 | Night Sky Solitude | XenjeS | S k y y - | 160.0 | 2582 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [S k y y -].mc` |
-| 3741 | Nivem City | 0 K | nivemolicular | 90.0 | 39 | 83.3 | osu_mirror/community | `osu_mirror\2614227\0 K - Nivem City (4blits) [nivemolicular].mc` |
-| 3742 | NO BATIDAO | ZXKAI, slxughter | ADVANCED | 130.0 | 523 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [ADVANCED].mc` |
-| 3743 | NO BATIDAO | ZXKAI, slxughter | AURA 9999 | 130.0 | 1041 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [AURA 9999].mc` |
-| 3744 | NO BATIDAO | ZXKAI, slxughter | EASY | 130.0 | 168 | 88.6 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [EASY].mc` |
-| 3745 | NO BATIDAO | ZXKAI, slxughter | HYPER | 130.0 | 745 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [HYPER].mc` |
-| 3746 | NO BATIDAO | ZXKAI, slxughter | SOLITAIREPRINCE'S NORMAL | 130.0 | 323 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [SOLITAIREPRINCE'S NORMAL].mc` |
-| 3747 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | Amasugi's BASIC | 146.0 | 337 | 146.4 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [Amasugi's BASIC].mc` |
-| 3748 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | LINQAQ's ADVANCED | 146.0 | 644 | 147.5 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [LINQAQ's ADVANCED].mc` |
-| 3749 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | LUNATIC | 146.0 | 569 | 145.6 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [LUNATIC].mc` |
-| 3750 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | MASTER | 146.0 | 706 | 146.9 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [MASTER].mc` |
-| 3751 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | mirac1e's EXPERT | 146.0 | 771 | 148.4 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [mirac1e's EXPERT].mc` |
-| 3752 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | Spark the Flame of Hope from Illusion | 146.0 | 524 | 144.5 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [Spark the Flame of Hope from Illusion].mc` |
-| 3753 | NO ONE YES MAN | MYUKKE. | NO ONE YES EASY | 170.0 | 242 | 118.6 | osu_mirror/community | `osu_mirror\2513755\MYUKKE. - NO ONE YES MAN (Calcul0us) [NO ONE YES EASY].mc` |
-| 3754 | NO ONE YES MAN | MYUKKE. | NO ONE YES NORMAL | 170.0 | 527 | 119.6 | osu_mirror/community | `osu_mirror\2513755\MYUKKE. - NO ONE YES MAN (Calcul0us) [NO ONE YES NORMAL].mc` |
-| 3755 | NO ONE YES MAN | MYUKKE. | NO ONE YES PIGEONS | 170.0 | 753 | 119.3 | osu_mirror/community | `osu_mirror\2513755\MYUKKE. - NO ONE YES MAN (Calcul0us) [NO ONE YES PIGEONS].mc` |
-| 3756 | Non-Scenario Etude (TV Size) | Amamiya Sora | Easy | 154.0 | 212 | 86.9 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [Easy].mc` |
-| 3757 | Non-Scenario Etude (TV Size) | Amamiya Sora | Ferdi's Insane | 154.0 | 817 | 87.2 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [Ferdi's Insane].mc` |
-| 3758 | Non-Scenario Etude (TV Size) | Amamiya Sora | milku's Hard | 154.0 | 614 | 87.2 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [milku's Hard].mc` |
-| 3759 | Non-Scenario Etude (TV Size) | Amamiya Sora | My True Feelings | 154.0 | 461 | 87.1 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [My True Feelings].mc` |
-| 3760 | Non-Scenario Etude (TV Size) | Amamiya Sora | Normal | 154.0 | 370 | 87.1 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [Normal].mc` |
-| 3761 | nostalgia | shxpe | dragon's fragments // easy | 114.0 | 51 | 85.8 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [dragon's fragments  easy].mc` |
-| 3762 | nostalgia | shxpe | dragon's obsession | 114.0 | 146 | 115.8 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [dragon's obsession].mc` |
-| 3763 | nostalgia | shxpe | reflection // advanced | 114.0 | 147 | 102.6 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [reflection  advanced].mc` |
-| 3764 | nostalgia | shxpe | relapse // hyper | 114.0 | 176 | 103.2 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [relapse  hyper].mc` |
-| 3765 | Nostalgic Finder (feat. Kotoha) | Imy | / [] \ _") | 154.0 | 1076 | 224.3 | osu_mirror/community | `osu_mirror\2588951\Imy - Nostalgic Finder (feat. Kotoha) (Yelina) [ []  _)].mc` |
-| 3766 | not to pop your bubble... | Lundy | easy... | 210.0 | 330 | 123.4 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [easy...].mc` |
-| 3767 | not to pop your bubble... | Lundy | hard... | 210.0 | 479 | 118.9 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [hard...].mc` |
-| 3768 | not to pop your bubble... | Lundy | insane... | 210.0 | 539 | 120.1 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [insane...].mc` |
-| 3769 | not to pop your bubble... | Lundy | my insecurities... | 210.0 | 864 | 121.9 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [my insecurities...].mc` |
-| 3770 | not to pop your bubble... | Lundy | normal... | 210.0 | 460 | 123.4 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [normal...].mc` |
-| 3771 | Noumiso Rigid Girl | ShinRa-Bansho | Advanced | 181.0 | 1183 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Advanced].mc` |
-| 3772 | Noumiso Rigid Girl | ShinRa-Bansho | Hard | 181.0 | 1420 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Hard].mc` |
-| 3773 | Noumiso Rigid Girl | ShinRa-Bansho | Hyper | 181.0 | 1663 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Hyper].mc` |
-| 3774 | Noumiso Rigid Girl | ShinRa-Bansho | Normal | 181.0 | 904 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Normal].mc` |
-| 3775 | Noumiso Rigid Girl | ShinRa-Bansho | Rigid-Brained Girl | 181.0 | 2034 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Rigid-Brained Girl].mc` |
-| 3776 | Oak and Ash | Fellowship | Worthiness | 210.0 | 4795 | 286.3 | osu_mirror/community | `osu_mirror\2599137\Fellowship - Oak and Ash (P45ta) [Worthiness].mc` |
-| 3777 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law (no mini-LNs) | 200.0 | 3251 | 231.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law (no mini-LNs)].mc` |
-| 3778 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.05x (no mini-LNs) | 210.0 | 3251 | 220.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.05x (no mini-LNs)].mc` |
-| 3779 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.05x | 210.0 | 3113 | 220.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.05x].mc` |
-| 3780 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.15x (no mini-LNs) | 230.0 | 3251 | 200.9 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.15x (no mini-LNs)].mc` |
-| 3781 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.15x | 230.0 | 3113 | 200.9 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.15x].mc` |
-| 3782 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.1x (no mini-LNs) | 220.0 | 3251 | 210.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.1x (no mini-LNs)].mc` |
-| 3783 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.1x | 220.0 | 3113 | 210.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.1x].mc` |
-| 3784 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.2x (no mini-LNs) | 240.0 | 3251 | 192.5 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.2x (no mini-LNs)].mc` |
-| 3785 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.2x | 240.0 | 3113 | 192.5 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.2x].mc` |
-| 3786 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.3x (no mini-LNs) | 260.0 | 3251 | 177.7 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.3x (no mini-LNs)].mc` |
-| 3787 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.3x | 260.0 | 3113 | 177.7 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.3x].mc` |
-| 3788 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.4x (no mini-LNs) | 280.0 | 3251 | 165.0 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.4x (no mini-LNs)].mc` |
-| 3789 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.4x | 280.0 | 3113 | 165.0 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.4x].mc` |
-| 3790 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law | 200.0 | 3113 | 231.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law].mc` |
-| 3791 | Observation (Original Mix) | Envy | dear Myuka... | 200.0 | 5092 | 187.2 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [dear Myuka...].mc` |
-| 3792 | Observation (Original Mix) | Envy | x0.7 | 140.0 | 5092 | 267.4 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.7].mc` |
-| 3793 | Observation (Original Mix) | Envy | x0.85 | 170.0 | 5092 | 220.2 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.85].mc` |
-| 3794 | Observation (Original Mix) | Envy | x0.8 | 160.0 | 5092 | 234.0 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.8].mc` |
-| 3795 | Observation (Original Mix) | Envy | x0.95 | 190.0 | 5092 | 197.1 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.95].mc` |
-| 3796 | Observation (Original Mix) | Envy | x0.9 | 180.0 | 5092 | 208.0 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.9].mc` |
-| 3797 | Ocean's Legacy | yoho | Advanced | 342.0 | 1061 | 124.1 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Advanced].mc` |
-| 3798 | Ocean's Legacy | yoho | Easy | 342.0 | 499 | 124.1 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Easy].mc` |
-| 3799 | Ocean's Legacy | yoho | Expert | 342.0 | 2172 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Expert].mc` |
-| 3800 | Ocean's Legacy | yoho | Extra | 342.0 | 2476 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Extra].mc` |
-| 3801 | Ocean's Legacy | yoho | Glory | 342.0 | 3142 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Glory].mc` |
-| 3802 | Ocean's Legacy | yoho | Hard | 342.0 | 1317 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Hard].mc` |
-| 3803 | Ocean's Legacy | yoho | Hyper | 342.0 | 1643 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Hyper].mc` |
-| 3804 | Ocean's Legacy | yoho | Insane | 342.0 | 1891 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Insane].mc` |
-| 3805 | Ocean's Legacy | yoho | Normal | 342.0 | 802 | 124.1 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Normal].mc` |
-| 3806 | Ocean's Legacy | yoho | Ultra | 342.0 | 2806 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Ultra].mc` |
-| 3807 | Ode of Resurrection: Recapitulation | HOYO-MiX | Incandescent War of the Abyss | 152.0 | 1796 | 222.5 | osu_mirror/community | `osu_mirror\2471078\HOYO-MiX - Ode of Resurrection Recapitulation (Donpa-chan) [Incandescent War of the Abyss].mc` |
-| 3808 | OH NO NO NO FUNK | DJ KVNXD | EASY | 130.0 | 153 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [EASY].mc` |
-| 3809 | OH NO NO NO FUNK | DJ KVNXD | HAHA | 130.0 | 662 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [HAHA].mc` |
-| 3810 | OH NO NO NO FUNK | DJ KVNXD | HARD | 130.0 | 324 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [HARD].mc` |
-| 3811 | OH NO NO NO FUNK | DJ KVNXD | HYPER | 130.0 | 428 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [HYPER].mc` |
-| 3812 | OH NO NO NO FUNK | DJ KVNXD | INSANE | 130.0 | 540 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [Insane].mc` |
-| 3813 | OH NO NO NO FUNK | DJ KVNXD | NORMAL | 130.0 | 245 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [NORMAL].mc` |
-| 3814 | Okashi Rave Party (feat. L4hee) | ReeK | Sweety Atmosphere w/ Thaumiel | 180.0 | 2979 | 287.4 | osu_mirror/community | `osu_mirror\2159126\ReeK - Okashi Rave Party (feat. L4hee) (Yuiesta) [Sweety Atmosphere w Thaumiel].mc` |
-| 3815 | Omoiyoshino | loos feat. Hiiragi Rian | Advanced | 168.0 | 881 | 132.3 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Advanced].mc` |
-| 3816 | Omoiyoshino | loos feat. Hiiragi Rian | Feru's Basic | 168.0 | 306 | 132.1 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Feru's Basic].mc` |
-| 3817 | Omoiyoshino | loos feat. Hiiragi Rian | Hyper | 168.0 | 1261 | 132.3 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Hyper].mc` |
-| 3818 | Omoiyoshino | loos feat. Hiiragi Rian | Intermediate | 168.0 | 648 | 132.1 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Intermediate].mc` |
-| 3819 | Omoiyoshino | loos feat. Hiiragi Rian | Koi | 168.0 | 1501 | 132.3 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Koi].mc` |
-| 3820 | On Seeking U | RD-Sounds feat. Meramipop | Easy | 145.0 | 450 | 169.6 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Easy].mc` |
-| 3821 | On Seeking U | RD-Sounds feat. Meramipop | Expert | 145.0 | 2617 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Expert].mc` |
-| 3822 | On Seeking U | RD-Sounds feat. Meramipop | Hard | 145.0 | 1631 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Hard].mc` |
-| 3823 | On Seeking U | RD-Sounds feat. Meramipop | Insane | 145.0 | 2277 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Insane].mc` |
-| 3824 | On Seeking U | RD-Sounds feat. Meramipop | Normal | 145.0 | 810 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Normal].mc` |
-| 3825 | On Seeking U | RD-Sounds feat. Meramipop | O! S! U! | 145.0 | 3516 | 169.6 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [O! S! U!].mc` |
-| 3826 | On Seeking U | RD-Sounds feat. Meramipop | XingRen's Extra | 145.0 | 2608 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [XingRen's Extra].mc` |
-| 3827 | ON.UR.MARKS... | TWC Sound Team "FLiPFORCE" | RESPAWN POiNT | 99.5 | 3761 | 380.2 | osu_mirror/community | `osu_mirror\2562488\TWC Sound Team FLiPFORCE - ON.UR.MARKS... (QwertYui345) [RESPAWN POINT].mc` |
-| 3828 | Once Forgotten, Nothing Remains | Raphiiel | A Past Buried, A Future Condemned | 63.0 | 5711 | 501.0 | osu_mirror/community | `osu_mirror\2438757\Raphiiel - Once Forgotten, Nothing Remains (-mint-) [A Past Buried, A Future Condemned].mc` |
-| 3829 | Once Forgotten, Nothing Remains | Raphiiel | Phantasmal Zenith :: Epitaph of the Unremembered | 63.0 | 6201 | 500.9 | osu_mirror/community | `osu_mirror\2574555\Raphiiel - Once Forgotten, Nothing Remains (Ycloki) [Phantasmal Zenith  Epitaph of the Unremembered].mc` |
-| 3830 | One Good Reason | Celldweller | Rockport 1.05x (210bpm) | 210.28 | 3001 | 154.1 | osu_mirror/community | `osu_mirror\2253773\Celldweller - One Good Reason (elexire) [Rockport 1.05x (210bpm)].mc` |
-| 3831 | One Good Reason | Celldweller | Rockport 1.1x (220bpm) | 220.3 | 3001 | 147.1 | osu_mirror/community | `osu_mirror\2253773\Celldweller - One Good Reason (elexire) [Rockport 1.1x (220bpm)].mc` |
-| 3832 | One Good Reason | Celldweller | Rockport | 200.27 | 3001 | 161.8 | osu_mirror/community | `osu_mirror\2253773\Celldweller - One Good Reason (elexire) [Rockport].mc` |
-| 3833 | Oni | Sewerslvt | Darling | 128.0 | 899 | 240.0 | osu_mirror/community | `osu_mirror\2456780\Sewerslvt - Oni (Znow) [Darling].mc` |
-| 3834 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Boring-chan! // Hard | 200.0 | 1080 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Boring-chan!  Hard].mc` |
-| 3835 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Dereck-chan! // Normal | 200.0 | 812 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Dereck-chan!  Normal].mc` |
-| 3836 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Mirac1e-chan! // Insane | 200.0 | 1385 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Mirac1e-chan!  Insane].mc` |
-| 3837 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Mona-chan! // Expert | 200.0 | 1618 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Mona-chan!  Expert].mc` |
-| 3838 | Onward | Hebi. | Forward | 180.0 | 1673 | 201.3 | osu_mirror/community | `osu_mirror\2411153\Hebi. - Onward (Arua_) [Forward].mc` |
-| 3839 | OPENING | t+pazolite feat. Kabocha | Advanced | 180.0 | 310 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Advanced].mc` |
-| 3840 | OPENING | t+pazolite feat. Kabocha | Bring It On! | 180.0 | 482 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Bring It On!].mc` |
-| 3841 | OPENING | t+pazolite feat. Kabocha | Easy | 180.0 | 148 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Easy].mc` |
-| 3842 | OPENING | t+pazolite feat. Kabocha | Hard | 180.0 | 372 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Hard].mc` |
-| 3843 | OPENING | t+pazolite feat. Kabocha | Normal | 180.0 | 252 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Normal].mc` |
-| 3844 | Opening Titles | David Arnold & Michael Price | Advanced | 184.0 | 143 | 29.2 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Advanced].mc` |
-| 3845 | Opening Titles | David Arnold & Michael Price | Beginner | 184.0 | 10 | 29.3 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Beginner].mc` |
-| 3846 | Opening Titles | David Arnold & Michael Price | Easy | 184.0 | 80 | 29.3 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Easy].mc` |
-| 3847 | Opening Titles | David Arnold & Michael Price | Hard | 184.0 | 150 | 29.2 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Hard].mc` |
-| 3848 | Opening Titles | David Arnold & Michael Price | Normal | 184.0 | 130 | 29.3 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Normal].mc` |
-| 3849 | Oracion | Shiro (CV: Kayano Ai) | Existence Othello | 166.0 | 1558 | 257.3 | osu_mirror/community | `osu_mirror\2560335\Shiro (CV Kayano Ai) - Oracion (eZmmR) [Existence Othello].mc` |
-| 3850 | Oracle | cYsmix & Nhato | Divinity | 128.0 | 4999 | 360.0 | osu_mirror/community | `osu_mirror\2461104\cYsmix & Nhato - Oracle (iiJohn0) [Divinity].mc` |
-| 3851 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Bubba's Hard | 140.0 | 267 | 87.2 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Bubba's Hard].mc` |
-| 3852 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Bubba's Normal | 140.0 | 148 | 86.8 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Bubba's Normal].mc` |
-| 3853 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Easy | 140.0 | 223 | 87.2 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Easy].mc` |
-| 3854 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Tigre! | 140.0 | 527 | 87.2 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Tigre!].mc` |
-| 3855 | Oshi Shinobu | Akiri | Ema's Before It All | 170.0 | 898 | 92.5 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Ema's Before It All].mc` |
-| 3856 | Oshi Shinobu | Akiri | Hard | 170.0 | 645 | 92.5 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Hard].mc` |
-| 3857 | Oshi Shinobu | Akiri | Insane | 170.0 | 568 | 90.9 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Insane].mc` |
-| 3858 | Oshi Shinobu | Akiri | My Own Revenge | 170.0 | 172 | 87.4 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [My Own Revenge].mc` |
-| 3859 | Oshi Shinobu | Akiri | Normal | 170.0 | 520 | 92.5 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Normal].mc` |
-| 3860 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | _VK's Hard | 184.0 | 641 | 85.8 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu ja Nai! (TV Size) (Syadow-) [_VK's Hard].mc` |
-| 3861 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | Bakarina | 184.0 | 896 | 85.8 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu ja Nai! (TV Size) (Syadow-) [Bakarina].mc` |
-| 3862 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | Easy | 184.0 | 215 | 85.9 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu Ja Nai! (TV Size) (Syadow-) [Easy].mc` |
-| 3863 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | Yukarin's Normal | 184.0 | 433 | 85.8 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu Ja Nai! (TV Size) (Syadow-) [Yukarin's Normal].mc` |
-| 3864 | OUT OF CONTROL | METAROOM | BEI'S INSANE | 181.0 | 822 | 154.1 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [BEI'S INSANE].mc` |
-| 3865 | OUT OF CONTROL | METAROOM | COMPLETELY UNHINGED | 181.0 | 1412 | 154.4 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [COMPLETELY UNHINGED].mc` |
-| 3866 | OUT OF CONTROL | METAROOM | HARD | 181.0 | 1298 | 159.0 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [HARD].mc` |
-| 3867 | OUT OF CONTROL | METAROOM | INSANE | 181.0 | 1134 | 154.4 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [Insane].mc` |
-| 3868 | OUTRAGE | USAO vs. DJ Myosuke | Ainer's Link Level II | 215.0 | 1408 | 149.3 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Ainer's Link Level II].mc` |
-| 3869 | OUTRAGE | USAO vs. DJ Myosuke | Ignite The Inferno | 215.0 | 1714 | 149.5 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Ignite The Inferno].mc` |
-| 3870 | OUTRAGE | USAO vs. DJ Myosuke | kooo's Link Level I | 215.0 | 1027 | 149.6 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [kooo's Link Level I].mc` |
-| 3871 | OUTRAGE | USAO vs. DJ Myosuke | Link Level III | 215.0 | 1935 | 149.2 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Link Level III].mc` |
-| 3872 | OUTRAGE | USAO vs. DJ Myosuke | Link Level IV | 215.0 | 1971 | 149.5 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Link Level IV].mc` |
-| 3873 | overture | you are an angel | advanced | 110.51 | 343 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [advanced].mc` |
-| 3874 | overture | you are an angel | cycle | 110.51 | 601 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [cycle].mc` |
-| 3875 | overture | you are an angel | hard | 110.51 | 415 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [Hard].mc` |
-| 3876 | overture | you are an angel | hyper | 110.51 | 481 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [Hyper].mc` |
-| 3877 | overture | you are an angel | normal | 110.51 | 258 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [normal].mc` |
-| 3878 | overture | you are an angel | omni's easy | 110.51 | 166 | 34.6 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [omni's easy].mc` |
-| 3879 | overwhelm | P4koo | Easy | 182.0 | 352 | 104.9 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Easy].mc` |
-| 3880 | overwhelm | P4koo | Hard | 182.0 | 1015 | 105.4 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Hard].mc` |
-| 3881 | overwhelm | P4koo | Insane | 182.0 | 886 | 104.4 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Insane].mc` |
-| 3882 | overwhelm | P4koo | Normal | 182.0 | 707 | 105.2 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Normal].mc` |
-| 3883 | overwhelm | P4koo | Spinning | 182.0 | 1030 | 104.8 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Spinning].mc` |
-| 3884 | oyasumination (MV Ver.) | ippo.tsk | our running | 190.0 | 4770 | 301.5 | osu_mirror/community | `osu_mirror\2576549\ippo.tsk - oyasumination (MV Ver.) (QwertYui345) [our running].mc` |
-| 3885 | PAPERMOON (TV Size) | Tommy heavenly6 | EZ | 164.0 | 274 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [EZ].mc` |
-| 3886 | PAPERMOON (TV Size) | Tommy heavenly6 | HD | 164.0 | 789 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [HD].mc` |
-| 3887 | PAPERMOON (TV Size) | Tommy heavenly6 | MX | 164.0 | 1044 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [MX].mc` |
-| 3888 | PAPERMOON (TV Size) | Tommy heavenly6 | NM | 164.0 | 459 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [NM].mc` |
-| 3889 | Paradisus-Paradoxum | MYTH & ROID | Collab of Dread | 201.0 | 2226 | 227.0 | osu_mirror/community | `osu_mirror\2306063\MYTH & ROID - Paradisus-Paradoxum (FerdiXIA-) [Collab of Dread].mc` |
-| 3890 | parallel skydive | AAAA | Blue Skies! | 140.0 | 581 | 108.2 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Blue Skies!].mc` |
-| 3891 | parallel skydive | AAAA | Easy | 140.0 | 370 | 109.1 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Easy].mc` |
-| 3892 | parallel skydive | AAAA | Hard | 140.0 | 572 | 109.1 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Hard].mc` |
-| 3893 | parallel skydive | AAAA | Normal | 140.0 | 512 | 108.9 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Normal].mc` |
-| 3894 | Parallel Universe Shifter | Camellia | Alternator | 100.0 | 4071 | 205.7 | osu_mirror/community | `osu_mirror\2062559\Camellia - Parallel Universe Shifter (V1do-) [Alternator].mc` |
-| 3895 | Pardontekk | HELLBLADE | Chordjacks | 139.4 | 1222 | 104.6 | osu_mirror/community | `osu_mirror\2556618\HELLBLADE - Pardontekk (greedx) [Chordjacks].mc` |
-| 3896 | Pardontekk | HELLBLADE | Minijacks | 139.4 | 1329 | 104.6 | osu_mirror/community | `osu_mirror\2556618\HELLBLADE - Pardontekk (greedx) [Minijacks].mc` |
-| 3897 | PARIPI MIYABI | FARUCO | 4K Hard Harukitsune | 130.0 | 888 | 126.9 | osu_mirror/community | `osu_mirror\2434168\FARUCO - PARIPI MIYABI (Herta) [4K Hard Harukitsune].mc` |
-| 3898 | PARIPI MIYABI | FARUCO | 4K Myobu | 130.0 | 1120 | 126.9 | osu_mirror/community | `osu_mirror\2434168\FARUCO - PARIPI MIYABI (Herta) [4K Myobu].mc` |
-| 3899 | PARIPI MIYABI | FARUCO | 4K Normal | 130.0 | 683 | 126.9 | osu_mirror/community | `osu_mirror\2434168\FARUCO - PARIPI MIYABI (Herta) [4K Normal].mc` |
-| 3900 | Parodia Sonatina | Ice | Insane | 170.0 | 2470 | 194.5 | osu_mirror/community | `osu_mirror\2598432\Ice - Parodia Sonatina (Carpihat) [Insane].mc` |
-| 3901 | Parodia Sonatina | Ice | Nicknem's Extra | 170.0 | 1162 | 194.0 | osu_mirror/community | `osu_mirror\2598432\Ice - Parodia Sonatina (Carpihat) [Nicknem's Extra].mc` |
-| 3902 | Parodia Sonatina | Ice | Op. 1 | 170.0 | 773 | 194.5 | osu_mirror/community | `osu_mirror\2598432\Ice - Parodia Sonatina (Carpihat) [Op. 1].mc` |
-| 3903 | Parodia Sonatina Var.II | Ice | Insane+ | 170.0 | 1838 | 139.4 | osu_mirror/community | `osu_mirror\2611638\Ice - Parodia Sonatina Var.II (Karpi Unverzagt) [Insane+].mc` |
-| 3904 | Parodia Sonatina Var.II | Ice | Op. 2 | 170.0 | 609 | 139.4 | osu_mirror/community | `osu_mirror\2611638\Ice - Parodia Sonatina Var.II (Karpi Unverzagt) [Op. 2].mc` |
-| 3905 | Parodia Sonatina Var.II | Ice | Sey's Extra | 170.0 | 771 | 139.4 | osu_mirror/community | `osu_mirror\2611638\Ice - Parodia Sonatina Var.II (Karpi Unverzagt) [Sey's Extra].mc` |
-| 3906 | Partition | Sydosys | P4rt1t10N | 190.0 | 3218 | 240.0 | osu_mirror/community | `osu_mirror\2466086\Sydosys - Partition (oid45) [P4rt1t10N].mc` |
-| 3907 | Party Out | Getty | Jack Party | 170.0 | 4028 | 251.3 | osu_mirror/community | `osu_mirror\2438662\Getty - Party Out (Wimpy Cursed) [Jack Party].mc` |
-| 3908 | Pencilina | Culprate & Dictate | Collab Insane | 172.0 | 1542 | 178.2 | osu_mirror/community | `osu_mirror\2555009\Culprate & Dictate - Pencilina (Naiibe) [Collab Insane].mc` |
-| 3909 | Pencilina | Culprate & Dictate | Hyper | 172.0 | 1390 | 177.8 | osu_mirror/community | `osu_mirror\2555009\Culprate & Dictate - Pencilina (Naiibe) [Hyper].mc` |
-| 3910 | Pencilina | Culprate & Dictate | Idiosyncratic | 172.0 | 1496 | 177.9 | osu_mirror/community | `osu_mirror\2555009\Culprate & Dictate - Pencilina (Naiibe) [Idiosyncratic].mc` |
-| 3911 | Peng You De Jiu (DJ Xiao Yu Er Remix) | Li Xiao Jie | Friend's Wine | 130.0 | 5240 | 378.5 | osu_mirror/community | `osu_mirror\2611900\Li Xiao Jie - peng you de jiu (DJ xiao yu er remix) (oid45) [Friend's Wine].mc` |
-| 3912 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Advanced | 170.0 | 623 | 90.7 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Advanced].mc` |
-| 3913 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Boink Boink | 170.0 | 1529 | 85.9 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [boink boink].mc` |
-| 3914 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Concepte's Xpert | 170.0 | 1190 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Concepte's Xpert].mc` |
-| 3915 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Enma's Nsane | 170.0 | 1140 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Enma's Nsane].mc` |
-| 3916 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Mio's Xtra | 170.0 | 1363 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Mio's Xtra].mc` |
-| 3917 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Superboy's Hard | 170.0 | 834 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Superboy's Hard].mc` |
-| 3918 | People = Shit | Slipknot | Drum Accurate (Challenge) | 191.0 | 2692 | 193.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [Drum Accurate (Challenge)].mc` |
-| 3919 | People = Shit | Slipknot | expert (solo) | 191.0 | 281 | 14.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [expert (solo)].mc` |
-| 3920 | People = Shit | Slipknot | expert | 191.0 | 503 | 193.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [expert].mc` |
-| 3921 | People = Shit | Slipknot | Hard (solo) | 191.0 | 185 | 14.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [Hard (solo)].mc` |
-| 3922 | People = Shit | Slipknot | hard | 191.0 | 2224 | 192.9 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [hard].mc` |
-| 3923 | Phi | Street | Flawless 1.1x (209bpm) | 209.0 | 1110 | 106.1 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.1x (209bpm)].mc` |
-| 3924 | Phi | Street | Flawless 1.2x (228bpm) | 228.0 | 1110 | 97.2 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.2x (228bpm)].mc` |
-| 3925 | Phi | Street | Flawless 1.3x (247bpm) | 247.0 | 1110 | 89.8 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.3x (247bpm)].mc` |
-| 3926 | Phi | Street | Flawless 1.4x (266bpm) | 266.0 | 1110 | 83.3 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.4x (266bpm)].mc` |
-| 3927 | Phi | Street | Flawless | 190.0 | 1110 | 116.7 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless].mc` |
-| 3928 | Phosphor | mitei | Accelerate | 214.0 | 2200 | 241.4 | osu_mirror/community | `osu_mirror\2410611\mitei - Phosphor (V1do-) [Accelerate].mc` |
-| 3929 | Phosphor | mitei | Radiance | 214.0 | 2295 | 241.5 | osu_mirror/community | `osu_mirror\2579629\mitei - Phosphor (CrazyBanger) [Radiance].mc` |
-| 3930 | Pinata Break | FEM&M, BRN1NG BRAIN SOUND INDUSTRIES | OK | 171.0 | 2475 | 224.6 | osu_mirror/community | `osu_mirror\2599776\FEM&M, BRN1NG BRAIN SOUND INDUSTRIES - Pinata Break (SZH) [OK].mc` |
-| 3931 | Pixel Heart | EmoCosine | 8-Bit LOVE!!! | 150.0 | 2043 | 275.2 | osu_mirror/community | `osu_mirror\2602963\EmoCosine - Pixel Heart (Calcul0us) [8-Bit LOVE!!!].mc` |
-| 3932 | Pixel Planet | Lime | Easy | 222.0 | 480 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Easy].mc` |
-| 3933 | Pixel Planet | Lime | Expert | 222.0 | 2000 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Expert].mc` |
-| 3934 | Pixel Planet | Lime | Hard | 222.0 | 1165 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Hard].mc` |
-| 3935 | Pixel Planet | Lime | Insane | 222.0 | 1578 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Insane].mc` |
-| 3936 | Pixel Planet | Lime | Normal | 222.0 | 737 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Normal].mc` |
-| 3937 | Planetary Exclusion Zone | XenjeS | Easy | 180.0 | 489 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Easy].mc` |
-| 3938 | Planetary Exclusion Zone | XenjeS | Hard | 180.0 | 1378 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Hard].mc` |
-| 3939 | Planetary Exclusion Zone | XenjeS | Insane | 180.0 | 1787 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Insane].mc` |
-| 3940 | Planetary Exclusion Zone | XenjeS | Normal | 180.0 | 952 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Normal].mc` |
-| 3941 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered 1.05x | 152.25 | 2746 | 209.2 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered 1.05x].mc` |
-| 3942 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered 1.15x | 166.75 | 2746 | 191.0 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered 1.15x].mc` |
-| 3943 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered 1.1x | 159.5 | 2746 | 199.7 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered 1.1x].mc` |
-| 3944 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered | 145.0 | 2746 | 219.6 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered].mc` |
-| 3945 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Easy | 140.0 | 202 | 84.4 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Easy].mc` |
-| 3946 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Happy End | 140.0 | 652 | 83.4 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Happy End].mc` |
-| 3947 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Hard | 140.0 | 507 | 83.6 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Hard].mc` |
-| 3948 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Normal | 140.0 | 322 | 84.0 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Normal].mc` |
-| 3949 | popal | tewiq | easy | 122.14 | 295 | 94.3 | osu_mirror/community | `osu_mirror\2515013\tewiq - popal (Sympho) [Easy].mc` |
-| 3950 | popal | tewiq | normal | 122.14 | 491 | 94.3 | osu_mirror/community | `osu_mirror\2515013\tewiq - popal (Sympho) [Normal].mc` |
-| 3951 | popal | tewiq | popal | 122.14 | 523 | 89.3 | osu_mirror/community | `osu_mirror\2515013\tewiq - popal (Sympho) [popal].mc` |
-| 3952 | PORTRAiT | BUBBLE | SELF // REFLECTiON | 182.0 | 1444 | 217.4 | osu_mirror/community | `osu_mirror\2630052\BUBBLE - PORTRAiT (G1NYA) [SELF  REFLECTiON].mc` |
-| 3953 | POSSESSION | TAG underground | Basic | 185.0 | 724 | 103.8 | osu_mirror/community | `osu_mirror\2563907\TAG underground - POSSESSION (P45ta) [Basic].mc` |
-| 3954 | POSSESSION | TAG underground | Difficult | 185.0 | 933 | 103.8 | osu_mirror/community | `osu_mirror\2563907\TAG underground - POSSESSION (P45ta) [Difficult].mc` |
-| 3955 | POSSESSION | TAG underground | Expert | 185.0 | 1171 | 103.8 | osu_mirror/community | `osu_mirror\2563907\TAG underground - POSSESSION (P45ta) [Expert].mc` |
-| 3956 | poster boy | 2hollis | another | 111.0 | 1497 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [another].mc` |
-| 3957 | poster boy | 2hollis | beginner | 111.0 | 143 | 119.5 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [beginner].mc` |
-| 3958 | poster boy | 2hollis | collab hard | 111.0 | 1064 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [collab hard].mc` |
-| 3959 | poster boy | 2hollis | easy | 111.0 | 420 | 118.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [easy].mc` |
-| 3960 | poster boy | 2hollis | expert | 111.0 | 1711 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [expert].mc` |
-| 3961 | poster boy | 2hollis | extra | 111.0 | 1770 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [extra].mc` |
-| 3962 | poster boy | 2hollis | insane | 111.0 | 1321 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [insane].mc` |
-| 3963 | poster boy | 2hollis | normal | 111.0 | 660 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [normal].mc` |
-| 3964 | poster boy | 2hollis | starter | 111.0 | 16 | 67.0 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [starter].mc` |
-| 3965 | poster boy | 2hollis | trash the ploy, turn myself into a poster boy | 111.0 | 2033 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [trash the ploy, turn myself into a poster boy].mc` |
-| 3966 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Easy | 152.0 | 477 | 152.4 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Easy].mc` |
-| 3967 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Hard | 152.0 | 981 | 152.4 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Hard].mc` |
-| 3968 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Lovely Super Cutie Baby | 152.0 | 1049 | 152.2 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Lovely Super Cutie Baby].mc` |
-| 3969 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Normal | 152.0 | 873 | 152.4 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Normal].mc` |
-| 3970 | Pretty Girl Rock | Keri Hilson | Happy Birthday! Xiao Te | 160.0 | 825 | 234.8 | osu_mirror/community | `osu_mirror\2621493\Keri Hilson - Pretty Girl Rock (PinkXT) [Happy Birthday! Xiao Te].mc` |
-| 3971 | Primordial Complex | celtix | Origination | 200.0 | 2385 | 174.1 | osu_mirror/community | `osu_mirror\2547114\celtix - Primordial Complex (_Vexxxx_) [Origination].mc` |
-| 3972 | Primordial Complex | celtix | Furimu vs lik_0 / The Origin That Forgot Itself | 200.0 | 2009 | 174.1 | osu_mirror/community | `osu_mirror\2552497\celtix - Primordial Complex (Furimuu-) [Furimu vs lik_0  The Origin That Forgot Itself].mc` |
-| 3973 | Primordial Reflection ~A Retrograde Adventure~ | Juwubi | Genesis: ~Endgame Expedition~ | 97.5 | 3162 | 256.6 | osu_mirror/community | `osu_mirror\2539101\Juwubi - Primordial Reflection ~A Retrograde Adventure~ (S k y y -) [Genesis ~Endgame Expedition~].mc` |
-| 3974 | Pris-Magic! (Game Ver.) | Shigure Ui | Ainer's Normal | 126.0 | 613 | 153.1 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [ainer's normal].mc` |
-| 3975 | Pris-Magic! (Game Ver.) | Shigure Ui | Easy | 126.0 | 434 | 151.4 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [Easy].mc` |
-| 3976 | Pris-Magic! (Game Ver.) | Shigure Ui | Hard | 126.0 | 790 | 155.6 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [Hard].mc` |
-| 3977 | Pris-Magic! (Game Ver.) | Shigure Ui | Rainy Sky, Shiny Smile | 126.0 | 822 | 158.8 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [rainy sky, shiny smile].mc` |
-| 3978 | PRiSMBREAKER :: dispersion.POINT | Coal & Lesitia. & KreScent | SPECTRUMSHATTERER :: diffusion.ZONE | 200.0 | 3852 | 117.4 | osu_mirror/community | `osu_mirror\2425955\Coal & Lesitia. & KreScent - PRiSMBREAKER  dispersion.POINT ([TCD] Dzar03) [SPECTRUMSHATTERER  diffusion.ZONE].mc` |
-| 3979 | Prom Queen | Beach Bunny | Lin's Hard | 135.1 | 1054 | 124.1 | osu_mirror/community | `osu_mirror\2470141\Beach Bunny - Prom Queen (Mita) [Lin's Hard].mc` |
-| 3980 | Prom Queen | Beach Bunny | Lin's Insane | 135.1 | 1372 | 124.1 | osu_mirror/community | `osu_mirror\2470141\Beach Bunny - Prom Queen (Mita) [Lin's Insane].mc` |
-| 3981 | Prom Queen | Beach Bunny | Lin's Normal | 135.1 | 813 | 124.1 | osu_mirror/community | `osu_mirror\2470141\Beach Bunny - Prom Queen (Mita) [Lin's Normal].mc` |
-| 3982 | Purgatorium | Arcaea | Hard With Drum hit | 150.0 | 1103 | 147.1 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Hard With Drum hit].mc` |
-| 3983 | Purgatorium | Arcaea | Malody Hard | 150.0 | 823 | 147.1 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Malody Hard].mc` |
-| 3984 | Purgatorium | Arcaea | Special | 150.0 | 1264 | 146.9 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Special].mc` |
-| 3985 | PUSH UR T3MPRR | Femtanyl | 3ASY | 155.0 | 629 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [3ASY].mc` |
-| 3986 | PUSH UR T3MPRR | Femtanyl | 3XP3RT | 155.0 | 2402 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [3XP3RT].mc` |
-| 3987 | PUSH UR T3MPRR | Femtanyl | B14CK'5 1NS4N3 | 155.0 | 2154 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [B14CK'5 1NS4N3].mc` |
-| 3988 | PUSH UR T3MPRR | Femtanyl | LUMP1T4'5 HYP3R | 155.0 | 1855 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [LUMP1T4'5 HYP3R].mc` |
-| 3989 | PUSH UR T3MPRR | Femtanyl | N0RM4L | 155.0 | 1037 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [N0RM4L].mc` |
-| 3990 | PUSH UR T3MPRR | Femtanyl | P45H4LK4'5 H4RD | 155.0 | 1485 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [P45H4LK4'5 H4RD].mc` |
-| 3991 | PUSH UR T3MPRR | Femtanyl | SCH17Z0M4N1A | 155.0 | 2626 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [SCH17Z0M4N1A].mc` |
-| 3992 | Pyroclastic Flow | Pirendora | Molten Surge | 162.0 | 4745 | 238.5 | osu_mirror/community | `osu_mirror\2518911\Pirendora - Pyroclastic Flow (_shu) [Molten Surge].mc` |
-| 3993 | Pyroclastic Flow | Pirendora | Penultimate Fray | 162.0 | 2727 | 238.5 | osu_mirror/community | `osu_mirror\2578594\Pirendora - Pyroclastic Flow (chy030_ft_pH5_6) [Penultimate Fray].mc` |
-| 3994 | Qiu Ri Wu Yu | Bu Jiang Li Mao | Aki Suki~ | 138.0 | 654 | 179.1 | osu_mirror/community | `osu_mirror\2602982\Bu Jiang Li Mao - Qiu Ri Wu Yu (FallFish) [Aki Suki~].mc` |
-| 3995 | Quiet Water | toby fox | [4K] Bravery | 60.0 | 35 | 27.1 | osu_mirror/community | `osu_mirror\2324447\toby fox - Quiet Water (Herta) [[4K] Bravery].mc` |
-| 3996 | Quiet Water | toby fox | [4K] Easy | 60.0 | 15 | 17.5 | osu_mirror/community | `osu_mirror\2324447\toby fox - Quiet Water (Herta) [[4K] Easy].mc` |
-| 3997 | Quiet Water | toby fox | [4K] Normal | 60.0 | 10 | 27.0 | osu_mirror/community | `osu_mirror\2324447\toby fox - Quiet Water (Herta) [[4K] Normal].mc` |
-| 3998 | QUIXOTE [i am alone, and they are everyone] | Crywolf | Nothing but my heart remains. | 140.0 | 2163 | 213.4 | osu_mirror/community | `osu_mirror\2157483\Crywolf - QUIXOTE [i am alone, and they are everyone] (Alptraum) [Nothing but my heart remains.].mc` |
-| 3999 | R U Still xxxx? | Camellia | M I Still xxxx? | 234.0 | 4404 | 225.8 | osu_mirror/community | `osu_mirror\2480805\Camellia - R U Still xxxx (MrMoai) [M I Still xxxx].mc` |
-| 4000 | R.I.P. | youman feat. GUMI | cacophony 1.05x (284bpm) | 283.5 | 92 | 181.1 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [cacophony 1.05x (284bpm)].mc` |
-| 4001 | R.I.P. | youman feat. GUMI | cacophony 1.1x (297bpm) | 297.0 | 92 | 172.8 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [cacophony 1.1x (297bpm)].mc` |
-| 4002 | R.I.P. | youman feat. GUMI | cacophony | 270.0 | 92 | 190.1 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [cacophony].mc` |
-| 4003 | R.I.P. | youman feat. GUMI | discordance 1.05x (284bpm) | 283.5 | 3474 | 195.8 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [discordance 1.05x (284bpm)].mc` |
-| 4004 | R.I.P. | youman feat. GUMI | discordance 1.1x (297bpm) | 297.0 | 3474 | 186.9 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [discordance 1.1x (297bpm)].mc` |
-| 4005 | R.I.P. | youman feat. GUMI | discordance | 270.0 | 3474 | 205.6 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [discordance].mc` |
-| 4006 | Rainbow Road | nanobii | Easy | 170.0 | 407 | 166.4 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [easy].mc` |
-| 4007 | Rainbow Road | nanobii | Hard | 170.0 | 1237 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [hard].mc` |
-| 4008 | Rainbow Road | nanobii | Insane | 170.0 | 1603 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [insane].mc` |
-| 4009 | Rainbow Road | nanobii | Normal | 170.0 | 888 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [normal].mc` |
-| 4010 | Rainbow Road | nanobii | Radiant | 170.0 | 1838 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [radiant].mc` |
-| 4011 | Raining Tacos | Parry Gripp | Easy | 138.0 | 389 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Easy].mc` |
-| 4012 | Raining Tacos | Parry Gripp | Hard | 138.0 | 792 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Hard].mc` |
-| 4013 | Raining Tacos | Parry Gripp | How To Make a Taco | 138.0 | 909 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [How To Make a Taco].mc` |
-| 4014 | Raining Tacos | Parry Gripp | Insane | 138.0 | 817 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Insane].mc` |
-| 4015 | Raining Tacos | Parry Gripp | Normal | 138.0 | 554 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Normal].mc` |
-| 4016 | Rampant | Veilr | M3n4c!n9 $p4rk | 135.0 | 1197 | 188.5 | osu_mirror/community | `osu_mirror\2511321\Veilr - Rampant (Miander) [M3n4c!n9 $p4rk].mc` |
-| 4017 | Random Chordjackslop Pack | Various Artists | Aziya - bbydoll (10 1 Frenchcore Bootleg) | 200.0 | 425 | 19.8 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [Aziya - bbydoll (10 1 Frenchcore Bootleg)].mc` |
-| 4018 | Random Chordjackslop Pack | Various Artists | BEMANI Sound Team "HuMeR" feat. Fernweh - Sakazuki | 280.0 | 393 | 17.1 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [BEMANI Sound Team HuMeR feat. Fernweh - Sakazuki].mc` |
-| 4019 | Random Chordjackslop Pack | Various Artists | Guobao - NO BATIDAO | 130.0 | 472 | 29.5 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [Guobao - NO BATIDAO].mc` |
-| 4020 | Random Chordjackslop Pack | Various Artists | molly - Strangers | 200.0 | 720 | 57.6 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [molly - Strangers].mc` |
-| 4021 | Random Chordjackslop Pack | Various Artists | Uchida Aya - Sign | 102.0 | 695 | 38.4 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [Uchida Aya - Sign].mc` |
-| 4022 | RARARA | sheirara | Beginner | 77.5 | 289 | 168.0 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Beginner].mc` |
-| 4023 | RARARA | sheirara | Easy | 77.5 | 474 | 168.4 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Easy].mc` |
-| 4024 | RARARA | sheirara | Hard | 77.5 | 1086 | 168.4 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Hard].mc` |
-| 4025 | RARARA | sheirara | Normal | 77.5 | 771 | 168.4 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Normal].mc` |
-| 4026 | RARARA | sheirara | RAAAAAAAAAAAAA | 77.5 | 1100 | 168.0 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [RAAAAAAAAAAAAA].mc` |
-| 4027 | Rasputin | Boney M. | Lover of the Saudi Queen | 66.77 | 3531 | 201.5 | osu_mirror/community | `osu_mirror\2578823\Boney M. - Rasputin (Drimba) [Lover of the Saudi Queen].mc` |
-| 4028 | re://VERSE | Camellia feat. chiisana | in://VERSION | 160.0 | 4574 | 240.4 | osu_mirror/community | `osu_mirror\2438731\Camellia feat. chiisana - reVERSE (elexire) [Inversion].mc` |
-| 4029 | Realize (TV Size) | Tamaki Nami | eZmmR's Hard | 136.2 | 797 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [eZmmR's Hard].mc` |
-| 4030 | Realize (TV Size) | Tamaki Nami | Freedom | 136.2 | 1050 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [Freedom].mc` |
-| 4031 | Realize (TV Size) | Tamaki Nami | LLENN's Easy | 136.2 | 305 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [LLENN's Easy].mc` |
-| 4032 | Realize (TV Size) | Tamaki Nami | Normal | 136.2 | 470 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [Normal].mc` |
-| 4033 | REBOUND | QWER | [4K] Ferdi's Intermediate | 180.0 | 1097 | 207.5 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Ferdi's Intermediate].mc` |
-| 4034 | REBOUND | QWER | [4K] Gahyeonln's Hyper | 180.0 | 1838 | 209.2 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Gahyeonln's Hyper].mc` |
-| 4035 | REBOUND | QWER | [4K] Q | 180.0 | 1782 | 209.3 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Q].mc` |
-| 4036 | REBOUND | QWER | [4K] Sava's Basic | 180.0 | 603 | 207.0 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Sava's Basic].mc` |
-| 4037 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Easy | 145.0 | 180 | 82.8 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Easy].mc` |
-| 4038 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Ferdi's Hard | 145.0 | 627 | 86.1 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Ferdi's Hard].mc` |
-| 4039 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Memories | 145.0 | 629 | 86.1 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Memories].mc` |
-| 4040 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Normal | 145.0 | 352 | 84.4 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Normal].mc` |
-| 4041 | Reimei | Kagetora. | Eternal Blossom | 185.0 | 718 | 138.6 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Eternal Blossom].mc` |
-| 4042 | Reimei | Kagetora. | Hard | 185.0 | 875 | 139.3 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Hard].mc` |
-| 4043 | Reimei | Kagetora. | Insane | 185.0 | 1057 | 139.6 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Insane].mc` |
-| 4044 | Reimei | Kagetora. | Normal | 185.0 | 315 | 134.9 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Normal].mc` |
-| 4045 | Reizoko Saga | Reizoko Cj | The Legend of the Fridge | 270.0 | 4460 | 259.4 | osu_mirror/community | `osu_mirror\2473516\Reizoko Cj - Reizoko Saga (Niko_Plays) [The Legend of the Fridge].mc` |
-| 4046 | Reply | kz feat. Kaguya (CV: Yuko Natsuyoshi) | "Hey, Iroha..." | 170.0 | 1002 | 264.9 | osu_mirror/community | `osu_mirror\2500422\kz feat. Kaguya (CV Yuko Natsuyoshi) - Reply (Popy) [Hey, Iroha...].mc` |
-| 4047 | RESETT (feat. yeil) | VOLTA & ariiol | HARD. | 150.0 | 645 | 128.1 | osu_mirror/community | `osu_mirror\2480591\VOLTA & ariiol - RESETT (feat. yeil) (AlexDunk) [Hard.].mc` |
-| 4048 | RESETT (feat. yeil) | VOLTA & ariiol | REWIND. | 150.0 | 710 | 128.1 | osu_mirror/community | `osu_mirror\2480591\VOLTA & ariiol - RESETT (feat. yeil) (AlexDunk) [rewind.].mc` |
-| 4049 | Restful Day with the Rabbits | WangleLine | Azukkii's Intermediate | 58.0 | 153 | 89.7 | osu_mirror/community | `osu_mirror\2554595\WangleLine - Restful Day with the Rabbits (-Zell) [Azukkii's Intermediate].mc` |
-| 4050 | Restful Day with the Rabbits | WangleLine | Beginner | 58.0 | 106 | 89.7 | osu_mirror/community | `osu_mirror\2554595\WangleLine - Restful Day with the Rabbits (-Zell) [Beginner].mc` |
-| 4051 | Restful Day with the Rabbits | WangleLine | Cutie Rabbits | 58.0 | 190 | 89.1 | osu_mirror/community | `osu_mirror\2554595\WangleLine - Restful Day with the Rabbits (-Zell) [Cutie Rabbits].mc` |
-| 4052 | Retry Now | NAKISO feat. Hatsune Miku | Advanced | 145.0 | 719 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Advanced].mc` |
-| 4053 | Retry Now | NAKISO feat. Hatsune Miku | Duckys' Rebirth | 145.0 | 1370 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Duckys' Rebirth].mc` |
-| 4054 | Retry Now | NAKISO feat. Hatsune Miku | Easy | 145.0 | 426 | 120.0 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Easy].mc` |
-| 4055 | Retry Now | NAKISO feat. Hatsune Miku | Kori's Hard | 145.0 | 1059 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Kori's Hard].mc` |
-| 4056 | Retry Now | NAKISO feat. Hatsune Miku | Normal | 145.0 | 533 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Normal].mc` |
-| 4057 | Retry Now feat. Hatsune Miku | NAKISO | Hard | 145.0 | 1217 | 119.2 | osu_mirror/community | `osu_mirror\2419665\NAKISO - Retry Now feat. Hatsune Miku (Lude) [Hard].mc` |
-| 4058 | Retry Now feat. Hatsune Miku | NAKISO | Normal | 145.0 | 888 | 119.2 | osu_mirror/community | `osu_mirror\2419665\NAKISO - Retry Now feat. Hatsune Miku (Lude) [Normal].mc` |
-| 4059 | Retry Now feat. Hatsune Miku | NAKISO | Reset | 145.0 | 1207 | 119.2 | osu_mirror/community | `osu_mirror\2419665\NAKISO - Retry Now feat. Hatsune Miku (Lude) [Reset].mc` |
-| 4060 | reunion (TV Size) | ClariS | Hard | 135.0 | 560 | 84.9 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Hard].mc` |
-| 4061 | reunion (TV Size) | ClariS | Hyper | 135.0 | 470 | 85.1 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Hyper].mc` |
-| 4062 | reunion (TV Size) | ClariS | Memories | 135.0 | 480 | 84.6 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Memories].mc` |
-| 4063 | reunion (TV Size) | ClariS | Normal | 135.0 | 479 | 84.9 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Normal].mc` |
-| 4064 | reunion (TV Size) | ClariS | Sava's Easy | 135.0 | 175 | 85.1 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Sava's Easy].mc` |
-| 4065 | Rigid Memory | Xyris & Kagetora. feat. Ethereal_Winter | Painted Dreams - of endless skies. | 210.0 | 1579 | 301.5 | osu_mirror/community | `osu_mirror\2419624\Xyris & Kagetora. feat. Ethereal_Winter - Rigid Memory (Sirekuan) [Painted Dreams - of endless skies.].mc` |
-| 4066 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Advanced | 208.0 | 1002 | 204.2 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - RIME-chan no Fukuoka Trip Kisoukyoku (Astronian) [Advanced].mc` |
-| 4067 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Hyper | 208.0 | 1158 | 204.2 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - RIME-chan no Fukuoka Trip Kisoukyoku (Astronian) [Hyper].mc` |
-| 4068 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Insane | 208.0 | 1174 | 204.2 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - Rime-chan no Fukuoka Trip Kisoukyoku (Astronian) [Insane].mc` |
-| 4069 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Move to Fukuoka! | 208.0 | 1082 | 203.5 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - Rime-chan no Fukuoka Trip Kisoukyoku (Astronian) [Move to Fukuoka!].mc` |
-| 4070 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Normal | 208.0 | 767 | 205.0 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - RIME-chan no Fukuoka Trip Kisoukyoku (Astronian) [Normal].mc` |
-| 4071 | Ripples (DJ Noriken Remix) | aran | Supernova | 170.0 | 2118 | 307.0 | osu_mirror/community | `osu_mirror\2489538\aran - Ripples (DJ Noriken Remix) (Ppass) [Supernova].mc` |
-| 4072 | Rockefeller Street | Getter Jaani | Showtime | 130.0 | 461 | 184.2 | osu_mirror/community | `osu_mirror\2534222\Getter Jaani - Rockefeller Street (GDBlack) [Showtime].mc` |
-| 4073 | Rococo | MIMI | Blooming // Aratoji's Normal | 184.0 | 1254 | 218.3 | osu_mirror/community | `osu_mirror\2413334\MIMI - Rococo ([TCD] Ena-suki) [Blooming  Aratoji's Normal].mc` |
-| 4074 | Rococo | MIMI | Radiance // Hard | 184.0 | 1455 | 218.3 | osu_mirror/community | `osu_mirror\2413334\MIMI - Rococo ([TCD] Ena-suki) [Radiance  Hard].mc` |
-| 4075 | Rococo | MIMI | Swaying Nostalgia // Hyper | 184.0 | 1197 | 218.3 | osu_mirror/community | `osu_mirror\2413334\MIMI - Rococo ([TCD] Ena-suki) [Swaying Nostalgia  Hyper].mc` |
-| 4076 | Romansa Cinta Semu | Nekodachi | Aku Akan Tetap Mencintaimu, Meski Esok Tak Lagi Ada Kata "Kita" | 195.0 | 2259 | 238.6 | osu_mirror/community | `osu_mirror\2456002\Nekodachi - Romansa Cinta Semu (Savageeeee) [Aku Akan Tetap Mencintaimu, Meski Esok Tak Lagi Ada Kata Kita].mc` |
-| 4077 | Rose | cornandbeans | x1.0 / 182.40bpm | 182.4 | 1683 | 146.1 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.0  182.40bpm].mc` |
-| 4078 | Rose | cornandbeans | x1.1 / 200.64bpm | 200.64 | 1683 | 132.8 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.1  200.64bpm].mc` |
-| 4079 | Rose | cornandbeans | x1.2 / 218.88bpm | 218.88 | 1683 | 121.7 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.2  218.88bpm].mc` |
-| 4080 | Rose | cornandbeans | x1.3 / 237.12bpm | 237.12 | 1683 | 112.3 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.3  237.12bpm].mc` |
-| 4081 | Rose | cornandbeans | x1.4 / 255.36bpm | 255.36 | 1683 | 104.3 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.4  255.36bpm].mc` |
-| 4082 | Roze | MiddleIsland | A rising tide of grief, the regret of all I left uncherished. | 88.5 | 727 | 152.5 | osu_mirror/community | `osu_mirror\2577589\MiddleIsland - Roze (Carpihat) [A rising tide of grief, the regret of all I left uncherished.].mc` |
-| 4083 | RTRT | Mili | UrMyO0Rt | 132.0 | 852 | 200.3 | osu_mirror/community | `osu_mirror\2486763\Mili - RTRT (Kagetayori) [UrMyO0Rt].mc` |
-| 4084 | Runaway World (TV Size) | fhana | Easy | 174.0 | 314 | 96.9 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Easy].mc` |
-| 4085 | Runaway World (TV Size) | fhana | Hard | 174.0 | 891 | 97.2 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Hard].mc` |
-| 4086 | Runaway World (TV Size) | fhana | Insane | 174.0 | 981 | 96.9 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Insane].mc` |
-| 4087 | Runaway World (TV Size) | fhana | Normal | 174.0 | 559 | 96.9 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Normal].mc` |
-| 4088 | Runaway World (TV Size) | fhana | To a new world | 174.0 | 487 | 91.6 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [To a new world].mc` |
-| 4089 | Ruri no Tori | Shimotsuki Haruka | Azure | 97.0 | 1013 | 246.8 | osu_mirror/community | `osu_mirror\2522324\Shimotsuki Haruka - Ruri no Tori (Onta_Bekasi) [Azure].mc` |
-| 4090 | Rush | Troye Sivan | Extra | 126.0 | 1982 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [extra].mc` |
-| 4091 | Rush | Troye Sivan | Hard | 126.0 | 1460 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [hard].mc` |
-| 4092 | Rush | Troye Sivan | Hush (w/ guden) | 126.0 | 2193 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [Hush (w guden)].mc` |
-| 4093 | Rush | Troye Sivan | Insane | 126.0 | 1765 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [insane].mc` |
-| 4094 | S.A.T.E.L.L.I.T.E. | Camellia | 3683 / 2288 | 55.0 | 2989 | 270.6 | osu_mirror/community | `osu_mirror\2523700\Camellia - S.A.T.E.L.L.I.T.E. (UnCraftable) [3683  2288].mc` |
-| 4095 | S.A.T.E.L.L.I.T.E. | Camellia | Frank's Stargazer / Extra | 55.0 | 2447 | 281.2 | osu_mirror/community | `osu_mirror\2523700\Camellia - S.A.T.E.L.L.I.T.E. (UnCraftable) [Frank's Stargazer  Extra].mc` |
-| 4096 | Sacrifice | Ouse Akira | The truth | 105.0 | 2944 | 214.0 | osu_mirror/community | `osu_mirror\2211150\Ouse Akira - Sacrifice (Yudii) [The truth].mc` |
-| 4097 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Azukkii's Normal | 186.0 | 372 | 87.4 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Azukkii's Normal].mc` |
-| 4098 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Dereck's Hard | 186.0 | 503 | 87.4 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Dereck's Hard].mc` |
-| 4099 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Diablo~ | 186.0 | 703 | 87.3 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Diablo~].mc` |
-| 4100 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Lizyuu's Easy | 186.0 | 245 | 87.4 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Lizyuu's Easy].mc` |
-| 4101 | Sakura no Zenya | Kano | Insane | 178.0 | 2348 | 353.9 | osu_mirror/community | `osu_mirror\2366321\Kano - Sakura no Zenya ([SHK]Boring) [Insane].mc` |
-| 4102 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina (Hard) | 180.0 | 4518 | 261.0 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina (Hard)].mc` |
-| 4103 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.1 (Hard) | 198.0 | 4518 | 237.3 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.1 (Hard)].mc` |
-| 4104 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.2 (Hard) | 216.0 | 4518 | 217.5 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.2 (Hard)].mc` |
-| 4105 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.3 (Hard) | 234.0 | 4518 | 200.8 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.3 (Hard)].mc` |
-| 4106 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.4 (Hard) | 252.0 | 4518 | 186.4 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.4 (Hard)].mc` |
-| 4107 | Samba do Nosso Ceu | Gingerbee | Flores decapitadas | 101.0 | 2127 | 208.4 | osu_mirror/community | `osu_mirror\2423198\Gingerbee - Samba do Nosso Ceu (Relae) [Flores decapitadas].mc` |
-| 4108 | Sanzui | Kou! | Cataracta | 200.0 | 3678 | 167.1 | osu_mirror/community | `osu_mirror\2634383\Kou! - Sanzui (_shu) [Cataracta].mc` |
-| 4109 | Sanzui | Kou! | Nicknem's Fluvius | 200.0 | 3255 | 167.2 | osu_mirror/community | `osu_mirror\2634383\Kou! - Sanzui (_shu) [Nicknem's Fluvius].mc` |
-| 4110 | Satelite:memories(Rework) | Qutabire | Advanced | 202.0 | 902 | 132.9 | osu_mirror/community | `osu_mirror\2292728\Qutabire - Satelitememories(Rework) (mirac1e_xf) [Advanced].mc` |
-| 4111 | Satelite:memories(Rework) | Qutabire | Hyper | 202.0 | 1247 | 132.9 | osu_mirror/community | `osu_mirror\2292728\Qutabire - Satelitememories(Rework) (mirac1e_xf) [Hyper].mc` |
-| 4112 | Satelite:memories(Rework) | Qutabire | Together forever | 202.0 | 1261 | 132.9 | osu_mirror/community | `osu_mirror\2292728\Qutabire - Satelitememories(Rework) (mirac1e_xf) [Together forever].mc` |
-| 4113 | Satellite (Sewerslvt Edit) | OceanLab | Spacial Tension | 174.0 | 2133 | 155.9 | osu_mirror/community | `osu_mirror\2278655\Oceanlab - Satellite (Sewerslvt Edit) (Znow) [Spacial Tension].mc` |
-| 4114 | Savior (feat. Baby Keem & Sam Dew) | Kendrick Lamar | Independence | 95.0 | 2595 | 212.2 | osu_mirror/community | `osu_mirror\2330826\Kendrick Lamar - Savior (feat. Baby Keem & Sam Dew) (Paraxia) [Independence].mc` |
-| 4115 | Scamper | Ik4sumi | ~~ | 128.0 | 1386 | 209.8 | osu_mirror/community | `osu_mirror\2416350\Ik4sumi - Scamper (wIntEr7z) [~~].mc` |
-| 4116 | Schur's Theorem | w_tre respect for AT&HU | Hard | 180.0 | 1091 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [Hard].mc` |
-| 4117 | Schur's Theorem | w_tre respect for AT&HU | Insane | 180.0 | 1344 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [Insane].mc` |
-| 4118 | Schur's Theorem | w_tre respect for AT&HU | Normal | 180.0 | 767 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [Normal].mc` |
-| 4119 | Schur's Theorem | w_tre respect for AT&HU | The order hidden within 'complete disorder' | 180.0 | 1537 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [The order hidden within 'complete disorder'].mc` |
-| 4120 | Science (feat. Kasane Teto SV) | MIMI | First Law of Emotions // Chen's Easy | 188.0 | 599 | 182.7 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [First Law of Emotions  Chen's Easy].mc` |
-| 4121 | Science (feat. Kasane Teto SV) | MIMI | Second Law of Emotions // Revv's Normal | 188.0 | 1123 | 183.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [Second Law of Emotions  Revv's Normal].mc` |
-| 4122 | Science (feat. Kasane Teto SV) | MIMI | The Ultimate Theorem of Life // Insane | 188.0 | 1781 | 183.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [The Ultimate Theorem of Life  Insane].mc` |
-| 4123 | Science (feat. Kasane Teto SV) | MIMI | Third Law of Emotions // Hard | 188.0 | 1454 | 183.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [Third Law of Emotions  Hard].mc` |
-| 4124 | Science (feat. Kasane Teto SV) | MIMI | Zeroth Law of Emotions // Avel's Beginner | 188.0 | 384 | 172.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [Zeroth Law of Emotions  Avel's Beginner].mc` |
-| 4125 | Science (feat. Kasane Teto SV) | MIMI | Easy | 188.0 | 718 | 183.2 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [Easy].mc` |
-| 4126 | Science (feat. Kasane Teto SV) | MIMI | Endless Fare's Normal | 188.0 | 856 | 183.2 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [Endless Fare's Normal].mc` |
-| 4127 | Science (feat. Kasane Teto SV) | MIMI | Love! | 188.0 | 2220 | 183.2 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [Love!].mc` |
-| 4128 | Science (feat. Kasane Teto SV) | MIMI | nai's Hard | 188.0 | 1362 | 182.9 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [nai's Hard].mc` |
-| 4129 | Sea of Stars | Kyutatsuki | Sea of Rice | 256.0 | 5425 | 300.0 | osu_mirror/community | `osu_mirror\2483083\Kyutatsuki - Sea of Stars (devilcity) [Sea of Rice].mc` |
-| 4130 | second nature | Patrick Hizon, Chevy | easy | 120.0 | 346 | 134.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [easy].mc` |
-| 4131 | second nature | Patrick Hizon, Chevy | hard | 120.0 | 467 | 135.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [hard].mc` |
-| 4132 | second nature | Patrick Hizon, Chevy | i love you so much | 120.0 | 584 | 135.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [i love you so much].mc` |
-| 4133 | second nature | Patrick Hizon, Chevy | normal | 120.0 | 368 | 135.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [normal].mc` |
-| 4134 | SECRET BOSS | Camellia | R/E/V/E/L/A/T/I/O/N | 220.0 | 2388 | 266.5 | osu_mirror/community | `osu_mirror\2254202\Camellia - SECRET BOSS (soup3r) [REVELATION].mc` |
-| 4135 | Seculo Seculorum | Rabbit House feat. NezMayo | mmttyy's Whisper // Insane | 210.0 | 1204 | 136.9 | osu_mirror/community | `osu_mirror\2537170\Rabbit House feat. NezMayo - Seculo Seculorum ([GB]Cinelia) [mmttyy's Whisper  Insane].mc` |
-| 4136 | Seculo Seculorum | Rabbit House feat. NezMayo | Resonance // Extra | 210.0 | 1024 | 137.1 | osu_mirror/community | `osu_mirror\2537170\Rabbit House feat. NezMayo - Seculo Seculorum ([GB]Cinelia) [Resonance  Extra].mc` |
-| 4137 | Seculo Seculorum | Rabbit House feat. NezMayo | V1do's Echoes // Expert | 210.0 | 1272 | 137.1 | osu_mirror/community | `osu_mirror\2537170\Rabbit House feat. NezMayo - Seculo Seculorum ([GB]Cinelia) [V1do's Echoes  Expert].mc` |
-| 4138 | See you next time! | takehirotei | Ares' Easy | 120.0 | 291 | 122.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Ares' Easy].mc` |
-| 4139 | See you next time! | takehirotei | Hard | 120.0 | 608 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Hard].mc` |
-| 4140 | See you next time! | takehirotei | McEndu's Beginner | 120.0 | 87 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [McEndu's Beginner].mc` |
-| 4141 | See you next time! | takehirotei | Normal | 120.0 | 403 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Normal].mc` |
-| 4142 | See you next time! | takehirotei | Silent Tears of Farewell | 120.0 | 731 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Silent Tears of Farewell].mc` |
-| 4143 | SEED Stole the Precious Things. | Nakarin DX | seeeed | 170.0 | 655 | 120.7 | osu_mirror/community | `osu_mirror\986723\Nakarin DX - SEED Stole the Precious Things. (No0b) [seeeed].mc` |
-| 4144 | Seisen (feat. nayuta) | ARForest | Advanced | 200.0 | 1029 | 181.6 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Advanced].mc` |
-| 4145 | Seisen (feat. nayuta) | ARForest | Apol's Insane | 200.0 | 830 | 181.8 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Apol's Insane].mc` |
-| 4146 | Seisen (feat. nayuta) | ARForest | Bandusty's Another | 200.0 | 804 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Bandusty's Another].mc` |
-| 4147 | Seisen (feat. nayuta) | ARForest | Basic | 200.0 | 346 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Basic].mc` |
-| 4148 | Seisen (feat. nayuta) | ARForest | Beginner | 200.0 | 540 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Beginner].mc` |
-| 4149 | Seisen (feat. nayuta) | ARForest | Hard | 200.0 | 1373 | 181.9 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Hard].mc` |
-| 4150 | Seisen (feat. nayuta) | ARForest | Hyper | 200.0 | 1324 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Hyper].mc` |
-| 4151 | Seisen (feat. nayuta) | ARForest | Impermanence | 200.0 | 547 | 178.8 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Impermanence].mc` |
-| 4152 | Seisen (feat. nayuta) | ARForest | Intermediate | 200.0 | 671 | 181.9 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Intermediate].mc` |
-| 4153 | Seisen (feat. nayuta) | ARForest | Standard | 200.0 | 1010 | 181.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Standard].mc` |
-| 4154 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Advanced | 121.0 | 290 | 80.4 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Advanced].mc` |
-| 4155 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Extra | 121.0 | 544 | 80.5 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Extra].mc` |
-| 4156 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Hyper | 121.0 | 438 | 80.4 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Hyper].mc` |
-| 4157 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Retrieval | 121.0 | 670 | 80.3 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Retrieval].mc` |
-| 4158 | SEISHUN://NO_HACKING | takehirotei | console.log('HELLO://WORLD') | 179.0 | 3362 | 379.6 | osu_mirror/community | `osu_mirror\2522384\takehirotei - SEISHUNNO_HACKING (kartofle) [console.log('HELLOWORLD')].mc` |
-| 4159 | SELENE-UI (v2.0_release) | Kou! | Nightfall.exe | 166.0 | 1970 | 286.8 | osu_mirror/community | `osu_mirror\2562207\Kou! - SELENE-UI (v2.0_release) (S k y y -) [Nightfall.exe].mc` |
-| 4160 | Sense (TV Size) | BAND-MAID | Extra | 195.0 | 913 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Extra].mc` |
-| 4161 | Sense (TV Size) | BAND-MAID | eZmmR's Hard | 195.0 | 609 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [eZmmR's Hard].mc` |
-| 4162 | Sense (TV Size) | BAND-MAID | Forthnos' Normal | 195.0 | 380 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Forthnos' Normal].mc` |
-| 4163 | Sense (TV Size) | BAND-MAID | Insane | 195.0 | 786 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Insane].mc` |
-| 4164 | Sense (TV Size) | BAND-MAID | Sya's Easy | 195.0 | 190 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Sya's Easy].mc` |
-| 4165 | Senuere | Oxalis | Veil of Fate | 130.0 | 3052 | 277.3 | osu_mirror/community | `osu_mirror\2559435\Oxalis - Senuere (wIntEr7z) [Veil of Fate].mc` |
-| 4166 | seraphim ii | Robin Callaway | i saw an angel in the mirror | 193.0 | 3577 | 240.6 | osu_mirror/community | `osu_mirror\2623104\Robin Callaway - seraphim ii (devilcity) [i saw an angel in the mirror].mc` |
-| 4167 | SEV-26 | Laur | Persecution of the Heart | 180.0 | 8387 | 322.2 | osu_mirror/community | `osu_mirror\2511082\Laur - SEV-26 (mohca) [Persecution of the Heart].mc` |
-| 4168 | SEV-26 | Laur | Deranged Desire // feat. Auros | 180.0 | 4214 | 322.1 | osu_mirror/community | `osu_mirror\2513401\Laur - SEV-26 (Yutori Natsu) [Deranged Desire  feat. Auros].mc` |
-| 4169 | SEV-26 | Laur | Memoriae Effervescentes | 180.0 | 2093 | 322.1 | osu_mirror/community | `osu_mirror\2529695\Laur - SEV-26 (Ainer) [Memoriae Effervescentes].mc` |
-| 4170 | Seven Style | Adust Rain | First Stage | 280.0 | 2186 | 150.0 | osu_mirror/community | `osu_mirror\2537197\Adust Rain - Seven Style (Siroocake) [First Stage].mc` |
-| 4171 | Seven Style | Adust Rain | Last Stage | 280.0 | 3036 | 150.0 | osu_mirror/community | `osu_mirror\2537197\Adust Rain - Seven Style (Siroocake) [Last Stage].mc` |
-| 4172 | Seven Style | Adust Rain | Next Stage | 280.0 | 2634 | 150.0 | osu_mirror/community | `osu_mirror\2537197\Adust Rain - Seven Style (Siroocake) [Next Stage].mc` |
-| 4173 | Shadows feat. Such | Neko Hacker | aki's Normal | 170.0 | 489 | 111.2 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [aki's Normal].mc` |
-| 4174 | Shadows feat. Such | Neko Hacker | Azukkii's Advanced | 170.0 | 591 | 110.8 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [Azukkii's Advanced].mc` |
-| 4175 | Shadows feat. Such | Neko Hacker | Fragments | 170.0 | 861 | 111.2 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [Fragments].mc` |
-| 4176 | Shadows feat. Such | Neko Hacker | mirac1e's Hard | 170.0 | 629 | 94.2 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [mirac1e's Hard].mc` |
-| 4177 | Shadows feat. Such | Neko Hacker | Neon's Easy | 170.0 | 159 | 109.8 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [Neon's Easy].mc` |
-| 4178 | Shakunetsu Candle Master | Camellia feat. Nanahira | Little Pyromaniac Girl | 223.0 | 3678 | 259.7 | osu_mirror/community | `osu_mirror\2543797\Camellia feat. Nanahira - Shakunetsu Candle Master (Stereotype) [Little Pyromaniac Girl].mc` |
-| 4179 | SHARAKU | KASHIWA Daisuke | AUTOTELIC'S NORMAL | 162.0 | 1061 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [AUTOTELIC'S NORMAL].mc` |
-| 4180 | SHARAKU | KASHIWA Daisuke | DOUR'S INSANE | 162.0 | 2119 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [Dour's Insane].mc` |
-| 4181 | SHARAKU | KASHIWA Daisuke | MYSTIC'S HARD | 162.0 | 1640 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [MYSTIC'S HARD].mc` |
-| 4182 | SHARAKU | KASHIWA Daisuke | UKIYO | 162.0 | 2608 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [UKIYO].mc` |
-| 4183 | SHARAKU | KASHIWA Daisuke | VIVI'S EASY | 162.0 | 409 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [VIVI'S EASY].mc` |
-| 4184 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Expert | 172.0 | 937 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Expert].mc` |
-| 4185 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Extra | 172.0 | 1177 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Extra].mc` |
-| 4186 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Hard | 172.0 | 664 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Hard].mc` |
-| 4187 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Menphiss' Insane | 172.0 | 766 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Menphiss' Insane].mc` |
-| 4188 | Shen Xian Shuo Ta Ye Bu Dong | ChiliChill | ManiMani | 108.0 | 1206 | 186.2 | osu_mirror/community | `osu_mirror\2489038\ChiliChill - Shen Xian Shuo Ta Ye Bu Dong (NineSey) [ManiMani].mc` |
-| 4189 | Shiawase (VIP) | Dion Timmer | 1.05x | 157.5 | 3295 | 146.2 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.05x].mc` |
-| 4190 | Shiawase (VIP) | Dion Timmer | 1.15x | 172.5 | 3295 | 133.5 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.15x].mc` |
-| 4191 | Shiawase (VIP) | Dion Timmer | 1.1x | 165.0 | 3295 | 139.5 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.1x].mc` |
-| 4192 | Shiawase (VIP) | Dion Timmer | 1.2x | 180.0 | 3295 | 127.9 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.2x].mc` |
-| 4193 | Shiawase (VIP) | Dion Timmer | tidal jack | 150.0 | 3295 | 153.5 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [tidal jack].mc` |
-| 4194 | SHIAWASE FOR YOU! | Iyowa feat. Hatsune Miku | BLESSING! | 160.0 | 917 | 194.1 | osu_mirror/community | `osu_mirror\2518008\Iyowa feat. Hatsune Miku - SHIAWASE FOR YOU! (Stereotype) [Blessing!].mc` |
-| 4195 | SHIAWASE FOR YOU! | Iyowa feat. Hatsune Miku | Ppass' INSANE! | 160.0 | 966 | 194.1 | osu_mirror/community | `osu_mirror\2518008\Iyowa feat. Hatsune Miku - SHIAWASE FOR YOU! (Stereotype) [Ppass' INSANE!].mc` |
-| 4196 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | AndreyChomik's Easy | 110.0 | 168 | 88.4 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [AndreyChomik's Easy].mc` |
-| 4197 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | AndreyChomik's Normal | 110.0 | 267 | 87.1 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [AndreyChomik's Normal].mc` |
-| 4198 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | Sava's Hard | 110.0 | 383 | 87.1 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [Sava's Hard].mc` |
-| 4199 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | Sava's Insane | 110.0 | 375 | 88.3 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [Sava's Insane].mc` |
-| 4200 | Shinbatsu o Tadori Kyoukotsu ni Itaru | Imperial Circus Dead Decadence | Enraged Apparition | 250.0 | 4682 | 258.1 | osu_mirror/community | `osu_mirror\2348607\Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Sayuka) [Enraged Apparition].mc` |
-| 4201 | shiragiku | Rish | condolence | 181.0 | 728 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [condolence].mc` |
-| 4202 | shiragiku | Rish | easy | 181.0 | 148 | 84.9 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [easy].mc` |
-| 4203 | shiragiku | Rish | expert | 181.0 | 1059 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [expert].mc` |
-| 4204 | shiragiku | Rish | extreme | 181.0 | 859 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [extreme].mc` |
-| 4205 | shiragiku | Rish | hard | 181.0 | 541 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [hard].mc` |
-| 4206 | shiragiku | Rish | insane | 181.0 | 819 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [insane].mc` |
-| 4207 | shiragiku | Rish | normal | 181.0 | 407 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [normal].mc` |
-| 4208 | Shiroi Yuki no Princess wa | MORE MORE JUMP! x Hatsune Miku | Magic Mirror | 200.0 | 1868 | 247.8 | osu_mirror/community | `osu_mirror\2482624\MORE MORE JUMP! x Hatsune Miku - Shiroi Yuki no Princess wa (AiN0) [Magic Mirror].mc` |
-| 4209 | Shitsunai | Akari Kaida | Easy | 119.46 | 102 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [Easy].mc` |
-| 4210 | Shitsunai | Akari Kaida | hirothefemboy's Normal | 119.46 | 138 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [hirothefemboy's Normal].mc` |
-| 4211 | Shitsunai | Akari Kaida | Lumpita's Insane | 119.46 | 187 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [Lumpita's Insane].mc` |
-| 4212 | Shitsunai | Akari Kaida | P45ta's Hard | 119.46 | 229 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [P45ta's Hard].mc` |
-| 4213 | Shooting Star | StelLive Cliche | Easy | 190.0 | 448 | 194.1 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Easy].mc` |
-| 4214 | Shooting Star | StelLive Cliche | Hard | 190.0 | 1185 | 201.7 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Hard].mc` |
-| 4215 | Shooting Star | StelLive Cliche | Insane | 190.0 | 1252 | 198.5 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Insane].mc` |
-| 4216 | Shooting Star | StelLive Cliche | Normal | 190.0 | 772 | 194.1 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Normal].mc` |
-| 4217 | Shooting Star | StelLive Cliche | Satellite | 190.0 | 1451 | 198.3 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Satellite].mc` |
-| 4218 | Shotgun Senorita (Zardonic Remix) | Blue Stahli | 200 Pump | 175.0 | 1495 | 263.8 | osu_mirror/community | `osu_mirror\2528729\Blue Stahli - Shotgun Senorita (Zardonic Remix) (Alumence) [200 Pump].mc` |
-| 4219 | Shoujo A | nui | ... | 260.0 | 4469 | 230.8 | osu_mirror/community | `osu_mirror\2498154\nui - Shoujo A (Maiiy) [...].mc` |
-| 4220 | Showdown | litmus* | a chair and six crt tvs in a dimly lit room | 0.0 | 861 | 1.1 | osu_mirror/community | `osu_mirror\2055296\litmus - Showdown (NovaSagittarii) [a chair and six crt tvs in a dimly lit room].mc` |
-| 4221 | Showdown | litmus* | nsv | 130.0 | 861 | 110.5 | osu_mirror/community | `osu_mirror\2055296\litmus - Showdown (NovaSagittarii) [nsv].mc` |
-| 4222 | SIGMA | Kry.exe | Insane | 200.0 | 1755 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [Insane].mc` |
-| 4223 | SIGMA | Kry.exe | MiuOtter's Easy | 200.0 | 655 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [MiuOtter's Easy].mc` |
-| 4224 | SIGMA | Kry.exe | SIGMA MAN | 200.0 | 1950 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [SIGMA MAN].mc` |
-| 4225 | SIGMA | Kry.exe | Slowpoke's Advanced | 200.0 | 1101 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [Slowpoke's Advanced].mc` |
-| 4226 | SIGMA | Kry.exe | soup3r's Hyper | 200.0 | 1477 | 134.3 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [soup3r's Hyper].mc` |
-| 4227 | Signals | Magnetude | NULL_TRANSMISSION | 174.0 | 1753 | 275.3 | osu_mirror/community | `osu_mirror\2355701\Magnetude - Signals (DatZTactix) [NULL_TRANSMISSION].mc` |
-| 4228 | Sigrdrifa | Gram | ~ Enchanted Doll of Vengeance ~ | 165.0 | 3934 | 238.6 | osu_mirror/community | `osu_mirror\2522371\Gram - Sigrdrifa (paraoka) [~ Enchanted Doll of Vengeance ~].mc` |
-| 4229 | silly bnuy song | endofsystem | Bunni bunni bunni bunni bunni! Bunni bunni bunni bunni bunni... Bunni bunni buni | 120.0 | 617 | 71.9 | osu_mirror/community | `osu_mirror\2599213\endofsystem - silly bnuy song (LeCrazy) [Bunni bunni bunni bunni bunni! Bunni bunni bunni bunni bunni... Bunni bunni buni].mc` |
-| 4230 | silly bnuy song | endofsystem | Easy Bunni | 120.0 | 181 | 71.9 | osu_mirror/community | `osu_mirror\2599213\endofsystem - silly bnuy song (LeCrazy) [Easy Bunni].mc` |
-| 4231 | silly bnuy song | endofsystem | soup3r's Normal Bunni | 120.0 | 374 | 71.9 | osu_mirror/community | `osu_mirror\2599213\endofsystem - silly bnuy song (LeCrazy) [soup3r's Normal Bunni].mc` |
-| 4232 | Silver Eclipse | ginkiha | ExNeko's Insane | 180.0 | 2359 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [ExNeko's Insane].mc` |
-| 4233 | Silver Eclipse | ginkiha | hyahya's Easy | 180.0 | 802 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [hyahya's Easy].mc` |
-| 4234 | Silver Eclipse | ginkiha | Mafufu's Normal | 180.0 | 1263 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [Mafufu's Normal].mc` |
-| 4235 | Silver Eclipse | ginkiha | Silver | 180.0 | 3486 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [Silver].mc` |
-| 4236 | Silver Eclipse | ginkiha | Uwwal's Hard | 180.0 | 1645 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [Uwwal's Hard].mc` |
-| 4237 | Silver Mutation | cygnus | Yuno's 4K Syndrome | 134.0 | 3981 | 286.6 | osu_mirror/community | `osu_mirror\2407978\cygnus - Silver Mutation (Kurisu Makise) [Yuno's 4K Syndrome].mc` |
-| 4238 | SITBACK (Cut Ver.) | N2UtheHartlocker | ADVANCED | 130.0 | 343 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [ADVANCED].mc` |
-| 4239 | SITBACK (Cut Ver.) | N2UtheHartlocker | HYPER | 130.0 | 472 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [HYPER].mc` |
-| 4240 | SITBACK (Cut Ver.) | N2UtheHartlocker | INSANE | 130.0 | 606 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [INSANE].mc` |
-| 4241 | SITBACK (Cut Ver.) | N2UtheHartlocker | X | 130.0 | 740 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [X].mc` |
-| 4242 | SKILLAWAKE (TV Size) | PassCode | Easy | 194.0 | 368 | 87.1 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [Easy].mc` |
-| 4243 | SKILLAWAKE (TV Size) | PassCode | High Ambition | 194.0 | 986 | 88.7 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [High Ambition].mc` |
-| 4244 | SKILLAWAKE (TV Size) | PassCode | IT's Hard | 194.0 | 764 | 88.7 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [IT's Hard].mc` |
-| 4245 | SKILLAWAKE (TV Size) | PassCode | Lizyuu's Normal | 194.0 | 584 | 87.1 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [Lizyuu's Normal].mc` |
-| 4246 | Sleep Thru Ur Alarms | Lontalius | nm / wouldn't it be nice to stay a while? | 65.0 | 371 | 96.3 | osu_mirror/community | `osu_mirror\2421288\Lontalius - Sleep Thru Ur Alarms (etz) [NM  wouldn't it be nice to stay a while].mc` |
-| 4247 | Sleep! | Camellia feat. Nanahira | Sleepy | 45.42 | 3226 | 255.9 | osu_mirror/community | `osu_mirror\2566858\Camellia feat. Nanahira - Sleep! (Szyszqu) [Sleepy].mc` |
-| 4248 | slic.hertz | Sobrem | Hard | 145.0 | 658 | 121.6 | osu_mirror/community | `osu_mirror\1924178\Sobrem - slic.hertz (Auros) [Hard].mc` |
-| 4249 | slic.hertz | Sobrem | Insane | 145.0 | 971 | 121.8 | osu_mirror/community | `osu_mirror\1924178\Sobrem - slic.hertz (Auros) [Insane].mc` |
-| 4250 | slic.hertz | Sobrem | None-stop like this | 145.0 | 1336 | 121.8 | osu_mirror/community | `osu_mirror\1924178\Sobrem - slic.hertz (Auros) [None-stop like this].mc` |
-| 4251 | slow summer eve | Kensuke Ushio | truth is... i've never gone to school either | 114.0 | 140 | 67.9 | osu_mirror/community | `osu_mirror\2461298\Kensuke Ushio - slow summer eve (ThatGoy) [truth is... i've never gone to school either].mc` |
-| 4252 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Concepte's EX | 136.2 | 3446 | 181.5 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Concepte's EX].mc` |
-| 4253 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Tamania's IN | 136.2 | 2346 | 181.5 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Tamania's IN].mc` |
-| 4254 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Utiba's HY | 136.2 | 1871 | 176.2 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Utiba's HY].mc` |
-| 4255 | Smooth Operator [RICHIE ROZEX REMIX] | Sade | A-2 LIGHTS | 130.0 | 1982 | 195.7 | osu_mirror/community | `osu_mirror\2029995\Sade - Smooth Operator [RICHIE ROZEX REMIX] (White Hare) [A-2 LIGHTS].mc` |
-| 4256 | Smooth Operator [RICHIE ROZEX REMIX] | Sade | Insane | 130.0 | 1719 | 195.7 | osu_mirror/community | `osu_mirror\2029995\Sade - Smooth Operator [RICHIE ROZEX REMIX] (White Hare) [Insane].mc` |
-| 4257 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Easy | 174.0 | 438 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Easy].mc` |
-| 4258 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Insane | 174.0 | 1359 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Insane].mc` |
-| 4259 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Menphiss' Hard | 174.0 | 1013 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Menphiss' Hard].mc` |
-| 4260 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Normal | 174.0 | 726 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Normal].mc` |
-| 4261 | Sno (intro) | Snail's House | easy | 106.0 | 104 | 66.7 | osu_mirror/community | `osu_mirror\2303401\Snail's House - Sno (intro) ([TCD] tihung) [easy].mc` |
-| 4262 | Sno (intro) | Snail's House | hard | 106.0 | 82 | 58.7 | osu_mirror/community | `osu_mirror\2303401\Snail's House - Sno (intro) ([TCD] tihung) [Hard].mc` |
-| 4263 | Sno (intro) | Snail's House | normal | 106.0 | 92 | 58.9 | osu_mirror/community | `osu_mirror\2303401\Snail's House - Sno (intro) ([TCD] tihung) [normal].mc` |
-| 4264 | Sore wa Sekai o Koete | La priere | Starlight | 173.0 | 1823 | 306.6 | osu_mirror/community | `osu_mirror\2469290\La priere - Sore wa Sekai o Koete (Forthnos) [Starlight].mc` |
-| 4265 | Soulless 5 (Halfduck Cover) | ExileLord | The End | 260.0 | 16267 | 997.7 | osu_mirror/community | `osu_mirror\2293677\Exilelord - Soulless 5 (Halfduck Cover) (Duckys) [The End].mc` |
-| 4266 | SOUND ARCHITECT | Kyutatsuki | Sanctum | 150.0 | 3537 | 293.7 | osu_mirror/community | `osu_mirror\2325289\Kyutatsuki - SOUND ARCHITECT (V1do-) [Sanctum].mc` |
-| 4267 | SOUND ARCHITECT | Kyutatsuki | Harmonic Bliss | 150.0 | 3794 | 294.0 | osu_mirror/community | `osu_mirror\2532856\Kyutatsuki - SOUND ARCHITECT (LeCrazy) [Harmonic Bliss].mc` |
-| 4268 | Sound Chimera | Laur | Tryambakam // feat. Auros | 138.0 | 3701 | 274.1 | osu_mirror/community | `osu_mirror\2588980\Laur - Sound Chimera ([Crz]Cardiloid) [Tryambakam  feat. Auros].mc` |
-| 4269 | Sparkling Starlight | Fujiyori & Mayori | Advanced | 175.0 | 846 | 164.6 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Advanced].mc` |
-| 4270 | Sparkling Starlight | Fujiyori & Mayori | Another | 175.0 | 826 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Another].mc` |
-| 4271 | Sparkling Starlight | Fujiyori & Mayori | Basic | 175.0 | 144 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Basic].mc` |
-| 4272 | Sparkling Starlight | Fujiyori & Mayori | Extra | 175.0 | 717 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Extra].mc` |
-| 4273 | Sparkling Starlight | Fujiyori & Mayori | Hyper | 175.0 | 1166 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Hyper].mc` |
-| 4274 | Sparkling Starlight | Fujiyori & Mayori | Intermediate | 175.0 | 668 | 164.6 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Intermediate].mc` |
-| 4275 | Sparkling Starlight | Fujiyori & Mayori | Luminous | 175.0 | 476 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Luminous].mc` |
-| 4276 | Speicher Galerie | Triodust | BG | 100.0 | 16 | 33.4 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [BG].mc` |
-| 4277 | Speicher Galerie | Triodust | Bunny Extinction | 100.0 | 546 | 98.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [Bunny Extinction].mc` |
-| 4278 | Speicher Galerie | Triodust | EZ | 100.0 | 99 | 92.9 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [EZ].mc` |
-| 4279 | Speicher Galerie | Triodust | MX | 100.0 | 446 | 98.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [MX].mc` |
-| 4280 | Speicher Galerie | Triodust | NM | 100.0 | 169 | 90.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [NM].mc` |
-| 4281 | Speicher Galerie | Triodust | Xiao's HD | 100.0 | 309 | 98.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [Xiao's HD].mc` |
-| 4282 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S EASY | 170.0 | 560 | 180.7 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S EASY].mc` |
-| 4283 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S HYPER | 170.0 | 1529 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S HYPER].mc` |
-| 4284 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S INSANE | 170.0 | 1796 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S INSANE].mc` |
-| 4285 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S NORMAL | 170.0 | 1055 | 180.7 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S NORMAL].mc` |
-| 4286 | Split EX (Instrumental Ver.) | Ardolf | UCITYSM'S ADVANCED | 170.0 | 1270 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [UCITYSM'S ADVANCED].mc` |
-| 4287 | Split EX (Instrumental Ver.) | Ardolf | UCITYSM'S HARD | 170.0 | 1282 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [UCITYSM'S HARD].mc` |
-| 4288 | Split EX (Instrumental Ver.) | Ardolf | UCITYSM'S SIMULATION OVERRIDE | 170.0 | 1620 | 181.0 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [UCITYSM'S SIMULATION OVERRIDE].mc` |
-| 4289 | Sports | Beach Bunny | Ambivalence | 154.6 | 2323 | 149.2 | osu_mirror/community | `osu_mirror\2602154\Beach Bunny - Sports (P45ta) [Ambivalence].mc` |
-| 4290 | Sports | Beach Bunny | Hard | 154.6 | 1560 | 149.2 | osu_mirror/community | `osu_mirror\2602154\Beach Bunny - Sports (P45ta) [Hard].mc` |
-| 4291 | Sports | Beach Bunny | Insane | 154.6 | 2019 | 149.2 | osu_mirror/community | `osu_mirror\2602154\Beach Bunny - Sports (P45ta) [Insane].mc` |
-| 4292 | STARGATE EXTREME | KARUT | Comet // Normal | 150.0 | 491 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Comet  Normal].mc` |
-| 4293 | STARGATE EXTREME | KARUT | Nova // Hard | 150.0 | 851 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Nova  Hard].mc` |
-| 4294 | STARGATE EXTREME | KARUT | Quasar // Extra | 150.0 | 1171 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Quasar  Extra].mc` |
-| 4295 | STARGATE EXTREME | KARUT | Supernova // Insane | 150.0 | 1052 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Supernova  Insane].mc` |
-| 4296 | starlog (TV Size) | ChouCho | -Zell's Hard | 168.0 | 654 | 85.6 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [-Zell's Hard].mc` |
-| 4297 | starlog (TV Size) | ChouCho | Easy | 168.0 | 201 | 85.3 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [Easy].mc` |
-| 4298 | starlog (TV Size) | ChouCho | Starlog | 168.0 | 693 | 85.6 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [Starlog].mc` |
-| 4299 | starlog (TV Size) | ChouCho | UnCraftable's Normal | 168.0 | 340 | 85.6 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [UnCraftable's Normal].mc` |
-| 4300 | steganography | aa...hisuichazuke... | a looming mystery | 55.0 | 4360 | 233.4 | osu_mirror/community | `osu_mirror\2552559\aa...hisuichazuke... - steganography (Znow) [a looming mystery].mc` |
-| 4301 | Stellar Afterglow | PokeSky | Afterglow | 191.0 | 1942 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Afterglow].mc` |
-| 4302 | Stellar Afterglow | PokeSky | Easy | 191.0 | 483 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Easy].mc` |
-| 4303 | Stellar Afterglow | PokeSky | Hard | 191.0 | 1627 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Hard].mc` |
-| 4304 | Stellar Afterglow | PokeSky | Normal | 191.0 | 875 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Normal].mc` |
-| 4305 | stepping on your cat's tail be like | xiiiac13 | advanced | 61.0 | 502 | 63.9 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [advanced].mc` |
-| 4306 | stepping on your cat's tail be like | xiiiac13 | hard | 61.0 | 751 | 63.9 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [hard].mc` |
-| 4307 | stepping on your cat's tail be like | xiiiac13 | i found some wild glizzies | 61.0 | 848 | 63.9 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [i found some wild glizzies].mc` |
-| 4308 | stepping on your cat's tail be like | xiiiac13 | normal | 61.0 | 337 | 63.8 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [normal].mc` |
-| 4309 | Sterelogue | VeetaCrush | Advanced | 202.0 | 911 | 136.4 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Advanced].mc` |
-| 4310 | Sterelogue | VeetaCrush | Hyper | 202.0 | 1126 | 136.4 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Hyper].mc` |
-| 4311 | Sterelogue | VeetaCrush | Insane | 202.0 | 1365 | 136.4 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Insane].mc` |
-| 4312 | Sterelogue | VeetaCrush | Normal | 202.0 | 595 | 136.3 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Normal].mc` |
-| 4313 | stop calling | Willy Rodriguez | extra | 53.8 | 2103 | 149.8 | osu_mirror/community | `osu_mirror\2484635\Willy Rodriguez - stop calling (Relae) [extra].mc` |
-| 4314 | stop calling | Willy Rodriguez | frivolous intimacy | 53.8 | 2547 | 149.9 | osu_mirror/community | `osu_mirror\2484635\Willy Rodriguez - stop calling (Relae) [frivolous intimacy].mc` |
-| 4315 | Story | Knife | Easy | 157.0 | 553 | 206.2 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Easy].mc` |
-| 4316 | Story | Knife | Hard | 157.0 | 1151 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Hard].mc` |
-| 4317 | Story | Knife | Lunatic | 157.0 | 1218 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Lunatic].mc` |
-| 4318 | Story | Knife | Normal | 157.0 | 887 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Normal].mc` |
-| 4319 | Story | Knife | The Story of Our Adventure | 157.0 | 1453 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [The Story of Our Adventure].mc` |
-| 4320 | stresstest | yax03 | nerves | 180.0 | 4617 | 295.0 | osu_mirror/community | `osu_mirror\2295373\yax03 - stresstest (fihh) [nerves].mc` |
-| 4321 | stresstest | yax03 | tera's fortheboundless | 180.0 | 5825 | 295.7 | osu_mirror/community | `osu_mirror\2613635\yax03 - stresstest (Callionet) [tera's fortheboundless].mc` |
-| 4322 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Hard | 150.0 | 445 | 106.8 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Hard].mc` |
-| 4323 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Hyper | 150.0 | 396 | 93.9 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Hyper].mc` |
-| 4324 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Normal | 150.0 | 454 | 108.0 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Normal].mc` |
-| 4325 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Robeats' Easy | 150.0 | 356 | 107.2 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Robeats' Easy].mc` |
-| 4326 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Robeats' HI | 150.0 | 411 | 95.7 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Robeats' HI].mc` |
-| 4327 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Hard | 132.0 | 429 | 92.7 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Hard].mc` |
-| 4328 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Hidden's Beginner | 132.0 | 161 | 92.9 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Hidden's Beginner].mc` |
-| 4329 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Hidden's Easy | 132.0 | 315 | 92.9 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Hidden's Easy].mc` |
-| 4330 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Normal | 132.0 | 313 | 92.2 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Normal].mc` |
-| 4331 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Study Koi | 132.0 | 368 | 92.0 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Study Koi].mc` |
-| 4332 | Submerged City | DJ Raisei feat. noeric | Stillness Below | 192.0 | 3300 | 375.3 | osu_mirror/community | `osu_mirror\2509542\DJ Raisei feat. noeric - Submerged City (Hylotl) [Stillness Below].mc` |
-| 4333 | Submerged City | DJ Raisei feat. noeric | Echo of Fallen Light | 192.0 | 3202 | 380.2 | osu_mirror/community | `osu_mirror\2522417\DJ Raisei feat. noeric - Submerged City (nyamushi) [Echo of Fallen Light].mc` |
-| 4334 | Subwoofer Lullaby | C418 | Nostalgia | 74.0 | 18 | 128.1 | osu_mirror/community | `osu_mirror\2562960\C418 - Subwoofer Lullaby (LeCrazy) [Nostalgia].mc` |
-| 4335 | Suisei ni Nareta nara | isui | Daydream | 180.0 | 2892 | 225.5 | osu_mirror/community | `osu_mirror\2579611\isui - Suisei ni Nareta nara (Stereotype) [Daydream].mc` |
-| 4336 | Sukui o Motomeru Hito no Uta | Kanon Alise | Save me | 55.5 | 676 | 280.1 | osu_mirror/community | `osu_mirror\2515752\Kanon Alise - Sukui o Motomeru Hito no Uta (wee) [Save me].mc` |
-| 4337 | Sulfide | Camellia | Catalyst | 170.0 | 3940 | 338.8 | osu_mirror/community | `osu_mirror\2255671\Camellia - Sulfide (-MysticEyes) [Catalyst].mc` |
-| 4338 | Summer Fever | FELT | Bad Cold | 120.0 | 3384 | 228.4 | osu_mirror/community | `osu_mirror\2529930\FELT - Summer Fever (Stereotype) [Bad Cold].mc` |
-| 4339 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | ADVANCED | 160.0 | 554 | 166.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [ADVANCED].mc` |
-| 4340 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | BASIC | 160.0 | 388 | 163.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [BASIC].mc` |
-| 4341 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | EXPERT | 160.0 | 457 | 161.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [EXPERT].mc` |
-| 4342 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | Sora's LUNATIC | 160.0 | 196 | 161.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [Sora's LUNATIC].mc` |
-| 4343 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | Souffle's MASTER | 160.0 | 660 | 159.9 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [Souffle's MASTER].mc` |
-| 4344 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | Easy | 180.0 | 349 | 100.7 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [Easy].mc` |
-| 4345 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | Hard | 180.0 | 844 | 101.0 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [Hard].mc` |
-| 4346 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | My Heart~ | 180.0 | 899 | 100.8 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [My Heart~].mc` |
-| 4347 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | Normal | 180.0 | 523 | 100.8 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [Normal].mc` |
-| 4348 | Super Driver | Will Stetson | ADVANCED JUMP!! | 200.0 | 751 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [ADVANCED JUMP!!].mc` |
-| 4349 | Super Driver | Will Stetson | HARD JUMP!! | 200.0 | 865 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [HARD JUMP!!].mc` |
-| 4350 | Super Driver | Will Stetson | INSANE JUMP!! | 200.0 | 1130 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [INSANE JUMP!!].mc` |
-| 4351 | Super Driver | Will Stetson | MIAU'S 1-2 JUMP!! | 200.0 | 1458 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [MIAU'S 1-2 JUMP!!].mc` |
-| 4352 | Super Driver | Will Stetson | MIAU'S NORMAL JUMP!! | 200.0 | 479 | 99.7 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [MIAU'S NORMAL JUMP!!].mc` |
-| 4353 | Supernova (Cut Ver.) | aespa | Armageddon | 120.0 | 1842 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Armageddon].mc` |
-| 4354 | Supernova (Cut Ver.) | aespa | Easy | 120.0 | 363 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Easy].mc` |
-| 4355 | Supernova (Cut Ver.) | aespa | Hard | 120.0 | 1336 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Hard].mc` |
-| 4356 | Supernova (Cut Ver.) | aespa | Normal | 120.0 | 766 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Normal].mc` |
-| 4357 | Surface Tension | Saitama Saisyu Heiki | Testimony | 264.0 | 6103 | 307.6 | osu_mirror/community | `osu_mirror\2435344\Saitama Saisyu Heiki - Surface Tension (Hylotl) [Testimony].mc` |
-| 4358 | SUTEGORO | Marmalade butcher | Insane | 148.0 | 1728 | 190.3 | osu_mirror/community | `osu_mirror\2555245\Marmalade butcher - SUTEGORO (Linlime) [Insane].mc` |
-| 4359 | SUTEGORO | Marmalade butcher | PUGILISM | 148.0 | 2132 | 190.3 | osu_mirror/community | `osu_mirror\2555245\Marmalade butcher - SUTEGORO (Linlime) [PUGILISM].mc` |
-| 4360 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Advanced | 135.0 | 1050 | 128.0 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut Ver.) (Nicknem_) [Advanced].mc` |
-| 4361 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Hard | 135.0 | 1416 | 131.5 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut ver.) (Nicknem_) [Hard].mc` |
-| 4362 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Stereotype's Insane | 135.0 | 1663 | 131.5 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut Ver.) (Nicknem_) [Stereotype's Insane].mc` |
-| 4363 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Swamping | 135.0 | 1936 | 131.5 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut ver.) (Nicknem_) [Swamping].mc` |
-| 4364 | Sweater In The Lake | Look Vibrant | shoutout rugama | 122.0 | 3664 | 182.2 | osu_mirror/community | `osu_mirror\2498671\Look Vibrant - Sweater In The Lake (Drimba) [shoutout rugama].mc` |
-| 4365 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | dreamy | 206.0 | 1347 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [dreamy].mc` |
-| 4366 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | hard | 206.0 | 840 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [Hard].mc` |
-| 4367 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | insane | 206.0 | 1144 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [Insane].mc` |
-| 4368 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | normal | 206.0 | 577 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [normal].mc` |
-| 4369 | Symphony Of The Beginning | Akiri | Normal | 55.0 | 41 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [Normal].mc` |
-| 4370 | Symphony Of The Beginning | Akiri | Take's Beginner | 55.0 | 43 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [Take's Beginner].mc` |
-| 4371 | Symphony Of The Beginning | Akiri | Take's Easy | 55.0 | 40 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [Take's Easy].mc` |
-| 4372 | Symphony Of The Beginning | Akiri | The Start Of It All | 55.0 | 78 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [The Start Of It All].mc` |
-| 4373 | Symphony Of The Lost Souls | Akiri | In Remembrance Of The Souls We've Lost | 80.0 | 2492 | 298.3 | osu_mirror/community | `osu_mirror\2489291\Akiri - Symphony Of The Lost Souls (kojodat) [In Remembrance Of The Souls We've Lost].mc` |
-| 4374 | SYSTEM ERROR | Laur | Console.log(">>>error bm8gaGF5IGZpZGVvcwo=") | 200.0 | 4677 | 291.6 | osu_mirror/community | `osu_mirror\2136188\Laur - SYSTEM ERROR (menphiss) [Console.log(error bm8gaGF5IGZpZGVvcwo=)].mc` |
-| 4375 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Advanced | 141.11 | 490 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Advanced].mc` |
-| 4376 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Easy | 141.11 | 226 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Easy].mc` |
-| 4377 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Gentle Breath | 141.11 | 721 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Gentle Breath].mc` |
-| 4378 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Hyper | 141.11 | 761 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Hyper].mc` |
-| 4379 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Standard | 141.11 | 412 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Standard].mc` |
-| 4380 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.05 | 143.84 | 1986 | 139.8 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.05].mc` |
-| 4381 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.15 | 157.54 | 1986 | 127.6 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.15].mc` |
-| 4382 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.1 | 150.69 | 1986 | 133.4 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.1].mc` |
-| 4383 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.2 | 164.39 | 1986 | 122.3 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.2].mc` |
-| 4384 | Tairin no Soul | TAMAONSEN | The Spirit of Numen | 136.99 | 1986 | 146.7 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen].mc` |
-| 4385 | Taishou a (adonde vuelvo) | anNina | human | 174.8 | 3985 | 432.2 | osu_mirror/community | `osu_mirror\2514569\anNina - Taishou a (adonde vuelvo) (caracol) [human].mc` |
-| 4386 | Takaramono (TV Size) | Nakanoke no Itsutsugo | Chrisse's Normal | 118.0 | 356 | 87.3 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [Chrisse's Normal].mc` |
-| 4387 | Takaramono (TV Size) | Nakanoke no Itsutsugo | Easy | 118.0 | 200 | 87.5 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [Easy].mc` |
-| 4388 | Takaramono (TV Size) | Nakanoke no Itsutsugo | Hard | 118.0 | 399 | 87.3 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [Hard].mc` |
-| 4389 | Takaramono (TV Size) | Nakanoke no Itsutsugo | You Are My Treasure | 118.0 | 407 | 82.4 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [You Are My Treasure].mc` |
-| 4390 | takeoff climb | Annabel | fall into the sky | 110.0 | 1589 | 181.2 | osu_mirror/community | `osu_mirror\2491936\Annabel - takeoff climb (caracol) [fall into the sky].mc` |
-| 4391 | takeoff climb | Annabel | hyper | 110.0 | 879 | 181.1 | osu_mirror/community | `osu_mirror\2491936\Annabel - takeoff climb (caracol) [hyper].mc` |
-| 4392 | takeoff climb | Annabel | intermediate | 110.0 | 751 | 182.0 | osu_mirror/community | `osu_mirror\2491936\Annabel - takeoff climb (caracol) [intermediate].mc` |
-| 4393 | Tanukichi no Bouken | MAKOOTO | BL5's Normal | 132.0 | 351 | 72.5 | osu_mirror/community | `osu_mirror\1923689\MAKOOTO - Tanukichi no Bouken (menphiss) [BL5's Normal].mc` |
-| 4394 | Tanukichi no Bouken | MAKOOTO | DO-DON-DO-DON-DON-DON! PEKO-CHAN!!! | 132.0 | 606 | 72.5 | osu_mirror/community | `osu_mirror\1923689\MAKOOTO - Tanukichi no Bouken (menphiss) [DO-DON-DO-DON-DON-DON! PEKO-CHAN!!!].mc` |
-| 4395 | Tanukichi no Bouken | MAKOOTO | Hard | 132.0 | 514 | 72.5 | osu_mirror/community | `osu_mirror\1923689\MAKOOTO - Tanukichi no Bouken (menphiss) [Hard].mc` |
-| 4396 | Tarantella (feat. BlackY) | Risa Yuzuki | Dance for Eternity | 148.0 | 2895 | 262.7 | osu_mirror/community | `osu_mirror\2584471\Risa Yuzuki - Tarantella (feat. BlackY) (Dereck101026) [Dance for eternity].mc` |
-| 4397 | tbh i dont like being social | luvlxckdown | introverted [edit] | 171.54 | 231 | 134.1 | osu_mirror/community | `osu_mirror\1625473\luvlxckdown - tbh i dont like being social (Stability) [introverted [edit]].mc` |
-| 4398 | tbh i dont like being social | luvlxckdown | introverted | 171.54 | 228 | 134.1 | osu_mirror/community | `osu_mirror\1625473\luvlxckdown - tbh i dont like being social (Stability) [introverted].mc` |
-| 4399 | tbh i dont like being social | luvlxckdown | asociality | 171.55 | 760 | 134.2 | osu_mirror/community | `osu_mirror\2555143\luvlxckdown - tbh i dont like being social (P45ta) [asociality].mc` |
-| 4400 | team edward | meat computer | ~ dis fangz r 4 u only ~ | 177.0 | 1281 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ dis fangz r 4 u only ~].mc` |
-| 4401 | team edward | meat computer | ~ easy ~ | 177.0 | 381 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ easy ~].mc` |
-| 4402 | team edward | meat computer | ~ extra ~ | 177.0 | 1128 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ extra ~].mc` |
-| 4403 | team edward | meat computer | ~ hard ~ | 177.0 | 763 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ hard ~].mc` |
-| 4404 | team edward | meat computer | ~ insane ~ | 177.0 | 992 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ insane ~].mc` |
-| 4405 | team edward | meat computer | ~ normal ~ | 177.0 | 563 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ normal ~].mc` |
-| 4406 | Tell Me | Haywyre | Hyper | 115.0 | 1796 | 256.7 | osu_mirror/community | `osu_mirror\2543113\Haywyre - Tell Me (kooo) [Hyper].mc` |
-| 4407 | Tell Me | Haywyre | I Got Something to Ask You | 115.0 | 1842 | 256.7 | osu_mirror/community | `osu_mirror\2543113\Haywyre - Tell Me (kooo) [I Got Something to Ask You].mc` |
-| 4408 | Temple Guardian | nicopatty | Easy | 185.0 | 366 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Easy].mc` |
-| 4409 | Temple Guardian | nicopatty | Giza Hecatomb | 185.0 | 1443 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Giza Hecatomb].mc` |
-| 4410 | Temple Guardian | nicopatty | Hard | 185.0 | 981 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Hard].mc` |
-| 4411 | Temple Guardian | nicopatty | Normal | 185.0 | 743 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Normal].mc` |
-| 4412 | Temple Guardian | nicopatty | Vivi's Hyper | 185.0 | 1256 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Vivi's Hyper].mc` |
-| 4413 | Ten, Sen, Men, Rittai | Sound piercer | 4k Another | 124.0 | 1348 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Another].mc` |
-| 4414 | Ten, Sen, Men, Rittai | Sound piercer | 4k Beginner | 124.0 | 362 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Beginner].mc` |
-| 4415 | Ten, Sen, Men, Rittai | Sound piercer | 4k Clockwork | 124.0 | 1627 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Clockwork].mc` |
-| 4416 | Ten, Sen, Men, Rittai | Sound piercer | 4k Hyper | 124.0 | 1021 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Hyper].mc` |
-| 4417 | Ten, Sen, Men, Rittai | Sound piercer | 4k Normal | 124.0 | 713 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Normal].mc` |
-| 4418 | TERABYTE | Kou! | A Pulse of Signal | 210.0 | 2743 | 166.8 | osu_mirror/community | `osu_mirror\2412599\Kou! - TERABYTE ([GB]Cinelia) [A Pulse of Signal].mc` |
-| 4419 | TERABYTE | Kou! | chy's Insane | 210.0 | 2328 | 166.8 | osu_mirror/community | `osu_mirror\2412599\Kou! - TERABYTE ([GB]Cinelia) [chy's insane].mc` |
-| 4420 | TERRAFORGE | Xeudo Code | EXPONENT | 154.0 | 7337 | 312.7 | osu_mirror/community | `osu_mirror\2524412\Xeudo Code - TERRAFORGE (chy030_ft_pH5_6) [EXPONENT].mc` |
-| 4421 | TESHiKANi | wotoha | Gugu gaga!!! | 175.0 | 800 | 263.2 | osu_mirror/community | `osu_mirror\2474010\wotoha - TESHiKANi (Kagetayori) [Gugu gaga!!!].mc` |
-| 4422 | TEST ME (TV Size) | CHANMINA | kekou's Hard | 125.0 | 506 | 84.4 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV SIZE) (Kibitz) [kekou's Hard].mc` |
-| 4423 | TEST ME (TV Size) | CHANMINA | kekou's Insane | 125.0 | 763 | 84.7 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [kekou's Insane].mc` |
-| 4424 | TEST ME (TV Size) | CHANMINA | Normal | 125.0 | 358 | 85.1 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [Normal].mc` |
-| 4425 | TEST ME (TV Size) | CHANMINA | Sava's Easy | 125.0 | 272 | 85.3 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [Sava's Easy].mc` |
-| 4426 | TEST ME (TV Size) | CHANMINA | The Brightest Star! | 125.0 | 829 | 84.7 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [The Brightest Star!].mc` |
-| 4427 | Texture Garden | you | illustration. | 128.0 | 1059 | 142.5 | osu_mirror/community | `osu_mirror\2537785\You - Texture Garden (G1NYA) [illustration.].mc` |
-| 4428 | Texture Garden | you | nai's Hard | 128.0 | 863 | 142.5 | osu_mirror/community | `osu_mirror\2537785\you - Texture Garden (G1NYA) [nai's Hard].mc` |
-| 4429 | Texture Garden | you | Platinum's Insane | 128.0 | 912 | 142.5 | osu_mirror/community | `osu_mirror\2537785\you - Texture Garden (G1NYA) [Platinum's Insane].mc` |
-| 4430 | Texture Garden | you | Ran's Normal | 128.0 | 512 | 142.5 | osu_mirror/community | `osu_mirror\2537785\you - Texture Garden (G1NYA) [Ran's Normal].mc` |
-| 4431 | Thaleia | satella feat. Aitsuki Nakuru | Idyllic | 186.0 | 3489 | 224.5 | osu_mirror/community | `osu_mirror\2571760\satella feat. Aitsuki Nakuru - Thaleia (Arcana Shadow) [Idyllic].mc` |
-| 4432 | That's So True (Sped Up & Ringtone Edit) | Gracie Abrams | XBladeXGMD's awesome chordjack slop | 270.0 | 406 | 14.7 | osu_mirror/community | `osu_mirror\2535726\Gracie Abrams - That's So True (Sped Up & Ringtone Edit) (-Yumiko-) [XBladeXGMD's awesome chordjack slop].mc` |
-| 4433 | The Bridgeport Run | The Flashbulb | Dauntless | 182.0 | 3270 | 217.0 | osu_mirror/community | `osu_mirror\2608594\The Flashbulb - The Bridgeport Run (-MysticEyes) [Dauntless].mc` |
-| 4434 | The Daybreak Will Never Come Again. ("rampagE" long vEr.) | seatrus | This Is The Start. | 200.0 | 1363 | 238.8 | osu_mirror/community | `osu_mirror\2599811\seatrus - The Daybreak Will Never Come Again. (rampagE long vEr.) (Concepte) [This Is The Start.].mc` |
-| 4435 | The Fucking Apocalypse | Cynthoni | We're Already Fucking Dead | 174.0 | 4038 | 242.7 | osu_mirror/community | `osu_mirror\2467699\Cynthoni - The Fucking Apocalypse (Znow) [We're Already Fucking Dead].mc` |
-| 4436 | The Lie | The Promise, The Lie | Broken Promises | 140.0 | 965 | 185.0 | osu_mirror/community | `osu_mirror\2580472\The Promise, The Lie - The Lie (countingstars) [Broken Promises].mc` |
-| 4437 | the moon is made of cheese, but i can't taste it | bill wurtz | cheddar | 94.0 | 227 | 66.7 | osu_mirror/community | `osu_mirror\2523370\bill wurtz - the moon is made of cheese, but i can't taste it (Utiba) [cheddar].mc` |
-| 4438 | the moon is made of cheese, but i can't taste it | bill wurtz | easy | 94.0 | 145 | 66.9 | osu_mirror/community | `osu_mirror\2523370\bill wurtz - the moon is made of cheese, but i can't taste it (Utiba) [easy].mc` |
-| 4439 | the moon is made of cheese, but i can't taste it | bill wurtz | normal | 94.0 | 163 | 66.7 | osu_mirror/community | `osu_mirror\2523370\bill wurtz - the moon is made of cheese, but i can't taste it (Utiba) [normal].mc` |
-| 4440 | The Princess was gills breathing. | seatrus | Within the Anthozoan Firmament | 230.0 | 2612 | 304.2 | osu_mirror/community | `osu_mirror\2576437\seatrus - The Princess was gills breathing. (Linlime) [Within the Anthozoan Firmament].mc` |
-| 4441 | The proximity of our souls making to something | ric3show3r feat. m4titann, Rio Momose, 4NK4K3 | Mirai no Hate, Shoujo o Matsu. | 200.0 | 2735 | 278.2 | osu_mirror/community | `osu_mirror\2630171\ric3show3r feat. m4titann, Rio Momose, 4NK4K3 - The proximity of our souls making to something (QwertYui345) [Mirai no Hate, Shoujo o Matsu.].mc` |
-| 4442 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.1x | 244.2 | 893 | 168.5 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.1x].mc` |
-| 4443 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.2x | 266.4 | 893 | 154.4 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.2x].mc` |
-| 4444 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.3x | 288.6 | 893 | 142.6 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.3x].mc` |
-| 4445 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.4x | 310.8 | 893 | 132.4 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.4x].mc` |
-| 4446 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN | 222.0 | 893 | 185.3 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN].mc` |
-| 4447 | The Saint Beyond The River | Fellowship | Reminiscent | 142.0 | 2743 | 241.5 | osu_mirror/community | `osu_mirror\2575512\Fellowship - The Saint Beyond The River (P45ta) [Reminiscent].mc` |
-| 4448 | The Solace of Oblivion | Helblinde | The Echoes of Memoria | 195.0 | 3946 | 328.6 | osu_mirror/community | `osu_mirror\2502887\Helblinde - The Solace of Oblivion (Lleethenoob) [The Echoes of Memoria].mc` |
-| 4449 | The Whole Blue World | Ave Mujica | Melancholy | 200.0 | 3419 | 249.2 | osu_mirror/community | `osu_mirror\2589471\Ave Mujica - The Whole Blue World (TheBigSadd) [Melancholy].mc` |
-| 4450 | Theater of a Witch | Yuki Kajiura | Despair | 136.52 | 353 | 34.7 | osu_mirror/community | `osu_mirror\1834548\Yuki Kajiura - Theater of a Witch (TH Lunasa) [Despair].mc` |
-| 4451 | they besties | cluli | apple | 150.0 | 2720 | 166.4 | osu_mirror/community | `osu_mirror\2520931\cluli - they besties (oid45) [apple].mc` |
-| 4452 | they besties | cluli | insane | 150.0 | 1834 | 166.4 | osu_mirror/community | `osu_mirror\2520931\cluli - they besties (oid45) [Insane].mc` |
-| 4453 | they besties | cluli | PlatinumSplash's expert | 150.0 | 2271 | 166.4 | osu_mirror/community | `osu_mirror\2520931\cluli - they besties (oid45) [PlatinumSplash's Expert].mc` |
-| 4454 | Thick of HiT (S8-10 Opening Mashup) | ShortStumpyEngine | o r 3 0's execution | 93.0 | 216 | 30.3 | osu_mirror/community | `osu_mirror\2506744\ShortStumpyEngine - Thick of HiT (S8-10 Opening Mashup) (Basensorex) [o r 3 0's execution].mc` |
-| 4455 | Thick of HiT (S8-10 Opening Mashup) | ShortStumpyEngine | o r 3 0's hard | 93.0 | 175 | 30.3 | osu_mirror/community | `osu_mirror\2506744\ShortStumpyEngine - Thick of HiT (S8-10 Opening Mashup) (Basensorex) [o r 3 0's hard].mc` |
-| 4456 | Thick of HiT (S8-10 Opening Mashup) | ShortStumpyEngine | o r 3 0's normal | 93.0 | 141 | 30.3 | osu_mirror/community | `osu_mirror\2506744\ShortStumpyEngine - Thick of HiT (S8-10 Opening Mashup) (Basensorex) [o r 3 0's normal].mc` |
-| 4457 | THRASH (PARTY STARTER) | ISOKNOCK | ANOTHER | 140.0 | 673 | 150.9 | osu_mirror/community | `osu_mirror\2378077\ISOKNOCK - THRASH (PARTY STARTER) (Ainer) [ANOTHER].mc` |
-| 4458 | THRASH (PARTY STARTER) | ISOKNOCK | SLOWPOKE'S INSANE | 140.0 | 671 | 126.9 | osu_mirror/community | `osu_mirror\2378077\ISOKNOCK - THRASH (PARTY STARTER) (Ainer) [SLOWPOKE'S INSANE].mc` |
-| 4459 | THRASH (PARTY STARTER) | ISOKNOCK | USAGI'S MOSHPIT | 140.0 | 889 | 154.3 | osu_mirror/community | `osu_mirror\2378077\ISOKNOCK - THRASH (PARTY STARTER) (Ainer) [USAGI'S MOSHPIT].mc` |
-| 4460 | Thule | Camellia feat. Camellia | Falling to the abyss | 300.0 | 2819 | 315.9 | osu_mirror/community | `osu_mirror\2554749\Camellia feat. Camellia - Thule (Initial D) [Falling to the abyss].mc` |
-| 4461 | Thursday | Akiri | Beginner | 55.0 | 29 | 34.9 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [Beginner].mc` |
-| 4462 | Thursday | Akiri | Easy | 55.0 | 29 | 52.4 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [Easy].mc` |
-| 4463 | Thursday | Akiri | tapperruiii's Normal | 55.0 | 38 | 70.4 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [tapperruiii's Normal].mc` |
-| 4464 | Thursday | Akiri | tapperruiii's Thursday | 55.0 | 55 | 70.4 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [tapperruiii's Thursday].mc` |
-| 4465 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Dei! Yao Guai! | 155.0 | 790 | 136.7 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Dei! Yao Guai!].mc` |
-| 4466 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Drater's Insane | 155.0 | 496 | 137.4 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Drater's Insane].mc` |
-| 4467 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Hard | 155.0 | 475 | 137.3 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Hard].mc` |
-| 4468 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Normal | 155.0 | 416 | 137.3 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Normal].mc` |
-| 4469 | TIMING HELL ~The Perpetual Chaotically Unsynced Pendulum~ | takehirotei | Convergence | 307.0 | 101 | 243.2 | osu_mirror/community | `osu_mirror\2455661\takehirotei - TIMING HELL ~The Perpetual Chaotically Unsynced Pendulum~ (Hylotl) [Convergence].mc` |
-| 4470 | Together forever, my lovely lovely video game cartridges | Camellia | Inseperable, our never ever ending friendship | 110.0 | 2051 | 316.1 | osu_mirror/community | `osu_mirror\2402627\Camellia - Together forever, my lovely lovely video game cartridges (soup3r) [Inseperable, our never ever ending friendship].mc` |
-| 4471 | Toki no Ryousen (Supire Remix) | kaitendaentai | Eternity. | 140.0 | 2607 | 143.6 | osu_mirror/community | `osu_mirror\2576239\kaitendaentai - Toki no Ryousen (Supire Remix) (Seiran-) [Eternity.].mc` |
-| 4472 | Tokimeki Poporon (TV Size) | Chimame-tai | Fapu's Normal | 170.0 | 404 | 88.8 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Fapu's Normal].mc` |
-| 4473 | Tokimeki Poporon (TV Size) | Chimame-tai | Pyon Pyon | 170.0 | 464 | 87.9 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Pyon Pyon].mc` |
-| 4474 | Tokimeki Poporon (TV Size) | Chimame-tai | Ran's Easy | 170.0 | 316 | 88.8 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Ran's Easy].mc` |
-| 4475 | Tokimeki Poporon (TV Size) | Chimame-tai | Yelin's Hard | 170.0 | 345 | 88.8 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Yelin's Hard].mc` |
-| 4476 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Easy | 168.0 | 325 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Easy].mc` |
-| 4477 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Hard | 168.0 | 873 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Hard].mc` |
-| 4478 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Normal | 168.0 | 528 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Normal].mc` |
-| 4479 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Top Waifu | 168.0 | 1376 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Top Waifu].mc` |
-| 4480 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Hyper Potion // 4K Hard | 125.72 | 334 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Hyper Potion  4K Hard].mc` |
-| 4481 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Max Potion // 4K Insane | 125.72 | 448 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Max Potion  4K Insane].mc` |
-| 4482 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Potion // 4K Easy | 125.72 | 184 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Potion  4K Easy].mc` |
-| 4483 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Super Potion // 4K Normal | 125.72 | 264 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Super Potion  4K Normal].mc` |
-| 4484 | TOKYO | Sheena Ringo | dislocation | 152.25 | 448 | 123.9 | osu_mirror/community | `osu_mirror\2214119\Sheena Ringo - TOKYO (anatharax) [dislocation].mc` |
-| 4485 | Tom and Jerry in the Hollywood Bowl (TV Size) | Scott Bradley | Car and pighat in the Hollywood Bowl | 15.0 | 1675 | 189.9 | osu_mirror/community | `osu_mirror\2549279\Scott Bradley - Tom and Jerry in the Hollywood Bowl (TV Size) (oid45) [Car and pighat in the Hollywood Bowl].mc` |
-| 4486 | Tono!? Goranshin!? | Shu feat. Amau Syrup | ADVANCED!? | 200.0 | 1338 | 83.2 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [ADVANCED!].mc` |
-| 4487 | Tono!? Goranshin!? | Shu feat. Amau Syrup | BASIC!? | 200.0 | 845 | 91.6 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [BASIC!].mc` |
-| 4488 | Tono!? Goranshin!? | Shu feat. Amau Syrup | cherrychou's Re:MASTER!? | 200.0 | 1172 | 86.0 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [cherrychou's ReMASTER!].mc` |
-| 4489 | Tono!? Goranshin!? | Shu feat. Amau Syrup | EXPERT!? | 200.0 | 1603 | 83.2 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [EXPERT!].mc` |
-| 4490 | Tono!? Goranshin!? | Shu feat. Amau Syrup | Goranshin!? | 200.0 | 1749 | 90.7 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [Goranshin!].mc` |
-| 4491 | Tono!? Goranshin!? | Shu feat. Amau Syrup | HARD!? | 200.0 | 1131 | 89.6 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [Hard!].mc` |
-| 4492 | Tono!? Goranshin!? | Shu feat. Amau Syrup | Niks' MASTER!? | 200.0 | 1830 | 85.8 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [Niks' MASTER!].mc` |
-| 4493 | Toshi no Se Gassaku 2023 ~Nanairo no Nico Nico Douga Ryuuseigun~ | Various Artists | Grand osuMAD | 19.86 | 46180 | 942.2 | osu_mirror/community | `osu_mirror\2181438\Various Artists - Toshi no Se Gassaku 2023 ~Nanairo no Nico Nico Douga Ryuuseigun~ (Slick6969) [Grand osuMAD].mc` |
-| 4494 | Touch The Stars (Nightcore & Cut Ver.) | RE-CON | Hydria x Zaeem Insane | 204.82 | 1781 | 168.7 | osu_mirror/community | `osu_mirror\2607616\RE-CON - Touch The Stars (Nightcore & Cut Ver.) (Zaeem) [Hydria x Zaeem Insane].mc` |
-| 4495 | Touch The Stars (Nightcore & Cut Ver.) | RE-CON | Touch the Core | 204.82 | 2243 | 168.7 | osu_mirror/community | `osu_mirror\2607616\RE-CON - Touch The Stars (Nightcore & Cut Ver.) (Zaeem) [Touch the Core].mc` |
-| 4496 | Touhiron | Camellia feat. Nanahira | I felt enough regret to bring me to chordjacks | 244.0 | 4317 | 262.4 | osu_mirror/community | `osu_mirror\2375712\Camellia feat. Nanahira - Touhiron (kartofle) [I felt enough regret to bring me to chordjacks].mc` |
-| 4497 | Toumei Datta Sekai | Hata Motohiro | Insane | 168.0 | 708 | 88.2 | osu_mirror/community | `osu_mirror\801041\Hata Motohiro - Toumei Datta Sekai (-[_RizzCraft_]-) [Insane].mc` |
-| 4498 | Toumei Datta Sekai | Hata Motohiro | NM | 168.0 | 291 | 49.3 | osu_mirror/community | `osu_mirror\801041\Hata Motohiro - Toumei Datta Sekai (-[_RizzCraft_]-) [NM].mc` |
-| 4499 | Tourmaline Drill | WangleLine | Gem | 172.0 | 428 | 77.9 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Gem].mc` |
-| 4500 | Tourmaline Drill | WangleLine | Hard | 172.0 | 285 | 74.0 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Hard].mc` |
-| 4501 | Tourmaline Drill | WangleLine | Hyper | 172.0 | 455 | 78.0 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Hyper].mc` |
-| 4502 | Tourmaline Drill | WangleLine | Insane | 172.0 | 397 | 78.0 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Insane].mc` |
-| 4503 | Touryouka | Camellia feat. Nanahira | Flourish | 256.0 | 2542 | 264.6 | osu_mirror/community | `osu_mirror\2596119\Camellia feat. Nanahira - Touryouka (V1do-) [Flourish].mc` |
-| 4504 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | -Zell's Beginner | 98.0 | 84 | 88.8 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [-Zell's Beginner].mc` |
-| 4505 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | Easy | 98.0 | 153 | 90.6 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [Easy].mc` |
-| 4506 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | Terry's Normal | 98.0 | 178 | 90.6 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [Terry's Normal].mc` |
-| 4507 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | Thank you, Furina | 98.0 | 220 | 88.1 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [Thank you, Furina].mc` |
-| 4508 | Toward Truth and Reconciliation | Xanthochroid | Of Erthe and Axen | 80.0 | 4875 | 552.4 | osu_mirror/community | `osu_mirror\1816628\Xanthochroid - Toward Truth and Reconciliation (Linlime) [Of Erthe and Axen].mc` |
-| 4509 | Tracen Ondo | Various Artists | Celebration // Hard | 40.0 | 1232 | 150.4 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Celebration  Hard].mc` |
-| 4510 | Tracen Ondo | Various Artists | Festival // Insane | 40.0 | 1563 | 150.4 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Festival  Insane].mc` |
-| 4511 | Tracen Ondo | Various Artists | Fireworks // Normal | 40.0 | 893 | 150.3 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Fireworks  Normal].mc` |
-| 4512 | Tracen Ondo | Various Artists | Harikitte Ikou! // Expert | 40.0 | 1804 | 150.2 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Harikitte Ikou!  Expert].mc` |
-| 4513 | Tracen Ondo | Various Artists | Sparks // Avel's Easy | 40.0 | 316 | 133.4 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Sparks  Avel's Easy].mc` |
-| 4514 | Transhumanist | Billain & Vorso | Falling | 174.0 | 3252 | 244.1 | osu_mirror/community | `osu_mirror\2489203\Billain & Vorso - Transhumanist (Stereotype) [Falling].mc` |
-| 4515 | Transientia | Krimek | Azukkii's Normal | 132.0 | 198 | 69.7 | osu_mirror/community | `osu_mirror\2564470\Krimek - Transientia (-Zell) [Azukkii's Normal].mc` |
-| 4516 | Transientia | Krimek | Fading Memories. | 132.0 | 176 | 69.0 | osu_mirror/community | `osu_mirror\2564470\Krimek - Transientia (-Zell) [Fading Memories.].mc` |
-| 4517 | Transientia | Krimek | Neon's Easy | 132.0 | 16 | 57.7 | osu_mirror/community | `osu_mirror\2564470\Krimek - Transientia (-Zell) [Neon's Easy].mc` |
-| 4518 | Transmission_Of_Radionuclides_In_Geosynchronous_Heights_<moduleGLACIER-X471> | HYOUKA | Oscillation | 168.0 | 2816 | 310.6 | osu_mirror/community | `osu_mirror\2472371\HYOUKA - Transmission_Of_Radionuclides_In_Geosynchronous_Heights_moduleGLACIER-X471 (OxalicAcid) [Oscillation].mc` |
-| 4519 | Tricolor circuS | aa...hisuichazuke... | AAAAFanboy's ADVANCED | 180.0 | 705 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [AAAAFanboy's ADVANCED].mc` |
-| 4520 | Tricolor circuS | aa...hisuichazuke... | Blankface74's MASTER | 180.0 | 1452 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Blankface74's MASTER].mc` |
-| 4521 | Tricolor circuS | aa...hisuichazuke... | Dream Makers | 180.0 | 1487 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Dream Makers].mc` |
-| 4522 | Tricolor circuS | aa...hisuichazuke... | Maiiy's BASIC | 180.0 | 412 | 122.7 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Maiiy's BASIC].mc` |
-| 4523 | Tricolor circuS | aa...hisuichazuke... | Vincus' EXPERT | 180.0 | 1272 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Vincus' EXPERT].mc` |
-| 4524 | Tsuki no Uro | Shimotsuki Haruka | Hollow | 208.0 | 1574 | 249.5 | osu_mirror/community | `osu_mirror\2530520\Shimotsuki Haruka - Tsuki no Uro (Onta_Bekasi) [Hollow].mc` |
-| 4525 | Tsukiyo ni Mau Koi no Hana | Uinyasu | Konya wa Tsuki ga Kirei Desu~ | 186.0 | 1518 | 345.7 | osu_mirror/community | `osu_mirror\2522756\Uinyasu - Tsukiyo ni Mau Koi no Hana (nai_) [Konya wa Tsuki ga Kirei Desu~].mc` |
-| 4526 | Tsumi to Batsu | Sheena Ringo | (marathon) | 140.0 | 1 | 0.0 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [(marathon)].mc` |
-| 4527 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.05 | 147.0 | 3676 | 172.6 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.05].mc` |
-| 4528 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.15 | 161.0 | 3676 | 157.6 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.15].mc` |
-| 4529 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.1 | 154.0 | 3676 | 164.8 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.1].mc` |
-| 4530 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.2 | 168.0 | 3676 | 151.0 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.2].mc` |
-| 4531 | Tsumi to Batsu | Sheena Ringo | Sympathy | 140.0 | 3676 | 181.2 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy].mc` |
-| 4532 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | 29/16 | 102.0 | 482 | 40.6 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [2916].mc` |
-| 4533 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | Easy | 102.0 | 196 | 40.6 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [Easy].mc` |
-| 4534 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | Hard | 102.0 | 319 | 40.6 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [Hard].mc` |
-| 4535 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | Normal | 102.0 | 232 | 39.8 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [Normal].mc` |
-| 4536 | Tu Falta De Querer | Mon Laferte | Quisiera poder compartirte este maldito pesar. | 117.86 | 4834 | 205.5 | osu_mirror/community | `osu_mirror\2481465\Mon Laferte - Tu Falta De Querer (Gera) [Quisiera poder compartirte este maldito pesar.].mc` |
-| 4537 | TURN IT UP | Fisky | ABSTRAKT VISUALISERING | 210.0 | 1791 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Abstrakt Visualisering].mc` |
-| 4538 | TURN IT UP | Fisky | Chrisse's ADVANCED | 210.0 | 931 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Advanced].mc` |
-| 4539 | TURN IT UP | Fisky | Chrisse's HARD | 210.0 | 1275 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Hard].mc` |
-| 4540 | TURN IT UP | Fisky | Chrisse's INSANE | 210.0 | 1539 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Insane].mc` |
-| 4541 | TURN IT UP | Fisky | Chrisse's NORMAL | 210.0 | 713 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Normal].mc` |
-| 4542 | Twin Bloom | Gardens | Aestivation | 145.0 | 3363 | 335.5 | osu_mirror/community | `osu_mirror\2623957\Gardens - Twin Bloom (elexire) [Aestivation].mc` |
-| 4543 | Twin Bloom | Gardens | Ramification | 145.0 | 3410 | 337.1 | osu_mirror/community | `osu_mirror\2623957\Gardens - Twin Bloom (elexire) [Ramification].mc` |
-| 4544 | Ultimate Force (Game Ver.) | Sakuzyo | ADVANCED | 270.0 | 780 | 143.1 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [ADVANCED].mc` |
-| 4545 | Ultimate Force (Game Ver.) | Sakuzyo | BASIC | 270.0 | 537 | 142.7 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [BASIC].mc` |
-| 4546 | Ultimate Force (Game Ver.) | Sakuzyo | EASY | 270.0 | 253 | 142.7 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [EASY].mc` |
-| 4547 | Ultimate Force (Game Ver.) | Sakuzyo | EXPERT | 270.0 | 1302 | 145.6 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [EXPERT].mc` |
-| 4548 | Ultimate Force (Game Ver.) | Sakuzyo | MASTER | 270.0 | 1728 | 145.4 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [MASTER].mc` |
-| 4549 | Ultimate Force (Game Ver.) | Sakuzyo | TOTAL DESTRUCTION TILL THE WORLD'S END | 270.0 | 1596 | 143.1 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [TOTAL DESTRUCTION TILL THE WORLD'S END].mc` |
-| 4550 | Ultimate Force (Game Ver.) | Sakuzyo | ULTIMA | 270.0 | 1727 | 143.3 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [ULTIMA].mc` |
-| 4551 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | Expert | 200.0 | 2119 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [Expert].mc` |
-| 4552 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | G1NYA's Hard | 200.0 | 1339 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [G1NYA's Hard].mc` |
-| 4553 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | Insane | 200.0 | 1696 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [Insane].mc` |
-| 4554 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | Normal | 200.0 | 1061 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [Normal].mc` |
-| 4555 | Umbilical | Kayuki feat. Risa Yuzuki | Illusion of Losing You | 204.0 | 2489 | 245.9 | osu_mirror/community | `osu_mirror\2603678\Kayuki feat. Risa Yuzuki - Umbilical (Initial D) [Illusion of Losing You].mc` |
-| 4556 | UNA ALARM | Maro Note | How to wake up, Advanced method | 155.0 | 335 | 99.1 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Advanced method].mc` |
-| 4557 | UNA ALARM | Maro Note | How to wake up, Another method | 155.0 | 477 | 99.9 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Another method].mc` |
-| 4558 | UNA ALARM | Maro Note | How to wake up, Hyper method | 155.0 | 483 | 99.1 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Hyper method].mc` |
-| 4559 | UNA ALARM | Maro Note | How to wake up, Intermediate method | 155.0 | 332 | 99.7 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Intermediate method].mc` |
-| 4560 | UNABLE | rae | Able | 105.0 | 616 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [able].mc` |
-| 4561 | UNABLE | rae | Advanced | 105.0 | 382 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [Advanced].mc` |
-| 4562 | UNABLE | rae | Fejse's Hard | 105.0 | 379 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [Fejse's Hard].mc` |
-| 4563 | UNABLE | rae | Insane | 105.0 | 485 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [Insane].mc` |
-| 4564 | Unknown | Cityyy | !-.]./.. --.[.?!.\ | 190.0 | 1172 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [!-.]... --.[.!.].mc` |
-| 4565 | Unknown | Cityyy | Advanced | 190.0 | 664 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Advanced].mc` |
-| 4566 | Unknown | Cityyy | Easy | 190.0 | 264 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Easy].mc` |
-| 4567 | Unknown | Cityyy | Hard | 190.0 | 905 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Hard].mc` |
-| 4568 | Unknown | Cityyy | Hyper | 190.0 | 974 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Hyper].mc` |
-| 4569 | Unknown | Cityyy | Insane | 190.0 | 1059 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Insane].mc` |
-| 4570 | Unknown | Cityyy | Intermediate | 190.0 | 333 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Intermediate].mc` |
-| 4571 | Unknown | Cityyy | Normal | 190.0 | 479 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Normal].mc` |
-| 4572 | Unshakable | RiraN | Easy / Resolve | 150.0 | 315 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Easy  Resolve].mc` |
-| 4573 | Unshakable | RiraN | Extra / Overdrive | 150.0 | 968 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Extra  Overdrive].mc` |
-| 4574 | Unshakable | RiraN | Hard / Determination | 150.0 | 577 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Hard  Determination].mc` |
-| 4575 | Unshakable | RiraN | Insane / P45ta's Daydream | 150.0 | 741 | 102.0 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Insane  P45ta's Daydream].mc` |
-| 4576 | Unshakable | RiraN | Normal / Conviction | 150.0 | 402 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Normal  Conviction].mc` |
-| 4577 | Ureshii! Tanoshii! Daisuki! | Shiina Mahiru (CV: Iwami Manaka) | My Wife Mahiru | 113.0 | 987 | 204.8 | osu_mirror/community | `osu_mirror\2534039\Shiina Mahiru (CV Iwami Manaka) - Ureshii! Tanoshii! Daisuki! (Pyra-san) [My Wife Mahiru].mc` |
-| 4578 | Uta (7_7 Remix) | Imperial Circus Dead Decadence | Final Requiem | 310.0 | 8201 | 325.9 | osu_mirror/community | `osu_mirror\2458618\Imperial Circus Dead Decadence - Uta (7_7 Remix) (Concepte) [Final Requiem].mc` |
-| 4579 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Boring's Hard | 197.0 | 744 | 87.7 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Boring's Hard].mc` |
-| 4580 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Dereck's Normal | 197.0 | 541 | 87.6 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Dereck's Normal].mc` |
-| 4581 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Fapu's Insane | 197.0 | 858 | 87.7 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Fapu's Insane].mc` |
-| 4582 | Utopia or Dystopia (TV Size) | Yumeno Yuki | LLENN's Easy | 197.0 | 323 | 86.6 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [LLENN's Easy].mc` |
-| 4583 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Watashi | 197.0 | 938 | 87.6 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Watashi].mc` |
-| 4584 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | Gal is cute // Insane | 178.0 | 829 | 86.9 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [Gal is cute  Insane].mc` |
-| 4585 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | LINQAQ is cute // Hard | 178.0 | 680 | 87.0 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [LINQAQ is cute  Hard].mc` |
-| 4586 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | Seitora is cute // Normal | 178.0 | 502 | 87.0 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [Seitora is cute  Normal].mc` |
-| 4587 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | Suifeng is cute // Easy | 178.0 | 240 | 86.8 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [Suifeng is cute  Easy].mc` |
-| 4588 | Vacant Rhapsody | penoreri | Illusory Florescence | 85.0 | 3285 | 290.9 | osu_mirror/community | `osu_mirror\2511269\penoreri - Vacant Rhapsody (HiniXz) [Illusory Florescence].mc` |
-| 4589 | Vacant Rhapsody | penoreri | Varium Rosarium | 85.0 | 2700 | 291.0 | osu_mirror/community | `osu_mirror\2514857\penoreri - Vacant Rhapsody (chy030_ft_pH5_6) [Varium Rosarium].mc` |
-| 4590 | Vacant Rhapsody | penoreri | Silence Blooms.. | 90.0 | 3094 | 291.0 | osu_mirror/community | `osu_mirror\2573847\penoreri - Vacant Rhapsody (Hylotl) [Silence Blooms..].mc` |
-| 4591 | Vacant Rhapsody | penoreri | ethereal, then blossom | 85.0 | 2077 | 291.0 | osu_mirror/community | `osu_mirror\2596058\penoreri - Vacant Rhapsody (Ulazis) [ethereal, then blossom].mc` |
-| 4592 | Virtual Angel | ARTMS | Savior | 166.0 | 403 | 154.3 | osu_mirror/community | `osu_mirror\2249768\ARTMS - Virtual Angel (homwu) [Savior].mc` |
-| 4593 | ViViD | LOONA/HeeJin | AverageBoi's Hard | 106.0 | 687 | 196.9 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [AverageBoi's Hard].mc` |
-| 4594 | ViViD | LOONA/HeeJin | Ham's Easy | 106.0 | 619 | 197.0 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [Ham's Easy].mc` |
-| 4595 | ViViD | LOONA/HeeJin | Normal | 106.0 | 652 | 196.8 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [Normal].mc` |
-| 4596 | ViViD | LOONA/HeeJin | Vibrancy | 106.0 | 580 | 196.7 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [Vibrancy].mc` |
-| 4597 | VIVID ABYSS | katagiri | Shrine of Euphoria | 156.0 | 3872 | 266.5 | osu_mirror/community | `osu_mirror\2525312\katagiri - VIVID ABYSS (WILLPWR) [Shrine of Euphoria].mc` |
-| 4598 | vleermuis | gladde paling | hard | 180.0 | 996 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [hard].mc` |
-| 4599 | vleermuis | gladde paling | insane | 180.0 | 1154 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [insane].mc` |
-| 4600 | vleermuis | gladde paling | normal | 180.0 | 779 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [normal].mc` |
-| 4601 | vleermuis | gladde paling | palingpalingpalingpaling | 180.0 | 1464 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [palingpalingpalingpaling].mc` |
-| 4602 | vleermuis | gladde paling | diff | 180.0 | 546 | 110.4 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [diff].mc` |
-| 4603 | vleermuis | gladde paling | lower diff | 180.0 | 541 | 107.7 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower diff].mc` |
-| 4604 | vleermuis | gladde paling | lower lower diff | 180.0 | 538 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower diff].mc` |
-| 4605 | vleermuis | gladde paling | lower lower lower diff | 180.0 | 567 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower diff].mc` |
-| 4606 | vleermuis | gladde paling | lower lower lower lower diff | 180.0 | 545 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower diff].mc` |
-| 4607 | vleermuis | gladde paling | lower lower lower lower lower diff | 180.0 | 591 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower diff].mc` |
-| 4608 | vleermuis | gladde paling | lower lower lower lower lower lower diff | 180.0 | 463 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower lower diff].mc` |
-| 4609 | vleermuis | gladde paling | lower lower lower lower lower lower lower diff | 180.0 | 252 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower lower lower diff].mc` |
-| 4610 | vleermuis | gladde paling | lower lower lower lower lower lower lower lower diff | 180.0 | 154 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower lower lower lower diff].mc` |
-| 4611 | Voice (Cut Ver.) | i2ka x Tanchiky | Hydria's 4K Insane | 198.0 | 1195 | 140.0 | osu_mirror/community | `osu_mirror\2313635\i2ka x Tanchiky - Voice (Cut Ver.) (mantasu) [Hydria's 4K Insane].mc` |
-| 4612 | Voice (Cut Ver.) | i2ka x Tanchiky | Wimpy's 4K Hard | 198.0 | 944 | 139.9 | osu_mirror/community | `osu_mirror\2313635\i2ka x Tanchiky - Voice (Cut Ver.) (mantasu) [Wimpy's 4K Hard].mc` |
-| 4613 | Void//Shader (feat. xia) | Sad Keyboard Guy & Myntian | Stay on the line | 170.0 | 2665 | 298.4 | osu_mirror/community | `osu_mirror\2523660\Sad Keyboard Guy & Myntian - VoidShader (feat. xia) (Son_66) [Stay on the line].mc` |
-| 4614 | Void//Shader (feat. xia) | Sad Keyboard Guy & Myntian | Could you find the Truth? | 170.0 | 3331 | 308.4 | osu_mirror/community | `osu_mirror\2551391\Sad Keyboard Guy & Myntian - VoidShader (feat. xia) (Furimuu-) [Could you find the Truth].mc` |
-| 4615 | Wake Up Call | Maroon 5 | Don't you care about me anymore? | 82.0 | 2972 | 178.4 | osu_mirror/community | `osu_mirror\2610353\Maroon 5 - Wake Up Call (-Enma-) [Don't you care about me anymore].mc` |
-| 4616 | Wake Up Call | Maroon 5 | Menphiss' Insane | 82.0 | 2304 | 178.4 | osu_mirror/community | `osu_mirror\2610353\Maroon 5 - Wake Up Call (-Enma-) [Menphiss' Insane].mc` |
-| 4617 | Waltz in E-major, Op. 15 "Moon Waltz" | Cojum Dip | My Final Performance For You | 141.5 | 3327 | 256.8 | osu_mirror/community | `osu_mirror\2542206\Cojum Dip - Waltz in E-Major, Op. 15 Moon Waltz (Scisso) [My Final Performance For You].mc` |
-| 4618 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | <3 | 193.0 | 789 | 90.4 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [3].mc` |
-| 4619 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | Easy | 193.0 | 242 | 91.5 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [Easy].mc` |
-| 4620 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | MiuOtter's Normal | 193.0 | 466 | 91.5 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [MiuOtter's Normal].mc` |
-| 4621 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | Slowpoke's Hard | 193.0 | 742 | 91.5 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [Slowpoke's Hard].mc` |
-| 4622 | We Begin (Game Ver.) | Yu-dachi | Easy | 172.0 | 517 | 136.7 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Easy].mc` |
-| 4623 | We Begin (Game Ver.) | Yu-dachi | Ferdi's Normal | 172.0 | 738 | 136.4 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Ferdi's Normal].mc` |
-| 4624 | We Begin (Game Ver.) | Yu-dachi | Hard | 172.0 | 1069 | 137.3 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Hard].mc` |
-| 4625 | We Begin (Game Ver.) | Yu-dachi | Maiiy's Insane | 172.0 | 1125 | 136.7 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Maiiy's Insane].mc` |
-| 4626 | We Begin (Game Ver.) | Yu-dachi | Tamania's Expert | 172.0 | 1408 | 137.3 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Tamania's Expert].mc` |
-| 4627 | We Begin (Game Ver.) | Yu-dachi | The Long-Awaited Moment | 172.0 | 1697 | 137.3 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [The Long-Awaited Moment].mc` |
-| 4628 | Weapon (feat. Baum) (Cut Ver.) | Grant | Hard | 140.0 | 585 | 151.1 | osu_mirror/community | `osu_mirror\2598394\Grant - Weapon (feat. Baum) (Cut Ver.) (fvrex) [Hard].mc` |
-| 4629 | Weapon (feat. Baum) (Cut Ver.) | Grant | Luminescence | 140.0 | 789 | 151.4 | osu_mirror/community | `osu_mirror\2598394\Grant - Weapon (feat. Baum) (Cut Ver.) (fvrex) [Luminescence].mc` |
-| 4630 | Welkius | Aoi | Golden Horizon | 210.0 | 1835 | 228.6 | osu_mirror/community | `osu_mirror\2523443\Aoi - Welkius (Wishtynite) [Golden Horizon].mc` |
-| 4631 | what's done is done | Tanza3D | Advanced | 111.0 | 12 | 49.9 | osu_mirror/community | `osu_mirror\2506607\Tanza3D - what's done is done (Znow) [Advanced].mc` |
-| 4632 | what's done is done | Tanza3D | Lott's Normal | 111.0 | 62 | 66.5 | osu_mirror/community | `osu_mirror\2506607\Tanza3D - what's done is done (Znow) [Lott's Normal].mc` |
-| 4633 | Where Is My Mind? | SEREGA PIRAT | Advanced | 66.0 | 206 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Advanced].mc` |
-| 4634 | Where Is My Mind? | SEREGA PIRAT | Concepte's Easy | 66.0 | 97 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Concepte's Easy].mc` |
-| 4635 | Where Is My Mind? | SEREGA PIRAT | Hard | 66.0 | 210 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Hard].mc` |
-| 4636 | Where Is My Mind? | SEREGA PIRAT | Normal | 66.0 | 165 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Normal].mc` |
-| 4637 | where is smiley? | Serani Poji | Doko? | 170.0 | 3597 | 265.4 | osu_mirror/community | `osu_mirror\2580517\Serani Poji - where is smiley (devilcity) [Doko].mc` |
-| 4638 | White Canvas (feat. Aitsuki Nakuru) (osu! edit) | rejection | Hard | 140.0 | 457 | 111.0 | osu_mirror/community | `osu_mirror\2478198\rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (LINQAQ) [Hard].mc` |
-| 4639 | White Canvas (feat. Aitsuki Nakuru) (osu! edit) | rejection | Landscape | 140.0 | 660 | 111.2 | osu_mirror/community | `osu_mirror\2478198\rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (LINQAQ) [Landscape].mc` |
-| 4640 | White Canvas (feat. Aitsuki Nakuru) (osu! edit) | rejection | Normal | 140.0 | 522 | 111.2 | osu_mirror/community | `osu_mirror\2478198\rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (LINQAQ) [Normal].mc` |
-| 4641 | White Prism | Chouchou-P feat. Hatsune Miku | ANOTHER | 172.0 | 2795 | 205.1 | osu_mirror/community | `osu_mirror\2515211\Chouchou-P feat. Hatsune Miku - White Prism (LINQAQ) [ANOTHER].mc` |
-| 4642 | White Prism | Chouchou-P feat. Hatsune Miku | HYPER | 172.0 | 2158 | 205.1 | osu_mirror/community | `osu_mirror\2515211\Chouchou-P feat. Hatsune Miku - White Prism (LINQAQ) [Hyper].mc` |
-| 4643 | Who might you be? | Toby Fox | Easy | 120.0 | 144 | 63.5 | osu_mirror/community | `osu_mirror\2577837\Toby Fox - Who might you be (LunarSticks) [Easy].mc` |
-| 4644 | Who might you be? | Toby Fox | Hard | 120.0 | 348 | 63.8 | osu_mirror/community | `osu_mirror\2577837\Toby Fox - Who might you be (LunarSticks) [Hard].mc` |
-| 4645 | Who might you be? | Toby Fox | Normal | 120.0 | 256 | 63.8 | osu_mirror/community | `osu_mirror\2577837\Toby Fox - Who might you be (LunarSticks) [Normal].mc` |
-| 4646 | why is miku like this | tommy. & bbno$ | why is enma like this | 160.0 | 2687 | 157.1 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is enma like this].mc` |
-| 4647 | why is miku like this | tommy. & bbno$ | why is insane like this | 160.0 | 1613 | 157.1 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is insane like this].mc` |
-| 4648 | why is miku like this | tommy. & bbno$ | why is keksik's hard like this | 160.0 | 1117 | 156.8 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is keksik's hard like this].mc` |
-| 4649 | why is miku like this | tommy. & bbno$ | why is menphiss' expert like this | 160.0 | 2147 | 157.1 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is menphiss' expert like this].mc` |
-| 4650 | why is miku like this | tommy. & bbno$ | why is normal like this | 160.0 | 775 | 154.3 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is normal like this].mc` |
-| 4651 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.05x | 209.47 | 2315 | 173.0 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.05x].mc` |
-| 4652 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.15x | 229.43 | 2315 | 158.0 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.15x].mc` |
-| 4653 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.1x | 219.45 | 2315 | 165.1 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.1x].mc` |
-| 4654 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.25x | 249.38 | 2315 | 145.3 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.25x].mc` |
-| 4655 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.2x | 239.4 | 2315 | 151.4 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.2x].mc` |
-| 4656 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.35x | 269.32 | 2315 | 134.6 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.35x].mc` |
-| 4657 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.3x | 259.35 | 2315 | 139.7 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.3x].mc` |
-| 4658 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.45x | 289.27 | 2315 | 125.3 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.45x].mc` |
-| 4659 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.4x | 279.3 | 2315 | 129.8 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.4x].mc` |
-| 4660 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | Loss | 199.5 | 2315 | 181.7 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [Loss].mc` |
-| 4661 | Wish for you (TV Size) | Maeshima Ami | I really love you. | 174.0 | 637 | 86.8 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [I really love you.].mc` |
-| 4662 | Wish for you (TV Size) | Maeshima Ami | LINQAQ's Hard | 174.0 | 560 | 86.8 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [LINQAQ's Hard].mc` |
-| 4663 | Wish for you (TV Size) | Maeshima Ami | nai's Easy | 174.0 | 218 | 81.4 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [nai's Easy].mc` |
-| 4664 | Wish for you (TV Size) | Maeshima Ami | suifeng's Normal | 174.0 | 378 | 84.8 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [suifeng's Normal].mc` |
-| 4665 | Wish upon a star | Shizuka (CV: Hasegawa Ikumi) | 4K I'm Waiting | 117.0 | 1782 | 229.8 | osu_mirror/community | `osu_mirror\2509312\Shizuka (CV Hasegawa Ikumi) - Wish upon a star (nai_) [4K I'm Waiting].mc` |
-| 4666 | Wommotion (Game Ver.) | yaseta | Advanced | 185.0 | 808 | 125.4 | osu_mirror/community | `osu_mirror\2483891\yaseta - Wommotion (Game Ver.) (omegaY_) [Advanced].mc` |
-| 4667 | Wommotion (Game Ver.) | yaseta | Hard | 185.0 | 1171 | 125.4 | osu_mirror/community | `osu_mirror\2483891\yaseta - Wommotion (Game Ver.) (omegaY_) [Hard].mc` |
-| 4668 | Wommotion (Game Ver.) | yaseta | Panic | 185.0 | 1564 | 125.2 | osu_mirror/community | `osu_mirror\2483891\yaseta - Wommotion (Game Ver.) (omegaY_) [Panic].mc` |
-| 4669 | wont interfere | luvlxckdown | alone | 112.87 | 1064 | 80.8 | osu_mirror/community | `osu_mirror\2536648\luvlxckdown - wont interfere (P45ta) [alone].mc` |
-| 4670 | wont interfere | luvlxckdown | hard | 112.87 | 865 | 80.8 | osu_mirror/community | `osu_mirror\2536648\luvlxckdown - wont interfere (P45ta) [hard].mc` |
-| 4671 | wont interfere | luvlxckdown | normal | 112.87 | 685 | 80.8 | osu_mirror/community | `osu_mirror\2536648\luvlxckdown - wont interfere (P45ta) [normal].mc` |
-| 4672 | world.execute(me); | Mili | world.unite(me, you); 1.1x | 143.0 | 2586 | 174.5 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.1x].mc` |
-| 4673 | world.execute(me); | Mili | world.unite(me, you); 1.2x | 156.0 | 2586 | 160.0 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.2x].mc` |
-| 4674 | world.execute(me); | Mili | world.unite(me, you); 1.3x | 169.0 | 2586 | 147.7 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.3x].mc` |
-| 4675 | world.execute(me); | Mili | world.unite(me, you); 1.4x | 182.0 | 2586 | 137.1 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.4x].mc` |
-| 4676 | world.execute(me); | Mili | world.unite(me, you); | 130.0 | 2586 | 192.0 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you);].mc` |
-| 4677 | Xing Noises | UNDEAD CORPORATION | >X< //NOISE// | 205.0 | 3206 | 223.8 | osu_mirror/community | `osu_mirror\2528060\UNDEAD CORPORATION - Xing Noises (wellQX) [X NOISE].mc` |
-| 4678 | Yamada Stream | Kommisar | edit 0.94x (240bpm) | 240.0 | 1468 | 112.9 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 0.94x (240bpm)].mc` |
-| 4679 | Yamada Stream | Kommisar | edit 1.02x (260bpm) | 260.0 | 1468 | 104.2 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.02x (260bpm)].mc` |
-| 4680 | Yamada Stream | Kommisar | edit 1.18x (300bpm) | 300.0 | 1468 | 90.3 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.18x (300bpm)].mc` |
-| 4681 | Yamada Stream | Kommisar | edit 1.1x (280bpm) | 280.0 | 1468 | 96.8 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.1x (280bpm)].mc` |
-| 4682 | Yamada Stream | Kommisar | edit 1.25x (320bpm) | 320.0 | 1468 | 84.7 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.25x (320bpm)].mc` |
-| 4683 | Yamada Stream | Kommisar | edit | 255.13 | 1468 | 106.2 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit].mc` |
-| 4684 | Yamada Stream | Kommisar | Laser Stream | 255.13 | 1446 | 106.2 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [Laser Stream].mc` |
-| 4685 | yearning | unfeeling | yearning for mpg points | 190.0 | 1900 | 161.5 | osu_mirror/community | `osu_mirror\2499477\unfeeling - yearning (Wimpy Cursed) [yearning for mpg points].mc` |
-| 4686 | Yoka ni Mitorete | 25-ji, Nightcord de. x MEIKO | Spilled Feelings // Enanan vs. Dzar03 vs. YunoMaya's Collab | 83.0 | 343 | 259.5 | osu_mirror/community | `osu_mirror\2487191\25-ji, Nightcord de. x MEIKO - Yoka ni Mitorete ([TCD] Ena-suki) [Spilled Feelings  Enanan vs. Dzar03 vs. YunoMaya's Collab].mc` |
-| 4687 | Yotogibanashi no Kamikakushi | Minstrel | Concepte's Hyper | 240.0 | 1455 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Concepte's Hyper].mc` |
-| 4688 | Yotogibanashi no Kamikakushi | Minstrel | Extra | 240.0 | 1920 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Extra].mc` |
-| 4689 | Yotogibanashi no Kamikakushi | Minstrel | Insane | 240.0 | 1674 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Insane].mc` |
-| 4690 | Yotogibanashi no Kamikakushi | Minstrel | Nightmare of Aswang | 240.0 | 2190 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Nightmare of Aswang].mc` |
-| 4691 | Yotsuya-san ni Yoroshiku | Himeringo | Death | 206.0 | 2167 | 168.5 | osu_mirror/community | `osu_mirror\1455446\Himeringo - Yotsuya-san ni Yoroshiku (Rio1-) [Death].mc` |
-| 4692 | Yotsuya-san ni Yoroshiku | Himeringo | SHD | 206.0 | 1943 | 168.6 | osu_mirror/community | `osu_mirror\1455446\Himeringo - Yotsuya-san ni Yoroshiku (Rio1-) [SHD].mc` |
-| 4693 | You & aIzu | Otonose Kanade | Kanade//Easy | 180.0 | 141 | 154.0 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [KanadeEasy].mc` |
-| 4694 | You & aIzu | Otonose Kanade | Kanade//Hard | 180.0 | 1157 | 154.3 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [KanadeHard].mc` |
-| 4695 | You & aIzu | Otonose Kanade | Kanade//Normal | 180.0 | 840 | 154.3 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [KanadeNormal].mc` |
-| 4696 | You & aIzu | Otonose Kanade | Monday Morning Ikaw at Ako | 180.0 | 1439 | 154.0 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [Monday Morning Ikaw at Ako].mc` |
-| 4697 | you are my curse | Kotoha | challenge | 160.0 | 470 | 119.2 | osu_mirror/community | `osu_mirror\2513418\Kotoha - you are my curse (eZmmR) [challenge].mc` |
-| 4698 | you are my curse | Kotoha | extra | 160.0 | 509 | 119.2 | osu_mirror/community | `osu_mirror\2513418\Kotoha - you are my curse (eZmmR) [extra].mc` |
-| 4699 | you are my curse | Kotoha | insane | 160.0 | 441 | 119.1 | osu_mirror/community | `osu_mirror\2513418\Kotoha - you are my curse (eZmmR) [insane].mc` |
-| 4700 | You're My Princess | EmoCosine | Beloved mika / Easy | 87.5 | 146 | 65.1 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [Beloved mika  Easy].mc` |
-| 4701 | You're My Princess | EmoCosine | Beloved mika / Hard | 87.5 | 289 | 65.5 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [Beloved mika  Hard].mc` |
-| 4702 | You're My Princess | EmoCosine | Beloved mika / Normal | 87.5 | 279 | 65.3 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [Beloved mika  Normal].mc` |
-| 4703 | You're My Princess | EmoCosine | My beloved mika cutie pie | 87.5 | 370 | 65.7 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [My beloved mika cutie pie].mc` |
-| 4704 | Yuima-ru * World (TV Size) | Ayase Rie | HAI TAI! | 180.0 | 533 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [HAI TAI!].mc` |
-| 4705 | Yuima-ru * World (TV Size) | Ayase Rie | Hard | 180.0 | 307 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [Hard].mc` |
-| 4706 | Yuima-ru * World (TV Size) | Ayase Rie | Hyper | 180.0 | 384 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [Hyper].mc` |
-| 4707 | Yuima-ru * World (TV Size) | Ayase Rie | Normal | 180.0 | 191 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [Normal].mc` |
-| 4708 | Yuki wa Naniiro | Kotoha | Color of Love-Snow / G1NYA's Extra | 179.0 | 1021 | 197.8 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Color of Love-Snow  G1NYA's Extra].mc` |
-| 4709 | Yuki wa Naniiro | Kotoha | Deep Snow's Persistence / Hard | 179.0 | 1257 | 198.1 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Deep Snow's Persistence  Hard].mc` |
-| 4710 | Yuki wa Naniiro | Kotoha | First Snow's Wish / DH's Easy | 179.0 | 544 | 198.3 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [First Snow's Wish  DH's Easy].mc` |
-| 4711 | Yuki wa Naniiro | Kotoha | Light Snow's Doubt / Fapu's Normal | 179.0 | 857 | 198.1 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Light Snow's Doubt  Fapu's Normal].mc` |
-| 4712 | Yuki wa Naniiro | Kotoha | Melting Snow's Promise / Neko's Expert | 179.0 | 969 | 197.8 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Melting Snow's Promise  Neko's Expert].mc` |
-| 4713 | Yuki wa Naniiro | Kotoha | Warm Snow's Touch / Nabi's Insane | 179.0 | 1049 | 197.6 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Warm Snow's Touch  Nabi's Insane].mc` |
-| 4714 | Yuki wa Naniiro | Kotoha | White Snow's Song / Extra | 179.0 | 1254 | 197.9 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [White Snow's Song  Extra].mc` |
-| 4715 | Yumemigokochi | Hamu | Beginner | 36.25 | 44 | 39.7 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Beginner].mc` |
-| 4716 | Yumemigokochi | Hamu | Easy | 36.25 | 51 | 39.7 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Easy].mc` |
-| 4717 | Yumemigokochi | Hamu | Hard | 36.25 | 41 | 38.0 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Hard].mc` |
-| 4718 | Yumemigokochi | Hamu | Melody | 36.25 | 60 | 39.7 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Melody].mc` |
-| 4719 | Yumemigokochi | Hamu | Normal | 36.25 | 22 | 38.0 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Normal].mc` |
-| 4720 | Yuuaku no Inori - Anima immortalis est. - | Imperial Circus Dead Decadence | Transcendent | 124.17 | 5636 | 438.0 | osu_mirror/community | `osu_mirror\2548485\Imperial Circus Dead Decadence - Yuuaku no Inori - Anima immortalis est. - (Furimuu-) [Transcendent].mc` |
-| 4721 | Yuzurenai (TV Size) | Fujikawa Chiai | Collab Insane | 90.0 | 422 | 82.8 | osu_mirror/community | `osu_mirror\2552898\Fujikawa Chiai - Yuzurenai (TV Size) (Kibitz) [Collab Insane].mc` |
-| 4722 | Yuzurenai (TV Size) | Fujikawa Chiai | Hard | 90.0 | 410 | 81.7 | osu_mirror/community | `osu_mirror\2552898\Fujikawa Chiai - Yuzurenai (TV Size) (Kibitz) [Hard].mc` |
-| 4723 | Yuzurenai (TV Size) | Fujikawa Chiai | Normal | 90.0 | 294 | 81.7 | osu_mirror/community | `osu_mirror\2552898\Fujikawa Chiai - Yuzurenai (TV Size) (Kibitz) [Normal].mc` |
-| 4724 | Zan'ei | kakichoco | Reflection | 180.0 | 2188 | 251.5 | osu_mirror/community | `osu_mirror\2199104\kakichoco - Zan'ei (Torru) [Reflection].mc` |
-| 4725 | Zero Centimeters (TV Size) | Ohara Yuiko | Easy | 77.0 | 138 | 77.5 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Easy].mc` |
-| 4726 | Zero Centimeters (TV Size) | Ohara Yuiko | Hard | 77.0 | 360 | 78.3 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Hard].mc` |
-| 4727 | Zero Centimeters (TV Size) | Ohara Yuiko | Normal | 77.0 | 211 | 78.1 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Normal].mc` |
-| 4728 | Zero Centimeters (TV Size) | Ohara Yuiko | Stay by my side, forever | 77.0 | 434 | 79.1 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Stay by my side, forever].mc` |
-| 4729 | Ziqqurat | Yunosuke | Zabt | 163.0 | 1060 | 225.2 | osu_mirror/community | `osu_mirror\2539338\Yunosuke - Ziqqurat (chy030_ft_pH5_6) [Zabt].mc` |
-| 4730 | Zoisite | Ludicin | Ca2Al3(SiO4)(Si2O7)O(OH) | 220.0 | 1610 | 220.3 | osu_mirror/community | `osu_mirror\2537599\Ludicin - Zoisite (tapperruiii) [Ca2Al3(SiO4)(Si2O7)O(OH)].mc` |
-| 4731 | ~GOLDENERNOCTURNE~ | 777system | Divine Retribution (w/ Cinelia) | 180.0 | 3760 | 384.3 | osu_mirror/community | `osu_mirror\2588492\777system - ~GOLDENERNOCTURNE~ (V1do-) [Divine Retribution (w Cinelia)].mc` |
+| 2498 | "Forever" (Cut Ver.) | Chevy | Easy | 165.0 | 272 | 86.7 | osu_mirror/community | `osu_mirror\2473546\Chevy - Forever (Cut Ver.) (SimpForTakagi) [Easy].mc` |
+| 2499 | "Forever" (Cut Ver.) | Chevy | IT's Hard | 165.0 | 561 | 87.1 | osu_mirror/community | `osu_mirror\2473546\Chevy - Forever (Cut Ver.) (SimpForTakagi) [IT's Hard].mc` |
+| 2500 | "Forever" (Cut Ver.) | Chevy | Lizyuu's Normal | 165.0 | 445 | 86.2 | osu_mirror/community | `osu_mirror\2473546\Chevy - Forever (Cut Ver.) (SimpForTakagi) [Lizyuu's Normal].mc` |
+| 2501 | "Forever" (Cut Ver.) | Chevy | Timeless Memories | 165.0 | 691 | 86.5 | osu_mirror/community | `osu_mirror\2473546\Chevy - Forever (Cut Ver.) (SimpForTakagi) [Timeless Memories].mc` |
+| 2502 | #WE <3 YURI | Juztan | YURI TIME WA OWARANAI | 230.0 | 7670 | 384.8 | osu_mirror/community | `osu_mirror\2555754\Juztan - #WE 3 YURI (SuzumeAyase) [YURI TIME WA OWARANAI].mc` |
+| 2503 | +ERABY+E CONNEC+10N | Camellia | 1024 G1GABY+ES | 230.0 | 2652 | 299.5 | osu_mirror/community | `osu_mirror\2554787\Camellia - +ERABY+E CONNEC+10N (lik_0) [1024 G1GABY+ES].mc` |
+| 2504 | - FALLEN - | Kaneko Chiharu | - DEGRADATION - | 99.5 | 690 | 152.0 | osu_mirror/community | `osu_mirror\2403736\Kaneko Chiharu - - FALLEN - (riunosk) [- DEGRADATION -].mc` |
+| 2505 | - FALLEN - | Kaneko Chiharu | FAMoss' - INSANE - | 99.5 | 983 | 163.7 | osu_mirror/community | `osu_mirror\2403736\Kaneko Chiharu - - FALLEN - (riunosk) [FAMoss' - INSANE -].mc` |
+| 2506 | 1,2,3 no LOVE Sign | DJ Genki feat. Aitsuki Nakuru | Heartflutter | 180.0 | 1723 | 228.0 | osu_mirror/community | `osu_mirror\2498155\DJ Genki feat. Aitsuki Nakuru - 1,2,3 no LOVE Sign (Usagi_) [Heartflutter].mc` |
+| 2507 | 1,2,3 no LOVE Sign | DJ Genki feat. Aitsuki Nakuru | Insane | 180.0 | 3289 | 228.0 | osu_mirror/community | `osu_mirror\2498155\DJ Genki feat. Aitsuki Nakuru - 1,2,3 no LOVE Sign (Usagi_) [Insane].mc` |
+| 2508 | 168 - 401 | saradisk | easy | 200.0 | 381 | 76.2 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [easy].mc` |
+| 2509 | 168 - 401 | saradisk | hard | 200.0 | 743 | 76.7 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [hard].mc` |
+| 2510 | 168 - 401 | saradisk | insane | 200.0 | 1040 | 76.7 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [insane].mc` |
+| 2511 | 168 - 401 | saradisk | my bloodline ends with me | 200.0 | 1031 | 76.3 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [my bloodline ends with me].mc` |
+| 2512 | 168 - 401 | saradisk | normal | 200.0 | 503 | 76.2 | osu_mirror/community | `osu_mirror\2516285\saradisk - 168 - 401 (BlankFace74) [normal].mc` |
+| 2513 | 2isin6 | Notk.Y | Another | 202.6 | 1630 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Another].mc` |
+| 2514 | 2isin6 | Notk.Y | Insane | 202.6 | 1336 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Insane].mc` |
+| 2515 | 2isin6 | Notk.Y | Llee's Hard | 202.6 | 999 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Llee's Hard].mc` |
+| 2516 | 2isin6 | Notk.Y | Sya's Easy | 202.6 | 431 | 116.1 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Sya's Easy].mc` |
+| 2517 | 2isin6 | Notk.Y | Syr's Normal | 202.6 | 809 | 117.3 | osu_mirror/community | `osu_mirror\2508959\Notk.Y - 2isin6 ([ A v a l o n ]) [Syr's Normal].mc` |
+| 2518 | 39-byou | respon feat. Hatsune Miku | Easy | 158.0 | 79 | 36.3 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [Easy].mc` |
+| 2519 | 39-byou | respon feat. Hatsune Miku | Hard | 158.0 | 187 | 35.9 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [Hard].mc` |
+| 2520 | 39-byou | respon feat. Hatsune Miku | Insane | 158.0 | 242 | 35.9 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [Insane].mc` |
+| 2521 | 39-byou | respon feat. Hatsune Miku | SN's Normal | 158.0 | 194 | 36.3 | osu_mirror/community | `osu_mirror\2301831\respon feat. Hatsune Miku - 39-byou (Amasugi) [SN's Normal].mc` |
+| 2522 | 514 | maritumix | Subterranean Rose | 135.0 | 1500 | 257.1 | osu_mirror/community | `osu_mirror\2516975\maritumix - 514 ([GB]Cinelia) [Subterranean Rose].mc` |
+| 2523 | 67 (Six Seven) | Gazan | 6_7 | 120.0 | 836 | 80.0 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [6_7].mc` |
+| 2524 | 67 (Six Seven) | Gazan | Adv6nc7d | 120.0 | 476 | 81.8 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [Adv6nc7d].mc` |
+| 2525 | 67 (Six Seven) | Gazan | H6p7r | 120.0 | 583 | 81.2 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [H6p7r].mc` |
+| 2526 | 67 (Six Seven) | Gazan | Ins6n7 | 120.0 | 715 | 81.2 | osu_mirror/community | `osu_mirror\2537768\Gazan - 67 (Six Seven) (keksikosu) [Ins6n7].mc` |
+| 2527 | <3#006 w/yax03 | sath4 | Insane, | 140.0 | 2233 | 260.6 | osu_mirror/community | `osu_mirror\2141771\sath4 - 3#006 wyax03 (AlexDunk) [Insane,].mc` |
+| 2528 | <3#006 w/yax03 | sath4 | Recollectia, w/ [-SVzzZ-] | 140.0 | 2265 | 260.6 | osu_mirror/community | `osu_mirror\2141771\sath4 - 3#006 wyax03 (AlexDunk) [Recollectia, w [-SVzzZ-]].mc` |
+| 2529 | =/=Virtual Futural | Marmalade butcher | Intangible | 150.0 | 1800 | 184.2 | osu_mirror/community | `osu_mirror\2472364\Marmalade butcher - ==Virtual Futural (V1do-) [Intangible].mc` |
+| 2530 | ?_? | 7_7 | !_! // collab insane | 220.0 | 1746 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [!_!  collab insane].mc` |
+| 2531 | ?_? | 7_7 | #_# // znow's expert | 220.0 | 2335 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [#_#  znow's expert].mc` |
+| 2532 | ?_? | 7_7 | @_@ // extra | 220.0 | 2564 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [@_@  extra].mc` |
+| 2533 | ?_? | 7_7 | ^_^ // another | 220.0 | 2067 | 136.4 | osu_mirror/community | `osu_mirror\2174796\7_7 - _ (Naiibe) [^_^  another].mc` |
+| 2534 | A Cybernetic-Superluminal-Apocalyptic Post-War Divination | Xyris | Affective Disorder | 80.0 | 3655 | 216.7 | osu_mirror/community | `osu_mirror\2527014\Xyris - A Cybernetic-Superluminal-Apocalyptic Post-War Divination (Concepte) [Affective Disorder].mc` |
+| 2535 | A Match Into Water | Pierce The Veil | Worthless' Hard | 196.0 | 1726 | 204.5 | osu_mirror/community | `osu_mirror\2508953\Pierce The Veil - A Match Into Water (Roupus) [Worthless' Hard].mc` |
+| 2536 | A Match Into Water | Pierce The Veil | Worthless' Prayer and a Promise | 196.0 | 2299 | 204.5 | osu_mirror/community | `osu_mirror\2508953\Pierce The Veil - A Match Into Water (Roupus) [Worthless' Prayer and a Promise].mc` |
+| 2537 | A! Mei Li Ka Luo | ChiliChill | Good Afternoon | 108.0 | 1017 | 226.5 | osu_mirror/community | `osu_mirror\2532676\ChiliChill - A! Mei Li Ka Luo (AelSan) [Good Afternoon].mc` |
+| 2538 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | dcdd's Normal | 146.0 | 350 | 85.4 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [dcdd's Normal].mc` |
+| 2539 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | DH's Insane | 146.0 | 664 | 85.9 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [DH's Insane].mc` |
+| 2540 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | Kenran no Koi | 146.0 | 607 | 85.8 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [Kenran no Koi].mc` |
+| 2541 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | Nabi's Hard | 146.0 | 623 | 85.9 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [Nabi's hard].mc` |
+| 2542 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | pai's Easy | 146.0 | 243 | 85.9 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [pai's Easy].mc` |
+| 2543 | Aa Kenran no Yume ga Gotoku (Game Ver.) | Uinyasu, Occhoko Bunny | Xi's Extra | 146.0 | 647 | 85.8 | osu_mirror/community | `osu_mirror\2561883\Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Game ver.) (nai_) [Xi's Extra].mc` |
+| 2544 | Abendstern | seatrus | AndreyChomik's Hyper | 247.0 | 983 | 111.0 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [AndreyChomik's Hyper].mc` |
+| 2545 | Abendstern | seatrus | Ascension | 247.0 | 1713 | 109.9 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Ascension].mc` |
+| 2546 | Abendstern | seatrus | Hard | 247.0 | 1024 | 109.9 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Hard].mc` |
+| 2547 | Abendstern | seatrus | Insane | 247.0 | 1349 | 109.6 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Insane].mc` |
+| 2548 | Abendstern | seatrus | Normal | 247.0 | 537 | 110.6 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Normal].mc` |
+| 2549 | Abendstern | seatrus | Vincus' Extra | 247.0 | 1651 | 110.4 | osu_mirror/community | `osu_mirror\2127527\seatrus - Abendstern (Maiiy) [Vincus' Extra].mc` |
+| 2550 | ABYSS MOTION 192.333 | TSAR & ariiol & Sou | I love you at the heartbeat 192.333 | 192.33 | 1060 | 124.7 | osu_mirror/community | `osu_mirror\2418138\TSAR & ariiol & Sou - ABYSS MOTION 192.333 (G1NYA) [I love you at the heartbeat 192.333].mc` |
+| 2551 | ABYSS MOTION 192.333 | TSAR & ariiol & Sou | Insane | 192.33 | 1113 | 124.7 | osu_mirror/community | `osu_mirror\2418138\TSAR & ariiol & Sou - ABYSS MOTION 192.333 (G1NYA) [Insane].mc` |
+| 2552 | ABYSS MOTION 192.333 | TSAR & ariiol & Sou | oid45's Hyper | 192.33 | 847 | 124.2 | osu_mirror/community | `osu_mirror\2418138\TSAR & ariiol & Sou - ABYSS MOTION 192.333 (G1NYA) [oid45's Hyper].mc` |
+| 2553 | ABYSS MOTION 192.333 | TSAR & ariiol & Sou | Platinum's I crash at the speed 192.333 | 192.33 | 1675 | 124.4 | osu_mirror/community | `osu_mirror\2418138\TSAR & ariiol & Sou - ABYSS MOTION 192.333 (G1NYA) [Platinum's I crash at the speed 192.333].mc` |
+| 2554 | ADRENA | YOASOBI | Everchanging Days | 170.0 | 1529 | 183.9 | osu_mirror/community | `osu_mirror\2570715\YOASOBI - ADRENA (SansanQWQ) [Everchanging days].mc` |
+| 2555 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Hard | 128.0 | 101 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Hard].mc` |
+| 2556 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Insane | 128.0 | 73 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Insane].mc` |
+| 2557 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Normal | 128.0 | 70 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Normal].mc` |
+| 2558 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | High Cortisol Uma | 128.0 | 101 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [High Cortisol Uma].mc` |
+| 2559 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Hard | 128.0 | 252 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Hard].mc` |
+| 2560 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Insane | 128.0 | 352 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Insane].mc` |
+| 2561 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Normal | 128.0 | 106 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Normal].mc` |
+| 2562 | Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) | TIA feat. Le Thien Hieu | Low Cortisol Uma | 128.0 | 472 | 31.9 | osu_mirror/community | `osu_mirror\2511397\TIA feat. Le Thien Hieu - Ai Dua Em Ve (Cukak Remix) (Agnes Tachyon Low Cortisol Edit) (Cut Ver.) (Slowpoke104) [Low Cortisol Uma].mc` |
+| 2563 | Ai no Zanshi | Aitsuki Nakuru | Boring's First Judgement | 174.0 | 804 | 190.6 | osu_mirror/community | `osu_mirror\2438960\Aitsuki Nakuru - Ai no Zanshi (LINQAQ) [Boring's First Judgement].mc` |
+| 2564 | Ai no Zanshi | Aitsuki Nakuru | Final Execution | 174.0 | 918 | 192.8 | osu_mirror/community | `osu_mirror\2438960\Aitsuki Nakuru - Ai no Zanshi (LINQAQ) [Final Execution].mc` |
+| 2565 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.05x | 210.0 | 657 | 249.1 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.05x].mc` |
+| 2566 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.15x | 230.0 | 657 | 227.4 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.15x].mc` |
+| 2567 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.1x | 220.0 | 657 | 237.8 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.1x].mc` |
+| 2568 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN 1.2x | 240.0 | 657 | 217.9 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN 1.2x].mc` |
+| 2569 | Aimai Attitude (feat. Nakamura Sanso) | rejection | Aimai LN | 200.0 | 657 | 261.5 | osu_mirror/community | `osu_mirror\2048716\rejection - Aimai Attitude (feat. Nakamura Sanso) (Begin) [Aimai LN].mc` |
+| 2570 | Aishite Aishite Aishite | Kikuo | 1.0 [0.9x Rate] | 207.0 | 2469 | 250.0 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [0.9x Rate]].mc` |
+| 2571 | Aishite Aishite Aishite | Kikuo | 1.0 [1.1x Rate] | 253.0 | 2748 | 224.7 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [1.1x Rate]].mc` |
+| 2572 | Aishite Aishite Aishite | Kikuo | 1.0 [1.2x Rate] | 276.0 | 2748 | 206.0 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [1.2x Rate]].mc` |
+| 2573 | Aishite Aishite Aishite | Kikuo | 1.0 [1.3x Rate] | 299.0 | 2748 | 190.2 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0 [1.3x Rate]].mc` |
+| 2574 | Aishite Aishite Aishite | Kikuo | 1.0 | 230.0 | 2748 | 247.2 | osu_mirror/community | `osu_mirror\1919434\Kikuo - Aishite Aishite Aishite (ZenovaX) [1.0].mc` |
+| 2575 | Aitoki*Cherishing (Game Ver.) | KyoKa | Fapu's Normal / Amairo Chocolate 2 | 182.0 | 411 | 94.9 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [Fapu's Normal  Amairo Chocolate 2].mc` |
+| 2576 | Aitoki*Cherishing (Game Ver.) | KyoKa | G1NYA's Hard / Amairo Chocolate 3 | 182.0 | 548 | 94.6 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [G1NYA's Hard  Amairo Chocolate 3].mc` |
+| 2577 | Aitoki*Cherishing (Game Ver.) | KyoKa | My Beloved Kohana | 182.0 | 677 | 94.9 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [My Beloved Kohana].mc` |
+| 2578 | Aitoki*Cherishing (Game Ver.) | KyoKa | SuiFeng's Easy / Amairo Chocolate 1 | 182.0 | 144 | 94.9 | osu_mirror/community | `osu_mirror\2567115\KyoKa - AitokiCherishing (Game Ver.) (nai_) [SuiFeng's Easy  Amairo Chocolate 1].mc` |
+| 2579 | Akashic Hex | Halv | Echoes of the Primordials | 150.0 | 1146 | 332.7 | osu_mirror/community | `osu_mirror\2442155\Halv - Akashic Hex (Saemitsu) [Echoes of the Primordials].mc` |
+| 2580 | AKRASIA | Sydosys | INDOLENCE (NSV) | 170.0 | 1241 | 146.8 | osu_mirror/community | `osu_mirror\2250149\Sydosys - AKRASIA (TheFunk) [INDOLENCE (NSV)].mc` |
+| 2581 | AKRASIA | Sydosys | INDOLENCE | 170.0 | 1241 | 4.4 | osu_mirror/community | `osu_mirror\2250149\Sydosys - AKRASIA (TheFunk) [INDOLENCE].mc` |
+| 2582 | Aletheia (fake lover, fake summer) | Null Specification | never-ending promise | 200.0 | 4522 | 326.6 | osu_mirror/community | `osu_mirror\2218815\Null Specification - Aletheia (fake lover, fake summer) (Mejiro) [never-ending promise].mc` |
+| 2583 | Algebra | Function Phantom | Logaritmo Natural 1.05x | 185.85 | 142 | 224.9 | osu_mirror/community | `osu_mirror\1568619\Function Phantom - Algebra (juankristal) [Logaritmo Natural 1.05x].mc` |
+| 2584 | Algebra | Function Phantom | Logaritmo Natural 1.1x | 194.7 | 142 | 214.6 | osu_mirror/community | `osu_mirror\1568619\Function Phantom - Algebra (juankristal) [Logaritmo Natural 1.1x].mc` |
+| 2585 | Algebra | Function Phantom | Logaritmo Natural | 177.0 | 142 | 236.1 | osu_mirror/community | `osu_mirror\1568619\Function Phantom - Algebra (juankristal) [Logaritmo Natural].mc` |
+| 2586 | All in on Your Shadow | NormalM vs. f2 | Bargaining Chip | 150.0 | 3476 | 306.4 | osu_mirror/community | `osu_mirror\2612696\NormalM vs. f2 - All in on Your Shadow (rikan) [Bargaining Chip].mc` |
+| 2587 | All Star | No Reply | Jazz Star | 63.5 | 575 | 145.4 | osu_mirror/community | `osu_mirror\2592373\No Reply - All Star (GDBlack) [Jazz Star].mc` |
+| 2588 | allnight flipers on midsummer | allnight flipers | Scatteredstreet | 128.0 | 2318 | 284.1 | osu_mirror/community | `osu_mirror\2494950\allnight flipers - allnight flipers on midsummer (QwertYui345) [Scatteredstreet].mc` |
+| 2589 | Alpha Centauri (Receptor Remix) (Cut Ver.) | Noisia | Terminal | 102.0 | 3123 | 305.9 | osu_mirror/community | `osu_mirror\1670140\Noisia - Alpha Centauri (Receptor Remix) (Cut Ver.) (hna) [Terminal].mc` |
+| 2590 | Altitude | kioik | Another // pura's 4K | 188.0 | 1560 | 142.7 | osu_mirror/community | `osu_mirror\2416343\kioik - Altitude (-GRJ-) [Another  pura's 4K].mc` |
+| 2591 | Altitude | kioik | Insane // G1NYA's 4K | 188.0 | 1171 | 141.5 | osu_mirror/community | `osu_mirror\2416343\kioik - Altitude (-GRJ-) [Insane  G1NYA's 4K].mc` |
+| 2592 | Altitude | kioik | Nefelibata // G1NYA's 4K | 188.0 | 1310 | 141.5 | osu_mirror/community | `osu_mirror\2416343\kioik - Altitude (-GRJ-) [Nefelibata  G1NYA's 4K].mc` |
+| 2593 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 1 | 222.0 | 583 | 156.5 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [1].mc` |
+| 2594 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 3 | 222.0 | 1089 | 156.4 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [3].mc` |
+| 2595 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 5 | 222.0 | 1680 | 156.4 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [5].mc` |
+| 2596 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | 7 | 222.0 | 2166 | 156.6 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [7].mc` |
+| 2597 | An Abyss That Swallows Light (Cut Ver.) | Siyou Inagawa | Mystery of Night Sky | 222.0 | 2754 | 156.4 | osu_mirror/community | `osu_mirror\2424749\Siyou Inagawa - An Abyss That Swallows Light (Cut Ver.) (eZmmR) [Mystery of Night Sky].mc` |
+| 2598 | Anchorite | KOAN Sound | Hyperluminal | 155.0 | 2890 | 297.5 | osu_mirror/community | `osu_mirror\2479871\KOAN Sound - Anchorite (Auros) [Hyperluminal].mc` |
+| 2599 | Angel Ring | cygnus | Another | 140.0 | 2027 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Another].mc` |
+| 2600 | Angel Ring | cygnus | Beginner | 140.0 | 192 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Beginner].mc` |
+| 2601 | Angel Ring | cygnus | Easy | 140.0 | 462 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Easy].mc` |
+| 2602 | Angel Ring | cygnus | Extra | 140.0 | 2291 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Extra].mc` |
+| 2603 | Angel Ring | cygnus | Extreme | 140.0 | 2541 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Extreme].mc` |
+| 2604 | Angel Ring | cygnus | Hard | 140.0 | 1284 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Hard].mc` |
+| 2605 | Angel Ring | cygnus | Hyper | 140.0 | 1508 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Hyper].mc` |
+| 2606 | Angel Ring | cygnus | Insane | 140.0 | 1738 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Insane].mc` |
+| 2607 | Angel Ring | cygnus | Normal | 140.0 | 826 | 123.4 | osu_mirror/community | `osu_mirror\2466842\cygnus - Angel Ring (Anwul_) [Normal].mc` |
+| 2608 | Ankh Natron Collider | Kou! | Condensed | 166.0 | 5394 | 345.8 | osu_mirror/community | `osu_mirror\2527757\Kou! - Ankh Natron Collider ([GB]Kita-) [Condensed].mc` |
+| 2609 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Easy | 180.0 | 328 | 102.5 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Easy].mc` |
+| 2610 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Hanabi | 180.0 | 854 | 102.2 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Hanabi].mc` |
+| 2611 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Hard | 180.0 | 654 | 102.5 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Hard].mc` |
+| 2612 | Ano Yume o Nazotte | Poppin'Party x Tokino Sora | Normal | 180.0 | 493 | 102.5 | osu_mirror/community | `osu_mirror\2199111\Poppin'Party x Tokino Sora - Ano Yume o Nazotte (ML-ysg) [Normal].mc` |
+| 2613 | ANTICYCLONE | inabakumori | Secret sounds for you | 154.0 | 39614 | 2270.4 | osu_mirror/community | `osu_mirror\2114594\inabakumori - ANTICYCLONE (caracol) [Secret sounds for you].mc` |
+| 2614 | Antinomie | aa...hisuichazuke... | advanced | 242.0 | 1240 | 138.8 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [advanced].mc` |
+| 2615 | Antinomie | aa...hisuichazuke... | contradistinction feat. lude | 242.0 | 2015 | 138.2 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [contradistinction feat. lude].mc` |
+| 2616 | Antinomie | aa...hisuichazuke... | dendro_'s master | 242.0 | 2049 | 138.7 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [dendro_'s master].mc` |
+| 2617 | Antinomie | aa...hisuichazuke... | maiiy's expert | 242.0 | 1642 | 138.7 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [maiiy's expert].mc` |
+| 2618 | Antinomie | aa...hisuichazuke... | toumin's basic | 242.0 | 642 | 126.3 | osu_mirror/community | `osu_mirror\2415880\aa...hisuichazuke... - Antinomie (HimenoMizuki) [toumin's basic].mc` |
+| 2619 | Antisphere | DJ Raisei | +- | 134.0 | 1876 | 200.5 | osu_mirror/community | `osu_mirror\2526770\DJ Raisei - Antisphere (PlatinumSplash) [+-].mc` |
+| 2620 | Antler | Juggernaut. | Blossom | 180.0 | 691 | 197.3 | osu_mirror/community | `osu_mirror\2462963\Juggernaut. - Antler (lan_qiu) [Blossom].mc` |
+| 2621 | Antler | Juggernaut. | Expert | 180.0 | 618 | 197.2 | osu_mirror/community | `osu_mirror\2462963\Juggernaut. - Antler (lan_qiu) [Expert].mc` |
+| 2622 | Are We Still Young | Grant feat. Juneau | Growing Up is Optional | 110.0 | 608 | 208.9 | osu_mirror/community | `osu_mirror\2600104\Grant feat. Juneau - Are We Still Young (OJQ) [Growing Up is Optional].mc` |
+| 2623 | Arielle's Wish | Aethoro | I yearned for nothing but happiness, and now I have received... | 57.0 | 1712 | 406.0 | osu_mirror/community | `osu_mirror\2533002\Aethoro - Arielle's Wish (- ASAHINA -) [I yearned for nothing but happiness, and now I have received...].mc` |
+| 2624 | Artlunefal feat. eili | roer & NormalM (as Final Art) | Unwavering Courage :: Unadulterated Divinity | 240.0 | 2498 | 236.7 | osu_mirror/community | `osu_mirror\2521429\roer & NormalM (as Final Art) - Artlunefal feat. eili (soup3r) [Unwavering Courage  Unadulterated Divinity].mc` |
+| 2625 | AscensiO | Raphiiel | IllusiO :: Lament of the Unredeemed | 105.0 | 4937 | 349.7 | osu_mirror/community | `osu_mirror\2608888\Raphiiel - AscensiO ([Crz]Cardiloid) [IllusiO  Lament of the Unredeemed].mc` |
+| 2626 | Asgard (Game Ver.) | Yousei Teikoku | andryzx's Hard | 260.0 | 868 | 92.2 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [andryzx's Hard].mc` |
+| 2627 | Asgard (Game Ver.) | Yousei Teikoku | Cyy's Normal | 260.0 | 628 | 92.5 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [Cyy's Normal].mc` |
+| 2628 | Asgard (Game Ver.) | Yousei Teikoku | eZmmR's Humanoid | 260.0 | 1403 | 92.1 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [eZmmR's Humanoid].mc` |
+| 2629 | Asgard (Game Ver.) | Yousei Teikoku | Insane | 260.0 | 1102 | 91.2 | osu_mirror/community | `osu_mirror\2591197\Yousei Teikoku - Asgard (Game Ver.) ([Yae]_Sayana_) [Insane].mc` |
+| 2630 | Asgore Runs Over Dess | Bub8les | 4k Advanced | 120.0 | 293 | 30.5 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [4k Advanced].mc` |
+| 2631 | Asgore Runs Over Dess | Bub8les | 4k Beginner | 120.0 | 114 | 30.0 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [4k Beginner].mc` |
+| 2632 | Asgore Runs Over Dess | Bub8les | 4k Easy | 120.0 | 169 | 30.5 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [4k Easy].mc` |
+| 2633 | Asgore Runs Over Dess | Bub8les | 4k Hard | 120.0 | 358 | 30.5 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [4k Hard].mc` |
+| 2634 | Asgore Runs Over Dess | Bub8les | 4k Normal | 120.0 | 241 | 30.5 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [4k Normal].mc` |
+| 2635 | Asgore Runs Over Dess | Bub8les | Cirno's 4k Insane | 120.0 | 455 | 30.5 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [Cirno's 4k Insane].mc` |
+| 2636 | Asgore Runs Over Dess | Bub8les | Concepte's 4k Hyper | 120.0 | 413 | 30.5 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [Concepte's 4k Hyper].mc` |
+| 2637 | Asgore Runs Over Dess | Bub8les | DUI | 120.0 | 540 | 30.7 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [DUI].mc` |
+| 2638 | Asgore Runs Over Dess | Bub8les | RalseiMania's 4k Basic | 120.0 | 67 | 30.0 | osu_mirror/community | `osu_mirror\2411445\Bub8les - Asgore Runs Over Dess (Skibidi Toilet) [RalseiMania's 4k Basic].mc` |
+| 2639 | Ashita no Hanatachi (TV Size) | Sanshuu Chuugaku Yuusha-bu | Hard | 178.0 | 417 | 83.6 | osu_mirror/community | `osu_mirror\2560261\Sanshuu Chuugaku Yuusha-bu - Ashita no Hanatachi (TV Size) (Xiaollull) [Hard].mc` |
+| 2640 | Ashita no Hanatachi (TV Size) | Sanshuu Chuugaku Yuusha-bu | Insane | 178.0 | 326 | 83.3 | osu_mirror/community | `osu_mirror\2560261\Sanshuu Chuugaku Yuusha-bu - Ashita no Hanatachi (TV Size) (Xiaollull) [Insane].mc` |
+| 2641 | Ashita no Hanatachi (TV Size) | Sanshuu Chuugaku Yuusha-bu | Normal | 178.0 | 249 | 83.6 | osu_mirror/community | `osu_mirror\2560261\Sanshuu Chuugaku Yuusha-bu - Ashita no Hanatachi (TV Size) (Xiaollull) [Normal].mc` |
+| 2642 | asphyxia | Co shu Nie | eZmmR's 4K anesthesia | 102.0 | 569 | 163.8 | osu_mirror/community | `osu_mirror\760885\Co shu Nie - asphyxia (MisterLuka) [eZmmR's 4K anesthesia].mc` |
+| 2643 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Easy | 71.7 | 97 | 46.9 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Easy].mc` |
+| 2644 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Geo's Insane | 71.7 | 460 | 46.1 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Geo's Insane].mc` |
+| 2645 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Hyper | 71.7 | 374 | 46.7 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Hyper].mc` |
+| 2646 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | In the Waterlogged City | 71.7 | 566 | 46.7 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [In the Waterlogged City].mc` |
+| 2647 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Murumoo's Hard | 71.7 | 349 | 45.4 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Murumoo's Hard].mc` |
+| 2648 | Atlantis (TV Size) | Danny Jacob, Phineas and Ferb Cast | Normal | 71.7 | 148 | 46.9 | osu_mirror/community | `osu_mirror\2370102\Danny Jacob, Phineas and Ferb Cast - Atlantis (TV Size) (Cobalt-) [Normal].mc` |
+| 2649 | Autonomy | Kotone | Independence | 230.0 | 3612 | 223.2 | osu_mirror/community | `osu_mirror\2525692\Kotone - Autonomy (Oceanus) [Independence].mc` |
+| 2650 | AWAKE | Hoshimachi Suisei | Sentience | 145.0 | 443 | 188.1 | osu_mirror/community | `osu_mirror\2366067\Hoshimachi Suisei - AWAKE (anatharax) [Sentience].mc` |
+| 2651 | Back to the Real Life | Yoon Sang | False Reality 1.1x | 135.3 | 2880 | 141.5 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.1x].mc` |
+| 2652 | Back to the Real Life | Yoon Sang | False Reality 1.2x | 147.6 | 2880 | 129.7 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.2x].mc` |
+| 2653 | Back to the Real Life | Yoon Sang | False Reality 1.3x | 159.9 | 2880 | 119.7 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.3x].mc` |
+| 2654 | Back to the Real Life | Yoon Sang | False Reality 1.4x | 172.2 | 2880 | 111.1 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality 1.4x].mc` |
+| 2655 | Back to the Real Life | Yoon Sang | False Reality | 123.0 | 2880 | 155.6 | osu_mirror/community | `osu_mirror\1879057\Yoon Sang - Back to the Real Life (SuddenDeath) [False Reality].mc` |
+| 2656 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Beginner | 95.0 | 53 | 39.8 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Beginner].mc` |
+| 2657 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Easy | 95.0 | 135 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Easy].mc` |
+| 2658 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Hard | 95.0 | 308 | 39.8 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Hard].mc` |
+| 2659 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Hyper | 95.0 | 378 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Hyper].mc` |
+| 2660 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Moyai | 95.0 | 474 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Moyai].mc` |
+| 2661 | Backyard Beach (TV Size) | Ferb (VO: Danny Jacob) | Normal | 95.0 | 199 | 39.5 | osu_mirror/community | `osu_mirror\2119120\Ferb (VO Danny Jacob) - Backyard Beach (TV Size) (BlankFace74) [Normal].mc` |
+| 2662 | Bad Apple!! feat. nomico | Masayoshi Minoshima | Where Good Falls Apart | 138.0 | 1694 | 208.7 | osu_mirror/community | `osu_mirror\2525813\Masayoshi Minoshima - Bad Apple!! feat. nomico (-Enma-) [Where Good Falls Apart].mc` |
+| 2663 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Avel's Extra | 200.0 | 3153 | 185.8 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Avel's Extra].mc` |
+| 2664 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Bring me back to the place I want to be | 200.0 | 3313 | 187.2 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Bring me back to the place I want to be].mc` |
+| 2665 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Hard | 200.0 | 1967 | 185.8 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Hard].mc` |
+| 2666 | Bad for me (Dz'Xa's Amenpunk) | Official HIGE DANdism | Insane | 200.0 | 2468 | 185.8 | osu_mirror/community | `osu_mirror\2195192\Official HIGE DANdism - Bad for me (Dz'Xa's Amenpunk) (DraterTD) [Insane].mc` |
+| 2667 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | insane... | 180.0 | 1538 | 114.8 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [insane...].mc` |
+| 2668 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | kingkiller's hard... | 180.0 | 1254 | 114.7 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [kingkiller's hard...].mc` |
+| 2669 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | nicknem's normal... | 180.0 | 908 | 114.7 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [nicknem's normal...].mc` |
+| 2670 | BAKENOHANA | 25-ji, Nightcord de. x KAITO | ruin... | 180.0 | 1902 | 114.8 | osu_mirror/community | `osu_mirror\2268842\25-ji, Nightcord de. x KAITO - BAKENOHANA (Stereotype) [ruin...].mc` |
+| 2671 | Balloon Party (feat. *namirin) | Mitsukiyo | Beginner | 145.0 | 455 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Beginner].mc` |
+| 2672 | Balloon Party (feat. *namirin) | Mitsukiyo | Easy | 145.0 | 730 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Easy].mc` |
+| 2673 | Balloon Party (feat. *namirin) | Mitsukiyo | Happy Air Parade | 145.0 | 1324 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Happy Air Parade].mc` |
+| 2674 | Balloon Party (feat. *namirin) | Mitsukiyo | Hard | 145.0 | 1212 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Hard].mc` |
+| 2675 | Balloon Party (feat. *namirin) | Mitsukiyo | Normal | 145.0 | 1071 | 237.3 | osu_mirror/community | `osu_mirror\2554554\Mitsukiyo - Balloon Party (feat. namirin) (Pyra-san) [Normal].mc` |
+| 2676 | Baryogenesis | celtix | Baryonic Overdrive | 281.0 | 1833 | 235.4 | osu_mirror/community | `osu_mirror\2475483\celtix - Baryogenesis (Astronian) [Baryonic Overdrive].mc` |
+| 2677 | Be alone | Bigdog oof | Morning glow, soft rays, and you. | 175.0 | 987 | 170.1 | osu_mirror/community | `osu_mirror\2506235\BigDog Oof - Be alone (suixiaofeng) [Morning glow, soft rays, and you.].mc` |
+| 2678 | Becoming Myself | nenpulse | Kiseki no Sairai | 175.0 | 1132 | 264.9 | osu_mirror/community | `osu_mirror\2461083\nenpulse - Becoming Myself (FlappiBakuse) [Kiseki no Sairai].mc` |
+| 2679 | Bed Bath & Batman Beyond | Origami Angel | Advanced | 205.0 | 372 | 54.3 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Advanced].mc` |
+| 2680 | Bed Bath & Batman Beyond | Origami Angel | Cactus | 205.0 | 775 | 52.2 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Cactus].mc` |
+| 2681 | Bed Bath & Batman Beyond | Origami Angel | Duckys' Hard | 205.0 | 533 | 52.2 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Duckys' Hard].mc` |
+| 2682 | Bed Bath & Batman Beyond | Origami Angel | Insane | 205.0 | 676 | 52.2 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Insane].mc` |
+| 2683 | Bed Bath & Batman Beyond | Origami Angel | Intermediate | 205.0 | 179 | 54.3 | osu_mirror/community | `osu_mirror\2549704\Origami Angel - Bed Bath & Batman Beyond (tapperruiii) [Intermediate].mc` |
+| 2684 | Believe (feat. Tsuyuri Karin) | P4koo | Azukkii's Normal | 177.0 | 340 | 68.8 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Azukkii's Normal].mc` |
+| 2685 | Believe (feat. Tsuyuri Karin) | P4koo | Easy | 177.0 | 139 | 59.4 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Easy].mc` |
+| 2686 | Believe (feat. Tsuyuri Karin) | P4koo | Seitora's Hard | 177.0 | 502 | 70.2 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Seitora's Hard].mc` |
+| 2687 | Believe (feat. Tsuyuri Karin) | P4koo | Trust Yourself | 177.0 | 609 | 70.2 | osu_mirror/community | `osu_mirror\2588346\P4koo - Believe (feat. Tsuyuri Karin) (-Zell) [Trust yourself].mc` |
+| 2688 | Beta (Camellia's "BlAst-Off" Remix) | BlackY | Ablaze | 280.0 | 1840 | 198.9 | osu_mirror/community | `osu_mirror\2488585\BlackY - Beta (Camellia's BlAst-Off Remix) (rikan) [Ablaze].mc` |
+| 2689 | bigbean gonna go byebye (not rly) | bigbean | byebye o/ | 160.0 | 1039 | 121.8 | osu_mirror/community | `osu_mirror\2555375\bigbean - bigbean gonna go byebye (not rly) (Linlime) [byebye o].mc` |
+| 2690 | bigbean gonna go byebye (not rly) | bigbean | hard | 160.0 | 890 | 121.8 | osu_mirror/community | `osu_mirror\2555375\bigbean - bigbean gonna go byebye (not rly) (Linlime) [Hard].mc` |
+| 2691 | bigbean gonna go byebye (not rly) | bigbean | insane | 160.0 | 914 | 121.8 | osu_mirror/community | `osu_mirror\2555375\bigbean - bigbean gonna go byebye (not rly) (Linlime) [Insane].mc` |
+| 2692 | Birds of Plague | ARForest | Easy | 200.0 | 375 | 152.9 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Easy].mc` |
+| 2693 | Birds of Plague | ARForest | Hard | 200.0 | 910 | 149.2 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Hard].mc` |
+| 2694 | Birds of Plague | ARForest | Insane | 200.0 | 881 | 143.9 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Insane].mc` |
+| 2695 | Birds of Plague | ARForest | Normal | 200.0 | 489 | 149.2 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [Normal].mc` |
+| 2696 | Birds of Plague | ARForest | The Cure | 200.0 | 686 | 143.9 | osu_mirror/community | `osu_mirror\2351212\ARForest - Birds of Plague (Superboygamer) [The Cure].mc` |
+| 2697 | BLACKOUT | D-D-Dice | World's Eclipse | 50.0 | 3288 | 180.4 | osu_mirror/community | `osu_mirror\2504403\D-D-Dice - BLACKOUT (Murumoo) [World's Eclipse].mc` |
+| 2698 | bleeding out | estes_ | easy | 175.0 | 225 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [easy].mc` |
+| 2699 | bleeding out | estes_ | hard | 175.0 | 610 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [Hard].mc` |
+| 2700 | bleeding out | estes_ | normal | 175.0 | 404 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [normal].mc` |
+| 2701 | bleeding out | estes_ | null | 175.0 | 771 | 54.9 | osu_mirror/community | `osu_mirror\2567048\estes_ - bleeding out (Azukkii) [null].mc` |
+| 2702 | bloo cat, bloo | linear ring | ^ -. -^   meow, woof   u^ w^ u | 103.0 | 1372 | 129.6 | osu_mirror/community | `osu_mirror\2610887\linear ring - bloo cat, bloo (DiscorDBoI) [^ -. -^   meow, woof   u^ w^ u].mc` |
+| 2703 | bloo cat, bloo | linear ring | extra   >.<"" | 103.0 | 1189 | 129.6 | osu_mirror/community | `osu_mirror\2610887\linear ring - bloo cat, bloo (DiscorDBoI) [extra   .].mc` |
+| 2704 | bloo cat, bloo | linear ring | szh's insane   ouo | 103.0 | 986 | 129.6 | osu_mirror/community | `osu_mirror\2610887\linear ring - bloo cat, bloo (DiscorDBoI) [szh's insane   ouo].mc` |
+| 2705 | Blood Theme (TV Size) | Daniel Licht | 4K Hard | 87.15 | 71 | 36.2 | osu_mirror/community | `osu_mirror\2503137\Daniel Licht - Blood Theme (TV Size) (keksikosu) [4K Hard].mc` |
+| 2706 | Blood Theme (TV Size) | Daniel Licht | 4K Just can't prove it... | 87.15 | 88 | 36.2 | osu_mirror/community | `osu_mirror\2503137\Daniel Licht - Blood Theme (TV Size) (keksikosu) [4K Just can't prove it...].mc` |
+| 2707 | Blood Theme (TV Size) | Daniel Licht | 4K Normal | 87.15 | 35 | 35.6 | osu_mirror/community | `osu_mirror\2503137\Daniel Licht - Blood Theme (TV Size) (keksikosu) [4K Normal].mc` |
+| 2708 | Bloodlines (The Impaler Finale) | Nstryder | Final Boss | 131.0 | 5749 | 254.9 | osu_mirror/community | `osu_mirror\2285625\Nstryder - Bloodlines (The Impaler Finale) (Vincy_02) [Final Boss].mc` |
+| 2709 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Azukkii's Hard | 163.2 | 551 | 74.8 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Azukkii's Hard].mc` |
+| 2710 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Easy | 163.2 | 193 | 80.4 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Easy].mc` |
+| 2711 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Love Affection <3 | 163.2 | 716 | 74.8 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Love Affection 3].mc` |
+| 2712 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Normal | 163.2 | 433 | 80.9 | osu_mirror/community | `osu_mirror\2574828\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (-Zell) [Normal].mc` |
+| 2713 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Easy | 179.96 | 247 | 77.7 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Easy].mc` |
+| 2714 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Hard | 179.96 | 486 | 77.2 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Hard].mc` |
+| 2715 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Insane | 179.96 | 583 | 77.7 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Insane].mc` |
+| 2716 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | Normal | 179.96 | 485 | 87.9 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [Normal].mc` |
+| 2717 | Blouse | Nanakura Rin (CV: Hayami Saori) & Kitahama Eiji (CV: Okamoto Nobuhiko) | The Role I Never Wanted to End | 179.96 | 499 | 78.5 | osu_mirror/community | `osu_mirror\2581597\Nanakura Rin (CV Hayami Saori) & Kitahama Eiji (CV Okamoto Nobuhiko) - Blouse (Savageeeee) [The Role I Never Wanted to End].mc` |
+| 2718 | Bluemark Canvas | Mitsukiyo | Immersion | 180.0 | 1630 | 127.6 | osu_mirror/community | `osu_mirror\2617920\Mitsukiyo - Bluemark Canvas ([Crz]Cardiloid) [Immersion].mc` |
+| 2719 | Bluemark Canvas | Mitsukiyo | kokor0's Hard | 180.0 | 1171 | 127.9 | osu_mirror/community | `osu_mirror\2617920\Mitsukiyo - Bluemark Canvas ([Crz]Cardiloid) [kokor0's Hard].mc` |
+| 2720 | Bluemark Canvas | Mitsukiyo | Vexxxx's Advanced | 180.0 | 989 | 127.9 | osu_mirror/community | `osu_mirror\2617920\Mitsukiyo - Bluemark Canvas ([Crz]Cardiloid) [Vexxxx's Advanced].mc` |
+| 2721 | Body F10ating in the Zero Gravity Space | Camellia | Exit This Earth's Atomosphere | 170.0 | 2420 | 248.5 | osu_mirror/community | `osu_mirror\2631845\Camellia - Body F10ating in the Zero Gravity Space ([GB]Cinelia) [Exit This Earth's Atomosphere].mc` |
+| 2722 | Body to the Drum | Slax | Expert | 230.0 | 2535 | 183.7 | osu_mirror/community | `osu_mirror\2540169\Slax - Body to the Drum (Naiibe) [Expert].mc` |
+| 2723 | Body to the Drum | Slax | Insane | 230.0 | 1789 | 183.7 | osu_mirror/community | `osu_mirror\2540169\Slax - Body to the Drum (Naiibe) [Insane].mc` |
+| 2724 | Boost Anima | KANKAN | Overdrive | 208.0 | 157 | 154.1 | osu_mirror/community | `osu_mirror\2238606\KANKAN - Boost Anima (fvrex) [Overdrive].mc` |
+| 2725 | Bosen | betcover!! | ashi o awasete! | 116.8 | 2654 | 166.4 | osu_mirror/community | `osu_mirror\2387241\betcover!! - bosen (Atman) [ashi o awasete!].mc` |
+| 2726 | Boulevard Of Broken Dreams | Green Day | Holiday | 75.5 | 3574 | 238.5 | osu_mirror/community | `osu_mirror\2556726\Green Day - Boulevard Of Broken Dreams (P45ta) [Holiday].mc` |
+| 2727 | Bourei | siraph | Where do ghosts go? Where do you go? | 150.0 | 3877 | 256.7 | osu_mirror/community | `osu_mirror\2419237\siraph - Bourei (caracol) [Where do ghosts go Where do you go].mc` |
+| 2728 | Breakcore WTF!? | LeaF | Miau's Extra | 250.0 | 1745 | 127.4 | osu_mirror/community | `osu_mirror\2362903\LeaF - Breakcore WTF! (Niko_Plays) [Miau's Extra].mc` |
+| 2729 | Breakcore WTF!? | LeaF | Mio's Insane | 250.0 | 1405 | 127.4 | osu_mirror/community | `osu_mirror\2362903\LeaF - Breakcore WTF! (Niko_Plays) [Mio's Insane].mc` |
+| 2730 | Breakcore WTF!? | LeaF | Mou Yada! | 250.0 | 2105 | 127.4 | osu_mirror/community | `osu_mirror\2362903\LeaF - Breakcore WTF! (Niko_Plays) [Mou Yada!].mc` |
+| 2731 | BRING IT ON | HIMEHINA | Superiority | 160.0 | 1666 | 225.9 | osu_mirror/community | `osu_mirror\2523928\HIMEHINA - BRING IT ON (VividCycle) [Superiority].mc` |
+| 2732 | Broken Hearts | eFeL | </3 | 100.0 | 352 | 223.2 | osu_mirror/community | `osu_mirror\2581376\eFeL - Broken Hearts (P45ta) [3].mc` |
+| 2733 | Bubblin' | HIMEHINA | Bubble Ladies, Bubble Love | 198.0 | 1771 | 192.4 | osu_mirror/community | `osu_mirror\2429015\HIMEHINA - Bubblin' (- Rika -) [Bubble ladies, Bubble love].mc` |
+| 2734 | bug | Kairiki bear feat. Hatsune Miku | Flawful | 186.0 | 511 | 163.5 | osu_mirror/community | `osu_mirror\1854104\Kairiki bear feat. Hatsune Miku - Bug (Micleak) [Flawful].mc` |
+| 2735 | BUILD AND SCRAP | Nanahoshi Kangengakudan feat. Hatsune Miku | REFITTED | 280.0 | 82 | 193.9 | osu_mirror/community | `osu_mirror\2250136\Nanahoshi Kangengakudan feat. Hatsune Miku - BUILD AND SCRAP (Hylotl) [REFITTED].mc` |
+| 2736 | Bukan Superstar | Project Pop | Superstar | 136.0 | 3228 | 229.4 | osu_mirror/community | `osu_mirror\2502631\Project Pop - Bukan Superstar (P45ta) [Superstar].mc` |
+| 2737 | BUZZ CUTZ | TWC Sound Team "Strike Back Squad" | FLOURISH | 193.0 | 7727 | 509.8 | osu_mirror/community | `osu_mirror\2551350\TWC Sound Team Strike Back Squad - BUZZ CUTZ (IceDynamix) [FLOURISH].mc` |
+| 2738 | BUZZ CUTZ | TWC Sound Team "Strike Back Squad" | Luminescence | 193.0 | 4553 | 303.2 | osu_mirror/community | `osu_mirror\2552201\TWC Sound Team Strike Back Squad - BUZZ CUTZ (-[ Peachy ]-) [Luminescence].mc` |
+| 2739 | Bye My Monster | ONF | Insane | 109.0 | 895 | 194.3 | osu_mirror/community | `osu_mirror\2312852\ONF - Bye My Monster (Xinhong1003) [Insane].mc` |
+| 2740 | Bye My Monster | ONF | Redemption | 109.0 | 803 | 192.9 | osu_mirror/community | `osu_mirror\2312852\ONF - Bye My Monster (Xinhong1003) [Redemption].mc` |
+| 2741 | Byouka | culenasm | Easy | 200.0 | 269 | 147.3 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Easy].mc` |
+| 2742 | Byouka | culenasm | Hard | 200.0 | 681 | 147.0 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Hard].mc` |
+| 2743 | Byouka | culenasm | Normal | 200.0 | 576 | 147.3 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Normal].mc` |
+| 2744 | Byouka | culenasm | Sava's Everlasting Summer | 200.0 | 1743 | 147.2 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Sava's Everlasting Summer].mc` |
+| 2745 | Byouka | culenasm | Sava's Hyper | 200.0 | 1131 | 147.1 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Sava's Hyper].mc` |
+| 2746 | Byouka | culenasm | Sava's Insane | 200.0 | 1321 | 147.2 | osu_mirror/community | `osu_mirror\2554791\culenasm - Byouka (Kibitz) [Sava's Insane].mc` |
+| 2747 | C-TYPE | Tanaka Hirokazu | Easy | 149.3 | 118 | 37.4 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [Easy].mc` |
+| 2748 | C-TYPE | Tanaka Hirokazu | Hard | 149.3 | 285 | 37.6 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [Hard].mc` |
+| 2749 | C-TYPE | Tanaka Hirokazu | Normal | 149.3 | 219 | 37.4 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [Normal].mc` |
+| 2750 | C-TYPE | Tanaka Hirokazu | T-SPIN!!! | 149.3 | 407 | 37.6 | osu_mirror/community | `osu_mirror\2561773\Tanaka Hirokazu - C-TYPE (Aikiyo Fuuka) [T-SPIN!!!].mc` |
+| 2751 | C://YOU NEX-TIME | takehirotei as "Infinite Limit" | C://YOU A-GAIN | 211.0 | 2820 | 389.0 | osu_mirror/community | `osu_mirror\2555395\takehirotei as Infinite Limit - CYOU NEX-TIME (-XnlinE-) [CYOU A-GAIN].mc` |
+| 2752 | Calamity of the Mystic Garden : Doom | Laur | Abnormal / Normal | 170.0 | 1053 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [Abnormal  Normal].mc` |
+| 2753 | Calamity of the Mystic Garden : Doom | Laur | astat11's Fable / Hard | 170.0 | 1840 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [astat11's Fable  Hard].mc` |
+| 2754 | Calamity of the Mystic Garden : Doom | Laur | astat11's Lure / Easy | 170.0 | 583 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [astat11's Lure  Easy].mc` |
+| 2755 | Calamity of the Mystic Garden : Doom | Laur | Helpless Resistance: Despair | 170.0 | 3180 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [Helpless Resistance Despair].mc` |
+| 2756 | Calamity of the Mystic Garden : Doom | Laur | Mysterious Tragedy / Insane | 170.0 | 2585 | 181.7 | osu_mirror/community | `osu_mirror\2528018\Laur - Calamity of the Mystic Garden  Doom (awowuspro) [Mysterious Tragedy  Insane].mc` |
+| 2757 | Can you feel the wind? | strxwberrymilk | Insane | 186.0 | 1910 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [Insane].mc` |
+| 2758 | Can you feel the wind? | strxwberrymilk | MD's Hard | 186.0 | 1589 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [MD's Hard].mc` |
+| 2759 | Can you feel the wind? | strxwberrymilk | mirac1e's Easy | 186.0 | 836 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [mirac1e's Easy].mc` |
+| 2760 | Can you feel the wind? | strxwberrymilk | Normal | 186.0 | 1198 | 195.5 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [Normal].mc` |
+| 2761 | Can you feel the wind? | strxwberrymilk | Typhoon | 186.0 | 2035 | 196.9 | osu_mirror/community | `osu_mirror\2178876\strxwberrymilk - Can you feel the wind (YunoMaya) [Typhoon].mc` |
+| 2762 | can't be anything | momone | Auros's expert | 205.0 | 2264 | 140.1 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Auros's Expert].mc` |
+| 2763 | can't be anything | momone | hyper | 205.0 | 1395 | 140.3 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Hyper].mc` |
+| 2764 | can't be anything | momone | insane | 205.0 | 2029 | 140.3 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Insane].mc` |
+| 2765 | can't be anything | momone | stay with me | 205.0 | 2548 | 140.3 | osu_mirror/community | `osu_mirror\2570403\momone - can't be anything (oid45) [Stay with me].mc` |
+| 2766 | Canaria | ReoNa | I wanted to be at your side forever. | 52.26 | 232 | 247.4 | osu_mirror/community | `osu_mirror\2528618\ReoNa - Canaria (melae) [I wanted to be at your side forever.].mc` |
+| 2767 | carbon skin | Giuseppe Gilardi | Quixotic | 144.0 | 2791 | 253.3 | osu_mirror/community | `osu_mirror\2484237\Giuseppe Gilardi - carbon skin (Auros) [Quixotic].mc` |
+| 2768 | Carry on singing to the sky | Unlucky Morpheus | ...Always remember what he sang | 121.0 | 2840 | 281.0 | osu_mirror/community | `osu_mirror\2443056\Unlucky Morpheus - Carry on singing to the sky (Ratchet0203) [...Always remember what he sang].mc` |
+| 2769 | Cartoon Candy | Kobaryo | Candy Party | 124.0 | 2390 | 182.1 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Candy Party].mc` |
+| 2770 | Cartoon Candy | Kobaryo | Ming's Expert | 124.0 | 2456 | 182.0 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Ming's Expert].mc` |
+| 2771 | Cartoon Candy | Kobaryo | Nicknem's Extra | 124.0 | 2434 | 182.1 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Nicknem's Extra].mc` |
+| 2772 | Cartoon Candy | Kobaryo | Selitation's Another | 124.0 | 1761 | 182.1 | osu_mirror/community | `osu_mirror\2033681\Kobaryo - Cartoon Candy (DenYi) [Selitation's Another].mc` |
+| 2773 | Catch You Catch Me (TV Size) | Gumi | anatha's Sakura | 128.0 | 191 | 71.7 | osu_mirror/community | `osu_mirror\2522565\Gumi - Catch You Catch Me (TV Size) (Ballistic) [anatha's Sakura].mc` |
+| 2774 | Catch You Catch Me (TV Size) | Gumi | Hard | 128.0 | 96 | 71.7 | osu_mirror/community | `osu_mirror\2522565\Gumi - Catch You Catch Me (TV Size) (Ballistic) [Hard].mc` |
+| 2775 | Catch You Catch Me (TV Size) | Gumi | Normal | 128.0 | 155 | 71.7 | osu_mirror/community | `osu_mirror\2522565\Gumi - Catch You Catch Me (TV Size) (Ballistic) [Normal].mc` |
+| 2776 | Catharsis (Cut Ver.) | Romos | Clarity | 200.0 | 553 | 105.1 | osu_mirror/community | `osu_mirror\2264736\Romos - Catharsis (Cut Ver.) (iiJohn0) [Clarity].mc` |
+| 2777 | Catharsis (Cut Ver.) | Romos | Hard | 200.0 | 514 | 104.8 | osu_mirror/community | `osu_mirror\2264736\Romos - Catharsis (Cut Ver.) (iiJohn0) [Hard].mc` |
+| 2778 | Catharsis (Cut Ver.) | Romos | Normal | 200.0 | 281 | 102.9 | osu_mirror/community | `osu_mirror\2264736\Romos - Catharsis (Cut Ver.) (iiJohn0) [Normal].mc` |
+| 2779 | Catharticus ~ Herald angels sing | DJ Raisei | Omnes redeunt, illa manet | 281.0 | 3400 | 395.3 | osu_mirror/community | `osu_mirror\2609591\DJ Raisei - Catharticus ~ Herald angels sing (Hylotl) [Omnes redeunt, illa manet].mc` |
+| 2780 | Celestial Winter Wake (feat. neur6sia) | SKWT Sound Team "Aurora" | The starry firmament stretching far away | 22.0 | 2797 | 387.0 | osu_mirror/community | `osu_mirror\2509179\SKWT Sound Team Aurora - Celestial Winter Wake (feat. neur6sia) (KIRIMI) [The starry firmament stretching far away].mc` |
+| 2781 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Advanced | 180.0 | 862 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Advanced].mc` |
+| 2782 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Hard | 180.0 | 1742 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Hard].mc` |
+| 2783 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Insane | 180.0 | 2600 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Insane].mc` |
+| 2784 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | Normal | 180.0 | 477 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [Normal].mc` |
+| 2785 | ChaiN De/structioN (siilento's solid remix) | Sakuzyo feat. Hatsune Miku | OB[LIV]ION BE/Y[ON]D | 180.0 | 3100 | 196.0 | osu_mirror/community | `osu_mirror\2540109\Sakuzyo feat. Hatsune Miku - ChaiN DestructioN (siilento's solid remix) (Dracojin) [OB[LIV]ION BEY[ON]D].mc` |
+| 2786 | Change Everything | good-cool | Starlight | 130.0 | 3599 | 266.2 | osu_mirror/community | `osu_mirror\2532655\good-cool - Change Everything (-MysticEyes) [Starlight].mc` |
+| 2787 | Change the Formality | Infected Mushroom | People Killing People for a Reason | 145.0 | 5358 | 423.7 | osu_mirror/community | `osu_mirror\2017220\Infected Mushroom - Change the Formality (Auros) [People killing people for a Reason].mc` |
+| 2788 | Cherries and Wine | YonKaGor | Easy | 165.0 | 91 | 50.5 | osu_mirror/community | `osu_mirror\2375864\YonKaGor - Cherries and Wine (LunarSticks) [Easy].mc` |
+| 2789 | Cherries and Wine | YonKaGor | Hard | 165.0 | 169 | 50.5 | osu_mirror/community | `osu_mirror\2375864\YonKaGor - Cherries and Wine (LunarSticks) [Hard].mc` |
+| 2790 | Cherries and Wine | YonKaGor | Normal | 165.0 | 154 | 50.5 | osu_mirror/community | `osu_mirror\2375864\YonKaGor - Cherries and Wine (LunarSticks) [Normal].mc` |
+| 2791 | Chimera Dragons | Camellia | Set the Seas Ablaze | 300.0 | 1925 | 283.4 | osu_mirror/community | `osu_mirror\2421186\Camellia - Chimera Dragons (ZirconEscalus) [Set the Seas Ablaze].mc` |
+| 2792 | Chimera Dragons | Camellia | La mort de la Chimere | 300.0 | 2329 | 283.8 | osu_mirror/community | `osu_mirror\2495468\Camellia - Chimera Dragons (Lowla) [La mort de la Chimere].mc` |
+| 2793 | Christmas Slop | Altermis & takehirotei & Violet Delta | Another Slop | 250.0 | 796 | 68.2 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Another Slop].mc` |
+| 2794 | Christmas Slop | Altermis & takehirotei & Violet Delta | bprruiii's Chordjackier Slop | 250.0 | 1154 | 67.9 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [bprruiii's Chordjackier Slop].mc` |
+| 2795 | Christmas Slop | Altermis & takehirotei & Violet Delta | Chordjack Slop | 250.0 | 1091 | 67.9 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Chordjack Slop].mc` |
+| 2796 | Christmas Slop | Altermis & takehirotei & Violet Delta | Easy Slop | 250.0 | 149 | 67.7 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Easy Slop].mc` |
+| 2797 | Christmas Slop | Altermis & takehirotei & Violet Delta | Extra Slop | 250.0 | 1007 | 67.9 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Extra Slop].mc` |
+| 2798 | Christmas Slop | Altermis & takehirotei & Violet Delta | GDBlack's Hyper Slop | 250.0 | 604 | 67.9 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [GDBlack's Hyper Slop].mc` |
+| 2799 | Christmas Slop | Altermis & takehirotei & Violet Delta | LeCrazy's Intermediate Slop | 250.0 | 253 | 67.9 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [LeCrazy's Intermediate Slop].mc` |
+| 2800 | Christmas Slop | Altermis & takehirotei & Violet Delta | Mekadon's Beginner Slop | 250.0 | 87 | 66.2 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Mekadon's Beginner Slop].mc` |
+| 2801 | Christmas Slop | Altermis & takehirotei & Violet Delta | Mio's Expert+ Slop | 250.0 | 860 | 65.0 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Mio's Expert+ Slop].mc` |
+| 2802 | Christmas Slop | Altermis & takehirotei & Violet Delta | O R U I I I's Insane Slop | 250.0 | 661 | 68.2 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [O R U I I I's Insane Slop].mc` |
+| 2803 | Christmas Slop | Altermis & takehirotei & Violet Delta | Wimperruiii's Advanced Slop | 250.0 | 428 | 67.9 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Wimperruiii's Advanced Slop].mc` |
+| 2804 | Christmas Slop | Altermis & takehirotei & Violet Delta | Wimpy's Expert Slop | 250.0 | 894 | 68.2 | osu_mirror/community | `osu_mirror\2473122\Altermis & takehirotei & Violet Delta - Christmas Slop (tapperruiii) [Wimpy's Expert Slop].mc` |
+| 2805 | Chromatically | Haywyre | Aberration | 120.0 | 934 | 187.9 | osu_mirror/community | `osu_mirror\2578885\Haywyre - Chromatically (foxgirls) [Aberration].mc` |
+| 2806 | Chromatically | Haywyre | Bubba's Insane | 120.0 | 842 | 184.4 | osu_mirror/community | `osu_mirror\2578885\Haywyre - Chromatically (foxgirls) [Bubba's Insane].mc` |
+| 2807 | Chronologue | La priere | It's Singing For You, It's Singing For Me <3 | 44.5 | 2508 | 388.0 | osu_mirror/community | `osu_mirror\2320053\La priere - Chronologue (Forthnos) [It's Singing For You, It's Singing For Me 3].mc` |
+| 2808 | Chronostasis | Release Hallucination | Time Freeze Illusion | 170.0 | 5264 | 340.9 | osu_mirror/community | `osu_mirror\1665948\Release Hallucination - Chronostasis (Lazurent) [Time Freeze Illusion].mc` |
+| 2809 | Chronostasis | Kurokotei | ~=Asteria's Temporal Insanity=~ | 196.0 | 1629 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=Asteria's Temporal Insanity=~].mc` |
+| 2810 | Chronostasis | Kurokotei | ~=Frozen Fate=~ | 196.0 | 1867 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=Frozen Fate=~].mc` |
+| 2811 | Chronostasis | Kurokotei | ~=H / Illusions=~ | 196.0 | 1267 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=H  Illusions=~].mc` |
+| 2812 | Chronostasis | Kurokotei | ~=N+ / Aion=~ | 196.0 | 910 | 135.9 | osu_mirror/community | `osu_mirror\2504508\Kurokotei - Chronostasis ([-Exlypse-]) [~=N+  Aion=~].mc` |
+| 2813 | CICADA3302 | Camellia | Easy | 155.0 | 1155 | 433.4 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Easy].mc` |
+| 2814 | CICADA3302 | Camellia | Hard | 155.0 | 3318 | 433.2 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Hard].mc` |
+| 2815 | CICADA3302 | Camellia | Insane | 155.0 | 3936 | 433.4 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Insane].mc` |
+| 2816 | CICADA3302 | Camellia | K A I S E R | 155.0 | 4402 | 427.2 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [K A I S E R].mc` |
+| 2817 | CICADA3302 | Camellia | Normal | 155.0 | 2079 | 433.4 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Normal].mc` |
+| 2818 | CICADA3302 | Camellia | Q U A T T U O R | 155.0 | 4711 | 427.0 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [Q U A T T U O R].mc` |
+| 2819 | CICADA3302 | Camellia | WILDCARD_CHASE'S QUATTUOR SV | 155.0 | 4711 | 427.0 | osu_mirror/community | `osu_mirror\1579707\Camellia - CICADA3302 (_Y u r i_) [WILDCARD_CHASE'S QUATTUOR SV].mc` |
+| 2820 | Circuit Surfer | kors k | Archaic's ALT-EXCEED | 230.0 | 2425 | 121.5 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [Archaic's ALT-EXCEED].mc` |
+| 2821 | Circuit Surfer | kors k | Eclipse's ALT-MAXIMUM | 230.0 | 2001 | 121.5 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [Eclipse's ALT-MAXIMUM].mc` |
+| 2822 | Circuit Surfer | kors k | EXCEED | 230.0 | 1957 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [EXCEED].mc` |
+| 2823 | Circuit Surfer | kors k | EXHAUST | 230.0 | 1578 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [EXHAUST].mc` |
+| 2824 | Circuit Surfer | kors k | HI-TECH | 230.0 | 2375 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [HI-TECH].mc` |
+| 2825 | Circuit Surfer | kors k | MAXIMUM | 230.0 | 1787 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [MAXIMUM].mc` |
+| 2826 | Circuit Surfer | kors k | ULTIMATE | 230.0 | 2189 | 119.2 | osu_mirror/community | `osu_mirror\2464514\kors k - Circuit Surfer (IceDynamix) [ULTIMATE].mc` |
+| 2827 | Circulation | Neko Hacker | Azukkii's Normal | 135.0 | 216 | 50.4 | osu_mirror/community | `osu_mirror\2553140\Neko Hacker - Circulation (-Zell) [Azukkii's Normal].mc` |
+| 2828 | Circulation | Neko Hacker | Easy | 135.0 | 93 | 51.1 | osu_mirror/community | `osu_mirror\2553140\Neko Hacker - Circulation (-Zell) [Easy].mc` |
+| 2829 | Circulation | Neko Hacker | h-hmpph~~ | 135.0 | 238 | 51.1 | osu_mirror/community | `osu_mirror\2553140\Neko Hacker - Circulation (-Zell) [h-hmpph~~].mc` |
+| 2830 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Easy | 160.0 | 345 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Easy].mc` |
+| 2831 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Hard | 160.0 | 663 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Hard].mc` |
+| 2832 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Normal | 160.0 | 498 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Normal].mc` |
+| 2833 | Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) | Xarlable | Teledancer | 160.0 | 742 | 96.0 | osu_mirror/community | `osu_mirror\2579609\Xarlable - Circus (Sigma R.M.F.A.U. Live DJ Mix Nuclear Option Hype and Aura Edition) (Scisso) [Teledancer].mc` |
+| 2834 | City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) | HyperJuice | Apol's Insane | 145.0 | 1630 | 158.9 | osu_mirror/community | `osu_mirror\2259021\HyperJuice - City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) (Reihynn) [Apol's Insane].mc` |
+| 2835 | City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) | HyperJuice | elexire's Phosphorescent | 145.0 | 1889 | 158.9 | osu_mirror/community | `osu_mirror\2259021\HyperJuice - City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) (Reihynn) [elexire's Phosphorescent].mc` |
+| 2836 | City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) | HyperJuice | Gleaming Nights | 145.0 | 2060 | 158.9 | osu_mirror/community | `osu_mirror\2259021\HyperJuice - City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) (Reihynn) [Gleaming Nights].mc` |
+| 2837 | City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) | HyperJuice | Hard | 145.0 | 1339 | 158.9 | osu_mirror/community | `osu_mirror\2259021\HyperJuice - City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) (Reihynn) [Hard].mc` |
+| 2838 | City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) | HyperJuice | Normal | 145.0 | 872 | 158.9 | osu_mirror/community | `osu_mirror\2259021\HyperJuice - City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) (Reihynn) [Normal].mc` |
+| 2839 | City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) | HyperJuice | Revv's Easy | 145.0 | 358 | 158.9 | osu_mirror/community | `osu_mirror\2259021\HyperJuice - City Lights feat. EVO+, Jinmenusagi (Pa's Lam System Remix) (Reihynn) [Revv's Easy].mc` |
+| 2840 | Clarity (feat. Foxes) | Zedd | Legibility | 128.0 | 1790 | 261.8 | osu_mirror/community | `osu_mirror\2398089\Zedd - Clarity (feat. Foxes) (-[ Peachy ]-) [Legibility].mc` |
+| 2841 | Cloud Nine | Grant Bowtie | Over the Moon | 160.0 | 1012 | 197.9 | osu_mirror/community | `osu_mirror\2598587\Grant Bowtie - Cloud Nine (Ucitysm) [Over the Moon].mc` |
+| 2842 | CNP-Nya | Hayakore Tatsumi | Ron-Nya!!! | 196.0 | 5460 | 342.9 | osu_mirror/community | `osu_mirror\2567232\Hayakore Tatsumi - CNP-Nya (Chrisse) [Ron-Nya!!!].mc` |
+| 2843 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Advanced | 170.0 | 1167 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Advanced].mc` |
+| 2844 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Chocho Chocho | 170.0 | 2186 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Chocho Chocho].mc` |
+| 2845 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Hard | 170.0 | 1512 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Hard].mc` |
+| 2846 | Cocho Cocho | Utsu-P feat. Hatsune Miku | Insane | 170.0 | 1884 | 171.8 | osu_mirror/community | `osu_mirror\2563643\Utsu-P feat. Hatsune Miku - Cocho Cocho (Linlime) [Insane].mc` |
+| 2847 | Coffee Break Is Over | Dirty Loops | Advanced | 77.1 | 1215 | 93.4 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Advanced].mc` |
+| 2848 | Coffee Break Is Over | Dirty Loops | Extra | 77.1 | 2406 | 93.5 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Extra].mc` |
+| 2849 | Coffee Break Is Over | Dirty Loops | Hyper | 77.1 | 1407 | 93.5 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Hyper].mc` |
+| 2850 | Coffee Break Is Over | Dirty Loops | Insane | 77.1 | 1764 | 93.5 | osu_mirror/community | `osu_mirror\2541305\Dirty Loops - Coffee Break Is Over (Furryswan) [Insane].mc` |
+| 2851 | Coin Locker Baby | MARETU | No Escape | 90.5 | 2604 | 191.1 | osu_mirror/community | `osu_mirror\2589355\MARETU - Coin Locker Baby (-Enma-) [No Escape].mc` |
+| 2852 | Cold Fusion | kanemiko | Cryogenic Pressure | 205.0 | 3028 | 234.4 | osu_mirror/community | `osu_mirror\2523771\kanemiko - Cold Fusion (Naiibe) [Cryogenic Pressure].mc` |
+| 2853 | cold weather | glass beach | 4K Hard | 92.0 | 1275 | 106.5 | osu_mirror/community | `osu_mirror\2603242\glass beach - cold weather (-Enma-) [4K Hard].mc` |
+| 2854 | cold weather | glass beach | 4K I didn't miss the cold weather, I just missed you | 92.0 | 1663 | 106.5 | osu_mirror/community | `osu_mirror\2603242\glass beach - cold weather (-Enma-) [4K I didn't miss the cold weather, I just missed you].mc` |
+| 2855 | comet casting capsule ("catching celestial clusters" Long Ver.) | kanemiko | ornate supernal universe! | 250.0 | 2664 | 298.2 | osu_mirror/community | `osu_mirror\2539679\kanemiko - comet casting capsule (catching celestial clusters Long Ver.) (AverageBoi) [ornate supernal universe!].mc` |
+| 2856 | comet casting capsule ("catching celestial clusters" Long Ver.) | kanemiko | ucitysm's insane! | 250.0 | 2000 | 298.1 | osu_mirror/community | `osu_mirror\2539679\kanemiko - comet casting capsule (catching celestial clusters Long Ver.) (AverageBoi) [ucitysm's insane!].mc` |
+| 2857 | complex feelings about my own existence feat. jungkook | in love with a ghost | Easy | 100.0 | 93 | 89.4 | osu_mirror/community | `osu_mirror\2532180\in love with a ghost - complex feelings about my own existence feat. jungkook (Foxide) [Easy].mc` |
+| 2858 | complex feelings about my own existence feat. jungkook | in love with a ghost | Hard | 100.0 | 277 | 90.6 | osu_mirror/community | `osu_mirror\2532180\in love with a ghost - complex feelings about my own existence feat. jungkook (Foxide) [hard].mc` |
+| 2859 | complex feelings about my own existence feat. jungkook | in love with a ghost | Normal | 100.0 | 185 | 90.3 | osu_mirror/community | `osu_mirror\2532180\in love with a ghost - complex feelings about my own existence feat. jungkook (Foxide) [Normal].mc` |
+| 2860 | contra88 | Kola Kid | 8bit-like | 200.0 | 1579 | 136.3 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [8bit-like].mc` |
+| 2861 | contra88 | Kola Kid | Bailondo's Normal | 200.0 | 767 | 134.6 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [Bailondo's normal].mc` |
+| 2862 | contra88 | Kola Kid | Cobalt's Hard | 200.0 | 1196 | 136.5 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [Cobalt's Hard].mc` |
+| 2863 | contra88 | Kola Kid | xujiarong's Easy | 200.0 | 543 | 136.5 | osu_mirror/community | `osu_mirror\2489537\Kola Kid - contra88 (temptname) [xujiarong's Easy].mc` |
+| 2864 | Contrail | Ceui | Hard | 120.0 | 977 | 222.0 | osu_mirror/community | `osu_mirror\2495364\Ceui - Contrail (nai_) [Hard].mc` |
+| 2865 | Contrail | Ceui | Normal | 120.0 | 699 | 229.0 | osu_mirror/community | `osu_mirror\2495364\Ceui - Contrail (nai_) [Normal].mc` |
+| 2866 | Contrail | Ceui | Our Unique Souvenir | 120.0 | 1317 | 222.0 | osu_mirror/community | `osu_mirror\2495364\Ceui - Contrail (nai_) [Our Unique Souvenir].mc` |
+| 2867 | Cool Up | De Lux | Gotta Have a Good Time | 142.0 | 4823 | 294.0 | osu_mirror/community | `osu_mirror\2554830\De Lux - Cool Up (Auros) [Gotta Have a Good Time].mc` |
+| 2868 | Copycats feat. underscores | Danny Brown | s1sw's hard | 136.0 | 825 | 160.0 | osu_mirror/community | `osu_mirror\2492303\Danny Brown - Copycats feat. underscores (Livium) [s1sw's hard].mc` |
+| 2869 | Copycats feat. underscores | Danny Brown | star* | 136.0 | 941 | 162.5 | osu_mirror/community | `osu_mirror\2492303\Danny Brown - Copycats feat. underscores (Livium) [Star].mc` |
+| 2870 | Cosmic Aberrations from Beyond the Pixel-Verse (Cut Ver.) | Katari | Interstellar Pixelations | 180.0 | 2083 | 213.3 | osu_mirror/community | `osu_mirror\2466060\Katari - Cosmic Aberrations from Beyond the Pixel-Verse (Cut Ver.) (FanIsAnIdiot) [Interstellar Pixelations].mc` |
+| 2871 | COSMIC CROWN | Kyutatsuki | DOMINATOR | 152.0 | 2877 | 389.1 | osu_mirror/community | `osu_mirror\2595550\Kyutatsuki - COSMIC CROWN (Lowla) [DOMINATOR].mc` |
+| 2872 | Cosmic Princess Kaguya! Songs Compilation | Various Artists | Kaguya | 101.0 | 1699 | 237.8 | osu_mirror/community | `osu_mirror\2529807\Various Artists - Cosmic Princess Kaguya! Songs Compilation (eZmmR) [Kaguya].mc` |
+| 2873 | Count down 321 | t+pazolite | Expert | 321.0 | 1898 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [Expert].mc` |
+| 2874 | Count down 321 | t+pazolite | Niko's Hyper | 321.0 | 1646 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [Niko's hyper].mc` |
+| 2875 | Count down 321 | t+pazolite | riunosk's 321 Galore | 321.0 | 1209 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [riunosk's 321 Galore].mc` |
+| 2876 | Count down 321 | t+pazolite | Ultra Rice | 321.0 | 3049 | 216.8 | osu_mirror/community | `osu_mirror\2492718\t+pazolite - Count down 321 (keksikosu) [Ultra Rice].mc` |
+| 2877 | Counting Breaths feat. eili | Gardens | Cycles | 170.0 | 2871 | 300.2 | osu_mirror/community | `osu_mirror\2524447\Gardens - Counting Breaths feat. eili (VividCycle) [Cycles].mc` |
+| 2878 | Counting Breaths feat. eili | Gardens | Pray. | 170.0 | 3552 | 300.5 | osu_mirror/community | `osu_mirror\2524546\Gardens - Counting Breaths feat. eili (AelSan) [Pray.].mc` |
+| 2879 | CoUNTrYfolx | Vorso, euphee, djeb, Popbot | Obnubilation | 116.0 | 3707 | 320.8 | osu_mirror/community | `osu_mirror\2549278\Vorso, euphee, djeb, Popbot - CoUNTrYfolx (Auros) [Obnubilation].mc` |
+| 2880 | courage (TV Size) | Tomatsu Haruka | andryzx's Beginner | 180.0 | 133 | 83.3 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [andryzx's Beginner].mc` |
+| 2881 | courage (TV Size) | Tomatsu Haruka | Extra | 180.0 | 509 | 83.0 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Extra].mc` |
+| 2882 | courage (TV Size) | Tomatsu Haruka | Ferdi's Normal | 180.0 | 436 | 83.3 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Ferdi's Normal].mc` |
+| 2883 | courage (TV Size) | Tomatsu Haruka | Onta's Zekken | 180.0 | 438 | 83.0 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Onta's Zekken].mc` |
+| 2884 | courage (TV Size) | Tomatsu Haruka | Peachy's Easy | 180.0 | 252 | 83.3 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Peachy's Easy].mc` |
+| 2885 | courage (TV Size) | Tomatsu Haruka | Sayana's Hard | 180.0 | 472 | 83.2 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Sayana's Hard].mc` |
+| 2886 | courage (TV Size) | Tomatsu Haruka | Sleeping Knights | 180.0 | 486 | 83.2 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Sleeping Knights].mc` |
+| 2887 | courage (TV Size) | Tomatsu Haruka | Syr's Insane | 180.0 | 580 | 83.2 | osu_mirror/community | `osu_mirror\2614611\Tomatsu Haruka - courage (TV Size) (eZmmR) [Syr's Insane].mc` |
+| 2888 | Crab Rave | Noisestorm | Dancing Crabs | 125.0 | 1008 | 138.2 | osu_mirror/community | `osu_mirror\2523458\Noisestorm - Crab Rave (P45ta) [Dancing Crabs].mc` |
+| 2889 | Crab Rave | Noisestorm | Hard | 125.0 | 794 | 138.2 | osu_mirror/community | `osu_mirror\2523458\Noisestorm - Crab Rave (P45ta) [Hard].mc` |
+| 2890 | Crimson Horizon | Sakamiya feat. Misoramimi | Twilight | 181.0 | 2649 | 257.2 | osu_mirror/community | `osu_mirror\2589079\Sakamiya feat. Misoramimi - Crimson Horizon (gzdongsheng) [Twilight].mc` |
+| 2891 | Croque Monsieur A Disneyland (Cut Ver.) | Ruby My Dear | Avel's Hard | 220.0 | 1314 | 129.3 | osu_mirror/community | `osu_mirror\2322143\Ruby My Dear - Croque Monsieur A Disneyland (Cut Ver.) (Antipole) [Avel's Hard].mc` |
+| 2892 | Croque Monsieur A Disneyland (Cut Ver.) | Ruby My Dear | Gamesnake's Insane | 220.0 | 1639 | 129.3 | osu_mirror/community | `osu_mirror\2322143\Ruby My Dear - Croque Monsieur A Disneyland (Cut Ver.) (Antipole) [Gamesnake's Insane].mc` |
+| 2893 | Croque Monsieur A Disneyland (Cut Ver.) | Ruby My Dear | Sandwich chaud, fait de pain de mie grille | 220.0 | 2036 | 129.3 | osu_mirror/community | `osu_mirror\2322143\Ruby My Dear - Croque Monsieur A Disneyland (Cut Ver.) (Antipole) [Sandwich chaud, fait de pain de mie grille].mc` |
+| 2894 | Cryochemistry | BilliumMoto x Akiri | -238 F | 135.0 | 3374 | 265.6 | osu_mirror/community | `osu_mirror\2577628\BilliumMoto x Akiri - Cryochemistry (nanonbandusty) [-238 F].mc` |
+| 2895 | Cuentame | Pedro suarez vertiz | Normal | 87.0 | 1009 | 230.2 | osu_mirror/community | `osu_mirror\1863904\Pedro suarez vertiz - Cuentame (Reoii) [Normal].mc` |
+| 2896 | Currencore Song Tutorial | Curren | ENDING (But I Still Love You) | 165.0 | 1426 | 209.8 | osu_mirror/community | `osu_mirror\2399246\Curren - Currencore Song Tutorial (QwertYui345) [ENDING (But I Still Love You)].mc` |
+| 2897 | cute and soft | in love with a ghost | easy | 116.0 | 99 | 40.9 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [easy].mc` |
+| 2898 | cute and soft | in love with a ghost | hard | 116.0 | 149 | 40.6 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [hard].mc` |
+| 2899 | cute and soft | in love with a ghost | normal | 116.0 | 155 | 40.9 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [normal].mc` |
+| 2900 | cute and soft | in love with a ghost | warm and cozy | 116.0 | 151 | 40.9 | osu_mirror/community | `osu_mirror\2538293\in love with a ghost - cute and soft (SimpForTakagi) [warm and cozy].mc` |
+| 2901 | CuttingEdgeInsaneArtifact | Marmalade butcher | UltraModernArtifact | 190.0 | 2828 | 217.9 | osu_mirror/community | `osu_mirror\2522815\Marmalade butcher - CuttingEdgeInsaneArtifact (P45ta) [UltraModernArtifact].mc` |
+| 2902 | CuttingEdgeInsaneArtifact | Marmalade butcher | Another | 190.0 | 1000 | 217.9 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Another].mc` |
+| 2903 | CuttingEdgeInsaneArtifact | Marmalade butcher | Basic | 190.0 | 425 | 210.8 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Basic].mc` |
+| 2904 | CuttingEdgeInsaneArtifact | Marmalade butcher | Hyper | 190.0 | 1410 | 210.6 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Hyper].mc` |
+| 2905 | CuttingEdgeInsaneArtifact | Marmalade butcher | Intermediate | 190.0 | 1153 | 217.9 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Intermediate].mc` |
+| 2906 | CuttingEdgeInsaneArtifact | Marmalade butcher | MysticalCelestialArtifactBeneathTheEndlessOceanOfStars | 190.0 | 800 | 217.3 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [MysticalCelestialArtifactBeneathTheEndlessOceanOfStars].mc` |
+| 2907 | CuttingEdgeInsaneArtifact | Marmalade butcher | Standard | 190.0 | 730 | 218.1 | osu_mirror/community | `osu_mirror\2523377\Marmalade butcher - CuttingEdgeInsaneArtifact (Pyra-san) [Standard].mc` |
+| 2908 | Cyclic Universe Theory | N_dog | Antithesis | 155.0 | 3122 | 355.1 | osu_mirror/community | `osu_mirror\2298998\N_dog - Cyclic Universe Theory (soup3r) [Antithesis].mc` |
+| 2909 | Da Shi Sui Xiong Kou | Omnipotent Youth Society | That Crazy Song Rings Out Again | 106.0 | 5415 | 394.2 | osu_mirror/community | `osu_mirror\2573324\Omnipotent Youth Society - Da Shi Sui Xiong Kou (Auros) [That Crazy Song Rings Out Again].mc` |
+| 2910 | Daishibyo set 15 ~ Jinja no Atarashii Kaze | Rin | tapperruiii's Hard | 128.0 | 683 | 92.6 | osu_mirror/community | `osu_mirror\2600955\Rin - Daishibyo set 15 ~ Jinja no Atarashii Kaze (Tokyo 727) [tapperruiii's Hard].mc` |
+| 2911 | Daishibyo set 15 ~ Jinja no Atarashii Kaze | Rin | tapperruiii's Insane | 128.0 | 811 | 92.6 | osu_mirror/community | `osu_mirror\2600955\Rin - Daishibyo set 15 ~ Jinja no Atarashii Kaze (Tokyo 727) [tapperruiii's Insane].mc` |
+| 2912 | Daishibyo set 15 ~ Jinja no Atarashii Kaze | Rin | tapperruiii's Normal | 128.0 | 532 | 92.6 | osu_mirror/community | `osu_mirror\2600955\Rin - Daishibyo set 15 ~ Jinja no Atarashii Kaze (Tokyo 727) [tapperruiii's Normal].mc` |
+| 2913 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | Easy | 194.0 | 312 | 86.3 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [Easy].mc` |
+| 2914 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | Hard | 194.0 | 761 | 86.6 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [Hard].mc` |
+| 2915 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | I Love Karane >< | 194.0 | 1057 | 86.6 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [I Love Karane ].mc` |
+| 2916 | Daisuki <3 Zutto Eien ni <3 (TV Size) | Rentarou Family | Normal | 194.0 | 526 | 86.3 | osu_mirror/community | `osu_mirror\2600191\Rentarou Family - Daisuki 3 Zutto Eien ni 3 (TV Size) (lembread) [Normal].mc` |
+| 2917 | Dango Daikazoku (TV Size) | Chata | Easy | 100.0 | 156 | 83.4 | osu_mirror/community | `osu_mirror\2542308\Chata - Dango Daikazoku (TV Size) (LINQAQ) [Easy].mc` |
+| 2918 | Dango Daikazoku (TV Size) | Chata | Normal | 100.0 | 230 | 83.4 | osu_mirror/community | `osu_mirror\2542308\Chata - Dango Daikazoku (TV Size) (LINQAQ) [Normal].mc` |
+| 2919 | Danzai wa Amaneku Ningen no Moto ni | Unlucky Morpheus | Lunatic | 170.0 | 3257 | 288.1 | osu_mirror/community | `osu_mirror\2550836\Unlucky Morpheus - Danzai wa Amaneku Ningen no Moto ni (Maiiy) [Lunatic].mc` |
+| 2920 | Day of Reflection | Disasterpeace | EZ | 117.5 | 47 | 78.9 | osu_mirror/community | `osu_mirror\2535552\Disasterpeace - Day of Reflection (LeCrazy) [EZ].mc` |
+| 2921 | Day of Reflection | Disasterpeace | NM | 117.5 | 24 | 48.4 | osu_mirror/community | `osu_mirror\2535552\Disasterpeace - Day of Reflection (LeCrazy) [NM].mc` |
+| 2922 | Dead Aire | Supire | Boundless | 172.0 | 1000 | 346.7 | osu_mirror/community | `osu_mirror\2455636\Supire - Dead Aire (ImperialTrinity) [Boundless].mc` |
+| 2923 | Dead End Station | Viznode, acloudyskye & aspect | A Journey Through Love | 158.0 | 3025 | 328.7 | osu_mirror/community | `osu_mirror\2576188\Viznode, acloudyskye & aspect - Dead End Station (Zonifyy) [A Journey Through Love].mc` |
+| 2924 | Dear Diary | YERI | Dear Twenty, | 86.0 | 680 | 209.8 | osu_mirror/community | `osu_mirror\2534730\YERI - Dear Diary (fvrex) [Dear Twenty,].mc` |
+| 2925 | Desert | Hakushi Hasegawa | Till Dawn | 178.0 | 1018 | 228.2 | osu_mirror/community | `osu_mirror\2475778\Hakushi Hasegawa - Desert (V1do-) [Till Dawn].mc` |
+| 2926 | Devil Connection | AAAA | AAAAFanboy's Normal | 112.0 | 245 | 80.0 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [AAAAFanboy's Normal].mc` |
+| 2927 | Devil Connection | AAAA | Debirun | 112.0 | 69 | 81.8 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [Debirun].mc` |
+| 2928 | Devil Connection | AAAA | Hard | 112.0 | 368 | 88.9 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [Hard].mc` |
+| 2929 | Devil Connection | AAAA | Hyper | 112.0 | 170 | 82.3 | osu_mirror/community | `osu_mirror\2511932\AAAA - Devil Connection (Murumoo) [Hyper].mc` |
+| 2930 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 0.95 | 190.0 | 4884 | 242.1 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [0.95].mc` |
+| 2931 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 0.9 | 180.0 | 4884 | 255.5 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [0.9].mc` |
+| 2932 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.05 | 210.0 | 4884 | 219.0 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.05].mc` |
+| 2933 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.15 | 230.0 | 4884 | 200.0 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.15].mc` |
+| 2934 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.1 | 220.0 | 4884 | 209.0 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.1].mc` |
+| 2935 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | 1.2 | 240.0 | 4884 | 191.6 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [1.2].mc` |
+| 2936 | DEVILS NEVER CRY | Tetsuya Shibata, Shawn McPherson, David Baker | SSS | 200.0 | 4884 | 229.9 | osu_mirror/community | `osu_mirror\1270995\Tetsuya Shibata, Shawn McPherson, David Baker - DEVILS NEVER CRY (Ska) [SSS].mc` |
+| 2937 | DIAL LOOP | ePiaeon | 911, What's your emergency? | 169.0 | 549 | 181.4 | osu_mirror/community | `osu_mirror\2598405\ePiaeon - DIAL LOOP (Foxide) [911, What's your emergency].mc` |
+| 2938 | DIAL LOOP | ePiaeon | Azukkii's Hard | 169.0 | 993 | 182.3 | osu_mirror/community | `osu_mirror\2598405\ePiaeon - DIAL LOOP (Foxide) [Azukkii's Hard].mc` |
+| 2939 | diamond | bill wurtz | advanced | 105.0 | 268 | 33.8 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [advanced].mc` |
+| 2940 | diamond | bill wurtz | hard | 105.0 | 345 | 33.8 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [hard].mc` |
+| 2941 | diamond | bill wurtz | normal | 105.0 | 215 | 33.9 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [normal].mc` |
+| 2942 | diamond | bill wurtz | rhombus | 105.0 | 456 | 33.9 | osu_mirror/community | `osu_mirror\2422509\bill wurtz - diamond (P45ta) [rhombus].mc` |
+| 2943 | Digibuprofen | Kolaa & Mestie | Lauren | 1.0 | 307 | 0.1 | osu_mirror/community | `osu_mirror\2062256\Kolaa & Mestie - Digibuprofen (Paturages) [Lauren].mc` |
+| 2944 | Digibuprofen | Kolaa & Mestie | NSV | 79.0 | 1235 | 187.5 | osu_mirror/community | `osu_mirror\2062256\Kolaa & Mestie - Digibuprofen (Paturages) [NSV].mc` |
+| 2945 | DILF repellent | leroy | S4 E1: ADVANCED tutorial | 195.0 | 753 | 127.7 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E1 ADVANCED tutorial].mc` |
+| 2946 | DILF repellent | leroy | S4 E2: HYPER shadow breakdown | 195.0 | 1074 | 127.9 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E2 HYPER shadow breakdown].mc` |
+| 2947 | DILF repellent | leroy | S4 E3: INSANE delusions | 195.0 | 1424 | 128.2 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E3 INSANE delusions].mc` |
+| 2948 | DILF repellent | leroy | S4 E4: EXTRA naiibe & znow synergy | 195.0 | 1839 | 128.2 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E4 EXTRA naiibe & znow synergy].mc` |
+| 2949 | DILF repellent | leroy | S4 E5: DILF-Free Zone | 195.0 | 2137 | 128.3 | osu_mirror/community | `osu_mirror\2509473\leroy - DILF repellent (Naiibe) [S4 E5 DILF-Free Zone].mc` |
+| 2950 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Cai Bu Shi Mei Kong | 200.0 | 350 | 86.5 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Cai Bu Shi Mei Kong].mc` |
+| 2951 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | ChickenGold's Insane | 200.0 | 585 | 87.8 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [ChickenGold's Insane].mc` |
+| 2952 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | DH's Expert | 200.0 | 172 | 86.9 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [DH's Expert].mc` |
+| 2953 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Dzar03's Extra | 200.0 | 477 | 87.8 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Dzar03's Extra].mc` |
+| 2954 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Hard | 200.0 | 552 | 87.8 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Hard].mc` |
+| 2955 | DIMENSION TRAVERSE! (Short Ver.) | Neko Hacker feat. mochari | Normal | 200.0 | 380 | 87.2 | osu_mirror/community | `osu_mirror\2588413\Neko Hacker feat. mochari - DIMENSION TRAVERSE! (Short Ver.) (nai_) [Normal].mc` |
+| 2956 | Dispel[/]Function | Feryquitous | Resolve | 135.0 | 837 | 180.6 | osu_mirror/community | `osu_mirror\2267481\Feryquitous - Dispel[]Function (elexire) [Resolve].mc` |
+| 2957 | Do It | underscores | If you don't know me, and I don't know you | 124.0 | 4020 | 211.0 | osu_mirror/community | `osu_mirror\2536062\underscores - Do it (Concepte) [If you don't know me, and I don't know you].mc` |
+| 2958 | Don't Forget | Laura Shigihara | Beginner | 53.5 | 20 | 16.6 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Beginner].mc` |
+| 2959 | Don't Forget | Laura Shigihara | Determination | 53.5 | 20 | 20.3 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Determination].mc` |
+| 2960 | Don't Forget | Laura Shigihara | Easy | 53.5 | 39 | 20.1 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Easy].mc` |
+| 2961 | Don't Forget | Laura Shigihara | Normal | 53.5 | 40 | 20.1 | osu_mirror/community | `osu_mirror\2522845\Laura Shigihara - Don't Forget (tapperruiii) [Normal].mc` |
+| 2962 | Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante | TUYU | 11Bit's Fallen Angel | 225.0 | 2915 | 188.8 | osu_mirror/community | `osu_mirror\1248382\TUYU - Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante (flashnias) [11Bit's Fallen Angel].mc` |
+| 2963 | Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante | TUYU | Eternal Wings | 225.0 | 1131 | 182.0 | osu_mirror/community | `osu_mirror\1248382\TUYU - Doro no Bunzai de Watashidake no Taisetsu o Ubaouda Nante (flashnias) [Eternal Wings].mc` |
+| 2964 | Doves | Model/Actriz | A third of the stars | 132.0 | 2907 | 218.2 | osu_mirror/community | `osu_mirror\2388836\ModelActriz - Doves (mukotsuu) [A third of the stars].mc` |
+| 2965 | Dream Leaf | Mitsukiyo | Imaginary Dream | 155.0 | 1034 | 218.6 | osu_mirror/community | `osu_mirror\2531080\Mitsukiyo - Dream Leaf (Yurizono Seia-) [Imaginary Dream].mc` |
+| 2966 | Dream of Us (feat. Okayu) | Fujiyori, EONI | Continuum | 134.0 | 2915 | 229.3 | osu_mirror/community | `osu_mirror\2527897\Fujiyori, EONI - Dream of Us (feat. Okayu) (Muse Dash) [Continuum].mc` |
+| 2967 | Dream ON (Game Ver.) | Ayane | eZmmR's Hard | 196.0 | 695 | 88.2 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game Ver.) (Ihram) [eZmmR's Hard].mc` |
+| 2968 | Dream ON (Game Ver.) | Ayane | Game ON! | 196.0 | 749 | 88.2 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game ver.) (Ihram) [Game ON!].mc` |
+| 2969 | Dream ON (Game Ver.) | Ayane | Sava's Easy | 196.0 | 237 | 85.9 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game Ver.) (Ihram) [Sava's Easy].mc` |
+| 2970 | Dream ON (Game Ver.) | Ayane | Slowpoke's Normal | 196.0 | 561 | 88.2 | osu_mirror/community | `osu_mirror\2434745\Ayane - Dream ON (Game Ver.) (Ihram) [Slowpoke's Normal].mc` |
+| 2971 | DREAMMODE | Atena feat. Otomachi Una, Kaai Yuki | DREAMMODE!! | 134.0 | 511 | 133.9 | osu_mirror/community | `osu_mirror\2556039\Atena feat. Otomachi Una, Kaai Yuki - DREAMMODE (aminos111) [DREAMMODE!!].mc` |
+| 2972 | DREAMMODE | Atena feat. Otomachi Una, Kaai Yuki | HARDMODE!! | 134.0 | 962 | 135.7 | osu_mirror/community | `osu_mirror\2556039\Atena feat. Otomachi Una, Kaai Yuki - DREAMMODE (aminos111) [HARDMODE!!].mc` |
+| 2973 | DREAMMODE | Atena feat. Otomachi Una, Kaai Yuki | NORMALMODE!! | 134.0 | 742 | 135.7 | osu_mirror/community | `osu_mirror\2556039\Atena feat. Otomachi Una, Kaai Yuki - DREAMMODE (aminos111) [NORMALMODE!!].mc` |
+| 2974 | Drenched in Air | Camellia feat. Ninomae Ina'nis | Flower. | 189.0 | 3372 | 285.6 | osu_mirror/community | `osu_mirror\2552361\Camellia feat. Ninomae Ina'nis - Drenched in Air (NineSey) [Flower.].mc` |
+| 2975 | Dzwony na nieszpory | HOYO-MiX | -Zell's Hope | 105.0 | 292 | 95.5 | osu_mirror/community | `osu_mirror\2595914\HOYO-MiX - Dzwony na nieszpory (hydrogen b0mb) [-Zell's Hope].mc` |
+| 2976 | Dzwony na nieszpory | HOYO-MiX | Beginner | 105.0 | 114 | 95.5 | osu_mirror/community | `osu_mirror\2595914\HOYO-MiX - Dzwony na nieszpory (hydrogen b0mb) [Beginner].mc` |
+| 2977 | Dzwony na nieszpory | HOYO-MiX | Easy | 105.0 | 134 | 95.8 | osu_mirror/community | `osu_mirror\2595914\HOYO-MiX - Dzwony na nieszpory (hydrogen b0mb) [Easy].mc` |
+| 2978 | Early Morning | tachibanaka | Beginner | 100.0 | 65 | 76.8 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Beginner].mc` |
+| 2979 | Early Morning | tachibanaka | Cup of Coffee | 100.0 | 267 | 57.0 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Cup of Coffee].mc` |
+| 2980 | Early Morning | tachibanaka | Easy | 100.0 | 191 | 77.1 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Easy].mc` |
+| 2981 | Early Morning | tachibanaka | Intermediate | 100.0 | 214 | 77.1 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Intermediate].mc` |
+| 2982 | Early Morning | tachibanaka | Normal | 100.0 | 217 | 57.6 | osu_mirror/community | `osu_mirror\2534361\tachibanaka - Early Morning (JustEmilo) [Normal].mc` |
+| 2983 | Easy Breezy (7_7 Bootleg) | chelmico | Expert | 210.0 | 2539 | 135.5 | osu_mirror/community | `osu_mirror\2555689\chelmico - Easy Breezy (7_7 Bootleg) (MOSTULS) [Expert].mc` |
+| 2984 | Easy Breezy (7_7 Bootleg) | chelmico | Hard | 210.0 | 1613 | 135.5 | osu_mirror/community | `osu_mirror\2555689\chelmico - Easy Breezy (7_7 Bootleg) (MOSTULS) [Hard].mc` |
+| 2985 | Easy Breezy (7_7 Bootleg) | chelmico | Insane | 210.0 | 2104 | 135.5 | osu_mirror/community | `osu_mirror\2555689\chelmico - Easy Breezy (7_7 Bootleg) (MOSTULS) [Insane].mc` |
+| 2986 | easymotion | xarva | Stage 1: Estimate | 15.0 | 739 | 12.0 | osu_mirror/community | `osu_mirror\948786\xarva - easymotion (zero2snow) [Stage 1 Estimate].mc` |
+| 2987 | ebullient future | ELISA | ever forever | 145.0 | 2552 | 212.5 | osu_mirror/community | `osu_mirror\2211019\ELISA - ebullient future (Stella-) [ever forever].mc` |
+| 2988 | EDM Chordjack Practice Pack | Various | Alvin Risk feat. Jason Aalon Butler - PUT EM UP | 140.0 | 3910 | 165.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Alvin Risk feat. Jason Aalon Butler - PUT EM UP].mc` |
+| 2989 | EDM Chordjack Practice Pack | Various | Bart Claessen - Playmo (1st Play) | 139.0 | 7137 | 408.8 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Bart Claessen - Playmo (1st Play)].mc` |
+| 2990 | EDM Chordjack Practice Pack | Various | David Guetta  - Jack Is Back | 130.0 | 2587 | 105.2 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [David Guetta  - Jack Is Back].mc` |
+| 2991 | EDM Chordjack Practice Pack | Various | David Guetta & Nicky Romero - Metropolis | 128.0 | 6127 | 329.8 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [David Guetta & Nicky Romero - Metropolis].mc` |
+| 2992 | EDM Chordjack Practice Pack | Various | DJ Snake & Yellow Claw & Spanker - Slow Down | 100.0 | 3731 | 249.3 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [DJ Snake & Yellow Claw & Spanker - Slow Down].mc` |
+| 2993 | EDM Chordjack Practice Pack | Various | G-Buck - #Twurnt (cut) | 100.0 | 1178 | 62.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [G-Buck - #Twurnt (cut)].mc` |
+| 2994 | EDM Chordjack Practice Pack | Various | Hard Rock Sofa - Quasar | 128.0 | 5538 | 288.3 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Hard Rock Sofa - Quasar].mc` |
+| 2995 | EDM Chordjack Practice Pack | Various | Knife Party - Destroy Them With Lazers | 128.0 | 3813 | 225.0 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Knife Party - Destroy Them With Lazers].mc` |
+| 2996 | EDM Chordjack Practice Pack | Various | Maddix feat. Leila K - Open Sesame (Abracadabra) | 155.0 | 3992 | 211.0 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Maddix feat. Leila K - Open Sesame (Abracadabra)].mc` |
+| 2997 | EDM Chordjack Practice Pack | Various | Promise Land - X-Press | 128.0 | 4085 | 247.5 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Promise Land - X-Press].mc` |
+| 2998 | EDM Chordjack Practice Pack | Various | SkisM - Like This | 140.0 | 4441 | 234.9 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [SkisM - Like This].mc` |
+| 2999 | EDM Chordjack Practice Pack | Various | Zomboy & MUST DIE! - Survivors | 140.0 | 4628 | 219.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Zomboy & MUST DIE! - Survivors].mc` |
+| 3000 | EDM Chordjack Practice Pack | Various | Zomboy - Resurrected | 140.0 | 2704 | 123.4 | osu_mirror/community | `osu_mirror\2636992\Various - EDM Chordjack Practice Pack (Yuiesta) [Zomboy - Resurrected].mc` |
+| 3001 | enchanted love (and the witch's selfish heart) | linear ring | magical, words | 190.0 | 2008 | 283.7 | osu_mirror/community | `osu_mirror\2489861\linear ring - enchanted love (and the witch's selfish heart) (Nicknem_) [magical, words].mc` |
+| 3002 | envidia (Game Ver.) | Nekomata Gekidan | desire | 134.0 | 543 | 116.4 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [desire].mc` |
+| 3003 | envidia (Game Ver.) | Nekomata Gekidan | hard | 134.0 | 486 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [Hard].mc` |
+| 3004 | envidia (Game Ver.) | Nekomata Gekidan | normal | 134.0 | 590 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [Normal].mc` |
+| 3005 | envidia (Game Ver.) | Nekomata Gekidan | xnery's easy | 134.0 | 292 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [xnery's easy].mc` |
+| 3006 | envidia (Game Ver.) | Nekomata Gekidan | xnery's extra | 134.0 | 1162 | 118.0 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [xnery's extra].mc` |
+| 3007 | envidia (Game Ver.) | Nekomata Gekidan | xnery's insane | 134.0 | 1031 | 118.2 | osu_mirror/community | `osu_mirror\2256944\Nekomata Gekidan - envidia (Game Ver.) (AHHHHHHHHHHHHHH) [xnery's insane].mc` |
+| 3008 | escape (the looking-glass, and what alice found there) | Kurokotei feat. Sennzai | The Antagonistic Mirror World | 160.0 | 4063 | 293.3 | osu_mirror/community | `osu_mirror\2377120\Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (-Ming-) [The Antagonistic Mirror World].mc` |
+| 3009 | escape (the looking-glass, and what alice found there) | Kurokotei feat. Sennzai | Reveries | 160.0 | 3400 | 293.3 | osu_mirror/community | `osu_mirror\2422601\Kurokotei feat. Sennzai - escape (the looking-glass, and what alice found there) (V1do-) [Reveries].mc` |
+| 3010 | espial | Oliver Buckland | wonder | 160.0 | 2039 | 211.9 | osu_mirror/community | `osu_mirror\2396349\Oliver Buckland - espial (caracol) [wonder].mc` |
+| 3011 | Etazhi | ANGUISH, deepins & ily | Advanced | 170.0 | 835 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Advanced].mc` |
+| 3012 | Etazhi | ANGUISH, deepins & ily | Hard | 170.0 | 1119 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Hard].mc` |
+| 3013 | Etazhi | ANGUISH, deepins & ily | Insane | 170.0 | 1394 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Insane].mc` |
+| 3014 | Etazhi | ANGUISH, deepins & ily | Intermediate | 170.0 | 513 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Intermediate].mc` |
+| 3015 | Etazhi | ANGUISH, deepins & ily | Mimo etazhi | 170.0 | 1572 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Mimo etazhi].mc` |
+| 3016 | Etazhi | ANGUISH, deepins & ily | Normal | 170.0 | 685 | 90.8 | osu_mirror/community | `osu_mirror\2559592\ANGUISH, deepins & ily - Etazhi (menphiss) [Normal].mc` |
+| 3017 | Eternal Ember | sugosugiii vs. 11784492 vs. THE BEAT WIZARD feat. Ethereal_Winter | Twilight's Final Vigil | 60.0 | 3000 | 354.4 | osu_mirror/community | `osu_mirror\2486011\sugosugiii vs. 11784492 vs. THE BEAT WIZARD feat. Ethereal_Winter - Eternal Ember ([TCD] Dzar03) [Twilight's Final Vigil].mc` |
+| 3018 | Evergreen (TV Size) | sajou no hana | Daybreak | 182.0 | 469 | 82.4 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [Daybreak].mc` |
+| 3019 | Evergreen (TV Size) | sajou no hana | Ferdi's Easy | 182.0 | 286 | 86.9 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [Ferdi's Easy].mc` |
+| 3020 | Evergreen (TV Size) | sajou no hana | kekou's Hard | 182.0 | 481 | 86.4 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [kekou's Hard].mc` |
+| 3021 | Evergreen (TV Size) | sajou no hana | Normal | 182.0 | 445 | 86.9 | osu_mirror/community | `osu_mirror\2471567\sajou no hana - Evergreen (TV Size) (Seitora) [Normal].mc` |
+| 3022 | Everlasting Eternity | Ludicin | What could it be now? | 150.0 | 3243 | 300.8 | osu_mirror/community | `osu_mirror\2372657\Ludicin - Everlasting Eternity (Furimuu-) [What could it be now].mc` |
+| 3023 | Everybody Wants To Rule The World | Tears For Fears | Freedom | 112.06 | 2997 | 236.5 | osu_mirror/community | `osu_mirror\2543185\Tears For Fears - Everybody Wants To Rule The World (P45ta) [Freedom].mc` |
+| 3024 | Everything Everything (Cut Ver.) | Good Kid | Easy Easy | 192.0 | 396 | 104.8 | osu_mirror/community | `osu_mirror\2495168\Good Kid - Everything Everything (Cut Ver.) (Linlime) [Easy Easy].mc` |
+| 3025 | Everything Everything (Cut Ver.) | Good Kid | Expert Expert | 192.0 | 1249 | 104.8 | osu_mirror/community | `osu_mirror\2495168\Good Kid - Everything Everything (Cut Ver.) (Linlime) [Expert Expert].mc` |
+| 3026 | Everything Everything (Cut Ver.) | Good Kid | Hard Hard | 192.0 | 835 | 104.8 | osu_mirror/community | `osu_mirror\2495168\Good Kid - Everything Everything (Cut Ver.) (Linlime) [Hard Hard].mc` |
+| 3027 | Everything Everything (Cut Ver.) | Good Kid | Insane Insane | 192.0 | 1085 | 104.8 | osu_mirror/community | `osu_mirror\2495168\Good Kid - Everything Everything (Cut Ver.) (Linlime) [Insane Insane].mc` |
+| 3028 | Everything Everything (Cut Ver.) | Good Kid | Normal Normal | 192.0 | 584 | 104.8 | osu_mirror/community | `osu_mirror\2495168\Good Kid - Everything Everything (Cut Ver.) (Linlime) [Normal Normal].mc` |
+| 3029 | Everything will freeze | UNDEAD CORPORATION | Advanced | 240.0 | 1248 | 192.9 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Advanced].mc` |
+| 3030 | Everything will freeze | UNDEAD CORPORATION | Claim your time! | 240.0 | 3470 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Claim your time!].mc` |
+| 3031 | Everything will freeze | UNDEAD CORPORATION | Easy | 240.0 | 473 | 190.4 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Easy].mc` |
+| 3032 | Everything will freeze | UNDEAD CORPORATION | Hard | 240.0 | 2243 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Hard].mc` |
+| 3033 | Everything will freeze | UNDEAD CORPORATION | Hyper | 240.0 | 2792 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Hyper].mc` |
+| 3034 | Everything will freeze | UNDEAD CORPORATION | Insane | 240.0 | 2995 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Insane].mc` |
+| 3035 | Everything will freeze | UNDEAD CORPORATION | Lunatic | 240.0 | 3467 | 193.0 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Lunatic].mc` |
+| 3036 | Everything will freeze | UNDEAD CORPORATION | Normal | 240.0 | 784 | 192.9 | osu_mirror/community | `osu_mirror\2217940\UNDEAD CORPORATION - Everything will freeze (Worthlessnut9) [Normal].mc` |
+| 3037 | excez | Aoi | Easy | 202.0 | 331 | 116.0 | osu_mirror/community | `osu_mirror\1914904\Aoi - excez (De4th_) [Easy].mc` |
+| 3038 | excez | Aoi | Hard | 202.0 | 1111 | 116.0 | osu_mirror/community | `osu_mirror\1914904\Aoi - excez (De4th_) [Hard].mc` |
+| 3039 | excez | Aoi | Normal | 202.0 | 691 | 116.0 | osu_mirror/community | `osu_mirror\1914904\Aoi - excez (De4th_) [Normal].mc` |
+| 3040 | excez | Aoi | Universe | 202.0 | 1232 | 115.1 | osu_mirror/community | `osu_mirror\1914904\Aoi - excez (De4th_) [Universe].mc` |
+| 3041 | excez | Aoi | Vexxxx's Another | 202.0 | 1259 | 116.0 | osu_mirror/community | `osu_mirror\1914904\Aoi - excez (De4th_) [Vexxxx's Another].mc` |
+| 3042 | excez | Aoi | Vexxxx's Insane | 202.0 | 1208 | 115.0 | osu_mirror/community | `osu_mirror\1914904\Aoi - excez (De4th_) [Vexxxx's Insane].mc` |
+| 3043 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.05 | 136.5 | 2488 | 158.2 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.05].mc` |
+| 3044 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.15 | 149.5 | 2488 | 144.4 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.15].mc` |
+| 3045 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.1 | 143.0 | 2488 | 151.0 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.1].mc` |
+| 3046 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.25 | 162.5 | 2488 | 132.9 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.25].mc` |
+| 3047 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.2 | 156.0 | 2488 | 138.4 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.2].mc` |
+| 3048 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It x1.3 | 169.0 | 2488 | 127.8 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It x1.3].mc` |
+| 3049 | Excuse My Rudeness, But Could You Please RIP (3R2 Remix) | Mori Calliope | Fxxk It | 130.0 | 2488 | 166.1 | osu_mirror/community | `osu_mirror\1502865\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (3R2 Remix) (Zia) [Fxxk It].mc` |
+| 3050 | Excuse My Rudeness, But Could You Please RIP (ReeK's "Dude Whats A Genre" Remix) | Mori Calliope | Multigenre Smackdown | 131.89 | 4758 | 416.5 | osu_mirror/community | `osu_mirror\2454917\Mori Calliope - Excuse My Rudeness, But Could You Please RIP (ReeK's Dude Whats A Genre Remix) ([GB]Cinelia) [Multigenre Smackdown].mc` |
+| 3051 | Executioner | Laur | Equity | 215.0 | 3421 | 202.6 | osu_mirror/community | `osu_mirror\2471251\Laur - Executioner (P45ta) [Equity].mc` |
+| 3052 | Exit This Earth's Atomosphere (Camellia's "PLANETARY//200STEP" Remix) | Camellia | Artificial Horizon | 200.0 | 2719 | 344.3 | osu_mirror/community | `osu_mirror\907789\Camellia - Exit This Earth's Atomosphere (Camellia's PLANETARY200STEP Remix) (Oscyy) [Artificial Horizon].mc` |
+| 3053 | EYES ON ME | asteria | CONCEPTE'S NORMAL | 60.0 | 573 | 92.3 | osu_mirror/community | `osu_mirror\2591350\asteria - EYES ON ME (keksikosu) [CONCEPTE'S NORMAL].mc` |
+| 3054 | EYES ON ME | asteria | XXX | 60.0 | 894 | 92.3 | osu_mirror/community | `osu_mirror\2591350\asteria - EYES ON ME (keksikosu) [XXX].mc` |
+| 3055 | FAKE UP | ePiaeon | Foxide's Advanced | 108.6 | 1002 | 183.8 | osu_mirror/community | `osu_mirror\2598366\ePiaeon - FAKE UP (Azukkii) [Foxide's Advanced].mc` |
+| 3056 | FAKE UP | ePiaeon | Neon's Hard | 108.6 | 1285 | 183.6 | osu_mirror/community | `osu_mirror\2598366\ePiaeon - FAKE UP (Azukkii) [Neon's Hard].mc` |
+| 3057 | FAKE UP | ePiaeon | Won't you praise me? | 108.6 | 1407 | 176.1 | osu_mirror/community | `osu_mirror\2598366\ePiaeon - FAKE UP (Azukkii) [Won't you praise me].mc` |
+| 3058 | Falling | Magnetude | Collapse | 174.0 | 3235 | 286.9 | osu_mirror/community | `osu_mirror\2539608\Magnetude - Falling (Ainer) [Collapse].mc` |
+| 3059 | falling up (feat. clwdy, stephie) | vai5000 | fragments of you still remain here. | 150.0 | 733 | 215.8 | osu_mirror/community | `osu_mirror\2418280\vai5000 - falling up (feat. clwdy, stephie) (QwertYui345) [fragments of you still remain here.].mc` |
+| 3060 | Feel The Melody | S3RL feat. Sara | ApioRojizo's Hard | 175.0 | 1992 | 218.1 | osu_mirror/community | `osu_mirror\2640112\S3RL feat. Sara - Feel The Melody (menphiss) [ApioRojizo's Hard].mc` |
+| 3061 | Feel The Melody | S3RL feat. Sara | Let The Bass Kick! | 175.0 | 2738 | 218.1 | osu_mirror/community | `osu_mirror\2640112\S3RL feat. Sara - Feel The Melody (menphiss) [Let The Bass Kick!].mc` |
+| 3062 | Feel The Melody | S3RL feat. Sara | NikoSek's Insane | 175.0 | 2401 | 218.1 | osu_mirror/community | `osu_mirror\2640112\S3RL feat. Sara - Feel The Melody (menphiss) [NikoSek's Insane].mc` |
+| 3063 | Fermion Amplification | Kou! | Superconductivity | 164.0 | 3550 | 329.2 | osu_mirror/community | `osu_mirror\2435372\Kou! - Fermion Amplification (-mint-) [Superconductivity].mc` |
+| 3064 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | beginner | 168.0 | 72 | 48.0 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [beginner].mc` |
+| 3065 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | hard | 168.0 | 398 | 63.9 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [hard].mc` |
+| 3066 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | insane | 168.0 | 480 | 63.9 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [insane].mc` |
+| 3067 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | normal | 168.0 | 223 | 53.3 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [normal].mc` |
+| 3068 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | take's easy | 168.0 | 114 | 53.3 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [take's easy].mc` |
+| 3069 | fieryrage accordion (hardcore remix) (TV Size) | tomspicy | WORTHLESS' SOMEBODY SCREAMMMMMMMMMMMMMMMMMMMMMMMMMMMMM | 168.0 | 106 | 63.9 | osu_mirror/community | `osu_mirror\2527220\tomspicy - fieryrage accordion (hardcore remix) (TV Size) (tapperruiii) [WORTHLESS' SOMEBODY SCREAMMMMMMMMMMMMMMMMMMMMMMMMMMMMM].mc` |
+| 3070 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | easy | 168.0 | 313 | 74.6 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [easy].mc` |
+| 3071 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | fieryrage goes hardcore on the accordion (GONE WRONG) | 168.0 | 913 | 74.1 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [fieryrage goes hardcore on the accordion (GONE WRONG)].mc` |
+| 3072 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | hard | 168.0 | 791 | 74.6 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [hard].mc` |
+| 3073 | fieryrage accordion (hardcore remix) (TV Size) | tom^s | normal | 168.0 | 518 | 74.6 | osu_mirror/community | `osu_mirror\2563805\tom^s - fieryrage accordion (hardcore remix) (TV Size) (Utiba) [normal].mc` |
+| 3074 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Easy | 195.0 | 273 | 84.9 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Easy].mc` |
+| 3075 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Elfie | 195.0 | 950 | 84.8 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Elfie].mc` |
+| 3076 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Hard | 195.0 | 596 | 84.8 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Hard].mc` |
+| 3077 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Insane | 195.0 | 784 | 84.9 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Insane].mc` |
+| 3078 | Fire and Fear (TV Size) | PENGUIN RESEARCH | Normal | 195.0 | 443 | 84.8 | osu_mirror/community | `osu_mirror\2568765\PENGUIN RESEARCH - Fire and Fear (TV Size) (Forthnos) [Normal].mc` |
+| 3079 | Flashback (feat. RANASOL) | Andora | Snapback | 109.0 | 446 | 178.3 | osu_mirror/community | `osu_mirror\2598441\Andora - Flashback (feat. RANASOL) (My Angel Chen) [Snapback].mc` |
+| 3080 | FLOP ERA | ePiaeon | Lizyuu's Easy | 163.0 | 546 | 152.9 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [Lizyuu's Easy].mc` |
+| 3081 | FLOP ERA | ePiaeon | mirac1e's Hard | 163.0 | 1002 | 152.9 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [mirac1e's Hard].mc` |
+| 3082 | FLOP ERA | ePiaeon | Normal | 163.0 | 707 | 152.9 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [Normal].mc` |
+| 3083 | FLOP ERA | ePiaeon | Yearning | 163.0 | 1059 | 153.1 | osu_mirror/community | `osu_mirror\2523883\ePiaeon - FLOP ERA (SimpForTakagi) [Yearning].mc` |
+| 3084 | Floremie | MIMI | Color the blue dream with your presence // Insane | 108.0 | 1611 | 221.9 | osu_mirror/community | `osu_mirror\2578511\MIMI - Floremie ([TCD] Dzar03) [Color the blue dream with your presence  Insane].mc` |
+| 3085 | Floremie | MIMI | Empty heart // Normal | 108.0 | 964 | 222.1 | osu_mirror/community | `osu_mirror\2578511\MIMI - Floremie ([TCD] Dzar03) [Empty heart  Normal].mc` |
+| 3086 | Floremie | MIMI | Uncertain future // LINQAQ's Hard | 108.0 | 1143 | 221.0 | osu_mirror/community | `osu_mirror\2578511\MIMI - Floremie ([TCD] Dzar03) [Uncertain Future  LINQAQ's Hard].mc` |
+| 3087 | Flow (Cut Ver.) | Creo | alp's normal. | 128.0 | 264 | 75.0 | osu_mirror/community | `osu_mirror\2496215\Creo - Flow (Cut Ver.) (YunoMaya) [alp's normal.].mc` |
+| 3088 | Flow (Cut Ver.) | Creo | avel's hard. | 128.0 | 284 | 75.0 | osu_mirror/community | `osu_mirror\2496215\Creo - Flow (Cut Ver.) (YunoMaya) [avel's hard.].mc` |
+| 3089 | Flow (Cut Ver.) | Creo | easy. | 128.0 | 227 | 75.0 | osu_mirror/community | `osu_mirror\2496215\Creo - Flow (Cut Ver.) (YunoMaya) [easy.].mc` |
+| 3090 | Flow (Cut Ver.) | Creo | zero. | 128.0 | 368 | 75.0 | osu_mirror/community | `osu_mirror\2496215\Creo - Flow (Cut Ver.) (YunoMaya) [zero.].mc` |
+| 3091 | flower of wilderness | Camellia | wildrose | 220.0 | 1651 | 312.0 | osu_mirror/community | `osu_mirror\2555103\Camellia - flower of wilderness (Ainer) [wildrose].mc` |
+| 3092 | Fly Again | Fujiyori | Easy | 85.0 | 349 | 146.4 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Easy].mc` |
+| 3093 | Fly Again | Fujiyori | Falling Up | 85.0 | 1092 | 147.3 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Falling Up].mc` |
+| 3094 | Fly Again | Fujiyori | Hard | 85.0 | 872 | 147.3 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Hard].mc` |
+| 3095 | Fly Again | Fujiyori | Normal | 85.0 | 483 | 147.3 | osu_mirror/community | `osu_mirror\2559688\Fujiyori - Fly Again (Calcul0us) [Normal].mc` |
+| 3096 | Fly to night, tonight | Camellia | Where Dawn Never Breaks | 132.0 | 1303 | 232.7 | osu_mirror/community | `osu_mirror\2522406\Camellia - Fly to night, tonight (QwertYui345) [Where Dawn Never Breaks].mc` |
+| 3097 | Forgotten Hate | Supire | Breach of Faith | 220.0 | 1757 | 297.8 | osu_mirror/community | `osu_mirror\2529640\Supire - Forgotten Hate (Adachi Rei-) [Breach of Faith].mc` |
+| 3098 | Fractal Vertex | kanemiko & Kyutatsuki & Aoi | Singularity | 161.0 | 4248 | 300.0 | osu_mirror/community | `osu_mirror\2424891\kanemiko & Kyutatsuki & Aoi - Fractal Vertex (Seiran-) [Singularity].mc` |
+| 3099 | Fractal Vertex | kanemiko & Kyutatsuki & Aoi | she Fractal on my Vertex 'till i fc | 161.0 | 4067 | 300.0 | osu_mirror/community | `osu_mirror\2523349\kanemiko & Kyutatsuki & Aoi - Fractal Vertex (Alumence) [she Fractal on my Vertex 'till i fc].mc` |
+| 3100 | Fracture Ray | Sakuzyo | FRACTURE OF TIME | 200.0 | 1073 | 144.1 | osu_mirror/community | `osu_mirror\2231037\Sakuzyo - Fracture Ray (MrMoai) [FRACTURE OF TIME].mc` |
+| 3101 | Fracture Ray | Sakuzyo | PAST | 200.0 | 540 | 146.2 | osu_mirror/community | `osu_mirror\2231037\Sakuzyo - Fracture Ray (MrMoai) [Past].mc` |
+| 3102 | Fracture Ray | Sakuzyo | PRESENT | 200.0 | 791 | 146.2 | osu_mirror/community | `osu_mirror\2231037\Sakuzyo - Fracture Ray (MrMoai) [Present].mc` |
+| 3103 | Fracture Ray | Sakuzyo | Will's FUTURE | 200.0 | 955 | 146.1 | osu_mirror/community | `osu_mirror\2231037\Sakuzyo - Fracture Ray (MrMoai) [Will's Future].mc` |
+| 3104 | Fractured Light (feat. eili) | Gardens & Sad Keyboard Guy | Glory Knight | 230.0 | 2441 | 290.3 | osu_mirror/community | `osu_mirror\2580914\Gardens & Sad Keyboard Guy - Fractured Light (feat. Eili) (AelSan) [Glory Knight].mc` |
+| 3105 | FRAGMENT. (feat. A.Dokuga) | P4koo | AVEL'S EASY | 220.0 | 236 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [AVEL'S EASY].mc` |
+| 3106 | FRAGMENT. (feat. A.Dokuga) | P4koo | FATE | 220.0 | 1398 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [FATE].mc` |
+| 3107 | FRAGMENT. (feat. A.Dokuga) | P4koo | HARD | 220.0 | 636 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [HARD].mc` |
+| 3108 | FRAGMENT. (feat. A.Dokuga) | P4koo | MIGHTY'S HYPER | 220.0 | 840 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [MIGHTY'S HYPER].mc` |
+| 3109 | FRAGMENT. (feat. A.Dokuga) | P4koo | NORMAL | 220.0 | 446 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [NORMAL].mc` |
+| 3110 | FRAGMENT. (feat. A.Dokuga) | P4koo | UCITYSM VS. JOHNO'S INSANE | 220.0 | 1106 | 65.9 | osu_mirror/community | `osu_mirror\2601169\P4koo - FRAGMENT. (feat. A.Dokuga) (iiJohn0) [UCITYSM VS. JOHNO'S INSANE].mc` |
+| 3111 | FREAK LIKE ME | DnsT3r_7 | FREAKY SARAGI | 250.0 | 1603 | 77.5 | osu_mirror/community | `osu_mirror\2539962\DnsT3r_7 - FREAK LIKE ME (ONYXY) [FREAKY SARAGI ].mc` |
+| 3112 | Friends | cute girls doing cute things | :3 | 92.0 | 691 | 214.9 | osu_mirror/community | `osu_mirror\2537709\cute girls doing cute things - Friends (Antipole) [3].mc` |
+| 3113 | Furachi na Kassai | Police Piccadilly feat. KAFU | Deny 1.1x (174bpm) | 173.8 | 490 | 123.1 | osu_mirror/community | `osu_mirror\1875866\Police Piccadilly feat. KAFU - Furachi na Kassai (Ballistic) [Deny 1.1x (174bpm)].mc` |
+| 3114 | Furachi na Kassai | Police Piccadilly feat. KAFU | Deny 1.2x (190bpm) | 189.6 | 490 | 112.8 | osu_mirror/community | `osu_mirror\1875866\Police Piccadilly feat. KAFU - Furachi na Kassai (Ballistic) [Deny 1.2x (190bpm)].mc` |
+| 3115 | Furachi na Kassai | Police Piccadilly feat. KAFU | Deny | 158.0 | 490 | 135.4 | osu_mirror/community | `osu_mirror\1875866\Police Piccadilly feat. KAFU - Furachi na Kassai (Ballistic) [Deny].mc` |
+| 3116 | Fushigi Purupuru Pururin Rin! (TV Size) | Pururin (CV: Shishido Rumi) | Normal | 150.0 | 203 | 87.3 | osu_mirror/community | `osu_mirror\2553092\Pururin (CV Shishido Rumi) - Fushigi Purupuru Pururin Rin! (TV Size) (Ballistic) [Normal].mc` |
+| 3117 | Fushigi Purupuru Pururin Rin! (TV Size) | Pururin (CV: Shishido Rumi) | Ringtone | 150.0 | 285 | 86.4 | osu_mirror/community | `osu_mirror\2553092\Pururin (CV Shishido Rumi) - Fushigi Purupuru Pururin Rin! (TV Size) (Ballistic) [Ringtone].mc` |
+| 3118 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | Be My Valentine | 181.0 | 617 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [Be My Valentine].mc` |
+| 3119 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | Hard | 181.0 | 546 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [Hard].mc` |
+| 3120 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | MiuOtter's Easy | 181.0 | 278 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [MiuOtter's Easy].mc` |
+| 3121 | Futari no Start Button (TV Size) | Lily Baker (CV: Amaki Sally), Aoi Kusakabe (CV: Osanai Reo) | Normal | 181.0 | 339 | 86.9 | osu_mirror/community | `osu_mirror\2408720\Lily Baker (CV Amaki Sally), Aoi Kusakabe (CV Osanai Reo) - Futari no Start Button (TV Size) (DragonMeow1012) [Normal].mc` |
+| 3122 | Fuujin Raijin | Colorful Sounds Port | Harsh Wind // 4K Normal | 90.0 | 1113 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [Harsh Wind  4K Normal].mc` |
+| 3123 | Fuujin Raijin | Colorful Sounds Port | Raging Thunder // 4K Hyper | 90.0 | 1712 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [Raging Thunder  4K Hyper].mc` |
+| 3124 | Fuujin Raijin | Colorful Sounds Port | The Forces of Nature in Harmony // 4K Another | 90.0 | 2155 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [The Forces of Nature in Harmony  4K Another].mc` |
+| 3125 | Fuujin Raijin | Colorful Sounds Port | Turbulence // Dzar03's 4K Beginner | 90.0 | 786 | 194.4 | osu_mirror/community | `osu_mirror\2442711\Colorful Sounds Port - Fuujin Raijin ([TCD] Ena-suki) [Turbulence  Dzar03's 4K Beginner].mc` |
+| 3126 | Fuyu | Homareda Miyuki | Flower of Happiness | 80.0 | 31 | 61.5 | osu_mirror/community | `osu_mirror\2206786\Homareda Miyuki - Fuyu ([-E S I A-]) [Flower of Happiness].mc` |
+| 3127 | Galaxy feat. Moon Jelly | Stariah | Intergalactic | 124.0 | 1635 | 224.5 | osu_mirror/community | `osu_mirror\2550171\Stariah - Galaxy feat. Moon Jelly (Foxide) [Intergalactic].mc` |
+| 3128 | GALVANIZER | Ashrount | VULCAN | 288.0 | 1493 | 128.4 | osu_mirror/community | `osu_mirror\2253764\Ashrount - GALVANIZER (guden) [Vulcan].mc` |
+| 3129 | GANGNAM STYLE [GRAY REMIX] | PSY | SEXY LADY | 125.0 | 797 | 185.8 | osu_mirror/community | `osu_mirror\2546686\PSY - GANGNAM STYLE [GRAY REMIX] (GDBlack) [Sexy Lady].mc` |
+| 3130 | Gate Openerz | DJ SHARPNEL | Logiik | 198.68 | 4511 | 251.8 | osu_mirror/community | `osu_mirror\2570132\DJ SHARPNEL - Gate Openerz (Comiaaa) [Logiik].mc` |
+| 3131 | Gaucho | Culprate & Joe Ford | Cathartic Degradation | 172.0 | 2331 | 274.9 | osu_mirror/community | `osu_mirror\2569825\Culprate & Joe Ford - Gaucho (Znow) [Cathartic Degradation].mc` |
+| 3132 | Geheimnis | jeko | Crimson | 185.0 | 2026 | 153.1 | osu_mirror/community | `osu_mirror\2463674\jeko - Geheimnis (FAMoss) [Crimson].mc` |
+| 3133 | Geheimnis | jeko | Easy | 185.0 | 403 | 153.1 | osu_mirror/community | `osu_mirror\2463674\jeko - Geheimnis (FAMoss) [Easy].mc` |
+| 3134 | Geheimnis | jeko | Hard | 185.0 | 1646 | 153.1 | osu_mirror/community | `osu_mirror\2463674\jeko - Geheimnis (FAMoss) [Hard].mc` |
+| 3135 | Geheimnis | jeko | Insane | 185.0 | 1997 | 153.1 | osu_mirror/community | `osu_mirror\2463674\jeko - Geheimnis (FAMoss) [Insane].mc` |
+| 3136 | Geheimnis | jeko | Normal | 185.0 | 935 | 153.1 | osu_mirror/community | `osu_mirror\2463674\jeko - Geheimnis (FAMoss) [Normal].mc` |
+| 3137 | Genre Police (feat. Lexi) | S3RL | Extra | 160.0 | 1862 | 188.9 | osu_mirror/community | `osu_mirror\2599383\S3RL - Genre Police (feat. Lexi) (Anwul_) [Extra].mc` |
+| 3138 | Genre Police (feat. Lexi) | S3RL | Insane | 160.0 | 1697 | 188.9 | osu_mirror/community | `osu_mirror\2599383\S3RL - Genre Police (feat. Lexi) (Anwul_) [Insane].mc` |
+| 3139 | Ghost Of Me | Make Them Suffer | Hopeless | 140.0 | 3791 | 219.5 | osu_mirror/community | `osu_mirror\2419712\Make Them Suffer - Ghost Of Me (Ventilo le vrai) [Hopeless].mc` |
+| 3140 | GHOUL | Camellia | EXTRA STAGE / LAST BREATH OF A SPECTRE; | 0.0 | 2963 | 2.3 | osu_mirror/community | `osu_mirror\2031975\Camellia - GHOUL (Orca-) [EXTRA STAGE  LAST BREATH OF A SPECTRE;].mc` |
+| 3141 | GHOUL | Camellia | NSV | 230.0 | 2963 | 256.7 | osu_mirror/community | `osu_mirror\2031975\Camellia - GHOUL (Orca-) [NSV].mc` |
+| 3142 | Gi -lirile- | Kurokotei * eili | Ecclesia | 175.0 | 5467 | 803.3 | osu_mirror/community | `osu_mirror\2150233\Kurokotei  eili - Gi -lirile- (Reiraa_) [Ecclesia].mc` |
+| 3143 | Gilded Runner | HOYO-MiX | Fibonacci | 90.67 | 735 | 236.6 | osu_mirror/community | `osu_mirror\2593046\HOYO-MiX - Gilded Runner (Linlime) [Fibonacci].mc` |
+| 3144 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | ADVANCED | 210.0 | 789 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [ADVANCED].mc` |
+| 3145 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | ANOTHER | 210.0 | 1187 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [ANOTHER].mc` |
+| 3146 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | EASY | 210.0 | 417 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [EASY].mc` |
+| 3147 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | EXTRA | 210.0 | 1413 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [EXTRA].mc` |
+| 3148 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | EXTREME | 210.0 | 1567 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [EXTREME].mc` |
+| 3149 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | HARD | 210.0 | 909 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [HARD].mc` |
+| 3150 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | HYPER | 210.0 | 1026 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [HYPER].mc` |
+| 3151 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | NORMAL | 210.0 | 635 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [NORMAL].mc` |
+| 3152 | Glaza (Sped Up Ver.) | ANGUISH, POCHTISCHASTLIV & ily | YOUR EMPTY EYES | 210.0 | 1649 | 86.9 | osu_mirror/community | `osu_mirror\2182334\ANGUISH, POCHTISCHASTLIV & ily - Glaza (Sped Up Ver.) (Flade) [YOUR EMPTY EYES].mc` |
+| 3153 | Glow | Chiru-san | Easy | 150.0 | 504 | 189.6 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Easy].mc` |
+| 3154 | Glow | Chiru-san | Glimmer | 150.0 | 1644 | 191.4 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Glimmer].mc` |
+| 3155 | Glow | Chiru-san | Hard | 150.0 | 1314 | 191.4 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Hard].mc` |
+| 3156 | Glow | Chiru-san | Insane | 150.0 | 1444 | 191.4 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Insane].mc` |
+| 3157 | Glow | Chiru-san | Normal | 150.0 | 915 | 191.0 | osu_mirror/community | `osu_mirror\2538996\Chiru-san - Glow (chocomilku-) [Normal].mc` |
+| 3158 | Godzilla (feat. Juice WRLD) | Eminem | Advanced | 166.0 | 1346 | 207.1 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Advanced].mc` |
+| 3159 | Godzilla (feat. Juice WRLD) | Eminem | Azukkii's Hard | 166.0 | 1865 | 207.1 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Azukkii's Hard].mc` |
+| 3160 | Godzilla (feat. Juice WRLD) | Eminem | Expert | 166.0 | 2927 | 207.2 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Expert].mc` |
+| 3161 | Godzilla (feat. Juice WRLD) | Eminem | Menphiss' Insane | 166.0 | 2477 | 207.1 | osu_mirror/community | `osu_mirror\2617747\Eminem - Godzilla (feat. Juice WRLD) (-Enma-) [Menphiss' Insane].mc` |
+| 3162 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Easy | 154.0 | 213 | 88.8 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Easy].mc` |
+| 3163 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Slowpoke's Normal | 154.0 | 246 | 86.7 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Slowpoke's Normal].mc` |
+| 3164 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Unforgettable Memories | 154.0 | 547 | 87.2 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Unforgettable Memories].mc` |
+| 3165 | Gotoubun no Egao (TV Size) | Nakanoke no Itsutsugo | Usagi's Hard | 154.0 | 410 | 88.8 | osu_mirror/community | `osu_mirror\2305676\Nakanoke no Itsutsugo - Gotoubun no Egao (TV Size) (Savageeeee) [Usagi's Hard].mc` |
+| 3166 | Grabinschrift der Goetter | ikaruga_nex vs. Kagetora. | Ragnarok | 200.0 | 3077 | 307.1 | osu_mirror/community | `osu_mirror\2483755\ikaruga_nex vs. Kagetora. - Grabinschrift der Goetter ([GB]Cinelia) [Ragnarok].mc` |
+| 3167 | Grace | Jeff Buckley | Drown | 57.47 | 4016 | 286.7 | osu_mirror/community | `osu_mirror\2577371\Jeff Buckley - Grace (Biosphere) [Drown].mc` |
+| 3168 | Gray Zone | Parang | Extra | 141.0 | 1635 | 144.3 | osu_mirror/community | `osu_mirror\2588509\Parang - Gray Zone (Furryswan) [Extra].mc` |
+| 3169 | Gray Zone | Parang | Insane | 141.0 | 1398 | 143.9 | osu_mirror/community | `osu_mirror\2588509\Parang - Gray Zone (Furryswan) [Insane].mc` |
+| 3170 | Gray Zone | Parang | Top Difficulty | 141.0 | 1875 | 144.3 | osu_mirror/community | `osu_mirror\2588509\Parang - Gray Zone (Furryswan) [Top Difficulty].mc` |
+| 3171 | Grayed Out -Antifront- | Getty vs. DJ DiA | Another | 190.0 | 1326 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Another].mc` |
+| 3172 | Grayed Out -Antifront- | Getty vs. DJ DiA | Beginner | 190.0 | 396 | 109.9 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Beginner].mc` |
+| 3173 | Grayed Out -Antifront- | Getty vs. DJ DiA | Hyper | 190.0 | 1002 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Hyper].mc` |
+| 3174 | Grayed Out -Antifront- | Getty vs. DJ DiA | Normal | 190.0 | 700 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Normal].mc` |
+| 3175 | Grayed Out -Antifront- | Getty vs. DJ DiA | Nova | 190.0 | 1662 | 111.0 | osu_mirror/community | `osu_mirror\2447781\Getty vs. DJ DiA - Grayed Out -Antifront- (-MysticEyes) [Nova].mc` |
+| 3176 | Guess Who Is Back (Sped Up & Ringtone Size) | Koda Kumi | Azukkii's Chordjacks | 240.0 | 633 | 28.9 | osu_mirror/community | `osu_mirror\2544191\Koda Kumi - Guess Who Is Back (Sped Up & Ringtone Size) (IcedTea96) [Azukkii's Chordjacks].mc` |
+| 3177 | Guess Who Is Back (Sped Up & Ringtone Size) | Koda Kumi | Azukkii's Kiyo Moments | 240.0 | 487 | 28.9 | osu_mirror/community | `osu_mirror\2544191\Koda Kumi - Guess Who Is Back (Sped Up & Ringtone Size) (IcedTea96) [Azukkii's Kiyo Moments].mc` |
+| 3178 | Gumbarlzo! | t+pazolite | Hidden's Festival | 103.0 | 3518 | 298.1 | osu_mirror/community | `osu_mirror\2472360\t+pazolite - Gumbarlzo! (V1do-) [Hidden's Festival].mc` |
+| 3179 | Gumbarlzo! | t+pazolite | Matsuri | 103.0 | 3095 | 298.1 | osu_mirror/community | `osu_mirror\2472360\t+pazolite - Gumbarlzo! (V1do-) [Matsuri].mc` |
+| 3180 | Gumbarlzo! | t+pazolite | MOVE TO THE FUNKY BEAT! | 103.0 | 5780 | 298.4 | osu_mirror/community | `osu_mirror\2530315\t+pazolite - Gumbarlzo! (Ryax) [MOVE TO THE FUNKY BEAT!].mc` |
+| 3181 | ha@ppy s@mmer v@c@tion!! (long ver.) | AAAA + Hino Isuka | s@mmer get@w@y!! | 186.0 | 2682 | 201.3 | osu_mirror/community | `osu_mirror\2600839\AAAA + Hino Isuka - ha@ppy s@mmer v@c@tion!! (long ver.) (Oceanus) [s@mmer get@w@y!!].mc` |
+| 3182 | Haiboku no Altra Vita | takehirotei | Death | 115.0 | 2595 | 161.5 | osu_mirror/community | `osu_mirror\2417552\takehirotei - Haiboku no Altra Vita (growcanine) [Death].mc` |
+| 3183 | Haiboku no Altra Vita | takehirotei | Rebirth | 115.0 | 2840 | 161.5 | osu_mirror/community | `osu_mirror\2417552\takehirotei - Haiboku no Altra Vita (growcanine) [Rebirth].mc` |
+| 3184 | Hakase no Suki Nano Nano | Hakase (CV: Konno Hiromi) | Wind-Up | 170.0 | 438 | 239.6 | osu_mirror/community | `osu_mirror\2572994\Hakase (CV Konno Hiromi) - Hakase no Suki Nano Nano (Ballistic) [Wind-Up].mc` |
+| 3185 | Hakuchu-mu | BPM15Q | Insane | 174.0 | 1926 | 219.7 | osu_mirror/community | `osu_mirror\2502888\BPM15Q - Hakuchu-mu (Quzy3315) [Insane].mc` |
+| 3186 | Halcyon | xi | Advanced | 191.0 | 720 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Advanced].mc` |
+| 3187 | Halcyon | xi | Avel's Insane | 191.0 | 656 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Avel's Insane].mc` |
+| 3188 | Halcyon | xi | Extra | 191.0 | 810 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Extra].mc` |
+| 3189 | Halcyon | xi | Hyper | 191.0 | 1030 | 145.4 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Hyper].mc` |
+| 3190 | Halcyon | xi | Idyllic Days | 191.0 | 448 | 145.1 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Idyllic days].mc` |
+| 3191 | Halcyon | xi | Novice | 191.0 | 439 | 142.9 | osu_mirror/community | `osu_mirror\2533762\xi - Halcyon (kartofle) [Novice].mc` |
+| 3192 | hallucinate (game ver.) | solfa feat. nao | advanced | 90.0 | 584 | 95.9 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [advanced].mc` |
+| 3193 | hallucinate (game ver.) | solfa feat. nao | another | 90.0 | 929 | 94.9 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [another].mc` |
+| 3194 | hallucinate (game ver.) | solfa feat. nao | expert | 90.0 | 1091 | 94.9 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [expert].mc` |
+| 3195 | hallucinate (game ver.) | solfa feat. nao | hyper | 90.0 | 785 | 96.0 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [hyper].mc` |
+| 3196 | hallucinate (game ver.) | solfa feat. nao | intermediate | 90.0 | 321 | 94.7 | osu_mirror/community | `osu_mirror\2496007\solfa feat. nao - hallucinate (game ver.) (girls kissing) [intermediate].mc` |
+| 3197 | Hana Arashi | Ayumi Sara, Matsuoka Yuuri, Aimai Moko | Easy // Otome(ko?) | 180.0 | 608 | 216.7 | osu_mirror/community | `osu_mirror\2480686\Ayumi Sara, Matsuoka Yuuri, Aimai Moko - Hana Arashi (Mirsaaa) [Easy  Otome(ko)].mc` |
+| 3198 | Hana Arashi | Ayumi Sara, Matsuoka Yuuri, Aimai Moko | Hard // Hijack | 180.0 | 1655 | 217.9 | osu_mirror/community | `osu_mirror\2480686\Ayumi Sara, Matsuoka Yuuri, Aimai Moko - Hana Arashi (Mirsaaa) [Hard  Hijack].mc` |
+| 3199 | Hana Arashi | Ayumi Sara, Matsuoka Yuuri, Aimai Moko | Insane // System Break | 180.0 | 2125 | 217.9 | osu_mirror/community | `osu_mirror\2480686\Ayumi Sara, Matsuoka Yuuri, Aimai Moko - Hana Arashi (Mirsaaa) [Insane  System Break].mc` |
+| 3200 | Hana Arashi | Ayumi Sara, Matsuoka Yuuri, Aimai Moko | Normal // Route | 180.0 | 1228 | 216.9 | osu_mirror/community | `osu_mirror\2480686\Ayumi Sara, Matsuoka Yuuri, Aimai Moko - Hana Arashi (Mirsaaa) [Normal  Route].mc` |
+| 3201 | Hanataba | MIMI feat. KAFU | A Goodbye to the Past // Hard | 119.0 | 893 | 141.3 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [A Goodbye to the Past  Hard].mc` |
+| 3202 | Hanataba | MIMI feat. KAFU | Accelerated Feelings // Aratoji's Normal | 119.0 | 735 | 141.3 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [Accelerated Feelings  Aratoji's Normal].mc` |
+| 3203 | Hanataba | MIMI feat. KAFU | Dancing in the Middle of Nothingness with a Bouquet // Insane | 119.0 | 737 | 141.3 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [Dancing in the Middle of Nothingness with a Bouquet  Insane].mc` |
+| 3204 | Hanataba | MIMI feat. KAFU | Destination Lost // Dereck's Easy | 119.0 | 336 | 140.7 | osu_mirror/community | `osu_mirror\2585848\MIMI feat. KAFU - Hanataba ([TCD] Ena-suki) [Destination Lost  Dereck's Easy].mc` |
+| 3205 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Bandusty's Another | 102.5 | 938 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Bandusty's Another].mc` |
+| 3206 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Beginner | 102.5 | 248 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Beginner].mc` |
+| 3207 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Easy | 102.5 | 375 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Easy].mc` |
+| 3208 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Initial's Insane | 102.5 | 1196 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Initial's Insane].mc` |
+| 3209 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Karin's Expert | 102.5 | 1010 | 161.3 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Karin's Expert].mc` |
+| 3210 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | lik_0's Hyper | 102.5 | 1020 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [lik_0's Hyper].mc` |
+| 3211 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Normal | 102.5 | 740 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Normal].mc` |
+| 3212 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | Subsolar Inflorescence | 102.5 | 1022 | 154.9 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [Subsolar Inflorescence].mc` |
+| 3213 | Hanatachi ni Kibou o (2020 Remaster) | Sound piercer feat. DAZBEE | ZTactix's Advanced | 102.5 | 835 | 161.2 | osu_mirror/community | `osu_mirror\2593224\Sound piercer feat. DAZBEE - Hanatachi ni Kibou o (2020 Remaster) (-[ Peachy ]-) [ZTactix's Advanced].mc` |
+| 3214 | HANIPAGANDA | Akatsuki Records | HANIWA | 181.0 | 3271 | 198.3 | osu_mirror/community | `osu_mirror\1780259\Akatsuki Records - HANIPAGANDA (Alicia) [HANIWA].mc` |
+| 3215 | HANIPAGANDA | Akatsuki Records | INSANE | 181.0 | 2787 | 198.3 | osu_mirror/community | `osu_mirror\1780259\Akatsuki Records - HANIPAGANDA (Alicia) [INSANE].mc` |
+| 3216 | Happppy song | SOOOO | Happppy birthday! | 226.0 | 4841 | 301.3 | osu_mirror/community | `osu_mirror\2549289\SOOOO - Happppy song (LeCrazy) [Happppy birthday!].mc` |
+| 3217 | Hayo, New World. (TV Size) | Sakuragawa Megu | Easy | 185.0 | 189 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Easy].mc` |
+| 3218 | Hayo, New World. (TV Size) | Sakuragawa Megu | Hard | 185.0 | 422 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Hard].mc` |
+| 3219 | Hayo, New World. (TV Size) | Sakuragawa Megu | hiyo~hiyo~DH | 185.0 | 687 | 56.8 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [hiyo~hiyo~DH].mc` |
+| 3220 | Hayo, New World. (TV Size) | Sakuragawa Megu | Insane | 185.0 | 533 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Insane].mc` |
+| 3221 | Hayo, New World. (TV Size) | Sakuragawa Megu | Normal | 185.0 | 326 | 56.9 | osu_mirror/community | `osu_mirror\2592861\Sakuragawa Megu - Hayo, New World. (TV Size) (nai_) [Normal].mc` |
+| 3222 | Heaven's Fall | Helblinde | Immoral 1.05x (210bpm) | 210.0 | 4628 | 237.1 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.05x (210bpm)].mc` |
+| 3223 | Heaven's Fall | Helblinde | Immoral 1.15x (230bpm) | 230.0 | 4628 | 216.5 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.15x (230bpm)].mc` |
+| 3224 | Heaven's Fall | Helblinde | Immoral 1.1x (220bpm) | 220.0 | 4628 | 226.3 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.1x (220bpm)].mc` |
+| 3225 | Heaven's Fall | Helblinde | Immoral 1.25x (250bpm) | 250.0 | 4628 | 199.1 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.25x (250bpm)].mc` |
+| 3226 | Heaven's Fall | Helblinde | Immoral 1.2x (240bpm) | 240.0 | 4628 | 207.4 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.2x (240bpm)].mc` |
+| 3227 | Heaven's Fall | Helblinde | Immoral 1.35x (270bpm) | 270.0 | 4628 | 184.4 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.35x (270bpm)].mc` |
+| 3228 | Heaven's Fall | Helblinde | Immoral 1.3x (260bpm) | 260.0 | 4628 | 191.5 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.3x (260bpm)].mc` |
+| 3229 | Heaven's Fall | Helblinde | Immoral 1.45x (290bpm) | 290.0 | 4628 | 171.7 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.45x (290bpm)].mc` |
+| 3230 | Heaven's Fall | Helblinde | Immoral 1.4x (280bpm) | 280.0 | 4628 | 177.8 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral 1.4x (280bpm)].mc` |
+| 3231 | Heaven's Fall | Helblinde | Immoral | 200.0 | 4628 | 248.9 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [Immoral].mc` |
+| 3232 | Heaven's Fall | Helblinde | remove this plz | 15.0 | 2 | 606.0 | osu_mirror/community | `osu_mirror\1730156\Helblinde - Heaven's Fall ([GS]hina) [remove this plz].mc` |
+| 3233 | helical symmetry | Annabel | double helix | 122.0 | 2913 | 250.0 | osu_mirror/community | `osu_mirror\2322108\Annabel - helical symmetry (elexire) [double helix].mc` |
+| 3234 | Helios | Supire | Analog Signal | 180.0 | 4331 | 305.2 | osu_mirror/community | `osu_mirror\2489234\Supire - Helios (chy030_ft_pH5_6) [Analog Signal].mc` |
+| 3235 | Helios | Supire | Solar Apocalypse | 180.0 | 2459 | 304.9 | osu_mirror/community | `osu_mirror\2498821\Supire - Helios (Lott) [Solar Apocalypse].mc` |
+| 3236 | Hello to the your first video game | Camellia | Welcome to mania | 128.0 | 1828 | 273.7 | osu_mirror/community | `osu_mirror\2573821\Camellia - Hello to the your first video game (puqi_a) [Welcome to mania].mc` |
+| 3237 | Hello!My World!! (TV Size) | fhana | -Zell's Hard | 141.0 | 612 | 86.8 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [-Zell's Hard].mc` |
+| 3238 | Hello!My World!! (TV Size) | fhana | A Revolution Written in Light | 141.0 | 1040 | 86.6 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [A Revolution Written in Light].mc` |
+| 3239 | Hello!My World!! (TV Size) | fhana | Easy | 141.0 | 261 | 86.8 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [Easy].mc` |
+| 3240 | Hello!My World!! (TV Size) | fhana | eZmmR's Insane | 141.0 | 906 | 86.6 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [eZmmR's Insane].mc` |
+| 3241 | Hello!My World!! (TV Size) | fhana | Hyper | 141.0 | 723 | 86.8 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [Hyper].mc` |
+| 3242 | Hello!My World!! (TV Size) | fhana | Normal | 141.0 | 468 | 86.6 | osu_mirror/community | `osu_mirror\2640312\fhana - Hello!My World!! (TV Size) (Savageeeee) [Normal].mc` |
+| 3243 | Hemisphere | ARForest | Circumnavigation | 193.0 | 1234 | 111.8 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Circumnavigation].mc` |
+| 3244 | Hemisphere | ARForest | Easy | 193.0 | 356 | 111.9 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Easy].mc` |
+| 3245 | Hemisphere | ARForest | Hard | 193.0 | 845 | 111.9 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Hard].mc` |
+| 3246 | Hemisphere | ARForest | Insane | 193.0 | 1049 | 111.8 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Insane].mc` |
+| 3247 | Hemisphere | ARForest | Normal | 193.0 | 588 | 111.8 | osu_mirror/community | `osu_mirror\2582456\ARForest - Hemisphere (technoplanet) [Normal].mc` |
+| 3248 | Hercules | Abel | Advanced | 195.0 | 778 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Advanced].mc` |
+| 3249 | Hercules | Abel | Another | 195.0 | 1334 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Another].mc` |
+| 3250 | Hercules | Abel | Hyper | 195.0 | 1074 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Hyper].mc` |
+| 3251 | Hercules | Abel | Normal | 195.0 | 533 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Normal].mc` |
+| 3252 | Hercules | Abel | Of his flaming blade | 195.0 | 1421 | 110.8 | osu_mirror/community | `osu_mirror\2306554\Abel - Hercules (Linzer Cookie) [Of his flaming blade].mc` |
+| 3253 | Hero's March | TFD500 | Journey | 120.0 | 543 | 147.5 | osu_mirror/community | `osu_mirror\2539716\TFD500 - Hero's March (NyuPenyu) [Journey].mc` |
+| 3254 | Hesitation Snow -version 2024- (Cut Ver.) | fripSide | Hard | 70.0 | 819 | 154.7 | osu_mirror/community | `osu_mirror\2486779\fripSide - Hesitation Snow -version 2024- (Cut Ver.) (FerdiXIA-) [Hard].mc` |
+| 3255 | Hesitation Snow -version 2024- (Cut Ver.) | fripSide | Normal | 70.0 | 475 | 150.9 | osu_mirror/community | `osu_mirror\2486779\fripSide - Hesitation Snow -version 2024- (Cut Ver.) (FerdiXIA-) [Normal].mc` |
+| 3256 | Hesitation Snow -version 2024- (Cut Ver.) | fripSide | Sakura | 70.0 | 969 | 154.6 | osu_mirror/community | `osu_mirror\2486779\fripSide - Hesitation Snow -version 2024- (Cut Ver.) (FerdiXIA-) [Sakura].mc` |
+| 3257 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Another | 158.0 | 841 | 171.9 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Another].mc` |
+| 3258 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | InSensitive!! | 158.0 | 863 | 171.9 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [InSensitive!!].mc` |
+| 3259 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Lin's Advanced | 158.0 | 707 | 171.4 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Lin's Advanced].mc` |
+| 3260 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Maiiy's Hyper | 158.0 | 860 | 171.6 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Maiiy's Hyper].mc` |
+| 3261 | Highly Sensitive Heart | Sakuragi Miria & PSYQUI | Slowpoke's Intermediate | 158.0 | 464 | 170.9 | osu_mirror/community | `osu_mirror\2463828\Sakuragi Miria & PSYQUI - Highly Sensitive Heart (NineSey) [Slowpoke's Intermediate].mc` |
+| 3262 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | EZ | 190.0 | 342 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [EZ].mc` |
+| 3263 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | HD | 190.0 | 638 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [HD].mc` |
+| 3264 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | NM | 190.0 | 465 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [NM].mc` |
+| 3265 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | Peachy's MX | 190.0 | 812 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [Peachy's MX].mc` |
+| 3266 | HIGHSCHOOL OF THE DEAD (TV Size) | KISIDA KYODAN & THE AKEBOSI ROCKETS | SC | 190.0 | 1002 | 85.7 | osu_mirror/community | `osu_mirror\2215693\KISIDA KYODAN & THE AKEBOSI ROCKETS - HIGHSCHOOL OF THE DEAD (TV Size) (Initial D) [SC].mc` |
+| 3267 | Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? | Ayase Rie | Easy | 158.0 | 273 | 79.4 | osu_mirror/community | `osu_mirror\2460402\Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka (Kibitz) [Easy].mc` |
+| 3268 | Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? | Ayase Rie | Hard | 158.0 | 683 | 79.3 | osu_mirror/community | `osu_mirror\2460402\Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka (Kibitz) [Hard].mc` |
+| 3269 | Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? | Ayase Rie | Normal | 158.0 | 446 | 79.4 | osu_mirror/community | `osu_mirror\2460402\Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka (Kibitz) [Normal].mc` |
+| 3270 | Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? | Ayase Rie | Onegai! Onegai! | 158.0 | 925 | 79.3 | osu_mirror/community | `osu_mirror\2460402\Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka (Kibitz) [Onegai! Onegai!].mc` |
+| 3271 | Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka? | Ayase Rie | Sava's Insane | 158.0 | 936 | 79.3 | osu_mirror/community | `osu_mirror\2460402\Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka (Kibitz) [Sava's Insane].mc` |
+| 3272 | Hikari yo | KikuoHana | Reprieve | 256.0 | 4287 | 248.3 | osu_mirror/community | `osu_mirror\2623905\KikuoHana - Hikari yo (elexire) [Reprieve].mc` |
+| 3273 | Hikoutei feat. AVER | King Gnu | Can't wait...! | 80.0 | 1889 | 252.2 | osu_mirror/community | `osu_mirror\2503440\King Gnu - Hikoutei feat. AVER (NineSey) [Can't wait...!].mc` |
+| 3274 | Himegoto*Crisisters (nenpulse bootleg remix) | ONIMAI SISTERS | One More Time! | 180.0 | 2519 | 368.0 | osu_mirror/community | `osu_mirror\2492026\ONIMAI SISTERS - HimegotoCrisisters (nenpulse bootleg remix) (Gsuncraft) [One More Time!].mc` |
+| 3275 | Hinagesi | Nor | Ayame / Easy | 172.0 | 217 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Ayame  Easy].mc` |
+| 3276 | Hinagesi | Nor | Kikyou / Hard | 172.0 | 728 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Kikyou  Hard].mc` |
+| 3277 | Hinagesi | Nor | Nagusa / Expert | 172.0 | 754 | 108.8 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Nagusa  Expert].mc` |
+| 3278 | Hinagesi | Nor | Renge / Normal | 172.0 | 457 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Renge  Normal].mc` |
+| 3279 | Hinagesi | Nor | Yukari / Insane | 172.0 | 824 | 111.6 | osu_mirror/community | `osu_mirror\2107331\Nor - Hinagesi (Eluo Eason) [Yukari  Insane].mc` |
+| 3280 | Hito Mania | Haraguchi Sasuke | osu!mania [Mods: [EZ]] | 150.0 | 787 | 112.0 | osu_mirror/community | `osu_mirror\2127065\Haraguchi Sasuke - Hito Mania ([GB]Mafufu) [osu!mania [Mods [EZ]]].mc` |
+| 3281 | Hito Mania | Haraguchi Sasuke | osu!mania [Mods: [HR]] | 0.0 | 787 | 0.0 | osu_mirror/community | `osu_mirror\2127065\Haraguchi Sasuke - Hito Mania ([GB]Mafufu) [osu!mania [Mods [HR]]].mc` |
+| 3282 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Foxide's Hard | 128.0 | 1296 | 226.8 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Foxide's Hard].mc` |
+| 3283 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Insane | 128.0 | 1626 | 227.0 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Insane].mc` |
+| 3284 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Normal | 128.0 | 716 | 227.5 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Normal].mc` |
+| 3285 | Home Sweet Home feat. KMNZ LIZ | Neko Hacker | Torru's Easy | 128.0 | 737 | 226.5 | osu_mirror/community | `osu_mirror\2398569\Neko Hacker - Home Sweet Home feat. KMNZ LIZ (chocomilku-) [Torru's Easy].mc` |
+| 3286 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Hard | 200.0 | 935 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Hard].mc` |
+| 3287 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Insane | 200.0 | 1266 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Insane].mc` |
+| 3288 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Miau's Another | 200.0 | 1600 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Miau's Another].mc` |
+| 3289 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Normal | 200.0 | 808 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Normal].mc` |
+| 3290 | Homeneko*Sensation (Game Ver.) | P*Light feat. mow*2 | Praise me! | 200.0 | 1840 | 115.3 | osu_mirror/community | `osu_mirror\2555272\PLight feat. mow2 - HomenekoSensation (Game Ver.) (Niko_Plays) [Praise me!].mc` |
+| 3291 | Honma ni "Yada" | San-Z | Insane | 131.5 | 419 | 84.0 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Insane].mc` |
+| 3292 | Honma ni "Yada" | San-Z | Normal | 131.5 | 304 | 81.8 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Normal].mc` |
+| 3293 | Honma ni "Yada" | San-Z | Revv's Easy | 131.5 | 216 | 83.4 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Revv's Easy].mc` |
+| 3294 | Honma ni "Yada" | San-Z | Revv's Hard | 131.5 | 460 | 82.9 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Revv's Hard].mc` |
+| 3295 | Honma ni "Yada" | San-Z | Yada! | 131.5 | 404 | 84.0 | osu_mirror/community | `osu_mirror\2597037\San-Z - Honma ni Yada (Alicia) [Yada!].mc` |
+| 3296 | HOT LIMIT (Game Ver.) | Shimamura Uzuki (CV: Ohashi Ayaka) | HARD | 138.0 | 937 | 106.0 | osu_mirror/community | `osu_mirror\1493610\Shimamura Uzuki (CV Ohashi Ayaka) - HOT LIMIT (Game Ver.) (MarioUniverseZ) [HARD].mc` |
+| 3297 | HOT LIMIT (Game Ver.) | Shimamura Uzuki (CV: Ohashi Ayaka) | HOT BLOOD | 138.0 | 1279 | 106.0 | osu_mirror/community | `osu_mirror\1493610\Shimamura Uzuki (CV Ohashi Ayaka) - HOT LIMIT (Game Ver.) (MarioUniverseZ) [HOT BLOOD].mc` |
+| 3298 | HOT LIMIT (Game Ver.) | Shimamura Uzuki (CV: Ohashi Ayaka) | NORMAL | 138.0 | 563 | 106.0 | osu_mirror/community | `osu_mirror\1493610\Shimamura Uzuki (CV Ohashi Ayaka) - HOT LIMIT (Game Ver.) (MarioUniverseZ) [NORMAL].mc` |
+| 3299 | Houkago Mermaid | Shigure Ui | The Title is After School Mermaid | 164.0 | 952 | 216.5 | osu_mirror/community | `osu_mirror\2551742\Shigure Ui - Houkago Mermaid (Ainer) [The title is After School Mermaid].mc` |
+| 3300 | Houkai no Bigaku | Ariabl'eyeS | Collapse | 232.0 | 4680 | 238.8 | osu_mirror/community | `osu_mirror\2531219\Ariabl'eyeS - Houkai no Bigaku ([GB]Kita-) [Collapse].mc` |
+| 3301 | Houmuru Kagerou | ELFENSJoN | Fading Illusion | 64.33 | 861 | 213.6 | osu_mirror/community | `osu_mirror\2531128\ELFENSJoN - Houmuru Kagerou (ChaoSharkouo) [Fading Illusion].mc` |
+| 3302 | How to make Slime | O2i3 | No borax | 130.0 | 525 | 168.9 | osu_mirror/community | `osu_mirror\2198573\O2i3 - How to make Slime (fvrex) [No borax].mc` |
+| 3303 | How to make Slime | O2i3 | okthen's Hard | 130.0 | 407 | 167.5 | osu_mirror/community | `osu_mirror\2198573\O2i3 - How to make Slime (fvrex) [okthen's Hard].mc` |
+| 3304 | How to make Slime | O2i3 | Ucitysm's Normal | 130.0 | 326 | 167.5 | osu_mirror/community | `osu_mirror\2198573\O2i3 - How to make Slime (fvrex) [Ucitysm's Normal].mc` |
+| 3305 | Huo Yuan Jia (Pao Xiao Tu Bo Shu Remix) | Jay Chou | AelSan's Hard | 196.0 | 312 | 58.7 | osu_mirror/community | `osu_mirror\2445989\Jay Chou - Huo Yuan Jia (Pao Xiao Tu Bo Shu Remix) (Crystal) [AelSan's Hard].mc` |
+| 3306 | Huo Yuan Jia (Pao Xiao Tu Bo Shu Remix) | Jay Chou | hyahya's Normal | 196.0 | 243 | 58.2 | osu_mirror/community | `osu_mirror\2445989\Jay Chou - Huo Yuan Jia (Pao Xiao Tu Bo Shu Remix) (Crystal) [hyahya's Normal].mc` |
+| 3307 | Huo Yuan Jia (Pao Xiao Tu Bo Shu Remix) | Jay Chou | QwertYui345's Easy | 196.0 | 187 | 58.8 | osu_mirror/community | `osu_mirror\2445989\Jay Chou - Huo Yuan Jia (Pao Xiao Tu Bo Shu Remix) (Crystal) [QwertYui345's Easy].mc` |
+| 3308 | Hyadain's Jojo Yujo | Hyadain | Helvetica Standard | 200.0 | 480 | 240.2 | osu_mirror/community | `osu_mirror\2604526\Hyadain - Hyadain's Jojo Yujo (fvrex) [Helvetica Standard].mc` |
+| 3309 | Hyouryuu Hyourei | Kou! | Collider Zero | 156.0 | 3209 | 304.1 | osu_mirror/community | `osu_mirror\2553755\Kou! - Hyouryuu Hyourei ([GB]Cinelia) [Collider Zero].mc` |
+| 3310 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.05 | 183.75 | 2756 | 135.8 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.05].mc` |
+| 3311 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.15 | 201.25 | 2756 | 124.0 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.15].mc` |
+| 3312 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.1 | 192.5 | 2756 | 129.7 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.1].mc` |
+| 3313 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 x1.2 | 210.0 | 2756 | 118.9 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33 x1.2].mc` |
+| 3314 | Hyper Bass(RENKA chan Drop) | Kozakai Yurie, Oomori Nichika, Hasegawa Rena | >_<!!!!!!!!<3<####33 | 175.0 | 2756 | 142.6 | osu_mirror/community | `osu_mirror\1919230\Kozakai Yurie, Oomori Nichika, Hasegawa Rena - Hyper Bass(RENKA chan Drop) (11Bit) [_!!!!!!!!3####33].mc` |
+| 3315 | I Can't Wait feat. GUMI | d0tc0mmie | Advanced | 128.38 | 674 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Advanced].mc` |
+| 3316 | I Can't Wait feat. GUMI | d0tc0mmie | Another | 128.38 | 1301 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Another].mc` |
+| 3317 | I Can't Wait feat. GUMI | d0tc0mmie | Beginner | 128.38 | 169 | 89.7 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Beginner].mc` |
+| 3318 | I Can't Wait feat. GUMI | d0tc0mmie | Easy | 128.38 | 163 | 90.2 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Easy].mc` |
+| 3319 | I Can't Wait feat. GUMI | d0tc0mmie | Expert | 128.38 | 1423 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Expert].mc` |
+| 3320 | I Can't Wait feat. GUMI | d0tc0mmie | Hard | 128.38 | 860 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Hard].mc` |
+| 3321 | I Can't Wait feat. GUMI | d0tc0mmie | Hyper | 128.38 | 1055 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Hyper].mc` |
+| 3322 | I Can't Wait feat. GUMI | d0tc0mmie | Insane | 128.38 | 1204 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Insane].mc` |
+| 3323 | I Can't Wait feat. GUMI | d0tc0mmie | Love Me Love Me AHH AHH AHH | 128.38 | 1599 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Love Me Love Me AHH AHH AHH].mc` |
+| 3324 | I Can't Wait feat. GUMI | d0tc0mmie | Normal | 128.38 | 476 | 90.6 | osu_mirror/community | `osu_mirror\2493125\d0tc0mmie - I Can't Wait feat. GUMI (Yuiesta) [Normal].mc` |
+| 3325 | I D M | Ice | FRACTURE OF SELF | 260.0 | 2680 | 307.6 | osu_mirror/community | `osu_mirror\2211365\Ice - I D M (AHHHHHHHHHHHHHH) [FRACTURE OF SELF].mc` |
+| 3326 | I Don't Know (Nightcore & Ringtone Edit) | Erika | chordjacks | 185.0 | 199 | 10.4 | osu_mirror/community | `osu_mirror\2550152\Erika - I Don't Know (Nightcore & Ringtone Edit) (XBladeXGMD) [chordjacks].mc` |
+| 3327 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Advanced | 240.0 | 990 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Advanced].mc` |
+| 3328 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Another | 240.0 | 1766 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Another].mc` |
+| 3329 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Devotion into abyss | 240.0 | 2111 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Devotion into abyss].mc` |
+| 3330 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Hyper | 240.0 | 1336 | 109.9 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Hyper].mc` |
+| 3331 | I doubt you could change my fate (feat. Kasane Teto) | ArXe | Intermediate | 240.0 | 466 | 109.8 | osu_mirror/community | `osu_mirror\2476448\ArXe - I doubt you could change my fate (feat. Kasane Teto) (Worthlessnut9) [Intermediate].mc` |
+| 3332 | I have 7001 GAY FURRY in my FRIDGECORE | spoonXYZ | !!\/\/ ( o A o  ///) | 280.73 | 4702 | 217.7 | osu_mirror/community | `osu_mirror\2518016\spoonXYZ - I have 7001 GAY FURRY in my FRIDGECORE (Mich_) [!! ( o A o  )].mc` |
+| 3333 | I swear (TV Size) | sweet ARMS | Castle of Devouring Time | 167.97 | 593 | 94.1 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Castle of Devouring Time].mc` |
+| 3334 | I swear (TV Size) | sweet ARMS | Dzar03's Normal | 167.97 | 403 | 94.1 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Dzar03's Normal].mc` |
+| 3335 | I swear (TV Size) | sweet ARMS | Easy | 167.97 | 344 | 92.6 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Easy].mc` |
+| 3336 | I swear (TV Size) | sweet ARMS | Sava's Hard | 167.97 | 583 | 94.4 | osu_mirror/community | `osu_mirror\2185362\sweet ARMS - I swear (TV Size) (Karin-) [Sava's Hard].mc` |
+| 3337 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | G1NYA's STELLA | 200.0 | 1338 | 149.7 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [G1NYA's STELLA].mc` |
+| 3338 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | Jukomu's HARD | 200.0 | 1258 | 149.7 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [Jukomu's HARD].mc` |
+| 3339 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | nyamushi's OLIVIER | 200.0 | 919 | 144.8 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [nyamushi's OLIVIER].mc` |
+| 3340 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | pura's EXTRA | 200.0 | 1334 | 141.6 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [pura's EXTRA].mc` |
+| 3341 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | Spy's NORMAL | 200.0 | 561 | 141.4 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [Spy's NORMAL].mc` |
+| 3342 | I Wanna (Game Ver.) | Shizuka (CV: Hasegawa Ikumi) | Stay With You | 200.0 | 743 | 149.7 | osu_mirror/community | `osu_mirror\2515927\Shizuka (CV Hasegawa Ikumi) - I Wanna (Game Ver.) (nai_) [Stay With You].mc` |
+| 3343 | I Want You to Tell Me the Moon is Beautiful! | Kasasagi | I Love U! | 160.0 | 599 | 145.1 | osu_mirror/community | `osu_mirror\2620660\Kasasagi - I Want You to Tell Me the Moon is Beautiful! (puqi_a) [I Love U!].mc` |
+| 3344 | I wanted to dance in your pulse feat. Hatsune Miku | Picon | Recollection under the snowfall // Aratoji's Hard | 75.0 | 517 | 232.8 | osu_mirror/community | `osu_mirror\2506453\Picon - I wanted to dance in your pulse feat. Hatsune Miku ([TCD] Ena-suki) [Recollection under the snowfall  Aratoji's Hard].mc` |
+| 3345 | I wanted to dance in your pulse feat. Hatsune Miku | Picon | Your blurred shape, behind the cold mist // Insane | 75.0 | 128 | 228.8 | osu_mirror/community | `osu_mirror\2506453\Picon - I wanted to dance in your pulse feat. Hatsune Miku ([TCD] Ena-suki) [Your blurred shape, behind the cold mist  Insane].mc` |
+| 3346 | I'll remember you | Falcom Sound Team jdk feat. Sasaka Megumi | Our bond will never fade | 59.0 | 1291 | 306.5 | osu_mirror/community | `osu_mirror\1971396\Falcom Sound Team jdk feat. Sasaka Megumi - I'll remember you (FerdiXIA-) [Our bond will never fade].mc` |
+| 3347 | I.R.I.S | takehirotei as "Infinite Limit" | Final Sight | 38.0 | 4752 | 162.4 | osu_mirror/community | `osu_mirror\2027242\takehirotei as Infinite Limit - I.R.I.S (-Kori) [Final Sight].mc` |
+| 3348 | Ichiban no Takaramono (Yui Final Ver.) | Girls Dead Monster STARRING LiSA | Memories | 110.78 | 1451 | 311.6 | osu_mirror/community | `osu_mirror\2529434\Girls Dead Monster STARRING LiSA - Ichiban no Takaramono (Yui Final Ver.) (eZmmR) [Memories].mc` |
+| 3349 | Ideal | Paspal | 4K - Alu's Advanced | 50.0 | 133 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Alu's Advanced].mc` |
+| 3350 | Ideal | Paspal | 4K - Normal | 50.0 | 107 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Normal].mc` |
+| 3351 | Ideal | Paspal | 4K - Reading's Beginner | 50.0 | 75 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Reading's Beginner].mc` |
+| 3352 | Ideal | Paspal | 4K - Take's Easy | 50.0 | 132 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Take's Easy].mc` |
+| 3353 | Ideal | Paspal | 4K - Wilderness | 50.0 | 167 | 73.6 | osu_mirror/community | `osu_mirror\2535257\Paspal - Ideal (ooffyy) [4K - Wilderness].mc` |
+| 3354 | Ievan Polkka | Otomania | 4K NSV | 119.0 | 948 | 144.7 | osu_mirror/community | `osu_mirror\993703\Otomania - Ievan Polkka (BossMadWolf) [4K NSV].mc` |
+| 3355 | Ievan Polkka | Otomania | 4K SV | 0.0 | 948 | 0.9 | osu_mirror/community | `osu_mirror\993703\Otomania - Ievan Polkka (BossMadWolf) [4K SV].mc` |
+| 3356 | If Summer is calling us | *Luna feat. Wakabayashi | Then we will call tommorow | 152.0 | 2035 | 264.3 | osu_mirror/community | `osu_mirror\2387328\Luna feat. Wakabayashi - If Summer is calling us (mirac1e_xf) [Then we will call tommorow].mc` |
+| 3357 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | amano's Easy | 192.0 | 335 | 99.7 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [Amano's Easy].mc` |
+| 3358 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | ara's Normal | 192.0 | 606 | 103.6 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [ara's Normal].mc` |
+| 3359 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | ATing's Hard | 192.0 | 718 | 99.8 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [ATing's Hard].mc` |
+| 3360 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | kekou's Insane | 192.0 | 1089 | 103.7 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [kekou's Insane].mc` |
+| 3361 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | netzoid's Hyper | 192.0 | 910 | 103.7 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [netzoid's Hyper].mc` |
+| 3362 | If You Can't Hang (Cut Ver.) | Sleeping With Sirens | There's The Door | 192.0 | 1255 | 103.8 | osu_mirror/community | `osu_mirror\2524797\Sleeping With Sirens - If You Can't Hang (Cut Ver.) (Kibitz) [There's The Door].mc` |
+| 3363 | If You Feel My Love (Chaow Mix) | Blaxy Girls | Dzar03's Hard | 96.0 | 1933 | 189.7 | osu_mirror/community | `osu_mirror\2569938\Blaxy Girls - If You Feel My Love (Chaow Mix) (menphiss) [Dzar03's Hard].mc` |
+| 3364 | If You Feel My Love (Chaow Mix) | Blaxy Girls | I Don't Need You To Succeed | 96.0 | 2627 | 189.8 | osu_mirror/community | `osu_mirror\2569938\Blaxy Girls - If You Feel My Love (Chaow Mix) (menphiss) [I Don't Need You To Succeed].mc` |
+| 3365 | Illusion's End ~ Reflection's Awakening | o!mLN4 Sound Team | Dilemma of Inverse Worlds: Sin's Absolution | 58.85 | 666 | 111.0 | osu_mirror/community | `osu_mirror\2455633\o!mLN4 Sound Team - Illusion's End ~ Reflection's Awakening ([Crz]Crysarlene) [Dilemma of Inverse Worlds Sin's Absolution].mc` |
+| 3366 | im the baddest alive and ur a loooserrrr | svnth | concepte's insane | 159.0 | 1524 | 169.8 | osu_mirror/community | `osu_mirror\2405300\svnth - im the baddest alive and ur a loooserrrr (DiscorDBoI) [concepte's insane].mc` |
+| 3367 | im the baddest alive and ur a loooserrrr | svnth | ultra hyper kool gurlllll | 159.0 | 1683 | 169.8 | osu_mirror/community | `osu_mirror\2405300\svnth - im the baddest alive and ur a loooserrrr (DiscorDBoI) [ultra hyper kool gurlllll].mc` |
+| 3368 | Imagination | lunari.io & Shiroi-Ice | Hard | 150.0 | 972 | 156.6 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Hard].mc` |
+| 3369 | Imagination | lunari.io & Shiroi-Ice | Insane | 150.0 | 1194 | 156.6 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Insane].mc` |
+| 3370 | Imagination | lunari.io & Shiroi-Ice | Normal | 150.0 | 593 | 156.6 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Normal].mc` |
+| 3371 | Imagination | lunari.io & Shiroi-Ice | Souzouryoku | 150.0 | 1617 | 156.8 | osu_mirror/community | `osu_mirror\2276850\lunari.io & Shiroi-Ice - Imagination (FlappiBakuse) [Souzouryoku].mc` |
+| 3372 | Inferno City | Ponchi feat. haxchi | Ayase's Hard | 215.0 | 941 | 116.9 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Ayase's Hard].mc` |
+| 3373 | Inferno City | Ponchi feat. haxchi | Easy | 215.0 | 327 | 117.0 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Easy].mc` |
+| 3374 | Inferno City | Ponchi feat. haxchi | Eyes of Eternity | 215.0 | 1835 | 116.9 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Eyes of Eternity].mc` |
+| 3375 | Inferno City | Ponchi feat. haxchi | FAMoss' Insane | 215.0 | 1654 | 116.9 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [FAMoss' Insane].mc` |
+| 3376 | Inferno City | Ponchi feat. haxchi | Yui's Normal | 215.0 | 461 | 116.5 | osu_mirror/community | `osu_mirror\1746870\Ponchi feat. haxchi - Inferno City (Raisky) [Yui's Normal].mc` |
+| 3377 | innocent arrogance (TV Size) | BiSH | Pairo's Normal | 170.0 | 386 | 87.4 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Pairo's normal].mc` |
+| 3378 | innocent arrogance (TV Size) | BiSH | Shiro's Hard | 170.0 | 568 | 87.2 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Shiro's Hard].mc` |
+| 3379 | innocent arrogance (TV Size) | BiSH | Tengoku | 170.0 | 608 | 87.3 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Tengoku].mc` |
+| 3380 | innocent arrogance (TV Size) | BiSH | Ulis' Intermediate | 170.0 | 275 | 87.4 | osu_mirror/community | `osu_mirror\2039039\BiSH - innocent arrogance (TV Size) (uL-) [Ulis' Intermediate].mc` |
+| 3381 | Insomnia | Chiru-san | Another | 135.0 | 1384 | 146.7 | osu_mirror/community | `osu_mirror\2580819\Chiru-san - Insomnia (_Yunazu) [another].mc` |
+| 3382 | Insomnia | Chiru-san | Insane | 135.0 | 1180 | 146.7 | osu_mirror/community | `osu_mirror\2580819\Chiru-san - Insomnia (_Yunazu) [insane].mc` |
+| 3383 | intel 4K Core Pack Vol.2 | Various Artists | AAAA // Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (???) | 224.0 | 2517 | 145.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [AAAA  Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) ()].mc` |
+| 3384 | intel 4K Core Pack Vol.2 | Various Artists | AAAA // Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (HD) | 224.0 | 1171 | 145.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [AAAA  Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (HD)].mc` |
+| 3385 | intel 4K Core Pack Vol.2 | Various Artists | AAAA // Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (MX) | 224.0 | 1964 | 145.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [AAAA  Hoshi wo Kakeru Adventure ~ we are forever friends! ~ (Short Ver.) (MX)].mc` |
+| 3386 | intel 4K Core Pack Vol.2 | Various Artists | kofu // snow motion (EZ) | 181.0 | 511 | 116.7 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [kofu  snow motion (EZ)].mc` |
+| 3387 | intel 4K Core Pack Vol.2 | Various Artists | kofu // snow motion (HD) | 181.0 | 615 | 116.7 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [kofu  snow motion (HD)].mc` |
+| 3388 | intel 4K Core Pack Vol.2 | Various Artists | kofu // snow motion (MX) | 181.0 | 906 | 116.7 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [kofu  snow motion (MX)].mc` |
+| 3389 | intel 4K Core Pack Vol.2 | Various Artists | Kurenainagi Tabibito // Otenba Koimusume (Cut & Sped Up Ver.) (HD) | 168.0 | 345 | 120.2 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [Kurenainagi Tabibito  Otenba Koimusume (Cut & Sped Up Ver.) (HD)].mc` |
+| 3390 | intel 4K Core Pack Vol.2 | Various Artists | Kurenainagi Tabibito // Otenba Koimusume (Cut & Sped Up Ver.) (NM) | 168.0 | 226 | 122.1 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [Kurenainagi Tabibito  Otenba Koimusume (Cut & Sped Up Ver.) (NM)].mc` |
+| 3391 | intel 4K Core Pack Vol.2 | Various Artists | Kurenainagi Tabibito // Otenba Koimusume (Cut & Sped Up Ver.) (SC) | 168.0 | 490 | 121.6 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [Kurenainagi Tabibito  Otenba Koimusume (Cut & Sped Up Ver.) (SC)].mc` |
+| 3392 | intel 4K Core Pack Vol.2 | Various Artists | P*Light feat. mow*2 // OVERDRIVERS (HD) | 177.0 | 625 | 111.2 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [PLight feat. mow2  OVERDRIVERS (HD)].mc` |
+| 3393 | intel 4K Core Pack Vol.2 | Various Artists | P*Light feat. mow*2 // OVERDRIVERS (MX) | 177.0 | 395 | 111.2 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [PLight feat. mow2  OVERDRIVERS (MX)].mc` |
+| 3394 | intel 4K Core Pack Vol.2 | Various Artists | P*Light feat. mow*2 // OVERDRIVERS (NM) | 177.0 | 369 | 108.5 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [PLight feat. mow2  OVERDRIVERS (NM)].mc` |
+| 3395 | intel 4K Core Pack Vol.2 | Various Artists | TAG x PON // PUNISHER (HD) | 180.0 | 363 | 113.3 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [TAG x PON  PUNISHER (HD)].mc` |
+| 3396 | intel 4K Core Pack Vol.2 | Various Artists | TAG x PON // PUNISHER (NM) | 180.0 | 237 | 113.3 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [TAG x PON  PUNISHER (NM)].mc` |
+| 3397 | intel 4K Core Pack Vol.2 | Various Artists | TAG x PON // PUNISHER (SC) | 180.0 | 450 | 113.3 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [TAG x PON  PUNISHER (SC)].mc` |
+| 3398 | intel 4K Core Pack Vol.2 | Various Artists | w_tre // Shannon's Theorem (HD) | 175.0 | 1103 | 112.4 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [w_tre  Shannon's Theorem (HD)].mc` |
+| 3399 | intel 4K Core Pack Vol.2 | Various Artists | w_tre // Shannon's Theorem (MX) | 175.0 | 1572 | 112.5 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [w_tre  Shannon's Theorem (MX)].mc` |
+| 3400 | intel 4K Core Pack Vol.2 | Various Artists | w_tre // Shannon's Theorem (SC) | 175.0 | 2137 | 112.5 | osu_mirror/community | `osu_mirror\433249\Various Artists - intel 4K Core Pack Vol.2 (inteliser) [w_tre  Shannon's Theorem (SC)].mc` |
+| 3401 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Maiiy's Hard | 100.0 | 479 | 77.2 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV Size) (NineSey) [Maiiy's Hard].mc` |
+| 3402 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Monster Energy Ultra | 100.0 | 758 | 79.0 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV Size) (NineSey) [Monster Energy Ultra].mc` |
+| 3403 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Natsu's Insane | 100.0 | 762 | 78.7 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV Size) (NineSey) [Natsu's Insane].mc` |
+| 3404 | INTERNET ANGEL (TV SIZE) | Aiobahn +81 | Slowpoke's Advanced | 100.0 | 502 | 77.5 | osu_mirror/community | `osu_mirror\2542664\Aiobahn +81 - INTERNET ANGEL (TV SIZE) (NineSey) [Slowpoke's Advanced].mc` |
+| 3405 | Internet Exploder | Sunnexo | getting DDOSed on MW2's OP | 174.0 | 2969 | 210.3 | osu_mirror/community | `osu_mirror\2612657\Sunnexo - Internet Exploder (James May) [getting DDOSed on MW2's OP].mc` |
+| 3406 | intro | shuzeios | advanced | 193.0 | 208 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [advanced].mc` |
+| 3407 | intro | shuzeios | hard | 193.0 | 264 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [hard].mc` |
+| 3408 | intro | shuzeios | insane | 193.0 | 319 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [insane].mc` |
+| 3409 | intro | shuzeios | intermediate | 193.0 | 133 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [intermediate].mc` |
+| 3410 | intro | shuzeios | intro | 193.0 | 364 | 34.8 | osu_mirror/community | `osu_mirror\2559426\shuzeios - intro (tapperruiii) [intro].mc` |
+| 3411 | Irodori Canvas | SUGAR RUSH | Hard | 180.0 | 1083 | 148.8 | osu_mirror/community | `osu_mirror\2520341\SUGAR RUSH - Irodori Canvas (Savageeeee) [Hard].mc` |
+| 3412 | Irodori Canvas | SUGAR RUSH | The First Shade of a New World | 180.0 | 1101 | 148.8 | osu_mirror/community | `osu_mirror\2520341\SUGAR RUSH - Irodori Canvas (Savageeeee) [The First Shade of a New World].mc` |
+| 3413 | IroniA | Lemm | right answer is not in me | 94.0 | 3926 | 300.7 | osu_mirror/community | `osu_mirror\2564557\Lemm - IroniA (caracol) [right answer is not in me].mc` |
+| 3414 | is this available? | Lubalin | Hydria's Easy | 110.0 | 102 | 41.3 | osu_mirror/community | `osu_mirror\2514096\Lubalin - is this available (YunoMaya) [Hydria's Easy].mc` |
+| 3415 | is this available? | Lubalin | Normal | 110.0 | 84 | 41.5 | osu_mirror/community | `osu_mirror\2514096\Lubalin - is this available (YunoMaya) [Normal].mc` |
+| 3416 | is this available? | Lubalin | Thsnks | 110.0 | 114 | 41.5 | osu_mirror/community | `osu_mirror\2514096\Lubalin - is this available (YunoMaya) [thsnks].mc` |
+| 3417 | Jashin no Konrei, Gi wa Ai to Shiru. | Imperial Circus Dead Decadence | Desperate Soul | 240.0 | 6236 | 287.9 | osu_mirror/community | `osu_mirror\2535368\Imperial Circus Dead Decadence - Jashin no Konrei, Gi wa Ai to Shiru. (Carpihat) [Desperate Soul].mc` |
+| 3418 | Jasmine | KUN | Just mine! | 160.0 | 2841 | 228.8 | osu_mirror/community | `osu_mirror\2589624\KUN - Jasmine (oid45) [just mine!].mc` |
+| 3419 | jellyous | ILLIT | :D | 162.0 | 1185 | 153.9 | osu_mirror/community | `osu_mirror\2442615\ILLIT - jellyous (Livium) [D].mc` |
+| 3420 | jellyous | ILLIT | Johno's Hard | 162.0 | 763 | 153.9 | osu_mirror/community | `osu_mirror\2442615\ILLIT - jellyous (Livium) [Johno's Hard].mc` |
+| 3421 | jellyous | ILLIT | Znow's Hyper | 162.0 | 1203 | 154.1 | osu_mirror/community | `osu_mirror\2442615\ILLIT - jellyous (Livium) [Znow's Hyper].mc` |
+| 3422 | Jester | Culprate & Skorpion | AS%4DLJ@9P#1)F5BH68*$JK!1O3KDC2XV | 172.0 | 1860 | 224.0 | osu_mirror/community | `osu_mirror\2544108\Culprate & Skorpion - Jester (Stereotype) [AS%4DLJ@9P#1)F5BH68$JK!1O3KDC2XV].mc` |
+| 3423 | JETSTICK PT.1.5 | DOT96 | Foxide's DRUMKIT.WAV | 174.0 | 2436 | 233.1 | osu_mirror/community | `osu_mirror\2153113\DOT96 - JETSTICK PT.1.5 (UniUniverse) [Foxide's DRUMKIT.WAV].mc` |
+| 3424 | Jikan wa Tsugu | siraph | elexire's Lapse | 135.0 | 3647 | 270.4 | osu_mirror/community | `osu_mirror\2431448\siraph - Jikan wa Tsugu (caracol) [elexire's Lapse].mc` |
+| 3425 | Jikan wa Tsugu | siraph | Syntony | 135.0 | 4842 | 310.7 | osu_mirror/community | `osu_mirror\2431448\siraph - Jikan wa Tsugu (caracol) [Syntony].mc` |
+| 3426 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Easy! | 155.0 | 262 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Easy!].mc` |
+| 3427 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Hard! | 155.0 | 606 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Hard!].mc` |
+| 3428 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Normal! | 155.0 | 437 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Normal!].mc` |
+| 3429 | Joyful (TV Size) | Takagi-san (CV: Takahashi Rie) | Yay! | 155.0 | 866 | 81.5 | osu_mirror/community | `osu_mirror\2516888\Takagi-san (CV Takahashi Rie) - Joyful (TV Size) (SimpForTakagi) [Yay!].mc` |
+| 3430 | Jul i Svingen (TV Size) | Odd Nordstoga | God jul! | 132.0 | 47 | 24.4 | osu_mirror/community | `osu_mirror\2492835\Odd Nordstoga - Jul i Svingen (TV Size) (TonyWorep) [God jul!].mc` |
+| 3431 | Jump On It | Mestie, The Big Blind | Insane | 104.0 | 1013 | 147.7 | osu_mirror/community | `osu_mirror\2545208\Mestie, The Big Blind - Jump On It (Auros) [Insane].mc` |
+| 3432 | Jump On It | Mestie, The Big Blind | jianfeng's Hard | 104.0 | 623 | 147.7 | osu_mirror/community | `osu_mirror\2545208\Mestie, The Big Blind - Jump On It (Auros) [jianfeng's Hard].mc` |
+| 3433 | Jump On It | Mestie, The Big Blind | Sample Chopper | 104.0 | 1939 | 147.7 | osu_mirror/community | `osu_mirror\2545208\Mestie, The Big Blind - Jump On It (Auros) [Sample Chopper].mc` |
+| 3434 | Jumpstream Of Fighters Vol. 1A | Various Artists | (Marathon) - Delete Upon Download | 200.0 | 2 | 1360.0 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [(Marathon) - Delete Upon Download].mc` |
+| 3435 | Jumpstream Of Fighters Vol. 1A | Various Artists | aran feat. Kanae Asaba - Dance All Night [Leo137 24] | 124.0 | 1812 | 123.8 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [aran feat. Kanae Asaba - Dance All Night [Leo137 24]].mc` |
+| 3436 | Jumpstream Of Fighters Vol. 1A | Various Artists | Bang! - Shooting Star (Ham's Mix) [Leo137 23] | 178.72 | 1943 | 140.9 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Bang! - Shooting Star (Ham's Mix) [Leo137 23]].mc` |
+| 3437 | Jumpstream Of Fighters Vol. 1A | Various Artists | daiji+lobsak - Happy*mooN [Leo137 23] | 185.0 | 1826 | 107.6 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [daiji+lobsak - HappymooN [Leo137 23]].mc` |
+| 3438 | Jumpstream Of Fighters Vol. 1A | Various Artists | DJ Genki feat. Yukacco - MAGIC & LOVE [Blaziken 19] | 185.01 | 1448 | 113.0 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [DJ Genki feat. Yukacco - MAGIC & LOVE [Blaziken 19]].mc` |
+| 3439 | Jumpstream Of Fighters Vol. 1A | Various Artists | DJ Shimamura feat. Yukacco - Magic Night (JAKAZID Remix) [Blaziken 23] | 170.0 | 2762 | 203.3 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [DJ Shimamura feat. Yukacco - Magic Night (JAKAZID Remix) [Blaziken 23]].mc` |
+| 3440 | Jumpstream Of Fighters Vol. 1A | Various Artists | Helblinde - Dreams Come True [Leo137 24] | 200.0 | 2948 | 215.9 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Helblinde - Dreams Come True [Leo137 24]].mc` |
+| 3441 | Jumpstream Of Fighters Vol. 1A | Various Artists | HEXAHEDRA - KRAKEN [Leo137 23] | 172.0 | 2081 | 139.5 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [HEXAHEDRA - KRAKEN [Leo137 23]].mc` |
+| 3442 | Jumpstream Of Fighters Vol. 1A | Various Artists | kors k feat. Yukacco & MC STONE - Big Ship [Blaziken 22] | 177.01 | 1834 | 141.8 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [kors k feat. Yukacco & MC STONE - Big Ship [Blaziken 22]].mc` |
+| 3443 | Jumpstream Of Fighters Vol. 1A | Various Artists | LeaF - Calamity Fortune [Wiosna 22] | 200.0 | 1764 | 128.3 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [LeaF - Calamity Fortune [Wiosna 22]].mc` |
+| 3444 | Jumpstream Of Fighters Vol. 1A | Various Artists | REDALiCE feat. Shihori - Express Emotion [Leo137 22] | 182.0 | 1717 | 117.7 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [REDALiCE feat. Shihori - Express Emotion [Leo137 22]].mc` |
+| 3445 | Jumpstream Of Fighters Vol. 1A | Various Artists | SawanoHiroyuki[nZk]:Gemie - X.U. (ETIA. Hardcore Bootleg Remix) [Leo137 25] | 172.0 | 4097 | 234.8 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [SawanoHiroyuki[nZk]Gemie - X.U. (ETIA. Hardcore Bootleg Remix) [Leo137 25]].mc` |
+| 3446 | Jumpstream Of Fighters Vol. 1A | Various Artists | Shiraishi - Happico Happico [Leo137 22] | 180.0 | 1870 | 117.3 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Shiraishi - Happico Happico [Leo137 22]].mc` |
+| 3447 | Jumpstream Of Fighters Vol. 1A | Various Artists | Shiraishi - Loki [Leo137 18] | 152.0 | 1979 | 126.2 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Shiraishi - Loki [Leo137 18]].mc` |
+| 3448 | Jumpstream Of Fighters Vol. 1A | Various Artists | Shoji Meguro feat. Yumi Kawamura - Kimi no Kioku (Aethral Remix) [Leo137 22] | 170.0 | 3961 | 293.4 | osu_mirror/community | `osu_mirror\796825\Various Artists - Jumpstream Of Fighters Vol. 1A (Leo137) [Shoji Meguro feat. Yumi Kawamura - Kimi no Kioku (Aethral Remix) [Leo137 22]].mc` |
+| 3449 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Flame Thrower / BB's Hard | 150.24 | 598 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Flame Thrower  BB's Hard].mc` |
+| 3450 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Laser / Advanced | 150.24 | 460 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Laser  Advanced].mc` |
+| 3451 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Machine Gun / Ulis-'s Hyper | 150.24 | 675 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Machine Gun  Ulis-'s Hyper].mc` |
+| 3452 | Jungle Battle (Main BGM) | Hidenori Maezawa, Kiyohiro Sada | Spread Gun / Insane | 150.24 | 846 | 51.1 | osu_mirror/community | `osu_mirror\2304643\Hidenori Maezawa, Kiyohiro Sada - Jungle Battle (Main BGM) (Nabooru) [Spread Gun  Insane].mc` |
+| 3453 | Just Disappear | adamyes | Advanced | 160.0 | 834 | 204.4 | osu_mirror/community | `osu_mirror\2478325\adamyes - Just Disappear (chocomilku-) [Advanced].mc` |
+| 3454 | Just Disappear | adamyes | Beginner | 160.0 | 427 | 204.4 | osu_mirror/community | `osu_mirror\2478325\adamyes - Just Disappear (chocomilku-) [Beginner].mc` |
+| 3455 | Just Disappear | adamyes | Bye Bye | 160.0 | 1512 | 203.8 | osu_mirror/community | `osu_mirror\2478325\adamyes - Just Disappear (chocomilku-) [Bye Bye].mc` |
+| 3456 | Just Disappear | adamyes | Easy | 160.0 | 666 | 204.6 | osu_mirror/community | `osu_mirror\2478325\adamyes - Just Disappear (chocomilku-) [Easy].mc` |
+| 3457 | Just Disappear | adamyes | Hard | 160.0 | 1117 | 203.8 | osu_mirror/community | `osu_mirror\2478325\adamyes - Just Disappear (chocomilku-) [Hard].mc` |
+| 3458 | Just Disappear | adamyes | Insane | 160.0 | 1250 | 203.7 | osu_mirror/community | `osu_mirror\2478325\adamyes - Just Disappear (chocomilku-) [Insane].mc` |
+| 3459 | Just Disappear | adamyes | Normal | 160.0 | 791 | 204.4 | osu_mirror/community | `osu_mirror\2478325\adamyes - Just Disappear (chocomilku-) [Normal].mc` |
+| 3460 | Just Right (Jakki Remix) | Tessa Violet | Insanely in love | 120.0 | 2161 | 172.5 | osu_mirror/community | `osu_mirror\2147051\Tessa Violet - Just Right (Jakki Remix) (Gera) [Insanely in love].mc` |
+| 3461 | Just Right (Jakki Remix) | Tessa Violet | My heart keeps singing~ | 120.0 | 2817 | 172.8 | osu_mirror/community | `osu_mirror\2147051\Tessa Violet - Just Right (Jakki Remix) (Gera) [My heart keeps singing~].mc` |
+| 3462 | Just Right (Jakki Remix) | Tessa Violet | Yisus got hypercharged by her smile | 120.0 | 1679 | 171.6 | osu_mirror/community | `osu_mirror\2147051\Tessa Violet - Just Right (Jakki Remix) (Gera) [Yisus got hypercharged by her smile].mc` |
+| 3463 | Justice Breaker | Affected | Dreamless | 190.0 | 2041 | 211.8 | osu_mirror/community | `osu_mirror\2605585\Affected - Justice Breaker (Chrisse) [Dreamless].mc` |
+| 3464 | Kaisei | Leo/need x MEIKO | Wonderful Summer | 172.0 | 1600 | 253.1 | osu_mirror/community | `osu_mirror\2394070\Leoneed x MEIKO - Kaisei (LINQAQ) [Wonderful summer].mc` |
+| 3465 | Kakeru, Kusai Made | Qutabire | ~ Run, to the edge of the sky ~ | 208.0 | 1311 | 165.1 | osu_mirror/community | `osu_mirror\2359689\Qutabire - Kakeru, Kusai Made (MapRequester) [~ Run, to the edge of the sky ~].mc` |
+| 3466 | Kako ni Torawarete Iru | TUYU | Bow down | 180.0 | 1388 | 224.2 | osu_mirror/community | `osu_mirror\1245730\TUYU - Kako ni Torawarete Iru (deta5859) [Bow down].mc` |
+| 3467 | Kako ni Torawarete Iru | TUYU | Collab Hard | 180.0 | 1291 | 220.7 | osu_mirror/community | `osu_mirror\1245730\TUYU - Kako ni Torawarete Iru (deta5859) [Collab Hard].mc` |
+| 3468 | Kamigami ga Koishita Gensoukyou | Unlucky Morpheus | The Promise from the Gods | 155.0 | 2617 | 232.3 | osu_mirror/community | `osu_mirror\2469450\Unlucky Morpheus - Kamigami ga Koishita Gensoukyou ([TCD] Ena-suki) [The Promise from the Gods].mc` |
+| 3469 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | Advanced | 235.0 | 874 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [Advanced].mc` |
+| 3470 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | Beyond Ethereal | 235.0 | 1261 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [Beyond Ethereal].mc` |
+| 3471 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | GDBlack's Insanity | 235.0 | 1195 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [GDBlack's Insanity].mc` |
+| 3472 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | GDBlack's Master | 235.0 | 1441 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [GDBlack's Master].mc` |
+| 3473 | Kamigami no Sumau Ten'iki (self cover) | TAKIO | Hyper | 235.0 | 1069 | 122.7 | osu_mirror/community | `osu_mirror\2530258\TAKIO - Kamigami no Sumau Ten'iki (self cover) (Foxide) [Hyper].mc` |
+| 3474 | Kan Saete Kuyashiiwa (Cut Ver.) | ZUTOMAYO | It's not you, (cut) | 148.0 | 1635 | 89.9 | osu_mirror/community | `osu_mirror\2421245\ZUTOMAYO - Kan Saete Kuyashiiwa (Cut Ver.) (caracol) [It's not you, (cut)].mc` |
+| 3475 | Kan Saete Kuyashiiwa (Cut Ver.) | ZUTOMAYO | It's not you, | 110.0 | 2608 | 146.2 | osu_mirror/community | `osu_mirror\2421245\ZUTOMAYO - Kan Saete Kuyashiiwa (Cut Ver.) (caracol) [It's not you,].mc` |
+| 3476 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | A Flower the World Forgot to Notice | 184.0 | 649 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [A Flower the World Forgot to Notice].mc` |
+| 3477 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Ferdi's Normal | 184.0 | 481 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Ferdi's Normal].mc` |
+| 3478 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Gahyeon's Insane | 184.0 | 424 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Gahyeon's Insane].mc` |
+| 3479 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Kibitz's Hard | 184.0 | 521 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Kibitz's Hard].mc` |
+| 3480 | Kasuka na Hana (TV Size) | Tatsuya Kitani feat. BABYMETAL | Sya's Easy | 184.0 | 257 | 83.5 | osu_mirror/community | `osu_mirror\2496763\Tatsuya Kitani feat. BABYMETAL - Kasuka na Hana (TV Size) (Savageeeee) [Sya's Easy].mc` |
+| 3481 | Keep smiling. | AAAA + Hino Isuka | :) | 150.0 | 1773 | 295.9 | osu_mirror/community | `osu_mirror\2576176\AAAA + Hino Isuka - Keep smiling. (Ballistic) [)].mc` |
+| 3482 | Kefka2006.Dekishi2.7 | Starcatcher | Crazy Jumpstyle | 142.0 | 1026 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Crazy Jumpstyle ].mc` |
+| 3483 | Kefka2006.Dekishi2.7 | Starcatcher | Easy Jumpstyle | 142.0 | 690 | 55.6 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Easy Jumpstyle ].mc` |
+| 3484 | Kefka2006.Dekishi2.7 | Starcatcher | Extreme Jumpstyle | 142.0 | 928 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Extreme Jumpstyle].mc` |
+| 3485 | Kefka2006.Dekishi2.7 | Starcatcher | Hard Jumpstyle | 142.0 | 765 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Hard Jumpstyle ].mc` |
+| 3486 | Kefka2006.Dekishi2.7 | Starcatcher | Jumpstyle Beginer | 142.0 | 572 | 55.6 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Jumpstyle Beginer].mc` |
+| 3487 | Kefka2006.Dekishi2.7 | Starcatcher | JUMPSTYLE GOD | 142.0 | 1128 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [JUMPSTYLE GOD].mc` |
+| 3488 | Kefka2006.Dekishi2.7 | Starcatcher | Jumpstyle MASTER | 142.0 | 1067 | 58.8 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Jumpstyle MASTER].mc` |
+| 3489 | Kefka2006.Dekishi2.7 | Starcatcher | Normal Jumpstyle | 142.0 | 780 | 55.6 | osu_mirror/community | `osu_mirror\2544298\Starcatcher - Kefka2006.Dekishi2.7 (ONYXY) [Normal Jumpstyle].mc` |
+| 3490 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Easy | 177.0 | 184 | 75.3 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Easy].mc` |
+| 3491 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Sava's Hard | 177.0 | 799 | 75.3 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Sava's Hard].mc` |
+| 3492 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Sava's Normal | 177.0 | 512 | 75.3 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Sava's Normal].mc` |
+| 3493 | Kessen Spirit (TV Size) | CHiCO with HoneyWorks | Unbreakable Resolve | 177.0 | 875 | 83.8 | osu_mirror/community | `osu_mirror\2539974\CHiCO with HoneyWorks - Kessen Spirit (TV Size) (Kibitz) [Unbreakable Resolve].mc` |
+| 3494 | Ketsui no Uta (TV Size) | Ohara Yuiko | Easy | 107.0 | 167 | 65.8 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Easy].mc` |
+| 3495 | Ketsui no Uta (TV Size) | Ohara Yuiko | Journey of a Lifetime | 107.0 | 293 | 66.4 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Journey of a Lifetime].mc` |
+| 3496 | Ketsui no Uta (TV Size) | Ohara Yuiko | Sava's Hard | 107.0 | 364 | 63.4 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Sava's Hard].mc` |
+| 3497 | Ketsui no Uta (TV Size) | Ohara Yuiko | Sava's Normal | 107.0 | 292 | 67.4 | osu_mirror/community | `osu_mirror\2588078\Ohara Yuiko - Ketsui no Uta (TV Size) (Kibitz) [Sava's Normal].mc` |
+| 3498 | KICK BACK | Kenshi Yonezu | Ryoshi | 204.0 | 700 | 84.0 | osu_mirror/community | `osu_mirror\1918924\Kenshi Yonezu - KICK BACK (Lung_P) [Ryoshi].mc` |
+| 3499 | Kikai No Tsubasa (feat. Kasane Teto) | Camellia | The Wings That Never Rust | 200.0 | 4317 | 499.5 | osu_mirror/community | `osu_mirror\2451984\Camellia - Kikai No Tsubasa (feat. Kasane Teto) (phuongkhoa102) [The Wings That Never Rust].mc` |
+| 3500 | Kikoeteimasu ka Bokura no Koe ga... | Rengoku Teien | Cherry Blossom | 100.0 | 1488 | 304.8 | osu_mirror/community | `osu_mirror\2544770\Rengoku Teien - Kikoeteimasu ka Bokura no Koe ga... (PinkXT) [Cherry Blossom].mc` |
+| 3501 | Kill me Darling feat. null | Haiiro Nemuri | Easy | 160.0 | 522 | 176.1 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Easy].mc` |
+| 3502 | Kill me Darling feat. null | Haiiro Nemuri | Hard | 160.0 | 1495 | 176.1 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Hard].mc` |
+| 3503 | Kill me Darling feat. null | Haiiro Nemuri | Normal | 160.0 | 922 | 174.0 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Normal].mc` |
+| 3504 | Kill me Darling feat. null | Haiiro Nemuri | Simulated Happiness | 160.0 | 1957 | 176.1 | osu_mirror/community | `osu_mirror\2578089\Haiiro Nemuri - Kill me Darling feat. null (knzk1234) [Simulated Happiness].mc` |
+| 3505 | KiLLKiSS (TV Size) | Ave Mujica | Easy | 200.0 | 297 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Easy].mc` |
+| 3506 | KiLLKiSS (TV Size) | Ave Mujica | Hard | 200.0 | 738 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Hard].mc` |
+| 3507 | KiLLKiSS (TV Size) | Ave Mujica | killkiss | 200.0 | 792 | 84.3 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [killkiss].mc` |
+| 3508 | KiLLKiSS (TV Size) | Ave Mujica | Normal | 200.0 | 465 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Normal].mc` |
+| 3509 | KiLLKiSS (TV Size) | Ave Mujica | Usagi_'s Insane | 200.0 | 723 | 86.1 | osu_mirror/community | `osu_mirror\2325733\Ave Mujica - KiLLKiSS (TV Size) (ML-ysg) [Usagi_'s Insane].mc` |
+| 3510 | Kimi ga Yume o Tsuretekita (TV Size) | Pet na Kanojotachi | Easy | 135.0 | 162 | 86.4 | osu_mirror/community | `osu_mirror\2490158\Pet na Kanojotachi - Kimi ga Yume o Tsuretekita (TV Size) (Sympho) [Easy].mc` |
+| 3511 | Kimi ga Yume o Tsuretekita (TV Size) | Pet na Kanojotachi | Last Graduation | 135.0 | 396 | 86.7 | osu_mirror/community | `osu_mirror\2490158\Pet na Kanojotachi - Kimi ga Yume o Tsuretekita (TV Size) (Sympho) [Last Graduation].mc` |
+| 3512 | Kimi ga Yume o Tsuretekita (TV Size) | Pet na Kanojotachi | Normal | 135.0 | 333 | 87.6 | osu_mirror/community | `osu_mirror\2490158\Pet na Kanojotachi - Kimi ga Yume o Tsuretekita (TV Size) (Sympho) [Normal].mc` |
+| 3513 | Kimi wa Koibito | Oishi Masayoshi | Advanced | 94.0 | 849 | 214.0 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [Advanced].mc` |
+| 3514 | Kimi wa Koibito | Oishi Masayoshi | Hard | 94.0 | 1030 | 214.4 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [Hard].mc` |
+| 3515 | Kimi wa Koibito | Oishi Masayoshi | Intermediate | 94.0 | 436 | 210.2 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [Intermediate].mc` |
+| 3516 | Kimi wa Koibito | Oishi Masayoshi | My Angel Mahiru | 94.0 | 807 | 209.4 | osu_mirror/community | `osu_mirror\2533018\Oishi Masayoshi - Kimi wa Koibito (Pyra-san) [My Angel Mahiru].mc` |
+| 3517 | Kimiiro (Game Ver.) | Yasaka Kanon (CV: Akabane Kyouko) | Hard | 158.0 | 377 | 90.9 | osu_mirror/community | `osu_mirror\2540707\Yasaka Kanon (CV Akabane Kyouko) - Kimiiro (Game Ver.) (nai_) [Hard].mc` |
+| 3518 | Kimiiro (Game Ver.) | Yasaka Kanon (CV: Akabane Kyouko) | ni de yan se | 158.0 | 316 | 90.9 | osu_mirror/community | `osu_mirror\2540707\Yasaka Kanon (CV Akabane Kyouko) - Kimiiro (Game Ver.) (nai_) [ni de yan se].mc` |
+| 3519 | Kimiiro (Game Ver.) | Yasaka Kanon (CV: Akabane Kyouko) | SuiFeng's Normal | 158.0 | 331 | 90.9 | osu_mirror/community | `osu_mirror\2540707\Yasaka Kanon (CV Akabane Kyouko) - Kimiiro (Game Ver.) (nai_) [SuiFeng's Normal].mc` |
+| 3520 | KING & ASHLEY (TV Size) | MY FIRST STORY | Easy | 215.0 | 274 | 86.2 | osu_mirror/community | `osu_mirror\2399655\MY FIRST STORY - KING & ASHLEY (TV Size) (Tsurumaki_) [Easy].mc` |
+| 3521 | KING & ASHLEY (TV Size) | MY FIRST STORY | Hard | 215.0 | 834 | 86.2 | osu_mirror/community | `osu_mirror\2399655\MY FIRST STORY - KING & ASHLEY (TV Size) (Tsurumaki_) [Hard].mc` |
+| 3522 | KING & ASHLEY (TV Size) | MY FIRST STORY | Insane | 215.0 | 1025 | 86.2 | osu_mirror/community | `osu_mirror\2399655\MY FIRST STORY - KING & ASHLEY (TV Size) (Tsurumaki_) [Insane].mc` |
+| 3523 | KING & ASHLEY (TV Size) | MY FIRST STORY | Normal | 215.0 | 520 | 86.2 | osu_mirror/community | `osu_mirror\2399655\MY FIRST STORY - KING & ASHLEY (TV Size) (Tsurumaki_) [Normal].mc` |
+| 3524 | King of the Princess | HathiouziP feat.HatsuneMiku | Extreme | 150.0 | 1226 | 129.3 | osu_mirror/community | `osu_mirror\2220739\HathiouziP feat.HatsuneMiku - King of the Princess (LuigiGames) [Extreme].mc` |
+| 3525 | KINGDOM COME | RoughSketch | ADVANCED | 282.0 | 729 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [ADVANCED].mc` |
+| 3526 | KINGDOM COME | RoughSketch | BASIC | 282.0 | 216 | 131.5 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [BASIC].mc` |
+| 3527 | KINGDOM COME | RoughSketch | EXCEED | 282.0 | 1556 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [EXCEED].mc` |
+| 3528 | KINGDOM COME | RoughSketch | EXHAUST | 282.0 | 1013 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [EXHAUST].mc` |
+| 3529 | KINGDOM COME | RoughSketch | MAXIMUM | 282.0 | 1187 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [MAXIMUM].mc` |
+| 3530 | KINGDOM COME | RoughSketch | NABLA | 282.0 | 1872 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [NABLA].mc` |
+| 3531 | KINGDOM COME | RoughSketch | NOVICE | 282.0 | 400 | 131.9 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [NOVICE].mc` |
+| 3532 | KINGDOM COME | RoughSketch | ULTIMATE | 282.0 | 1992 | 131.6 | osu_mirror/community | `osu_mirror\2595429\RoughSketch - KINGDOM COME (hymg) [ULTIMATE].mc` |
+| 3533 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Easy | 180.0 | 527 | 126.5 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Easy].mc` |
+| 3534 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Insane | 180.0 | 1628 | 126.6 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Insane].mc` |
+| 3535 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Lunatic | 180.0 | 2018 | 126.6 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Lunatic].mc` |
+| 3536 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Normal | 180.0 | 888 | 126.7 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Normal].mc` |
+| 3537 | Kiri Kakaru Meiya ~Foggy Night~ | Discord Registers | Snowy's Hard | 180.0 | 1320 | 126.7 | osu_mirror/community | `osu_mirror\1896626\Discord Registers - Kiri Kakaru Meiya ~Foggy Night~ (M4xWasHere) [Snowy's Hard].mc` |
+| 3538 | Kiss Me Again (Nightcore Mix) | ROY BEE | Advanced | 168.32 | 879 | 131.9 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [Advanced].mc` |
+| 3539 | Kiss Me Again (Nightcore Mix) | ROY BEE | astat11's Intermediate | 168.32 | 574 | 131.2 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [astat11's Intermediate].mc` |
+| 3540 | Kiss Me Again (Nightcore Mix) | ROY BEE | Hyper | 168.32 | 1317 | 131.2 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [Hyper].mc` |
+| 3541 | Kiss Me Again (Nightcore Mix) | ROY BEE | I Remember One Day | 168.32 | 1787 | 131.2 | osu_mirror/community | `osu_mirror\2214615\ROY BEE - Kiss Me Again (Nightcore Mix) (awowuspro) [I Remember One Day].mc` |
+| 3542 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.00 | 187.5 | 61 | 144.6 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.00].mc` |
+| 3543 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.05 | 196.88 | 61 | 137.8 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.05].mc` |
+| 3544 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.10 | 206.25 | 61 | 131.5 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.10].mc` |
+| 3545 | KLASSIKER EINHEIT (Cut Ver.) | DJ SHARPNEL | Yasashii / 1.15 | 215.62 | 61 | 125.8 | osu_mirror/community | `osu_mirror\2242540\DJ SHARPNEL - KLASSIKER EINHEIT (Cut Ver.) (YuEast 2018) [Yasashii  1.15].mc` |
+| 3546 | Knight of Firmament | Eye XY feat. Yoneko | Hard | 75.0 | 952 | 112.1 | osu_mirror/community | `osu_mirror\2036133\EYE XY feat. Yoneko - Knight Of Firmament (Chandelure) [Hard].mc` |
+| 3547 | Knight of Firmament | Eye XY feat. Yoneko | Heaven's Fall | 75.0 | 1630 | 112.1 | osu_mirror/community | `osu_mirror\2036133\EYE XY feat. Yoneko - Knight Of Firmament (Chandelure) [Heaven's Fall].mc` |
+| 3548 | Knight of Firmament | Eye XY feat. Yoneko | Insane | 75.0 | 1279 | 112.1 | osu_mirror/community | `osu_mirror\2036133\EYE XY feat. Yoneko - Knight Of Firmament (Chandelure) [Insane].mc` |
+| 3549 | Koeru (TV Size) | [Alexandros] | Easy | 200.0 | 281 | 86.7 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [Easy].mc` |
+| 3550 | Koeru (TV Size) | [Alexandros] | eZmmR's Hard | 200.0 | 761 | 86.9 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [eZmmR's Hard].mc` |
+| 3551 | Koeru (TV Size) | [Alexandros] | Sayana's Normal | 200.0 | 519 | 86.9 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [Sayana's Normal].mc` |
+| 3552 | Koeru (TV Size) | [Alexandros] | The Super Horse, Oguri Cap! | 200.0 | 891 | 86.9 | osu_mirror/community | `osu_mirror\2399586\[Alexandros] - Koeru (TV Size) (Ihram) [The Super Horse, Oguri Cap!].mc` |
+| 3553 | Koi (TV Size) | Gen Hoshino | Normal | 158.0 | 240 | 91.8 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [Normal].mc` |
+| 3554 | Koi (TV Size) | Gen Hoshino | Sava's Advanced | 158.0 | 408 | 91.8 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [Sava's Advanced].mc` |
+| 3555 | Koi (TV Size) | Gen Hoshino | Sava's Hard | 158.0 | 445 | 91.0 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [Sava's Hard].mc` |
+| 3556 | Koi (TV Size) | Gen Hoshino | True Love | 158.0 | 400 | 91.0 | osu_mirror/community | `osu_mirror\2598606\Gen Hoshino - Koi (TV Size) (Kibitz) [True Love].mc` |
+| 3557 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | . | 138.0 | 346 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [.].mc` |
+| 3558 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | Easy | 138.0 | 212 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [Easy].mc` |
+| 3559 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | Hard | 138.0 | 333 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [Hard].mc` |
+| 3560 | Koi no Spirichu (Game Ver.) | solfa feat. Chata | Normal | 138.0 | 404 | 102.3 | osu_mirror/community | `osu_mirror\2524007\solfa feat. Chata - Koi no Spirichu (Game Ver.) (Pyra-san) [Normal].mc` |
+| 3561 | Koisuru Kirigirisu | yuki | CS' Normal | 142.0 | 955 | 231.8 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [CS' Normal].mc` |
+| 3562 | Koisuru Kirigirisu | yuki | DH's Hard | 142.0 | 1410 | 238.9 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [DH's Hard].mc` |
+| 3563 | Koisuru Kirigirisu | yuki | Easy | 142.0 | 467 | 231.3 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [Easy].mc` |
+| 3564 | Koisuru Kirigirisu | yuki | mirac1e's Hyper | 142.0 | 1346 | 237.7 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [mirac1e's Hyper].mc` |
+| 3565 | Koisuru Kirigirisu | yuki | Transient Blue, Waking Reverie | 142.0 | 800 | 238.8 | osu_mirror/community | `osu_mirror\2564540\yuki - Koisuru Kirigirisu (Akasha-) [Transient Blue, Waking Reverie].mc` |
+| 3566 | Kokoro Float (feat. nicamoq) | Yunomi | Sweet and Bitter Together (w/ Yuiesta) | 122.0 | 1919 | 274.1 | osu_mirror/community | `osu_mirror\2639744\Yunomi - Kokoro Float (feat. nicamoq) ([TCD] Dzar03) [Sweet and Bitter Together (w Yuiesta)].mc` |
+| 3567 | Kokoro To Iu Nano Fukakai | Senju Koyomi(CV:Toribe Mariko) & Ramona Wolf(CV:Tanaka Minami) | Hard//Sadness | 152.0 | 964 | 123.2 | osu_mirror/community | `osu_mirror\2481996\Senju Koyomi(CVToribe Mariko) & Ramona Wolf(CVTanaka Minami) - Kokoro To Iu Nano Fukakai (nai_) [HardSadness].mc` |
+| 3568 | Kokoro To Iu Nano Fukakai | Senju Koyomi(CV:Toribe Mariko) & Ramona Wolf(CV:Tanaka Minami) | Insane//Screaming | 152.0 | 1232 | 123.2 | osu_mirror/community | `osu_mirror\2481996\Senju Koyomi(CVToribe Mariko) & Ramona Wolf(CVTanaka Minami) - Kokoro To Iu Nano Fukakai (nai_) [InsaneScreaming].mc` |
+| 3569 | Kokoro To Iu Nano Fukakai | Senju Koyomi(CV:Toribe Mariko) & Ramona Wolf(CV:Tanaka Minami) | Normal//Sickness | 152.0 | 383 | 116.6 | osu_mirror/community | `osu_mirror\2481996\Senju Koyomi(CVToribe Mariko) & Ramona Wolf(CVTanaka Minami) - Kokoro To Iu Nano Fukakai (nai_) [NormalSickness].mc` |
+| 3570 | Kokou no Sousei | Yousei Teikoku | Genesis | 240.0 | 4787 | 305.9 | osu_mirror/community | `osu_mirror\2427146\Yousei Teikoku - Kokou no Sousei (Niko_Plays) [Genesis].mc` |
+| 3571 | Kokudou Slope | Kinoko Teikoku | Highway 246, Outdoor Scenes | 107.0 | 1752 | 170.6 | osu_mirror/community | `osu_mirror\2468393\Kinoko Teikoku - Kokudou Slope (QwertYui345) [Highway 246, Outdoor scenes].mc` |
+| 3572 | KOKUSHIMUSOU | Laur | 0.85 | 144.5 | 3808 | 220.0 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.85].mc` |
+| 3573 | KOKUSHIMUSOU | Laur | 0.8 | 136.0 | 3808 | 233.7 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.8].mc` |
+| 3574 | KOKUSHIMUSOU | Laur | 0.95 | 161.5 | 3808 | 196.8 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.95].mc` |
+| 3575 | KOKUSHIMUSOU | Laur | 0.9 | 153.0 | 3808 | 207.7 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [0.9].mc` |
+| 3576 | KOKUSHIMUSOU | Laur | 1.05 | 178.5 | 3808 | 178.1 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [1.05].mc` |
+| 3577 | KOKUSHIMUSOU | Laur | 1.15 | 195.5 | 3808 | 162.6 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [1.15].mc` |
+| 3578 | KOKUSHIMUSOU | Laur | 1.1 | 187.0 | 3808 | 170.0 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [1.1].mc` |
+| 3579 | KOKUSHIMUSOU | Laur | ISSEN | 170.0 | 3808 | 187.0 | osu_mirror/community | `osu_mirror\2032865\Laur - KOKUSHIMUSOU (nate) [ISSEN].mc` |
+| 3580 | Komorebi (Rough Mix) | m-taku | Bygone | 103.0 | 1436 | 204.9 | osu_mirror/community | `osu_mirror\2478382\m-taku - Komorebi (Rough Mix) (LINQAQ) [Bygone].mc` |
+| 3581 | konata izumi | blednost. | all winter i couldn't get you off my mind, and we are still apart. forever. | 190.0 | 2775 | 242.4 | osu_mirror/community | `osu_mirror\2485513\blednost. - konata izumi (DiscorDBoI) [all winter i couldn't get you off my mind, and we are still apart. forever.].mc` |
+| 3582 | Konton Boogie | Yoshino | Boogie Woogie | 190.0 | 2190 | 151.5 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Boogie Woogie].mc` |
+| 3583 | Konton Boogie | Yoshino | Hard | 190.0 | 1380 | 151.4 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Hard].mc` |
+| 3584 | Konton Boogie | Yoshino | Insane | 190.0 | 1918 | 151.5 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Insane].mc` |
+| 3585 | Konton Boogie | Yoshino | Normal | 190.0 | 551 | 141.5 | osu_mirror/community | `osu_mirror\2229950\Yoshino - Konton Boogie (TheBigSadd) [Normal].mc` |
+| 3586 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Easy | 140.0 | 210 | 112.9 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Easy].mc` |
+| 3587 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Hard | 140.0 | 498 | 114.2 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Hard].mc` |
+| 3588 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Insane | 140.0 | 614 | 114.0 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Insane].mc` |
+| 3589 | Koufuku Kei (Game Ver.) | 25-ji, Nightcord de. x MEIKO | Normal | 140.0 | 544 | 114.4 | osu_mirror/community | `osu_mirror\2496529\25-ji, Nightcord de. x MEIKO - Koufuku Kei (Game Ver.) (Sam67) [Normal].mc` |
+| 3590 | Kousoku 105gou XXXsen | TAKIO | Advanced | 200.0 | 718 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Advanced].mc` |
+| 3591 | Kousoku 105gou XXXsen | TAKIO | Beginner | 200.0 | 360 | 137.4 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Beginner].mc` |
+| 3592 | Kousoku 105gou XXXsen | TAKIO | Extra | 200.0 | 1029 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Extra].mc` |
+| 3593 | Kousoku 105gou XXXsen | TAKIO | Hard | 200.0 | 1106 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Hard].mc` |
+| 3594 | Kousoku 105gou XXXsen | TAKIO | Hyper | 200.0 | 1406 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Hyper].mc` |
+| 3595 | Kousoku 105gou XXXsen | TAKIO | Insane | 200.0 | 1122 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Insane].mc` |
+| 3596 | Kousoku 105gou XXXsen | TAKIO | Intermediate | 200.0 | 442 | 137.8 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Intermediate].mc` |
+| 3597 | Kousoku 105gou XXXsen | TAKIO | Sayonara | 200.0 | 986 | 137.7 | osu_mirror/community | `osu_mirror\2535725\TAKIO - Kousoku 105gou XXXsen (Pyra-san) [Sayonara].mc` |
+| 3598 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | \: / Concepte's Hard \ :/ | 185.0 | 1403 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [  Concepte's Hard  ].mc` |
+| 3599 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | (: / Advanced \ :) | 185.0 | 1153 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [(  Advanced  )].mc` |
+| 3600 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | (: / Easy \ :) | 185.0 | 420 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [(  Easy  )].mc` |
+| 3601 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | \.>-<./ / Krasavitsa Meow  \  \.>-<./ | 185.0 | 2146 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [.-.  Krasavitsa Meow    .-.].mc` |
+| 3602 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | =-= / ThatGoy's Insane \ =-= | 185.0 | 1684 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [=-=  ThatGoy's Insane  =-=].mc` |
+| 3603 | Krasavitsa | ANGUISH, vlad pivo, YARCHE SOLNCA & ily | [: / Normal \ :] | 185.0 | 860 | 129.6 | osu_mirror/community | `osu_mirror\2270163\ANGUISH, vlad pivo, YARCHE SOLNCA & ily - Krasavitsa (Shoost) [[  Normal  ]].mc` |
+| 3604 | kto? | Zemfira | twoj aniolek | 96.0 | 2026 | 164.7 | osu_mirror/community | `osu_mirror\2281952\Zemfira - kto (caracol) [twoj aniolek].mc` |
+| 3605 | Kyouki Chinden (TV Size) | Yousei Teikoku | Another | 280.0 | 735 | 91.9 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [Another].mc` |
+| 3606 | Kyouki Chinden (TV Size) | Yousei Teikoku | DEAD END | 280.0 | 784 | 92.0 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [DEAD END].mc` |
+| 3607 | Kyouki Chinden (TV Size) | Yousei Teikoku | Extra | 280.0 | 686 | 92.0 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [Extra].mc` |
+| 3608 | Kyouki Chinden (TV Size) | Yousei Teikoku | Extreme | 280.0 | 853 | 92.1 | osu_mirror/community | `osu_mirror\2551283\Yousei Teikoku - Kyouki Chinden (TV Size) (eZmmR) [Extreme].mc` |
+| 3609 | Kyun Kyun Tamaran Inaba-tan. (Cut Ver.) | Tsubaki | Boring's Hard | 180.0 | 979 | 130.0 | osu_mirror/community | `osu_mirror\2471841\Tsubaki - Kyun Kyun Tamaran Inaba-tan. (Cut Ver.) (mirac1e_xf) [Boring's Hard].mc` |
+| 3610 | Kyun Kyun Tamaran Inaba-tan. (Cut Ver.) | Tsubaki | Inaba | 180.0 | 946 | 130.0 | osu_mirror/community | `osu_mirror\2471841\Tsubaki - Kyun Kyun Tamaran Inaba-tan. (Cut Ver.) (mirac1e_xf) [Inaba].mc` |
+| 3611 | Kyun Kyun Tamaran Inaba-tan. (Cut Ver.) | Tsubaki | weyctor's Normal | 180.0 | 365 | 129.2 | osu_mirror/community | `osu_mirror\2471841\Tsubaki - Kyun Kyun Tamaran Inaba-tan. (Cut Ver.) (mirac1e_xf) [weyctor's Normal].mc` |
+| 3612 | Kyuukou | katagiri | Airflow | 162.0 | 2903 | 312.6 | osu_mirror/community | `osu_mirror\2452664\katagiri - Kyuukou (Concepte) [Airflow].mc` |
+| 3613 | L'Amour Toujours (Nightcore & Cut Ver.) | Gigi D'Agostino | paige's Ricecore | 181.5 | 1960 | 121.0 | osu_mirror/community | `osu_mirror\2615141\Gigi D'Agostino - L'Amour Toujours (Nightcore & Cut Ver.) (nichijou) [paige's ricecore].mc` |
+| 3614 | L2 -Reminiscence- | Ice | Tranquil Dawn -the renewal, resurgence & revival- | 152.0 | 1470 | 394.7 | osu_mirror/community | `osu_mirror\2496712\Ice - L2 -Reminiscence- (Carpihat) [Tranquil Dawn -the renewal, resurgence & revival-].mc` |
+| 3615 | Labyrinth (Cut Ver.) | Makari | Although of course you end up becoming yourself | 147.0 | 398 | 146.4 | osu_mirror/community | `osu_mirror\1291607\Makari - Labyrinth (Cut Ver.) (Abraxos) [Although of course you end up becoming yourself].mc` |
+| 3616 | Lament Rain ('Forlorn' Long ver.) | Ashrount vs. D-D-Dice | Cobalt's Past | 200.0 | 1001 | 236.3 | osu_mirror/community | `osu_mirror\2460238\Ashrount vs. D-D-Dice - Lament Rain ('Forlorn' Long ver.) (Murumoo) [Cobalt's Past].mc` |
+| 3617 | Lament Rain ('Forlorn' Long ver.) | Ashrount vs. D-D-Dice | Falling Raindrops | 200.0 | 1868 | 208.1 | osu_mirror/community | `osu_mirror\2460238\Ashrount vs. D-D-Dice - Lament Rain ('Forlorn' Long ver.) (Murumoo) [Falling Raindrops].mc` |
+| 3618 | Lament Rain ('Forlorn' Long ver.) | Ashrount vs. D-D-Dice | Future | 200.0 | 1529 | 236.3 | osu_mirror/community | `osu_mirror\2460238\Ashrount vs. D-D-Dice - Lament Rain ('Forlorn' Long ver.) (Murumoo) [Future].mc` |
+| 3619 | Lament Rain ('Forlorn' Long ver.) | Ashrount vs. D-D-Dice | Present | 200.0 | 1495 | 236.3 | osu_mirror/community | `osu_mirror\2460238\Ashrount vs. D-D-Dice - Lament Rain ('Forlorn' Long ver.) (Murumoo) [Present].mc` |
+| 3620 | Lament Rain ('Forlorn' Long ver.) | Ashrount vs. D-D-Dice | Slowpoke's Eternal | 200.0 | 1504 | 231.4 | osu_mirror/community | `osu_mirror\2460238\Ashrount vs. D-D-Dice - Lament Rain ('Forlorn' Long ver.) (Murumoo) [Slowpoke's Eternal].mc` |
+| 3621 | Lament Rain ('Forlorn' Long ver.) | Ashrount vs. D-D-Dice | XinH's Beyond | 200.0 | 1514 | 233.8 | osu_mirror/community | `osu_mirror\2460238\Ashrount vs. D-D-Dice - Lament Rain ('Forlorn' Long ver.) (Murumoo) [XinH's Beyond].mc` |
+| 3622 | Lamento - Memory | Takamachi Walk | Chen's 4K Memory | 145.0 | 2380 | 330.8 | osu_mirror/community | `osu_mirror\2005179\Takamachi Walk - Lamento - Memory (Vostok645) [Chen's 4k Memory].mc` |
+| 3623 | Lang Zi Zhan Jiang Hu | Ciyo | Hard | 83.0 | 526 | 148.7 | osu_mirror/community | `osu_mirror\2346990\Ciyo - Lang Zi Zhan Jiang Hu (Seiran-) [Hard].mc` |
+| 3624 | Lang Zi Zhan Jiang Hu | Ciyo | Normal | 83.0 | 443 | 148.6 | osu_mirror/community | `osu_mirror\2346990\Ciyo - Lang Zi Zhan Jiang Hu (Seiran-) [Normal].mc` |
+| 3625 | Lang Zi Zhan Jiang Hu | Ciyo | Stroll in Freedom | 83.0 | 459 | 149.2 | osu_mirror/community | `osu_mirror\2346990\Ciyo - Lang Zi Zhan Jiang Hu (Seiran-) [Stroll in Freedom].mc` |
+| 3626 | last fortune | fripSide | Lv.1 | 134.0 | 672 | 289.5 | osu_mirror/community | `osu_mirror\2546806\fripSide - last fortune (eZmmR) [Lv.1].mc` |
+| 3627 | last fortune | fripSide | Lv.20 | 134.0 | 1375 | 289.5 | osu_mirror/community | `osu_mirror\2546806\fripSide - last fortune (eZmmR) [Lv.20].mc` |
+| 3628 | last fortune | fripSide | Lv.45 | 134.0 | 1580 | 289.5 | osu_mirror/community | `osu_mirror\2546806\fripSide - last fortune (eZmmR) [Lv.45].mc` |
+| 3629 | Latent Kingdom | Laur vs. Kanon Oguni | Conflagration | 201.0 | 2384 | 157.6 | osu_mirror/community | `osu_mirror\2358631\Laur vs. Kanon Oguni - Latent Kingdom (2487) [Conflagration].mc` |
+| 3630 | Latent Kingdom | Laur vs. Kanon Oguni | Ignition | 201.0 | 1956 | 157.6 | osu_mirror/community | `osu_mirror\2358631\Laur vs. Kanon Oguni - Latent Kingdom (2487) [Ignition].mc` |
+| 3631 | Latent Kingdom | Laur vs. Kanon Oguni | Smoke | 201.0 | 1286 | 156.3 | osu_mirror/community | `osu_mirror\2358631\Laur vs. Kanon Oguni - Latent Kingdom (2487) [Smoke].mc` |
+| 3632 | Laur-chan Taisou Daiichi | Laur | 4K // Standard | 120.0 | 1318 | 39.6 | osu_mirror/community | `osu_mirror\1761807\Laur - Laur-chan Taisou Daiichi (hemoo) [4K  Standard].mc` |
+| 3633 | layxa's Extension Overdrive Pack 3 | Various Artists | Delete | 150.0 | 2 | 960.0 | osu_mirror/community | `osu_mirror\2380919\Various Artists - layxa's Extension Overdrive Pack 3 (layxa) [Delete].mc` |
+| 3634 | Lead Control | Kaga Sumire | Lead Control / Extra | 130.0 | 1918 | 141.2 | osu_mirror/community | `osu_mirror\2574711\Kaga Sumire - Lead Control (Tamania) [Lead Control  Extra].mc` |
+| 3635 | Lead Control | Kaga Sumire | Override / Another | 130.0 | 1662 | 141.3 | osu_mirror/community | `osu_mirror\2574711\Kaga Sumire - Lead Control (Tamania) [Override  Another].mc` |
+| 3636 | Lead Control | Kaga Sumire | Signal / Insane | 130.0 | 1546 | 141.2 | osu_mirror/community | `osu_mirror\2574711\Kaga Sumire - Lead Control (Tamania) [Signal  Insane].mc` |
+| 3637 | Lemonade Fizz | BlackY feat. Risa Yuzuki | Fizzy Days | 126.0 | 2063 | 321.8 | osu_mirror/community | `osu_mirror\2568499\BlackY feat. Risa Yuzuki - Lemonade Fizz (LeCrazy) [Fizzy Days].mc` |
+| 3638 | Let's End the World | Mori Calliope, Giga & TeddyLoid | Cine's Insane | 138.0 | 1806 | 173.8 | osu_mirror/community | `osu_mirror\2458496\Mori Calliope, Giga & TeddyLoid - Let's End the World (RTrigger) [Cine's Insane].mc` |
+| 3639 | Let's End the World | Mori Calliope, Giga & TeddyLoid | END IS NIGH | 138.0 | 1384 | 172.9 | osu_mirror/community | `osu_mirror\2458496\Mori Calliope, Giga & TeddyLoid - Let's End the World (RTrigger) [END IS NIGH].mc` |
+| 3640 | Let's Go With... | Various Artists | Another | 180.0 | 2453 | 250.0 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Another].mc` |
+| 3641 | Let's Go With... | Various Artists | Easy | 180.0 | 834 | 251.3 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Easy].mc` |
+| 3642 | Let's Go With... | Various Artists | Hard | 180.0 | 2030 | 253.3 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [HARD].mc` |
+| 3643 | Let's Go With... | Various Artists | Insane | 180.0 | 2560 | 253.3 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Insane].mc` |
+| 3644 | Let's Go With... | Various Artists | Mochineko's Go...! | 180.0 | 1599 | 247.5 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Mochineko's Go...!].mc` |
+| 3645 | Let's Go With... | Various Artists | Normal | 180.0 | 1400 | 253.0 | osu_mirror/community | `osu_mirror\2481253\Various Artists - Let's Go With... (by-ad) [Normal].mc` |
+| 3646 | Let's Go! Onmyouji | Yabeno Hikomaro & Kotohime With Bouzu Dancers | akuryo taisan | 150.0 | 3107 | 313.6 | osu_mirror/community | `osu_mirror\799781\Yabeno Hikomaro & Kotohime With Bouzu Dancers - Let's Go! Onmyouji (Mashiro-Fang) [akuryo taisan].mc` |
+| 3647 | Lian Fan Nao Ye Rong Ru Tian Kong | Monster Siren Records | Trail's End. Wind's Rest | 172.0 | 1832 | 167.1 | osu_mirror/community | `osu_mirror\2598781\Monster Siren Records - Lian Fan Nao Ye Rong Ru Tian Kong (AelSan) [Trail's End. Wind's Rest].mc` |
+| 3648 | LiftOff | MAYA AKAI | Expert // ji zhang shen qing qi fei | 137.0 | 1679 | 128.5 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Expert  ji zhang shen qing qi fei].mc` |
+| 3649 | LiftOff | MAYA AKAI | Expert // Platinum's zhe dao ti xing wo le | 137.0 | 796 | 128.3 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Expert  Platinum's zhe dao ti xing wo le].mc` |
+| 3650 | LiftOff | MAYA AKAI | Hard // oid45's jin wan jiu yong zhe ge le | 137.0 | 920 | 127.8 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Hard  oid45's jin wan jiu yong zhe ge le].mc` |
+| 3651 | LiftOff | MAYA AKAI | Insane // ni kan kan zhe dou ji dian le | 137.0 | 1275 | 128.4 | osu_mirror/community | `osu_mirror\2541052\MAYA AKAI - LiftOff (nai_) [Insane  ni kan kan zhe dou ji dian le].mc` |
+| 3652 | LIKE IT! LOVE IT! (Game Ver.) | Yuki Setsuna (CV: Kusunoki Tomori) | 4K Easy | 195.0 | 536 | 98.2 | osu_mirror/community | `osu_mirror\2174468\Yuki Setsuna (CV Kusunoki Tomori) - LIKE IT! LOVE IT! (Game Ver.) (ABD007) [4K Easy].mc` |
+| 3653 | LIKE IT! LOVE IT! (Game Ver.) | Yuki Setsuna (CV: Kusunoki Tomori) | 4K Hard | 195.0 | 898 | 98.2 | osu_mirror/community | `osu_mirror\2174468\Yuki Setsuna (CV Kusunoki Tomori) - LIKE IT! LOVE IT! (Game Ver.) (ABD007) [4K Hard].mc` |
+| 3654 | LIKE IT! LOVE IT! (Game Ver.) | Yuki Setsuna (CV: Kusunoki Tomori) | 4K Insane | 195.0 | 991 | 98.0 | osu_mirror/community | `osu_mirror\2174468\Yuki Setsuna (CV Kusunoki Tomori) - LIKE IT! LOVE IT! (Game Ver.) (ABD007) [4K Insane].mc` |
+| 3655 | LIKE IT! LOVE IT! (Game Ver.) | Yuki Setsuna (CV: Kusunoki Tomori) | 4K Normal | 195.0 | 763 | 98.2 | osu_mirror/community | `osu_mirror\2174468\Yuki Setsuna (CV Kusunoki Tomori) - LIKE IT! LOVE IT! (Game Ver.) (ABD007) [4K Normal].mc` |
+| 3656 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE BORING? // Hard | 129.0 | 627 | 86.9 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE BORING  Hard].mc` |
+| 3657 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE KIBITZ? // Easy | 129.0 | 137 | 85.5 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE KIBITZ  Easy].mc` |
+| 3658 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE MIRAC1E? // Insane | 129.0 | 748 | 86.4 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE MIRAC1E  Insane].mc` |
+| 3659 | LIKE YOU o(>< = ><)o LOVE YOU? (TV Size) | The Shiunji Family Children | o(>< = ><)o LOVE NABI? //  Normal | 129.0 | 373 | 86.0 | osu_mirror/community | `osu_mirror\2557145\The Shiunji Family Children - LIKE YOU o( = )o LOVE YOU (TV Size) (mirac1e_xf) [o( = )o LOVE NABI   Normal].mc` |
+| 3660 | Lobelia (Short Ver.) | AAAA | Advanced | 198.0 | 624 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Advanced].mc` |
+| 3661 | Lobelia (Short Ver.) | AAAA | Hyper | 198.0 | 994 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Hyper].mc` |
+| 3662 | Lobelia (Short Ver.) | AAAA | Insane | 198.0 | 1187 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Insane].mc` |
+| 3663 | Lobelia (Short Ver.) | AAAA | Lavender | 198.0 | 939 | 97.0 | osu_mirror/community | `osu_mirror\2298007\AAAA - Lobelia (Short Ver.) (Rurv) [Lavender].mc` |
+| 3664 | Locus Amoenus (feat. Megurine Luka) | ArXe | Collab Easy | 165.0 | 317 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [Collab Easy].mc` |
+| 3665 | Locus Amoenus (feat. Megurine Luka) | ArXe | FREEDOM | 165.0 | 1448 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [FREEDOM].mc` |
+| 3666 | Locus Amoenus (feat. Megurine Luka) | ArXe | Hard | 165.0 | 992 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [Hard].mc` |
+| 3667 | Locus Amoenus (feat. Megurine Luka) | ArXe | Insane | 165.0 | 1239 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [Insane].mc` |
+| 3668 | Locus Amoenus (feat. Megurine Luka) | ArXe | tapperruiii's Normal | 165.0 | 586 | 155.6 | osu_mirror/community | `osu_mirror\2467187\ArXe - Locus Amoenus (feat. Megurine Luka) (Worthlessnut9) [tapperruiii's Normal].mc` |
+| 3669 | Loonboon | Laura Shigihara | I'M THE ANGRY PUMPKIN | 160.0 | 942 | 106.0 | osu_mirror/community | `osu_mirror\1638266\Laura Shigihara - Loonboon (menphiss) [I'M THE ANGRY PUMPKIN].mc` |
+| 3670 | Loonboon | Laura Shigihara | Normal | 160.0 | 495 | 106.0 | osu_mirror/community | `osu_mirror\1638266\Laura Shigihara - Loonboon (menphiss) [Normal].mc` |
+| 3671 | Loonboon | Laura Shigihara | ThisYuzu's Easy | 160.0 | 263 | 105.8 | osu_mirror/community | `osu_mirror\1638266\Laura Shigihara - Loonboon (menphiss) [ThisYuzu's Easy].mc` |
+| 3672 | Loonboon | Laura Shigihara | ThisYuzu's Hard | 160.0 | 683 | 106.0 | osu_mirror/community | `osu_mirror\1638266\Laura Shigihara - Loonboon (menphiss) [ThisYuzu's Hard].mc` |
+| 3673 | Loop (feat. WaMi) | Yunosuke | Endless Despair | 114.0 | 1749 | 248.0 | osu_mirror/community | `osu_mirror\2525226\Yunosuke - Loop (feat. WaMi) (Dereck101026) [Endless Despair].mc` |
+| 3674 | Looping the Rooms feat. Hatsune Miku | rusino | Advanced | 162.0 | 587 | 128.3 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Advanced].mc` |
+| 3675 | Looping the Rooms feat. Hatsune Miku | rusino | Insane | 162.0 | 696 | 129.3 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Insane].mc` |
+| 3676 | Looping the Rooms feat. Hatsune Miku | rusino | Kurikaesu | 162.0 | 495 | 128.9 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Kurikaesu].mc` |
+| 3677 | Looping the Rooms feat. Hatsune Miku | rusino | Siroocake's Hyper | 162.0 | 543 | 128.0 | osu_mirror/community | `osu_mirror\2569079\rusino - Looping the Rooms feat. Hatsune Miku (LongNote) [Siroocake's Hyper].mc` |
+| 3678 | Looping the Rooms feat. Hatsune Miku | rusino | 27-5? | 162.0 | 1772 | 129.8 | osu_mirror/community | `osu_mirror\2601060\rusino - Looping the Rooms feat. Hatsune Miku (caracol) [27-5].mc` |
+| 3679 | Looping the Rooms feat. Hatsune Miku | rusino | Hard | 162.0 | 1365 | 129.8 | osu_mirror/community | `osu_mirror\2601060\rusino - Looping the Rooms feat. Hatsune Miku (caracol) [Hard].mc` |
+| 3680 | Looping the Rooms feat. Hatsune Miku | rusino | Insane | 162.0 | 1601 | 129.8 | osu_mirror/community | `osu_mirror\2601060\rusino - Looping the Rooms feat. Hatsune Miku (caracol) [Insane].mc` |
+| 3681 | Lord of Fiends | Monster Siren Records | King of Sarkaz | 132.0 | 3773 | 271.1 | osu_mirror/community | `osu_mirror\2369027\Monster Siren Records - Lord of Fiends (foxgirls) [King of Sarkaz].mc` |
+| 3682 | LORELEI | Camellia | Dendoparadigm | 215.0 | 1352 | 84.8 | osu_mirror/community | `osu_mirror\1943145\Camellia - LORELEI (Aquarius_hps) [Dendoparadigm].mc` |
+| 3683 | LORELEI | Camellia | Diastalsis | 215.0 | 1298 | 84.8 | osu_mirror/community | `osu_mirror\1943145\Camellia - LORELEI (Aquarius_hps) [Diastalsis].mc` |
+| 3684 | lost found melody | Chroma | reinterpretation | 151.0 | 1561 | 227.3 | osu_mirror/community | `osu_mirror\2555412\Chroma - lost found melody (_Yunazu) [reinterpretation].mc` |
+| 3685 | Lost One no Goukoku (Indonesian Cover) | rachie | Terkelabu dalam Delusi | 162.0 | 3213 | 211.1 | osu_mirror/community | `osu_mirror\2276471\rachie - Lost One no Goukoku (Indonesian Cover) (Reihynn) [Terkelabu dalam Delusi].mc` |
+| 3686 | Lost Umbrella (7_7 Bootleg) | 7_7 | where the hell is my umbrella broseraphicdominatrixa | 340.0 | 3862 | 155.3 | osu_mirror/community | `osu_mirror\2536986\7_7 - Lost Umbrella (7_7 Bootleg) (osuisunderrated) [where the hell is my umbrella broseraphicdominatrixa].mc` |
+| 3687 | Love | Disasterpeace | EZ | 73.0 | 56 | 49.0 | osu_mirror/community | `osu_mirror\2534445\Disasterpeace - Love (doops) [EZ].mc` |
+| 3688 | Love | Disasterpeace | NM | 73.0 | 100 | 51.9 | osu_mirror/community | `osu_mirror\2534445\Disasterpeace - Love (doops) [NM].mc` |
+| 3689 | Love Kills U | EmoCosine | Dorosu Collab Normal | 160.0 | 851 | 131.8 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Dorosu Collab Normal].mc` |
+| 3690 | Love Kills U | EmoCosine | Easy | 160.0 | 393 | 131.6 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Easy].mc` |
+| 3691 | Love Kills U | EmoCosine | Hard | 160.0 | 1160 | 131.4 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Hard].mc` |
+| 3692 | Love Kills U | EmoCosine | Painful love | 160.0 | 1554 | 131.4 | osu_mirror/community | `osu_mirror\2555988\EmoCosine - Love Kills U (Dereck101026) [Painful love].mc` |
+| 3693 | Love Letter | YOASOBI | Rabureta LN [1.1x Rate] | 220.0 | 1289 | 184.4 | osu_mirror/community | `osu_mirror\1665027\YOASOBI - Love Letter (Castella) [Rabureta LN [1.1x Rate]].mc` |
+| 3694 | Love Letter | YOASOBI | Rabureta LN [1.2x Rate] | 240.0 | 1289 | 169.0 | osu_mirror/community | `osu_mirror\1665027\YOASOBI - Love Letter (Castella) [Rabureta LN [1.2x Rate]].mc` |
+| 3695 | Love Letter | YOASOBI | Rabureta LN | 200.0 | 1289 | 202.8 | osu_mirror/community | `osu_mirror\1665027\YOASOBI - Love Letter (Castella) [Rabureta LN].mc` |
+| 3696 | Love Love Sensation (Short Ver.) | solfa feat. nao | Beginner / 4K | 187.0 | 254 | 93.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Beginner  4K].mc` |
+| 3697 | Love Love Sensation (Short Ver.) | solfa feat. nao | Easy / 4K | 187.0 | 365 | 98.2 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Easy  4K].mc` |
+| 3698 | Love Love Sensation (Short Ver.) | solfa feat. nao | Hard / 4K | 187.0 | 613 | 98.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Hard  4K].mc` |
+| 3699 | Love Love Sensation (Short Ver.) | solfa feat. nao | Normal / 4K | 187.0 | 506 | 98.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Normal  4K].mc` |
+| 3700 | Love Love Sensation (Short Ver.) | solfa feat. nao | Wedding Bliss / 4K | 187.0 | 683 | 98.0 | osu_mirror/community | `osu_mirror\2542374\solfa feat. nao - Love Love Sensation (Short Ver.) (Pyra-san) [Wedding Bliss  4K].mc` |
+| 3701 | Love On The Brain | Rihanna | Rugama On The Brain | 172.0 | 3612 | 219.2 | osu_mirror/community | `osu_mirror\2563364\Rihanna - Love On The Brain (Drimba) [Rugama On The Brain].mc` |
+| 3702 | Love Pills | EmoCosine | Overdose | 160.0 | 2614 | 208.5 | osu_mirror/community | `osu_mirror\2534786\EmoCosine - Love Pills (MiuOtter) [Overdose].mc` |
+| 3703 | Love You Not | Akiri | Hard | 165.0 | 304 | 67.4 | osu_mirror/community | `osu_mirror\2526970\Akiri - Love You Not (LeCrazy) [Hard].mc` |
+| 3704 | Love You Not | Akiri | Normal | 165.0 | 174 | 68.9 | osu_mirror/community | `osu_mirror\2526970\Akiri - Love You Not (LeCrazy) [Normal].mc` |
+| 3705 | Lowermost revolt ("Jeremiad" Long ver.) | Camellia feat. Kagekiha Gakusei | 4K Atrocious Demolition | 219.2 | 3600 | 286.3 | osu_mirror/community | `osu_mirror\1466485\Camellia feat. Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver.) (AWMRone) [4K Atrocious Demolition].mc` |
+| 3706 | Lowermost revolt ("Jeremiad" Long ver.) | Camellia feat. Kagekiha Gakusei | 4K Easy | 219.2 | 893 | 289.6 | osu_mirror/community | `osu_mirror\1466485\Camellia feat. Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver.) (AWMRone) [4K Easy].mc` |
+| 3707 | Lowermost revolt ("Jeremiad" Long ver.) | Camellia feat. Kagekiha Gakusei | Alptraum's 4K Another | 219.2 | 2647 | 289.3 | osu_mirror/community | `osu_mirror\1466485\Camellia feat. Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver.) (AWMRone) [Alptraum's 4K Another].mc` |
+| 3708 | Ludicrous Speed | F-777 | Beyond Escape Velocity // 4K Insane | 166.0 | 1505 | 171.9 | osu_mirror/community | `osu_mirror\2540267\F-777 - Ludicrous Speed ([TCD] Ena-suki) [Beyond Escape Velocity  4K Insane].mc` |
+| 3709 | Ludicrous Speed | F-777 | Incredible Relativistic Effect // 4K Expert | 166.0 | 1800 | 171.9 | osu_mirror/community | `osu_mirror\2540267\F-777 - Ludicrous Speed ([TCD] Ena-suki) [Incredible Relativistic Effect  4K Expert].mc` |
+| 3710 | lulu. (TV Size) | Mrs. GREEN APPLE | easy | 175.0 | 214 | 86.6 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [easy].mc` |
+| 3711 | lulu. (TV Size) | Mrs. GREEN APPLE | everlasting | 175.0 | 477 | 75.3 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [everlasting].mc` |
+| 3712 | lulu. (TV Size) | Mrs. GREEN APPLE | sava's hard | 175.0 | 594 | 86.4 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [Sava's Hard].mc` |
+| 3713 | lulu. (TV Size) | Mrs. GREEN APPLE | sava's normal | 175.0 | 421 | 87.6 | osu_mirror/community | `osu_mirror\2498083\Mrs. GREEN APPLE - lulu. (TV Size) (Kibitz) [Sava's Normal].mc` |
+| 3714 | LUV U NEED U | Slushii | EASY | 147.0 | 309 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [EASY].mc` |
+| 3715 | LUV U NEED U | Slushii | HARD | 147.0 | 776 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [HARD].mc` |
+| 3716 | LUV U NEED U | Slushii | I CAN'T LOSE U IN THIS RAIN | 147.0 | 714 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [I CAN'T LOSE U IN THIS RAIN].mc` |
+| 3717 | LUV U NEED U | Slushii | NORMAL | 147.0 | 617 | 143.5 | osu_mirror/community | `osu_mirror\2544540\Slushii - LUV U NEED U (Scisso) [NORMAL].mc` |
+| 3718 | Luv*Lab*Poison 22ate! | t+pazolite | Poo Po Po | 114.0 | 4363 | 229.7 | osu_mirror/community | `osu_mirror\2608197\t+pazolite - LuvLabPoison 22ate! (Furryswan) [Poo Po Po].mc` |
+| 3719 | made me more observative | cluli | Expert | 64.0 | 3355 | 194.9 | osu_mirror/community | `osu_mirror\2497157\cluli - made me more observative (TSMCARPALTUNNEL) [Expert].mc` |
+| 3720 | made me more observative | cluli | obSerVable uniVerSe | 64.0 | 2444 | 198.3 | osu_mirror/community | `osu_mirror\2497157\cluli - made me more observative (TSMCARPALTUNNEL) [obSerVable uniVerSe].mc` |
+| 3721 | made me more observative | cluli | all that we know | 128.0 | 2543 | 212.2 | osu_mirror/community | `osu_mirror\2543543\cluli - made me more observative (Alumence) [all that we know].mc` |
+| 3722 | Made Of Fire | Niko | Advanced | 162.0 | 593 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Advanced].mc` |
+| 3723 | Made Of Fire | Niko | Another | 162.0 | 901 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Another].mc` |
+| 3724 | Made Of Fire | Niko | Can't get a comfortable spot for my right hand | 162.0 | 924 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Can't get a comfortable spot for my right hand].mc` |
+| 3725 | Made Of Fire | Niko | Hyper | 162.0 | 790 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Hyper].mc` |
+| 3726 | Made Of Fire | Niko | Moderate | 162.0 | 323 | 76.3 | osu_mirror/community | `osu_mirror\2477633\Niko - Made Of Fire (Utiba) [Moderate].mc` |
+| 3727 | MAdEaR MAdEaR | SLAVE.V-V-R feat. Nikaido Hiro (CV: Shinonome Haru) | BOrInG'S HD // rEbIRTh | 100.0 | 1264 | 213.6 | osu_mirror/community | `osu_mirror\2495866\SLAVE.V-V-R feat. Nikaido Hiro (CV Shinonome Haru) - MAdEaR MAdEaR (LINQAQ) [BOrInG'S HD  rEbIRTh].mc` |
+| 3728 | MAdEaR MAdEaR | SLAVE.V-V-R feat. Nikaido Hiro (CV: Shinonome Haru) | IN // rEvIVAl | 100.0 | 1379 | 213.6 | osu_mirror/community | `osu_mirror\2495866\SLAVE.V-V-R feat. Nikaido Hiro (CV Shinonome Haru) - MAdEaR MAdEaR (LINQAQ) [IN  rEvIVAl].mc` |
+| 3729 | MAGENTA POTION | EmoCosine | Easy | 150.0 | 285 | 138.6 | osu_mirror/community | `osu_mirror\2483415\EmoCosine - MAGENTA POTION (Calcul0us) [Easy].mc` |
+| 3730 | MAGENTA POTION | EmoCosine | Hard | 150.0 | 871 | 140.7 | osu_mirror/community | `osu_mirror\2483415\EmoCosine - MAGENTA POTION (Calcul0us) [Hard].mc` |
+| 3731 | MAGENTA POTION | EmoCosine | Normal | 150.0 | 523 | 140.6 | osu_mirror/community | `osu_mirror\2483415\EmoCosine - MAGENTA POTION (Calcul0us) [Normal].mc` |
+| 3732 | Magic Girl !! | A-One feat. Shihori | Everlasting emotion makes me bright! | 156.0 | 3270 | 239.2 | osu_mirror/community | `osu_mirror\2534821\A-One feat. Shihori - Magic Girl !! (SimpForTakagi) [Everlasting emotion makes me bright!].mc` |
+| 3733 | Magical Girl | Kirara Magic | Magical Insane | 113.0 | 1255 | 169.8 | osu_mirror/community | `osu_mirror\2503211\Kirara Magic - Magical Girl ([SHK]Boring) [Magical Insane].mc` |
+| 3734 | Make It Bun Dem | Skrillex & Damian "Jr Gong" Marley | Give It To Dem | 140.0 | 2103 | 205.7 | osu_mirror/community | `osu_mirror\2501706\Skrillex & Damian Jr Gong Marley - Make It Bun Dem (Concepte) [Give It To Dem].mc` |
+| 3735 | Make It Bun Dem | Skrillex & Damian "Jr Gong" Marley | Hyper | 140.0 | 1934 | 205.7 | osu_mirror/community | `osu_mirror\2501706\Skrillex & Damian Jr Gong Marley - Make It Bun Dem (Concepte) [Hyper].mc` |
+| 3736 | Makkuro na Ame | KINEMA106 | Angel Shigure | 90.0 | 1187 | 255.0 | osu_mirror/community | `osu_mirror\2488009\KINEMA106 - Makkuro na Ame (nai_) [Angel Shigure].mc` |
+| 3737 | Malas Decisiones | Kenia OS | perritos 1.05x (116bpm) | 115.5 | 1518 | 131.7 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.05x (116bpm)].mc` |
+| 3738 | Malas Decisiones | Kenia OS | perritos 1.1x (121bpm) | 121.0 | 1518 | 125.7 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.1x (121bpm)].mc` |
+| 3739 | Malas Decisiones | Kenia OS | perritos 1.2x (132bpm) | 132.0 | 1518 | 115.2 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.2x (132bpm)].mc` |
+| 3740 | Malas Decisiones | Kenia OS | perritos 1.3x (143bpm) | 143.0 | 1518 | 106.4 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.3x (143bpm)].mc` |
+| 3741 | Malas Decisiones | Kenia OS | perritos 1.4x (154bpm) | 154.0 | 1518 | 98.8 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos 1.4x (154bpm)].mc` |
+| 3742 | Malas Decisiones | Kenia OS | perritos | 110.0 | 1518 | 138.3 | osu_mirror/community | `osu_mirror\1955123\Kenia OS - Malas Decisiones (Sakisagee) [perritos].mc` |
+| 3743 | Mare Aeterna | kuro | Pelagic Apotheosis | 150.0 | 3726 | 351.0 | osu_mirror/community | `osu_mirror\2596710\kuro - Mare Aeterna (OxalicAcid) [Pelagic Apotheosis].mc` |
+| 3744 | MARENOL | LeaF | †orture,~ | 140.0 | 925 | 138.9 | osu_mirror/community | `osu_mirror\1183657\LeaF - MARENOL (eZmmR) [ü⌡orture,~].mc` |
+| 3745 | Marine Blue Magic <3 | Vivlos (CV: Itou Ayasa) | DH's Insane | 172.0 | 858 | 207.0 | osu_mirror/community | `osu_mirror\2432285\Vivlos (CV Itou Ayasa) - Marine Blue Magic 3 (Mochineko) [DH's Insane].mc` |
+| 3746 | Marine Blue Magic <3 | Vivlos (CV: Itou Ayasa) | Nabi's Another | 172.0 | 965 | 206.9 | osu_mirror/community | `osu_mirror\2432285\Vivlos (CV Itou Ayasa) - Marine Blue Magic 3 (Mochineko) [Nabi's Another].mc` |
+| 3747 | Marine Blue Magic <3 | Vivlos (CV: Itou Ayasa) | Voyage Etincelant | 172.0 | 1214 | 207.2 | osu_mirror/community | `osu_mirror\2432285\Vivlos (CV Itou Ayasa) - Marine Blue Magic 3 (Mochineko) [Voyage Etincelant].mc` |
+| 3748 | Marisa wa Taihen na Mono o Nusunde Ikimashita | IOSYS | Marisa Stole My Precious Accuracy | 170.0 | 1619 | 225.9 | osu_mirror/community | `osu_mirror\2270637\IOSYS - Marisa wa Taihen na Mono o Nusunde Ikimashita (DraterTD) [Marisa Stole my Precious Accuracy].mc` |
+| 3749 | Mas?uerade Rhapsody Re?uest | Ave Mujica | Hard | 190.0 | 2527 | 233.7 | osu_mirror/community | `osu_mirror\2321063\Ave Mujica - Masuerade Rhapsody Reuest (Murasame) [Hard].mc` |
+| 3750 | Mas?uerade Rhapsody Re?uest | Ave Mujica | Insane | 190.0 | 3123 | 233.6 | osu_mirror/community | `osu_mirror\2321063\Ave Mujica - Masuerade Rhapsody Reuest (Murasame) [Insane].mc` |
+| 3751 | Mas?uerade Rhapsody Re?uest | Ave Mujica | Masquerade | 190.0 | 3475 | 233.6 | osu_mirror/community | `osu_mirror\2321063\Ave Mujica - Masuerade Rhapsody Reuest (Murasame) [Masquerade].mc` |
+| 3752 | Masks and Avatars | Akts | Fracture | 220.0 | 2429 | 184.4 | osu_mirror/community | `osu_mirror\2479291\Akts - Masks and Avatars (Sayaku) [Fracture].mc` |
+| 3753 | Masshiro na Yuki | Halozy | Shirogane Higan | 170.0 | 3047 | 327.2 | osu_mirror/community | `osu_mirror\2586507\Halozy - Masshiro na Yuki (aminos111) [Shirogane Higan].mc` |
+| 3754 | Mawaru Sora Usagi (feat. Hatsune Miku) | Orangestar | Towards the Distant Moon // Hard | 105.0 | 317 | 167.7 | osu_mirror/community | `osu_mirror\2543662\Orangestar - Mawaru Sora Usagi (feat. Hatsune Miku) ([TCD] Ena-suki) [Towards the Distant Moon  Hard].mc` |
+| 3755 | Mayday | Tsukuyomi | Collab Normal | 172.0 | 1167 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [Collab Normal].mc` |
+| 3756 | Mayday | Tsukuyomi | Despair | 172.0 | 1968 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [Despair].mc` |
+| 3757 | Mayday | Tsukuyomi | mirac1e's Hard | 172.0 | 1734 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [mirac1e's Hard].mc` |
+| 3758 | Mayday | Tsukuyomi | MiuOtter's Easy | 172.0 | 448 | 196.6 | osu_mirror/community | `osu_mirror\2527391\Tsukuyomi - Mayday (Dereck101026) [MiuOtter's Easy].mc` |
+| 3759 | Mebuku Toki | yonige | It's not like I'm looking for the "right answer" anymore | 150.0 | 518 | 210.9 | osu_mirror/community | `osu_mirror\2543656\yonige - Mebuku Toki (Alicia) [It's not like I'm looking for the right answer anymore].mc` |
+| 3760 | Mebuku Toki (TV Size) | yonige | Easy | 150.0 | 230 | 86.2 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Easy].mc` |
+| 3761 | Mebuku Toki (TV Size) | yonige | Extra | 150.0 | 399 | 85.9 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Extra].mc` |
+| 3762 | Mebuku Toki (TV Size) | yonige | Hard | 150.0 | 482 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Hard].mc` |
+| 3763 | Mebuku Toki (TV Size) | yonige | Insane | 150.0 | 521 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Insane].mc` |
+| 3764 | Mebuku Toki (TV Size) | yonige | Normal | 150.0 | 352 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Normal].mc` |
+| 3765 | Mebuku Toki (TV Size) | yonige | Sakenomi | 150.0 | 321 | 86.0 | osu_mirror/community | `osu_mirror\2538892\yonige - Mebuku Toki (TV Size) (eZmmR) [Sakenomi].mc` |
+| 3766 | MEGALOVANIA (Camellia Remix) | toby fox | REVERSE | 242.0 | 2583 | 350.9 | osu_mirror/community | `osu_mirror\1037578\Toby Fox - MEGALOVANIA (Camellia Remix) (Ppass) [REVERSE].mc` |
+| 3767 | Meltdown | iroha(sasaki) | Meltdown | 165.0 | 2415 | 313.1 | osu_mirror/community | `osu_mirror\2527334\iroha(sasaki) - Meltdown (LINQAQ) [Meltdown].mc` |
+| 3768 | MEOWWW | Akiri | Hard | 128.0 | 252 | 74.8 | osu_mirror/community | `osu_mirror\2523537\Akiri - MEOWWW (DraterTD) [Hard].mc` |
+| 3769 | MEOWWW | Akiri | Normal | 128.0 | 230 | 74.8 | osu_mirror/community | `osu_mirror\2523537\Akiri - MEOWWW (DraterTD) [Normal].mc` |
+| 3770 | Merry's Last World | tokyo babel | It's not the last, but the reconstructed world. | 82.0 | 1452 | 228.4 | osu_mirror/community | `osu_mirror\2548471\tokyo babel - Merry's Last World (Carpihat) [It's not the last, but the reconstructed world.].mc` |
+| 3771 | Metal vs Dugem | Project Pop | Leng geleng geleng geleng geleng geleng geleng | 85.7 | 3310 | 195.9 | osu_mirror/community | `osu_mirror\2482204\Project Pop - Metal vs Dugem (P45ta) [Leng geleng geleng geleng geleng geleng geleng].mc` |
+| 3772 | Metamodernity | Vansire | Hard | 122.0 | 498 | 159.3 | osu_mirror/community | `osu_mirror\2526405\Vansire - Metamodernity (kooo) [Hard].mc` |
+| 3773 | Metamodernity | Vansire | Yearning | 122.0 | 567 | 159.3 | osu_mirror/community | `osu_mirror\2526405\Vansire - Metamodernity (kooo) [Yearning].mc` |
+| 3774 | Metamorphism | cygnus | 4K - Another | 160.0 | 1470 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Another].mc` |
+| 3775 | Metamorphism | cygnus | 4K - Beginner | 160.0 | 193 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Beginner].mc` |
+| 3776 | Metamorphism | cygnus | 4K - Easy | 160.0 | 374 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Easy].mc` |
+| 3777 | Metamorphism | cygnus | 4K - Hard | 160.0 | 975 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Hard].mc` |
+| 3778 | Metamorphism | cygnus | 4K - Insane | 160.0 | 1270 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Insane].mc` |
+| 3779 | Metamorphism | cygnus | 4K - Normal | 160.0 | 598 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Normal].mc` |
+| 3780 | Metamorphism | cygnus | 4K - Transformation | 160.0 | 1797 | 108.0 | osu_mirror/community | `osu_mirror\2407955\cygnus - Metamorphism (Pyra-san) [4K - Transformation].mc` |
+| 3781 | Meteora | Imy | Beginner | 132.0 | 486 | 220.3 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Beginner].mc` |
+| 3782 | Meteora | Imy | Easy | 132.0 | 833 | 220.3 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Easy].mc` |
+| 3783 | Meteora | Imy | Fall | 132.0 | 2507 | 217.6 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Fall].mc` |
+| 3784 | Meteora | Imy | Hard | 132.0 | 1457 | 217.5 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Hard].mc` |
+| 3785 | Meteora | Imy | Hyper | 132.0 | 1778 | 217.5 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Hyper].mc` |
+| 3786 | Meteora | Imy | Insane | 132.0 | 2213 | 217.5 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Insane].mc` |
+| 3787 | Meteora | Imy | Normal | 132.0 | 1099 | 220.3 | osu_mirror/community | `osu_mirror\2296917\Imy - Meteora (Pyra-san) [Normal].mc` |
+| 3788 | Mice on Venus | C418 | This is where all begins and everything ends | 31.65 | 379 | 206.7 | osu_mirror/community | `osu_mirror\2490848\C418 - Mice on Venus (Slyme) [This is where all begins and everything ends].mc` |
+| 3789 | Midnight grow feat. mami | Mameyudoufu | caracol's Insane | 150.0 | 2180 | 192.0 | osu_mirror/community | `osu_mirror\2300542\Mameyudoufu - Midnight grow feat. mami (-MysticEyes) [caracol's Insane].mc` |
+| 3790 | Midnight grow feat. mami | Mameyudoufu | Constellation | 150.0 | 2643 | 192.0 | osu_mirror/community | `osu_mirror\2300542\Mameyudoufu - Midnight grow feat. mami (-MysticEyes) [Constellation].mc` |
+| 3791 | Milk Iro no Touge | Chirinuruwowaka | Logix Ficsario / Escha Malier | 216.5 | 1574 | 224.1 | osu_mirror/community | `osu_mirror\2526869\Chirinuruwowaka - Milk Iro no Touge (eZmmR) [Logix Ficsario  Escha Malier].mc` |
+| 3792 | Minesweeper / Sekai | Shaito | Expert | 200.0 | 2433 | 154.5 | osu_mirror/community | `osu_mirror\2518613\Shaito - Minesweeper  Sekai (Tamania) [Expert].mc` |
+| 3793 | Minesweeper / Sekai | Shaito | Hyper | 200.0 | 1442 | 154.5 | osu_mirror/community | `osu_mirror\2518613\Shaito - Minesweeper  Sekai (Tamania) [Hyper].mc` |
+| 3794 | Minesweeper / Sekai | Shaito | Insane | 200.0 | 1849 | 154.5 | osu_mirror/community | `osu_mirror\2518613\Shaito - Minesweeper  Sekai (Tamania) [Insane].mc` |
+| 3795 | Mirai Reflect | MIMI | Emotion | 175.0 | 1784 | 209.7 | osu_mirror/community | `osu_mirror\2461806\MIMI - Mirai Reflect ([SPD]Bac Ki v2) [Emotion].mc` |
+| 3796 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Easy | 188.0 | 272 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Easy].mc` |
+| 3797 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Gsun's Insane | 188.0 | 551 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Gsun's Insane].mc` |
+| 3798 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Hard | 188.0 | 700 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Hard].mc` |
+| 3799 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Muses' Hyper | 188.0 | 531 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Muses' Hyper].mc` |
+| 3800 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Normal | 188.0 | 514 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Normal].mc` |
+| 3801 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | Sweetie | 188.0 | 418 | 86.8 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [Sweetie].mc` |
+| 3802 | Mirairo Rider (Japanese Ver.) (Game Ver.) | Metal Scar Radio | winter's Expert | 188.0 | 481 | 86.6 | osu_mirror/community | `osu_mirror\2600298\Metal Scar Radio - Mirairo Rider (Japanese Ver.) (Game Ver.) (AelSan) [winter's Expert].mc` |
+| 3803 | Misty Memory (Night Ver.) | Monster Siren Records | Sunny Day | 115.0 | 2255 | 227.5 | osu_mirror/community | `osu_mirror\2525513\Monster Siren Records - Misty Memory (Night Ver.) (AelSan) [Sunny Day].mc` |
+| 3804 | Mizutamari Tobikoete (with Nanahira) | *namirin | Beginner | 194.0 | 577 | 257.0 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Beginner].mc` |
+| 3805 | Mizutamari Tobikoete (with Nanahira) | *namirin | Easy | 194.0 | 834 | 256.5 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Easy].mc` |
+| 3806 | Mizutamari Tobikoete (with Nanahira) | *namirin | Hard | 194.0 | 1515 | 256.9 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Hard].mc` |
+| 3807 | Mizutamari Tobikoete (with Nanahira) | *namirin | Normal | 194.0 | 1533 | 257.0 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Normal].mc` |
+| 3808 | Mizutamari Tobikoete (with Nanahira) | *namirin | Puddle | 194.0 | 1591 | 256.9 | osu_mirror/community | `osu_mirror\2539147\namirin - Mizutamari Tobikoete (with Nanahira) (Pyra-san) [Puddle].mc` |
+| 3809 | Mmmmmmm | DJ Sharpnel | Fffffff | 192.9 | 4160 | 260.0 | osu_mirror/community | `osu_mirror\2428964\DJ Sharpnel - Mmmmmmm (Znow) [Fffffff].mc` |
+| 3810 | Moneko | Geoxor | Easy | 150.0 | 306 | 165.4 | osu_mirror/community | `osu_mirror\2469874\Geoxor - Moneko (Initial D) [Easy].mc` |
+| 3811 | Moneko | Geoxor | Hard | 150.0 | 631 | 165.4 | osu_mirror/community | `osu_mirror\2469874\Geoxor - Moneko (Initial D) [Hard].mc` |
+| 3812 | Moneko | Geoxor | Koneko | 150.0 | 830 | 165.4 | osu_mirror/community | `osu_mirror\2469874\Geoxor - Moneko (Initial D) [Koneko].mc` |
+| 3813 | Moneko | Geoxor | Normal | 150.0 | 502 | 166.4 | osu_mirror/community | `osu_mirror\2469874\Geoxor - Moneko (Initial D) [Normal].mc` |
+| 3814 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Flutter | 175.0 | 1136 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Flutter].mc` |
+| 3815 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Insane | 175.0 | 996 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Insane].mc` |
+| 3816 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Normal | 175.0 | 563 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Normal].mc` |
+| 3817 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Sava's Easy | 175.0 | 365 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Sava's Easy].mc` |
+| 3818 | Monochrome Butterfly (Cut Ver.) | Aitsuki Nakuru | Sava's Hard | 175.0 | 812 | 83.8 | osu_mirror/community | `osu_mirror\2092603\Aitsuki Nakuru - Monochrome Butterfly (Cut Ver.) (Kibitz) [Sava's Hard].mc` |
+| 3819 | MONTAGEM COMA | ANDROMEDA/Elysian | X | 120.0 | 899 | 69.0 | osu_mirror/community | `osu_mirror\2430762\ANDROMEDAElysian - MONTAGEM COMA (keksikosu) [X].mc` |
+| 3820 | Montagem Supersonic (Slowed + Reverb Ver.) | KHAOS, Jmilton | * | 113.35 | 1339 | 101.6 | osu_mirror/community | `osu_mirror\2425829\KHAOS, Jmilton - Montagem Supersonic (Slowed + Reverb Ver.) (keksikosu) [].mc` |
+| 3821 | Montagem Supersonic (Slowed + Reverb Ver.) | KHAOS, Jmilton | Hard | 113.35 | 709 | 101.6 | osu_mirror/community | `osu_mirror\2425829\KHAOS, Jmilton - Montagem Supersonic (Slowed + Reverb Ver.) (keksikosu) [Hard].mc` |
+| 3822 | Montagem Supersonic (Slowed + Reverb Ver.) | KHAOS, Jmilton | Hyper | 113.35 | 941 | 101.6 | osu_mirror/community | `osu_mirror\2425829\KHAOS, Jmilton - Montagem Supersonic (Slowed + Reverb Ver.) (keksikosu) [Hyper].mc` |
+| 3823 | Montagem Supersonic (Slowed + Reverb Ver.) | KHAOS, Jmilton | Insane | 113.35 | 1090 | 101.6 | osu_mirror/community | `osu_mirror\2425829\KHAOS, Jmilton - Montagem Supersonic (Slowed + Reverb Ver.) (keksikosu) [Insane].mc` |
+| 3824 | Montagem Supersonic (Slowed + Reverb Ver.) | KHAOS, Jmilton | Normal | 113.35 | 473 | 101.6 | osu_mirror/community | `osu_mirror\2425829\KHAOS, Jmilton - Montagem Supersonic (Slowed + Reverb Ver.) (keksikosu) [Normal].mc` |
+| 3825 | Moonshot (TV Size) | Hoshimachi Suisei | Azukkii's Normal | 185.0 | 451 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV size) (-Zell) [Azukkii's Normal].mc` |
+| 3826 | Moonshot (TV Size) | Hoshimachi Suisei | Easy | 185.0 | 248 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV Size) (-Zell) [Easy].mc` |
+| 3827 | Moonshot (TV Size) | Hoshimachi Suisei | Hard | 185.0 | 712 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV Size) (-Zell) [Hard].mc` |
+| 3828 | Moonshot (TV Size) | Hoshimachi Suisei | Tune In to the Midnight | 185.0 | 896 | 88.1 | osu_mirror/community | `osu_mirror\2511666\Hoshimachi Suisei - Moonshot (TV size) (-Zell) [Tune In To The Midnight].mc` |
+| 3829 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | Alu's Normal | 120.0 | 195 | 73.0 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [Alu's Normal].mc` |
+| 3830 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | Alu's Serenity | 120.0 | 202 | 73.2 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [Alu's Serenity].mc` |
+| 3831 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | LeCrazy's Easy | 120.0 | 66 | 72.5 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [LeCrazy's Easy].mc` |
+| 3832 | Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami | Rin | LeCrazy's Intermediate | 120.0 | 178 | 73.5 | osu_mirror/community | `osu_mirror\2598664\Rin - Moriya set 00 ReEdit ~ Fuuin Sareshi Kamigami (Take) [LeCrazy's Intermediate].mc` |
+| 3833 | Motto Memory | Remo (CV: Hanamori Yumiri) | Kono sekai o mamoru | 138.0 | 1412 | 231.3 | osu_mirror/community | `osu_mirror\1960391\Remo (CV Hanamori Yumiri) - Motto Memory (cdwcgt) [Kono sekai o mamoru].mc` |
+| 3834 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Advanced | 110.0 | 535 | 135.0 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Advanced].mc` |
+| 3835 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Delusional Disorder | 110.0 | 460 | 136.2 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Delusional Disorder].mc` |
+| 3836 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Hard | 110.0 | 675 | 136.2 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Hard].mc` |
+| 3837 | Mousou Kanshou Daishou Renmei (Game Ver.) | 25-ji, Nightcord de. x Hatsune Miku | Normal | 110.0 | 340 | 133.9 | osu_mirror/community | `osu_mirror\2225613\25-ji, Nightcord de. x Hatsune Miku - Mousou Kanshou Daishou Renmei (Game Ver.) (AiN0) [Normal].mc` |
+| 3838 | Mukashi e Okuru Kotoba (feat. Miyamai Moca) | kaede | Kazemachi no Nagai Yoru, Dear. | 87.0 | 1070 | 252.8 | osu_mirror/community | `osu_mirror\2572295\kaede - Mukashi e Okuru Kotoba (feat. Miyamai Moca) (Yelina) [Kazemachi no Nagai Yoru, Dear.].mc` |
+| 3839 | Multo | Cup of Joe | Azukkii's Hard | 104.0 | 573 | 225.9 | osu_mirror/community | `osu_mirror\2442103\Cup of Joe - Multo (Seitora) [Azukkii's Hard].mc` |
+| 3840 | Multo | Cup of Joe | Haplos ng Alaala | 104.0 | 837 | 225.6 | osu_mirror/community | `osu_mirror\2442103\Cup of Joe - Multo (Seitora) [Haplos ng Alaala].mc` |
+| 3841 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.05] | 126.0 | 2481 | 121.9 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.05]].mc` |
+| 3842 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.15] | 138.0 | 2481 | 111.3 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.15]].mc` |
+| 3843 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.1] | 132.0 | 2481 | 116.4 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.1]].mc` |
+| 3844 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.25] | 150.0 | 2481 | 102.4 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.25]].mc` |
+| 3845 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.2] | 144.0 | 2481 | 106.7 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.2]].mc` |
+| 3846 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.35] | 162.0 | 2481 | 94.8 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.35]].mc` |
+| 3847 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.3] | 156.0 | 2481 | 98.5 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.3]].mc` |
+| 3848 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.45] | 174.0 | 2481 | 88.3 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.45]].mc` |
+| 3849 | MURDER IN MY MIND | KORDHELL | HOMICIDE [1.4] | 168.0 | 2481 | 91.4 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE [1.4]].mc` |
+| 3850 | MURDER IN MY MIND | KORDHELL | HOMICIDE | 120.0 | 2481 | 128.0 | osu_mirror/community | `osu_mirror\1867638\KORDHELL - MURDER IN MY MIND (Smokydoh) [HOMICIDE].mc` |
+| 3851 | My Feelings | Dan Salvato | Mahiru's 4K Intermediate | 72.0 | 28 | 52.6 | osu_mirror/community | `osu_mirror\2570112\Dan Salvato - My Feelings (Azukkii) [Mahiru's 4K Intermediate].mc` |
+| 3852 | My Feelings | Dan Salvato | Zell's 4K Beginner | 72.0 | 31 | 49.6 | osu_mirror/community | `osu_mirror\2570112\Dan Salvato - My Feelings (Azukkii) [Zell's 4K Beginner].mc` |
+| 3853 | My Girlfriend is a Raver | S3RL x LIDA | Insane | 175.0 | 1761 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [Insane].mc` |
+| 3854 | My Girlfriend is a Raver | S3RL x LIDA | keksikosu's Easy | 175.0 | 473 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [keksikosu's Easy].mc` |
+| 3855 | My Girlfriend is a Raver | S3RL x LIDA | Menphiss' Hard | 175.0 | 1369 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [Menphiss' Hard].mc` |
+| 3856 | My Girlfriend is a Raver | S3RL x LIDA | NikoSek's Expert | 175.0 | 2033 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [NikoSek's Expert].mc` |
+| 3857 | My Girlfriend is a Raver | S3RL x LIDA | Normal | 175.0 | 958 | 186.5 | osu_mirror/community | `osu_mirror\2443377\S3RL x LIDA - My Girlfriend is a Raver (-Enma-) [Normal].mc` |
+| 3858 | Naglfar no Senjou nite | monet | . | 106.0 | 1703 | 280.9 | osu_mirror/community | `osu_mirror\2494314\monet - Naglfar no Senjou nite (eZmmR) [.].mc` |
+| 3859 | Namae no Nai Kaibutsu (Game Ver.) | Nekoashi Tsubomi (CV: Serizawa Yu) | Fapu's Hard | 180.0 | 595 | 134.0 | osu_mirror/community | `osu_mirror\2529073\Nekoashi Tsubomi (CV Serizawa Yu) - Namae No Nai Kaibutsu (Game Ver.) (nai_) [Fapu's Hard].mc` |
+| 3860 | Namae no Nai Kaibutsu (Game Ver.) | Nekoashi Tsubomi (CV: Serizawa Yu) | LINQAQ's Normal | 180.0 | 532 | 134.0 | osu_mirror/community | `osu_mirror\2529073\Nekoashi Tsubomi (CV Serizawa Yu) - Namae No Nai Kaibutsu (Game Ver.) (nai_) [LINQAQ's Normal].mc` |
+| 3861 | Namae no Nai Kaibutsu (Game Ver.) | Nekoashi Tsubomi (CV: Serizawa Yu) | Nai Monster | 180.0 | 672 | 133.1 | osu_mirror/community | `osu_mirror\2529073\Nekoashi Tsubomi (CV Serizawa Yu) - Namae No Nai Kaibutsu (Game Ver.) (nai_) [Nai Monster].mc` |
+| 3862 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | CCC's Easy | 97.37 | 149 | 97.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [CCC's Easy].mc` |
+| 3863 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | chy's Hyper | 97.37 | 216 | 97.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [chy's Hyper].mc` |
+| 3864 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | G1NYA's Hard | 97.37 | 230 | 97.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [G1NYA's Hard].mc` |
+| 3865 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | Hard | 97.37 | 238 | 96.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [Hard].mc` |
+| 3866 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | Miku's Normal | 97.37 | 286 | 97.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [Miku's Normal].mc` |
+| 3867 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | Nyamushi's Normal | 97.37 | 190 | 96.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [Nyamushi's Normal].mc` |
+| 3868 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | oid45's hyper | 97.37 | 352 | 97.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [oid45's hyper].mc` |
+| 3869 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | QwertYui345's Insane | 97.37 | 854 | 97.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [QwertYui345's Insane].mc` |
+| 3870 | Nan Wang Jin Xiao (Cut Ver.) | Li Gu Yi | Xnline's Advanced | 97.37 | 241 | 97.4 | osu_mirror/community | `osu_mirror\2477403\Li Gu Yi - Nan Wang Jin Xiao (Cut Ver.) (AelSan) [Xnline's Advanced].mc` |
+| 3871 | Nani mo Nai Youna | MIMI | Story | 119.0 | 984 | 193.2 | osu_mirror/community | `osu_mirror\2523383\MIMI - Nani mo nai Youna (NineSey) [Story].mc` |
+| 3872 | Narwhal | Haloweak | Retribution (Buffed) 1.05x (145bpm) | 144.9 | 2633 | 123.4 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.05x (145bpm)].mc` |
+| 3873 | Narwhal | Haloweak | Retribution (Buffed) 1.15x (159bpm) | 158.7 | 2633 | 112.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.15x (159bpm)].mc` |
+| 3874 | Narwhal | Haloweak | Retribution (Buffed) 1.1x (152bpm) | 151.8 | 2633 | 117.8 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.1x (152bpm)].mc` |
+| 3875 | Narwhal | Haloweak | Retribution (Buffed) 1.25x (172bpm) | 172.5 | 2633 | 103.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.25x (172bpm)].mc` |
+| 3876 | Narwhal | Haloweak | Retribution (Buffed) 1.2x (166bpm) | 165.6 | 2633 | 108.0 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.2x (166bpm)].mc` |
+| 3877 | Narwhal | Haloweak | Retribution (Buffed) 1.3x (179bpm) | 179.4 | 2633 | 99.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed) 1.3x (179bpm)].mc` |
+| 3878 | Narwhal | Haloweak | Retribution (Buffed) | 138.0 | 2633 | 129.6 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution (Buffed)].mc` |
+| 3879 | Narwhal | Haloweak | Retribution 1.1x (152bpm) | 151.8 | 2170 | 117.8 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution 1.1x (152bpm)].mc` |
+| 3880 | Narwhal | Haloweak | Retribution 1.2x (166bpm) | 165.6 | 2170 | 108.0 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution 1.2x (166bpm)].mc` |
+| 3881 | Narwhal | Haloweak | Retribution 1.3x (179bpm) | 179.4 | 2170 | 99.7 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution 1.3x (179bpm)].mc` |
+| 3882 | Narwhal | Haloweak | Retribution | 138.0 | 2170 | 129.6 | osu_mirror/community | `osu_mirror\1577462\Haloweak - NARWHAL ([Crz]sel) [Retribution].mc` |
+| 3883 | Nastrond | Helblinde | Akuma | 190.0 | 3401 | 301.9 | osu_mirror/community | `osu_mirror\2524635\Helblinde - Nastrond (Antipole) [Akuma].mc` |
+| 3884 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Ainer's Hard | 166.0 | 746 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Ainer's Hard].mc` |
+| 3885 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Cure Arcana Shadow | 166.0 | 752 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Cure Arcana Shadow].mc` |
+| 3886 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Nabi's Insane | 166.0 | 759 | 87.3 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Nabi's Insane].mc` |
+| 3887 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | Syr's Normal | 166.0 | 623 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [Syr's Normal].mc` |
+| 3888 | Naze? Nazo?! ANSWER (TV Size) | Kumada Akane & Masui Yuuka | upan's Easy | 166.0 | 322 | 87.5 | osu_mirror/community | `osu_mirror\2555699\Kumada Akane & Masui Yuuka - Naze Nazo! ANSWER (TV Size) (eZmmR) [upan's Easy].mc` |
+| 3889 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Advanced Neko | 205.0 | 350 | 95.0 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Advanced Neko].mc` |
+| 3890 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Easy Neko | 205.0 | 200 | 95.9 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Easy Neko].mc` |
+| 3891 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Llee's Hard Neko | 205.0 | 591 | 95.8 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Llee's Hard Neko].mc` |
+| 3892 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Normal Neko | 205.0 | 120 | 95.6 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Normal Neko].mc` |
+| 3893 | NekoTeto feat. Kasane Teto SV | d0tc0mmie | Nyanyannyanyan | 205.0 | 762 | 94.9 | osu_mirror/community | `osu_mirror\2567179\d0tc0mmie - NekoTeto feat. Kasane Teto SV (RhythmHomura) [Nyanyannyanyan].mc` |
+| 3894 | Nemesis | MUZZ | [WARM-UP] VS. AKASHA | 150.0 | 1500 | 252.0 | osu_mirror/community | `osu_mirror\2567618\MUZZ - Nemesis (Akasha-) [[WARM-UP] VS. AKASHA].mc` |
+| 3895 | Nemesis | MUZZ | [WARNING!!] VS. AHHHHHHHHHHHHHH | 150.0 | 1831 | 252.3 | osu_mirror/community | `osu_mirror\2567618\MUZZ - Nemesis (Akasha-) [[WARNING!!] VS. AHHHHHHHHHHHHHH].mc` |
+| 3896 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Easy | 113.34 | 245 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Easy].mc` |
+| 3897 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Flade's Normal | 113.34 | 389 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Flade's Normal].mc` |
+| 3898 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Hard | 113.34 | 543 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Hard].mc` |
+| 3899 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Hyper | 113.34 | 652 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Hyper].mc` |
+| 3900 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Insane | 113.34 | 727 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Insane].mc` |
+| 3901 | Never Gonna Give You Up (Cut Ver.) | Rick Astley | Never Gonna Play Mania | 113.34 | 884 | 63.8 | osu_mirror/community | `osu_mirror\2271479\Rick Astley - Never Gonna Give You Up (Cut Ver.) (keksikosu) [Never Gonna Play Mania].mc` |
+| 3902 | Never Have I Felt This (VIP) | Koven | /TIDAL WAVE/ | 174.0 | 1125 | 186.2 | osu_mirror/community | `osu_mirror\2346523\Koven - Never Have I Felt This (VIP) ([-Exlypse-]) [TIDAL WAVE].mc` |
+| 3903 | Never Rezort | uynet | AelSan's Angel | 162.0 | 1483 | 195.6 | osu_mirror/community | `osu_mirror\2214270\uynet - Never Rezort (Garden) [AelSan's Angel].mc` |
+| 3904 | Never Rezort | uynet | AelSan's Hard | 162.0 | 1269 | 195.6 | osu_mirror/community | `osu_mirror\2214270\uynet - Never Rezort (Garden) [AelSan's Hard].mc` |
+| 3905 | Never Rezort | uynet | AelSan's Insane | 162.0 | 1318 | 195.6 | osu_mirror/community | `osu_mirror\2214270\uynet - Never Rezort (Garden) [AelSan's Insane].mc` |
+| 3906 | Newspapers for Magicians | Camellia | Magics for the Witches | 150.0 | 2688 | 279.7 | osu_mirror/community | `osu_mirror\2498647\Camellia - Newspapers for Magicians (Nicknem_) [Magics for the Witches].mc` |
+| 3907 | Night Sky Solitude | XenjeS | Advanced | 160.0 | 1104 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Advanced].mc` |
+| 3908 | Night Sky Solitude | XenjeS | Another | 160.0 | 2276 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Another].mc` |
+| 3909 | Night Sky Solitude | XenjeS | Easy | 160.0 | 521 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Easy].mc` |
+| 3910 | Night Sky Solitude | XenjeS | Hyper | 160.0 | 1681 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [Hyper].mc` |
+| 3911 | Night Sky Solitude | XenjeS | S k y y - | 160.0 | 2582 | 156.0 | osu_mirror/community | `osu_mirror\2468221\XenjeS - Night Sky Solitude (Lleethenoob) [S k y y -].mc` |
+| 3912 | NIGHTMARE INVITATION | EBIMAYO | EASY | 195.0 | 536 | 134.5 | osu_mirror/community | `osu_mirror\2452954\EBIMAYO - NIGHTMARE INVITATION (Lleethenoob) [EASY].mc` |
+| 3913 | NIGHTMARE INVITATION | EBIMAYO | EUI HARD | 195.0 | 1349 | 134.5 | osu_mirror/community | `osu_mirror\2452954\EBIMAYO - NIGHTMARE INVITATION (Lleethenoob) [EUI HARD].mc` |
+| 3914 | NIGHTMARE INVITATION | EBIMAYO | EXTRA | 195.0 | 2172 | 134.5 | osu_mirror/community | `osu_mirror\2452954\EBIMAYO - NIGHTMARE INVITATION (Lleethenoob) [EXTRA].mc` |
+| 3915 | NIGHTMARE INVITATION | EBIMAYO | HYPER | 195.0 | 1420 | 134.5 | osu_mirror/community | `osu_mirror\2452954\EBIMAYO - NIGHTMARE INVITATION (Lleethenoob) [HYPER].mc` |
+| 3916 | NIGHTMARE INVITATION | EBIMAYO | INSANE | 195.0 | 1819 | 134.5 | osu_mirror/community | `osu_mirror\2452954\EBIMAYO - NIGHTMARE INVITATION (Lleethenoob) [INSANE].mc` |
+| 3917 | NIGHTMARE INVITATION | EBIMAYO | S K Y Y - ADVANCED | 195.0 | 1088 | 134.5 | osu_mirror/community | `osu_mirror\2452954\EBIMAYO - NIGHTMARE INVITATION (Lleethenoob) [S K Y Y - ADVANCED].mc` |
+| 3918 | NIGHTMARE INVITATION | EBIMAYO | S K Y Y - NORMAL | 195.0 | 582 | 134.5 | osu_mirror/community | `osu_mirror\2452954\EBIMAYO - NIGHTMARE INVITATION (Lleethenoob) [S K Y Y - NORMAL].mc` |
+| 3919 | Nivem City | 0 K | nivemolicular | 90.0 | 39 | 83.3 | osu_mirror/community | `osu_mirror\2614227\0 K - Nivem City (4blits) [nivemolicular].mc` |
+| 3920 | NO BATIDAO | ZXKAI, slxughter | ADVANCED | 130.0 | 523 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [ADVANCED].mc` |
+| 3921 | NO BATIDAO | ZXKAI, slxughter | AURA 9999 | 130.0 | 1041 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [AURA 9999].mc` |
+| 3922 | NO BATIDAO | ZXKAI, slxughter | EASY | 130.0 | 168 | 88.6 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [EASY].mc` |
+| 3923 | NO BATIDAO | ZXKAI, slxughter | HYPER | 130.0 | 745 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [HYPER].mc` |
+| 3924 | NO BATIDAO | ZXKAI, slxughter | SOLITAIREPRINCE'S NORMAL | 130.0 | 323 | 89.3 | osu_mirror/community | `osu_mirror\2524611\ZXKAI, slxughter - NO BATIDAO (keksikosu) [SOLITAIREPRINCE'S NORMAL].mc` |
+| 3925 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | Amasugi's BASIC | 146.0 | 337 | 146.4 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [Amasugi's BASIC].mc` |
+| 3926 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | LINQAQ's ADVANCED | 146.0 | 644 | 147.5 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [LINQAQ's ADVANCED].mc` |
+| 3927 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | LUNATIC | 146.0 | 569 | 145.6 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [LUNATIC].mc` |
+| 3928 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | MASTER | 146.0 | 706 | 146.9 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [MASTER].mc` |
+| 3929 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | mirac1e's EXPERT | 146.0 | 771 | 148.4 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [mirac1e's EXPERT].mc` |
+| 3930 | No Limit RED Force (Game Ver.) | ONGEKI SHOOTERS | Spark the Flame of Hope from Illusion | 146.0 | 524 | 144.5 | osu_mirror/community | `osu_mirror\2543258\ONGEKI SHOOTERS - No Limit RED Force (Game Ver.) ([TCD] Dzar03) [Spark the Flame of Hope from Illusion].mc` |
+| 3931 | NO ONE YES MAN | MYUKKE. | NO ONE YES EASY | 170.0 | 242 | 118.6 | osu_mirror/community | `osu_mirror\2513755\MYUKKE. - NO ONE YES MAN (Calcul0us) [NO ONE YES EASY].mc` |
+| 3932 | NO ONE YES MAN | MYUKKE. | NO ONE YES NORMAL | 170.0 | 527 | 119.6 | osu_mirror/community | `osu_mirror\2513755\MYUKKE. - NO ONE YES MAN (Calcul0us) [NO ONE YES NORMAL].mc` |
+| 3933 | NO ONE YES MAN | MYUKKE. | NO ONE YES PIGEONS | 170.0 | 753 | 119.3 | osu_mirror/community | `osu_mirror\2513755\MYUKKE. - NO ONE YES MAN (Calcul0us) [NO ONE YES PIGEONS].mc` |
+| 3934 | Non-Scenario Etude (TV Size) | Amamiya Sora | Easy | 154.0 | 212 | 86.9 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [Easy].mc` |
+| 3935 | Non-Scenario Etude (TV Size) | Amamiya Sora | Ferdi's Insane | 154.0 | 817 | 87.2 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [Ferdi's Insane].mc` |
+| 3936 | Non-Scenario Etude (TV Size) | Amamiya Sora | milku's Hard | 154.0 | 614 | 87.2 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [milku's Hard].mc` |
+| 3937 | Non-Scenario Etude (TV Size) | Amamiya Sora | My True Feelings | 154.0 | 461 | 87.1 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [My True Feelings].mc` |
+| 3938 | Non-Scenario Etude (TV Size) | Amamiya Sora | Normal | 154.0 | 370 | 87.1 | osu_mirror/community | `osu_mirror\2539323\Amamiya Sora - Non-Scenario Etude (TV Size) (Savageeeee) [Normal].mc` |
+| 3939 | nostalgia | shxpe | dragon's fragments // easy | 114.0 | 51 | 85.8 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [dragon's fragments  easy].mc` |
+| 3940 | nostalgia | shxpe | dragon's obsession | 114.0 | 146 | 115.8 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [dragon's obsession].mc` |
+| 3941 | nostalgia | shxpe | reflection // advanced | 114.0 | 147 | 102.6 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [reflection  advanced].mc` |
+| 3942 | nostalgia | shxpe | relapse // hyper | 114.0 | 176 | 103.2 | osu_mirror/community | `osu_mirror\2240934\shxpe - nostalgia (SitekX) [relapse  hyper].mc` |
+| 3943 | Nostalgic Finder (feat. Kotoha) | Imy | / [] \ _") | 154.0 | 1076 | 224.3 | osu_mirror/community | `osu_mirror\2588951\Imy - Nostalgic Finder (feat. Kotoha) (Yelina) [ []  _)].mc` |
+| 3944 | not to pop your bubble... | Lundy | easy... | 210.0 | 330 | 123.4 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [easy...].mc` |
+| 3945 | not to pop your bubble... | Lundy | hard... | 210.0 | 479 | 118.9 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [hard...].mc` |
+| 3946 | not to pop your bubble... | Lundy | insane... | 210.0 | 539 | 120.1 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [insane...].mc` |
+| 3947 | not to pop your bubble... | Lundy | my insecurities... | 210.0 | 864 | 121.9 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [my insecurities...].mc` |
+| 3948 | not to pop your bubble... | Lundy | normal... | 210.0 | 460 | 123.4 | osu_mirror/community | `osu_mirror\2378766\Lundy - not to pop your bubble... (DraterTD) [normal...].mc` |
+| 3949 | Noumiso Rigid Girl | ShinRa-Bansho | Advanced | 181.0 | 1183 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Advanced].mc` |
+| 3950 | Noumiso Rigid Girl | ShinRa-Bansho | Hard | 181.0 | 1420 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Hard].mc` |
+| 3951 | Noumiso Rigid Girl | ShinRa-Bansho | Hyper | 181.0 | 1663 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Hyper].mc` |
+| 3952 | Noumiso Rigid Girl | ShinRa-Bansho | Normal | 181.0 | 904 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Normal].mc` |
+| 3953 | Noumiso Rigid Girl | ShinRa-Bansho | Rigid-Brained Girl | 181.0 | 2034 | 198.2 | osu_mirror/community | `osu_mirror\2498268\ShinRa-Bansho - Noumiso Rigid Girl (J-99) [Rigid-Brained Girl].mc` |
+| 3954 | o,Tuan | .Feast | Perih yang terasa, sakit yang tak sirna | 131.0 | 972 | 298.9 | osu_mirror/community | `osu_mirror\2488508\.Feast - o,Tuan (Antipole) [Perih yang terasa, sakit yang tak sirna].mc` |
+| 3955 | Oak and Ash | Fellowship | Worthiness | 210.0 | 4795 | 286.3 | osu_mirror/community | `osu_mirror\2599137\Fellowship - Oak and Ash (P45ta) [Worthiness].mc` |
+| 3956 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law (no mini-LNs) | 200.0 | 3251 | 231.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law (no mini-LNs)].mc` |
+| 3957 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.05x (no mini-LNs) | 210.0 | 3251 | 220.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.05x (no mini-LNs)].mc` |
+| 3958 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.05x | 210.0 | 3113 | 220.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.05x].mc` |
+| 3959 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.15x (no mini-LNs) | 230.0 | 3251 | 200.9 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.15x (no mini-LNs)].mc` |
+| 3960 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.15x | 230.0 | 3113 | 200.9 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.15x].mc` |
+| 3961 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.1x (no mini-LNs) | 220.0 | 3251 | 210.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.1x (no mini-LNs)].mc` |
+| 3962 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.1x | 220.0 | 3113 | 210.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.1x].mc` |
+| 3963 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.2x (no mini-LNs) | 240.0 | 3251 | 192.5 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.2x (no mini-LNs)].mc` |
+| 3964 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.2x | 240.0 | 3113 | 192.5 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.2x].mc` |
+| 3965 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.3x (no mini-LNs) | 260.0 | 3251 | 177.7 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.3x (no mini-LNs)].mc` |
+| 3966 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.3x | 260.0 | 3113 | 177.7 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.3x].mc` |
+| 3967 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.4x (no mini-LNs) | 280.0 | 3251 | 165.0 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.4x (no mini-LNs)].mc` |
+| 3968 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law 1.4x | 280.0 | 3113 | 165.0 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law 1.4x].mc` |
+| 3969 | Obligatory (Kurorak's Obligatory Destruction rmx) | Aquellex | Alice's First Law | 200.0 | 3113 | 231.1 | osu_mirror/community | `osu_mirror\1438897\Aquellex - Obligatory (Kurorak's Obligatory Destruction rmx) (AutotelicBrown) [Alice's First Law].mc` |
+| 3970 | Observation (Original Mix) | Envy | dear Myuka... | 200.0 | 5092 | 187.2 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [dear Myuka...].mc` |
+| 3971 | Observation (Original Mix) | Envy | x0.7 | 140.0 | 5092 | 267.4 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.7].mc` |
+| 3972 | Observation (Original Mix) | Envy | x0.85 | 170.0 | 5092 | 220.2 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.85].mc` |
+| 3973 | Observation (Original Mix) | Envy | x0.8 | 160.0 | 5092 | 234.0 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.8].mc` |
+| 3974 | Observation (Original Mix) | Envy | x0.95 | 190.0 | 5092 | 197.1 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.95].mc` |
+| 3975 | Observation (Original Mix) | Envy | x0.9 | 180.0 | 5092 | 208.0 | osu_mirror/community | `osu_mirror\2091338\Envy - Observation (Original Mix) (Jhown) [x0.9].mc` |
+| 3976 | Ocean's Legacy | yoho | Advanced | 342.0 | 1061 | 124.1 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Advanced].mc` |
+| 3977 | Ocean's Legacy | yoho | Easy | 342.0 | 499 | 124.1 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Easy].mc` |
+| 3978 | Ocean's Legacy | yoho | Expert | 342.0 | 2172 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Expert].mc` |
+| 3979 | Ocean's Legacy | yoho | Extra | 342.0 | 2476 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Extra].mc` |
+| 3980 | Ocean's Legacy | yoho | Glory | 342.0 | 3142 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Glory].mc` |
+| 3981 | Ocean's Legacy | yoho | Hard | 342.0 | 1317 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Hard].mc` |
+| 3982 | Ocean's Legacy | yoho | Hyper | 342.0 | 1643 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Hyper].mc` |
+| 3983 | Ocean's Legacy | yoho | Insane | 342.0 | 1891 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Insane].mc` |
+| 3984 | Ocean's Legacy | yoho | Normal | 342.0 | 802 | 124.1 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Normal].mc` |
+| 3985 | Ocean's Legacy | yoho | Ultra | 342.0 | 2806 | 124.2 | osu_mirror/community | `osu_mirror\2541937\yoho - Ocean's Legacy (AelSan) [Ultra].mc` |
+| 3986 | Ode of Resurrection: Recapitulation | HOYO-MiX | Incandescent War of the Abyss | 152.0 | 1796 | 222.5 | osu_mirror/community | `osu_mirror\2471078\HOYO-MiX - Ode of Resurrection Recapitulation (Donpa-chan) [Incandescent War of the Abyss].mc` |
+| 3987 | OH NO NO NO FUNK | DJ KVNXD | EASY | 130.0 | 153 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [EASY].mc` |
+| 3988 | OH NO NO NO FUNK | DJ KVNXD | HAHA | 130.0 | 662 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [HAHA].mc` |
+| 3989 | OH NO NO NO FUNK | DJ KVNXD | HARD | 130.0 | 324 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [HARD].mc` |
+| 3990 | OH NO NO NO FUNK | DJ KVNXD | HYPER | 130.0 | 428 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [HYPER].mc` |
+| 3991 | OH NO NO NO FUNK | DJ KVNXD | INSANE | 130.0 | 540 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [Insane].mc` |
+| 3992 | OH NO NO NO FUNK | DJ KVNXD | NORMAL | 130.0 | 245 | 72.7 | osu_mirror/community | `osu_mirror\2485116\DJ KVNXD - OH NO NO NO FUNK (Anwul_) [NORMAL].mc` |
+| 3993 | Okashi Rave Party (feat. L4hee) | ReeK | Sweety Atmosphere w/ Thaumiel | 180.0 | 2979 | 287.4 | osu_mirror/community | `osu_mirror\2159126\ReeK - Okashi Rave Party (feat. L4hee) (Yuiesta) [Sweety Atmosphere w Thaumiel].mc` |
+| 3994 | Omoiyoshino | loos feat. Hiiragi Rian | Advanced | 168.0 | 881 | 132.3 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Advanced].mc` |
+| 3995 | Omoiyoshino | loos feat. Hiiragi Rian | Feru's Basic | 168.0 | 306 | 132.1 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Feru's Basic].mc` |
+| 3996 | Omoiyoshino | loos feat. Hiiragi Rian | Hyper | 168.0 | 1261 | 132.3 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Hyper].mc` |
+| 3997 | Omoiyoshino | loos feat. Hiiragi Rian | Intermediate | 168.0 | 648 | 132.1 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Intermediate].mc` |
+| 3998 | Omoiyoshino | loos feat. Hiiragi Rian | Koi | 168.0 | 1501 | 132.3 | osu_mirror/community | `osu_mirror\2458045\loos feat. Hiiragi Rian - Omoiyoshino (Niko_Plays) [Koi].mc` |
+| 3999 | On Seeking U | RD-Sounds feat. Meramipop | Easy | 145.0 | 450 | 169.6 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Easy].mc` |
+| 4000 | On Seeking U | RD-Sounds feat. Meramipop | Expert | 145.0 | 2617 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Expert].mc` |
+| 4001 | On Seeking U | RD-Sounds feat. Meramipop | Hard | 145.0 | 1631 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Hard].mc` |
+| 4002 | On Seeking U | RD-Sounds feat. Meramipop | Insane | 145.0 | 2277 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Insane].mc` |
+| 4003 | On Seeking U | RD-Sounds feat. Meramipop | Normal | 145.0 | 810 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [Normal].mc` |
+| 4004 | On Seeking U | RD-Sounds feat. Meramipop | O! S! U! | 145.0 | 3516 | 169.6 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [O! S! U!].mc` |
+| 4005 | On Seeking U | RD-Sounds feat. Meramipop | XingRen's Extra | 145.0 | 2608 | 169.2 | osu_mirror/community | `osu_mirror\2400881\RD-Sounds feat. Meramipop - On Seeking U (Yuiesta) [XingRen's Extra].mc` |
+| 4006 | ON.UR.MARKS... | TWC Sound Team "FLiPFORCE" | RESPAWN POiNT | 99.5 | 3761 | 380.2 | osu_mirror/community | `osu_mirror\2562488\TWC Sound Team FLiPFORCE - ON.UR.MARKS... (QwertYui345) [RESPAWN POINT].mc` |
+| 4007 | Once Forgotten, Nothing Remains | Raphiiel | A Past Buried, A Future Condemned | 63.0 | 5711 | 501.0 | osu_mirror/community | `osu_mirror\2438757\Raphiiel - Once Forgotten, Nothing Remains (-mint-) [A Past Buried, A Future Condemned].mc` |
+| 4008 | Once Forgotten, Nothing Remains | Raphiiel | Phantasmal Zenith :: Epitaph of the Unremembered | 63.0 | 6201 | 500.9 | osu_mirror/community | `osu_mirror\2574555\Raphiiel - Once Forgotten, Nothing Remains (Ycloki) [Phantasmal Zenith  Epitaph of the Unremembered].mc` |
+| 4009 | One Good Reason | Celldweller | Rockport 1.05x (210bpm) | 210.28 | 3001 | 154.1 | osu_mirror/community | `osu_mirror\2253773\Celldweller - One Good Reason (elexire) [Rockport 1.05x (210bpm)].mc` |
+| 4010 | One Good Reason | Celldweller | Rockport 1.1x (220bpm) | 220.3 | 3001 | 147.1 | osu_mirror/community | `osu_mirror\2253773\Celldweller - One Good Reason (elexire) [Rockport 1.1x (220bpm)].mc` |
+| 4011 | One Good Reason | Celldweller | Rockport | 200.27 | 3001 | 161.8 | osu_mirror/community | `osu_mirror\2253773\Celldweller - One Good Reason (elexire) [Rockport].mc` |
+| 4012 | ONE'S AGAIN | THE ORAL CIGARETTES | Endless Horizon | 220.0 | 2220 | 272.5 | osu_mirror/community | `osu_mirror\1446439\THE ORAL CIGARETTES - ONE'S AGAIN (Angki) [Endless Horizon].mc` |
+| 4013 | Oni | Sewerslvt | Darling | 128.0 | 899 | 240.0 | osu_mirror/community | `osu_mirror\2456780\Sewerslvt - Oni (Znow) [Darling].mc` |
+| 4014 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Boring-chan! // Hard | 200.0 | 1080 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Boring-chan!  Hard].mc` |
+| 4015 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Dereck-chan! // Normal | 200.0 | 812 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Dereck-chan!  Normal].mc` |
+| 4016 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Mirac1e-chan! // Insane | 200.0 | 1385 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Mirac1e-chan!  Insane].mc` |
+| 4017 | Onii-chan Etiquette | mona (CV: Natsukawa Shiina) feat. HoneyWorks | Mona-chan! // Expert | 200.0 | 1618 | 158.4 | osu_mirror/community | `osu_mirror\2506807\mona (CV Natsukawa Shiina) feat. HoneyWorks - Onii-chan Etiquette (mirac1e_xf) [Mona-chan!  Expert].mc` |
+| 4018 | Onward | Hebi. | Forward | 180.0 | 1673 | 201.3 | osu_mirror/community | `osu_mirror\2411153\Hebi. - Onward (Arua_) [Forward].mc` |
+| 4019 | OPENING | t+pazolite feat. Kabocha | Advanced | 180.0 | 310 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Advanced].mc` |
+| 4020 | OPENING | t+pazolite feat. Kabocha | Bring It On! | 180.0 | 482 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Bring It On!].mc` |
+| 4021 | OPENING | t+pazolite feat. Kabocha | Easy | 180.0 | 148 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Easy].mc` |
+| 4022 | OPENING | t+pazolite feat. Kabocha | Hard | 180.0 | 372 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Hard].mc` |
+| 4023 | OPENING | t+pazolite feat. Kabocha | Normal | 180.0 | 252 | 42.7 | osu_mirror/community | `osu_mirror\2527829\t+pazolite feat. Kabocha - OPENING (Kibitz) [Normal].mc` |
+| 4024 | Opening Titles | David Arnold & Michael Price | Advanced | 184.0 | 143 | 29.2 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Advanced].mc` |
+| 4025 | Opening Titles | David Arnold & Michael Price | Beginner | 184.0 | 10 | 29.3 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Beginner].mc` |
+| 4026 | Opening Titles | David Arnold & Michael Price | Easy | 184.0 | 80 | 29.3 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Easy].mc` |
+| 4027 | Opening Titles | David Arnold & Michael Price | Hard | 184.0 | 150 | 29.2 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Hard].mc` |
+| 4028 | Opening Titles | David Arnold & Michael Price | Normal | 184.0 | 130 | 29.3 | osu_mirror/community | `osu_mirror\2568994\David Arnold & Michael Price - Opening Titles (xujiarong114514) [Normal].mc` |
+| 4029 | Oracion | Shiro (CV: Kayano Ai) | Existence Othello | 166.0 | 1558 | 257.3 | osu_mirror/community | `osu_mirror\2560335\Shiro (CV Kayano Ai) - Oracion (eZmmR) [Existence Othello].mc` |
+| 4030 | Oracle | cYsmix & Nhato | Divinity | 128.0 | 4999 | 360.0 | osu_mirror/community | `osu_mirror\2461104\cYsmix & Nhato - Oracle (iiJohn0) [Divinity].mc` |
+| 4031 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Bubba's Hard | 140.0 | 267 | 87.2 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Bubba's Hard].mc` |
+| 4032 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Bubba's Normal | 140.0 | 148 | 86.8 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Bubba's Normal].mc` |
+| 4033 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Easy | 140.0 | 223 | 87.2 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Easy].mc` |
+| 4034 | Orange (TV Size) | Kugimiya Rie, Horie Yui, Kitamura Eri | Tigre! | 140.0 | 527 | 87.2 | osu_mirror/community | `osu_mirror\2138607\Kugimiya Rie, Horie Yui, Kitamura Eri - Orange (TV Size) (Sillot) [Tigre!].mc` |
+| 4035 | Oshi Shinobu | Akiri | Ema's Before It All | 170.0 | 898 | 92.5 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Ema's Before It All].mc` |
+| 4036 | Oshi Shinobu | Akiri | Hard | 170.0 | 645 | 92.5 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Hard].mc` |
+| 4037 | Oshi Shinobu | Akiri | Insane | 170.0 | 568 | 90.9 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Insane].mc` |
+| 4038 | Oshi Shinobu | Akiri | My Own Revenge | 170.0 | 172 | 87.4 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [My Own Revenge].mc` |
+| 4039 | Oshi Shinobu | Akiri | Normal | 170.0 | 520 | 92.5 | osu_mirror/community | `osu_mirror\2396967\Akiri - Oshi Shinobu (menphiss) [Normal].mc` |
+| 4040 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | _VK's Hard | 184.0 | 641 | 85.8 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu ja Nai! (TV Size) (Syadow-) [_VK's Hard].mc` |
+| 4041 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | Bakarina | 184.0 | 896 | 85.8 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu ja Nai! (TV Size) (Syadow-) [Bakarina].mc` |
+| 4042 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | Easy | 184.0 | 215 | 85.9 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu Ja Nai! (TV Size) (Syadow-) [Easy].mc` |
+| 4043 | Otome no Route wa Hitotsu ja Nai! (TV Size) | angela | Yukarin's Normal | 184.0 | 433 | 85.8 | osu_mirror/community | `osu_mirror\1178589\angela - Otome no Route wa Hitotsu Ja Nai! (TV Size) (Syadow-) [Yukarin's Normal].mc` |
+| 4044 | OUT OF CONTROL | METAROOM | BEI'S INSANE | 181.0 | 822 | 154.1 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [BEI'S INSANE].mc` |
+| 4045 | OUT OF CONTROL | METAROOM | COMPLETELY UNHINGED | 181.0 | 1412 | 154.4 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [COMPLETELY UNHINGED].mc` |
+| 4046 | OUT OF CONTROL | METAROOM | HARD | 181.0 | 1298 | 159.0 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [HARD].mc` |
+| 4047 | OUT OF CONTROL | METAROOM | INSANE | 181.0 | 1134 | 154.4 | osu_mirror/community | `osu_mirror\2403524\METAROOM - OUT OF CONTROL (de_sync) [Insane].mc` |
+| 4048 | OUTRAGE | USAO vs. DJ Myosuke | Ainer's Link Level II | 215.0 | 1408 | 149.3 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Ainer's Link Level II].mc` |
+| 4049 | OUTRAGE | USAO vs. DJ Myosuke | Ignite The Inferno | 215.0 | 1714 | 149.5 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Ignite The Inferno].mc` |
+| 4050 | OUTRAGE | USAO vs. DJ Myosuke | kooo's Link Level I | 215.0 | 1027 | 149.6 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [kooo's Link Level I].mc` |
+| 4051 | OUTRAGE | USAO vs. DJ Myosuke | Link Level III | 215.0 | 1935 | 149.2 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Link Level III].mc` |
+| 4052 | OUTRAGE | USAO vs. DJ Myosuke | Link Level IV | 215.0 | 1971 | 149.5 | osu_mirror/community | `osu_mirror\2447985\USAO vs. DJ Myosuke - Outrage (Seiron) [Link Level IV].mc` |
+| 4053 | overture | you are an angel | advanced | 110.51 | 343 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [advanced].mc` |
+| 4054 | overture | you are an angel | cycle | 110.51 | 601 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [cycle].mc` |
+| 4055 | overture | you are an angel | hard | 110.51 | 415 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [Hard].mc` |
+| 4056 | overture | you are an angel | hyper | 110.51 | 481 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [Hyper].mc` |
+| 4057 | overture | you are an angel | normal | 110.51 | 258 | 37.3 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [normal].mc` |
+| 4058 | overture | you are an angel | omni's easy | 110.51 | 166 | 34.6 | osu_mirror/community | `osu_mirror\2559655\you are an angel - overture (kinuh) [omni's easy].mc` |
+| 4059 | overwhelm | P4koo | Easy | 182.0 | 352 | 104.9 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Easy].mc` |
+| 4060 | overwhelm | P4koo | Hard | 182.0 | 1015 | 105.4 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Hard].mc` |
+| 4061 | overwhelm | P4koo | Insane | 182.0 | 886 | 104.4 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Insane].mc` |
+| 4062 | overwhelm | P4koo | Normal | 182.0 | 707 | 105.2 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Normal].mc` |
+| 4063 | overwhelm | P4koo | Spinning | 182.0 | 1030 | 104.8 | osu_mirror/community | `osu_mirror\2454631\P4koo - overwhelm (AelSan) [Spinning].mc` |
+| 4064 | oyasumination (MV Ver.) | ippo.tsk | our running | 190.0 | 4770 | 301.5 | osu_mirror/community | `osu_mirror\2576549\ippo.tsk - oyasumination (MV Ver.) (QwertYui345) [our running].mc` |
+| 4065 | Palette | Hanatan | Vanish | 180.0 | 3064 | 214.0 | osu_mirror/community | `osu_mirror\2407919\Hanatan - Palette (elexire) [Vanish].mc` |
+| 4066 | PAPERMOON (TV Size) | Tommy heavenly6 | EZ | 164.0 | 274 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [EZ].mc` |
+| 4067 | PAPERMOON (TV Size) | Tommy heavenly6 | HD | 164.0 | 789 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [HD].mc` |
+| 4068 | PAPERMOON (TV Size) | Tommy heavenly6 | MX | 164.0 | 1044 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [MX].mc` |
+| 4069 | PAPERMOON (TV Size) | Tommy heavenly6 | NM | 164.0 | 459 | 88.6 | osu_mirror/community | `osu_mirror\2215538\Tommy heavenly6 - PAPERMOON (TV Size) (-[ Peachy ]-) [NM].mc` |
+| 4070 | Paradisus-Paradoxum | MYTH & ROID | Collab of Dread | 201.0 | 2226 | 227.0 | osu_mirror/community | `osu_mirror\2306063\MYTH & ROID - Paradisus-Paradoxum (FerdiXIA-) [Collab of Dread].mc` |
+| 4071 | parallel skydive | AAAA | Blue Skies! | 140.0 | 581 | 108.2 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Blue Skies!].mc` |
+| 4072 | parallel skydive | AAAA | Easy | 140.0 | 370 | 109.1 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Easy].mc` |
+| 4073 | parallel skydive | AAAA | Hard | 140.0 | 572 | 109.1 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Hard].mc` |
+| 4074 | parallel skydive | AAAA | Normal | 140.0 | 512 | 108.9 | osu_mirror/community | `osu_mirror\2499942\AAAA - parallel skydive (-fuurin-) [Normal].mc` |
+| 4075 | Parallel Universe Shifter | Camellia | Alternator | 100.0 | 4071 | 205.7 | osu_mirror/community | `osu_mirror\2062559\Camellia - Parallel Universe Shifter (V1do-) [Alternator].mc` |
+| 4076 | Pardontekk | HELLBLADE | Chordjacks | 139.4 | 1222 | 104.6 | osu_mirror/community | `osu_mirror\2556618\HELLBLADE - Pardontekk (greedx) [Chordjacks].mc` |
+| 4077 | Pardontekk | HELLBLADE | Minijacks | 139.4 | 1329 | 104.6 | osu_mirror/community | `osu_mirror\2556618\HELLBLADE - Pardontekk (greedx) [Minijacks].mc` |
+| 4078 | PARIPI MIYABI | FARUCO | 4K Hard Harukitsune | 130.0 | 888 | 126.9 | osu_mirror/community | `osu_mirror\2434168\FARUCO - PARIPI MIYABI (Herta) [4K Hard Harukitsune].mc` |
+| 4079 | PARIPI MIYABI | FARUCO | 4K Myobu | 130.0 | 1120 | 126.9 | osu_mirror/community | `osu_mirror\2434168\FARUCO - PARIPI MIYABI (Herta) [4K Myobu].mc` |
+| 4080 | PARIPI MIYABI | FARUCO | 4K Normal | 130.0 | 683 | 126.9 | osu_mirror/community | `osu_mirror\2434168\FARUCO - PARIPI MIYABI (Herta) [4K Normal].mc` |
+| 4081 | Parodia Sonatina | Ice | Insane | 170.0 | 2470 | 194.5 | osu_mirror/community | `osu_mirror\2598432\Ice - Parodia Sonatina (Carpihat) [Insane].mc` |
+| 4082 | Parodia Sonatina | Ice | Nicknem's Extra | 170.0 | 1162 | 194.0 | osu_mirror/community | `osu_mirror\2598432\Ice - Parodia Sonatina (Carpihat) [Nicknem's Extra].mc` |
+| 4083 | Parodia Sonatina | Ice | Op. 1 | 170.0 | 773 | 194.5 | osu_mirror/community | `osu_mirror\2598432\Ice - Parodia Sonatina (Carpihat) [Op. 1].mc` |
+| 4084 | Parodia Sonatina Var.II | Ice | Insane+ | 170.0 | 1838 | 139.4 | osu_mirror/community | `osu_mirror\2611638\Ice - Parodia Sonatina Var.II (Karpi Unverzagt) [Insane+].mc` |
+| 4085 | Parodia Sonatina Var.II | Ice | Op. 2 | 170.0 | 609 | 139.4 | osu_mirror/community | `osu_mirror\2611638\Ice - Parodia Sonatina Var.II (Karpi Unverzagt) [Op. 2].mc` |
+| 4086 | Parodia Sonatina Var.II | Ice | Sey's Extra | 170.0 | 771 | 139.4 | osu_mirror/community | `osu_mirror\2611638\Ice - Parodia Sonatina Var.II (Karpi Unverzagt) [Sey's Extra].mc` |
+| 4087 | Partition | Sydosys | P4rt1t10N | 190.0 | 3218 | 240.0 | osu_mirror/community | `osu_mirror\2466086\Sydosys - Partition (oid45) [P4rt1t10N].mc` |
+| 4088 | Party Out | Getty | Jack Party | 170.0 | 4028 | 251.3 | osu_mirror/community | `osu_mirror\2438662\Getty - Party Out (Wimpy Cursed) [Jack Party].mc` |
+| 4089 | Pekorap Tropical House Remix | REDALiCE | Hard | 110.0 | 1247 | 126.1 | osu_mirror/community | `osu_mirror\2337474\REDALiCE - Pekorap Tropical House Remix (8230) [Hard].mc` |
+| 4090 | Pekorap Tropical House Remix | REDALiCE | Insane | 110.0 | 1580 | 126.1 | osu_mirror/community | `osu_mirror\2337474\REDALiCE - Pekorap Tropical House Remix (8230) [Insane].mc` |
+| 4091 | Pekorap Tropical House Remix | REDALiCE | Normal | 110.0 | 877 | 126.1 | osu_mirror/community | `osu_mirror\2337474\REDALiCE - Pekorap Tropical House Remix (8230) [Normal].mc` |
+| 4092 | Pekorap Tropical House Remix | REDALiCE | Pekojack | 110.0 | 1956 | 126.1 | osu_mirror/community | `osu_mirror\2337474\REDALiCE - Pekorap Tropical House Remix (8230) [Pekojack].mc` |
+| 4093 | Pencilina | Culprate & Dictate | Collab Insane | 172.0 | 1542 | 178.2 | osu_mirror/community | `osu_mirror\2555009\Culprate & Dictate - Pencilina (Naiibe) [Collab Insane].mc` |
+| 4094 | Pencilina | Culprate & Dictate | Hyper | 172.0 | 1390 | 177.8 | osu_mirror/community | `osu_mirror\2555009\Culprate & Dictate - Pencilina (Naiibe) [Hyper].mc` |
+| 4095 | Pencilina | Culprate & Dictate | Idiosyncratic | 172.0 | 1496 | 177.9 | osu_mirror/community | `osu_mirror\2555009\Culprate & Dictate - Pencilina (Naiibe) [Idiosyncratic].mc` |
+| 4096 | Peng You De Jiu (DJ Xiao Yu Er Remix) | Li Xiao Jie | Friend's Wine | 130.0 | 5240 | 378.5 | osu_mirror/community | `osu_mirror\2611900\Li Xiao Jie - peng you de jiu (DJ xiao yu er remix) (oid45) [Friend's Wine].mc` |
+| 4097 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Advanced | 170.0 | 623 | 90.7 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Advanced].mc` |
+| 4098 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Boink Boink | 170.0 | 1529 | 85.9 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [boink boink].mc` |
+| 4099 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Concepte's Xpert | 170.0 | 1190 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Concepte's Xpert].mc` |
+| 4100 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Enma's Nsane | 170.0 | 1140 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Enma's Nsane].mc` |
+| 4101 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Mio's Xtra | 170.0 | 1363 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Mio's Xtra].mc` |
+| 4102 | Pentagramma (hardstyle yabujin core) Remix | Dj fullcola666 | Superboy's Hard | 170.0 | 834 | 91.1 | osu_mirror/community | `osu_mirror\2278354\Dj fullcola666 - Pentagramma (hardstyle yabujin core) Remix (zohie) [Superboy's Hard].mc` |
+| 4103 | People = Shit | Slipknot | Drum Accurate (Challenge) | 191.0 | 2692 | 193.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [Drum Accurate (Challenge)].mc` |
+| 4104 | People = Shit | Slipknot | expert (solo) | 191.0 | 281 | 14.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [expert (solo)].mc` |
+| 4105 | People = Shit | Slipknot | expert | 191.0 | 503 | 193.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [expert].mc` |
+| 4106 | People = Shit | Slipknot | Hard (solo) | 191.0 | 185 | 14.3 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [Hard (solo)].mc` |
+| 4107 | People = Shit | Slipknot | hard | 191.0 | 2224 | 192.9 | osu_mirror/community | `osu_mirror\2553914\Slipknot - People = Shit (soap osu) [hard].mc` |
+| 4108 | Phi | Street | Flawless 1.1x (209bpm) | 209.0 | 1110 | 106.1 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.1x (209bpm)].mc` |
+| 4109 | Phi | Street | Flawless 1.2x (228bpm) | 228.0 | 1110 | 97.2 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.2x (228bpm)].mc` |
+| 4110 | Phi | Street | Flawless 1.3x (247bpm) | 247.0 | 1110 | 89.8 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.3x (247bpm)].mc` |
+| 4111 | Phi | Street | Flawless 1.4x (266bpm) | 266.0 | 1110 | 83.3 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless 1.4x (266bpm)].mc` |
+| 4112 | Phi | Street | Flawless | 190.0 | 1110 | 116.7 | osu_mirror/community | `osu_mirror\1667815\Street - Phi (Ayru) [Flawless].mc` |
+| 4113 | Phosphor | mitei | Accelerate | 214.0 | 2200 | 241.4 | osu_mirror/community | `osu_mirror\2410611\mitei - Phosphor (V1do-) [Accelerate].mc` |
+| 4114 | Phosphor | mitei | Radiance | 214.0 | 2295 | 241.5 | osu_mirror/community | `osu_mirror\2579629\mitei - Phosphor (CrazyBanger) [Radiance].mc` |
+| 4115 | Pinata Break | FEM&M, BRN1NG BRAIN SOUND INDUSTRIES | OK | 171.0 | 2475 | 224.6 | osu_mirror/community | `osu_mirror\2599776\FEM&M, BRN1NG BRAIN SOUND INDUSTRIES - Pinata Break (SZH) [OK].mc` |
+| 4116 | Pixel Heart | EmoCosine | 8-Bit LOVE!!! | 150.0 | 2043 | 275.2 | osu_mirror/community | `osu_mirror\2602963\EmoCosine - Pixel Heart (Calcul0us) [8-Bit LOVE!!!].mc` |
+| 4117 | Pixel Planet | Lime | Easy | 222.0 | 480 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Easy].mc` |
+| 4118 | Pixel Planet | Lime | Expert | 222.0 | 2000 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Expert].mc` |
+| 4119 | Pixel Planet | Lime | Hard | 222.0 | 1165 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Hard].mc` |
+| 4120 | Pixel Planet | Lime | Insane | 222.0 | 1578 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Insane].mc` |
+| 4121 | Pixel Planet | Lime | Normal | 222.0 | 737 | 116.5 | osu_mirror/community | `osu_mirror\2382059\Lime - Pixel Planet (Wishtynite) [Normal].mc` |
+| 4122 | Planetary Exclusion Zone | XenjeS | Easy | 180.0 | 489 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Easy].mc` |
+| 4123 | Planetary Exclusion Zone | XenjeS | Hard | 180.0 | 1378 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Hard].mc` |
+| 4124 | Planetary Exclusion Zone | XenjeS | Insane | 180.0 | 1787 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Insane].mc` |
+| 4125 | Planetary Exclusion Zone | XenjeS | Normal | 180.0 | 952 | 131.7 | osu_mirror/community | `osu_mirror\2403804\XenjeS - Planetary Exclusion Zone (yolo-) [Normal].mc` |
+| 4126 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered 1.05x | 152.25 | 2746 | 209.2 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered 1.05x].mc` |
+| 4127 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered 1.15x | 166.75 | 2746 | 191.0 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered 1.15x].mc` |
+| 4128 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered 1.1x | 159.5 | 2746 | 199.7 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered 1.1x].mc` |
+| 4129 | PLAY DICE! | HAKOS BAELZ | HowToPlayLN x Arccat Chaotically Ordered | 145.0 | 2746 | 219.6 | osu_mirror/community | `osu_mirror\1818450\HAKOS BAELZ - PLAY DICE! (HowToPlayLN) [HowToPlayLN x Arccat Chaotically Ordered].mc` |
+| 4130 | Pokemon Center | Masuda Junichi | Pokemon 0% healed | 114.0 | 85 | 33.7 | osu_mirror/community | `osu_mirror\2439228\Masuda Junichi - Pokemon Center (O R 3 0) [Pokemon 0% healed].mc` |
+| 4131 | Pokemon Center | Masuda Junichi | Pokemon 100% healed! | 114.0 | 257 | 33.7 | osu_mirror/community | `osu_mirror\2439228\Masuda Junichi - Pokemon Center (O R 3 0) [Pokemon 100% healed!].mc` |
+| 4132 | Pokemon Center | Masuda Junichi | Pokemon 25% healed | 114.0 | 120 | 33.7 | osu_mirror/community | `osu_mirror\2439228\Masuda Junichi - Pokemon Center (O R 3 0) [Pokemon 25% healed].mc` |
+| 4133 | Pokemon Center | Masuda Junichi | Pokemon 50% healed | 114.0 | 143 | 33.7 | osu_mirror/community | `osu_mirror\2439228\Masuda Junichi - Pokemon Center (O R 3 0) [Pokemon 50% healed].mc` |
+| 4134 | Pokemon Center | Masuda Junichi | Pokemon 75% healed | 114.0 | 190 | 33.7 | osu_mirror/community | `osu_mirror\2439228\Masuda Junichi - Pokemon Center (O R 3 0) [Pokemon 75% healed].mc` |
+| 4135 | Pokemon Center | Masuda Junichi | Pokemon is hurt! | 114.0 | 29 | 33.7 | osu_mirror/community | `osu_mirror\2439228\Masuda Junichi - Pokemon Center (O R 3 0) [Pokemon is hurt!].mc` |
+| 4136 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Easy | 140.0 | 202 | 84.4 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Easy].mc` |
+| 4137 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Happy End | 140.0 | 652 | 83.4 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Happy End].mc` |
+| 4138 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Hard | 140.0 | 507 | 83.6 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Hard].mc` |
+| 4139 | Ponkotsu! Isekai Theater (TV Size) | Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori | Normal | 140.0 | 322 | 84.0 | osu_mirror/community | `osu_mirror\1572706\Uesaka Sumire, Takahashi Rie, Minase Inori, Hayami Saori - Ponkotsu! Isekai Theater (TV Size) (Takodachi-) [Normal].mc` |
+| 4140 | popal | tewiq | easy | 122.14 | 295 | 94.3 | osu_mirror/community | `osu_mirror\2515013\tewiq - popal (Sympho) [Easy].mc` |
+| 4141 | popal | tewiq | normal | 122.14 | 491 | 94.3 | osu_mirror/community | `osu_mirror\2515013\tewiq - popal (Sympho) [Normal].mc` |
+| 4142 | popal | tewiq | popal | 122.14 | 523 | 89.3 | osu_mirror/community | `osu_mirror\2515013\tewiq - popal (Sympho) [popal].mc` |
+| 4143 | PORTRAiT | BUBBLE | SELF // REFLECTiON | 182.0 | 1444 | 217.4 | osu_mirror/community | `osu_mirror\2630052\BUBBLE - PORTRAiT (G1NYA) [SELF  REFLECTiON].mc` |
+| 4144 | POSSESSION | TAG underground | Basic | 185.0 | 724 | 103.8 | osu_mirror/community | `osu_mirror\2563907\TAG underground - POSSESSION (P45ta) [Basic].mc` |
+| 4145 | POSSESSION | TAG underground | Difficult | 185.0 | 933 | 103.8 | osu_mirror/community | `osu_mirror\2563907\TAG underground - POSSESSION (P45ta) [Difficult].mc` |
+| 4146 | POSSESSION | TAG underground | Expert | 185.0 | 1171 | 103.8 | osu_mirror/community | `osu_mirror\2563907\TAG underground - POSSESSION (P45ta) [Expert].mc` |
+| 4147 | poster boy | 2hollis | another | 111.0 | 1497 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [another].mc` |
+| 4148 | poster boy | 2hollis | beginner | 111.0 | 143 | 119.5 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [beginner].mc` |
+| 4149 | poster boy | 2hollis | collab hard | 111.0 | 1064 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [collab hard].mc` |
+| 4150 | poster boy | 2hollis | easy | 111.0 | 420 | 118.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [easy].mc` |
+| 4151 | poster boy | 2hollis | expert | 111.0 | 1711 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [expert].mc` |
+| 4152 | poster boy | 2hollis | extra | 111.0 | 1770 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [extra].mc` |
+| 4153 | poster boy | 2hollis | insane | 111.0 | 1321 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [insane].mc` |
+| 4154 | poster boy | 2hollis | normal | 111.0 | 660 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [normal].mc` |
+| 4155 | poster boy | 2hollis | starter | 111.0 | 16 | 67.0 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [starter].mc` |
+| 4156 | poster boy | 2hollis | trash the ploy, turn myself into a poster boy | 111.0 | 2033 | 120.9 | osu_mirror/community | `osu_mirror\2532288\2hollis - poster boy (Concepte) [trash the ploy, turn myself into a poster boy].mc` |
+| 4157 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Easy | 152.0 | 477 | 152.4 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Easy].mc` |
+| 4158 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Hard | 152.0 | 981 | 152.4 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Hard].mc` |
+| 4159 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Lovely Super Cutie Baby | 152.0 | 1049 | 152.2 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Lovely Super Cutie Baby].mc` |
+| 4160 | PPPP feat. Hatsune Miku, Kasane Teto | TAK | Normal | 152.0 | 873 | 152.4 | osu_mirror/community | `osu_mirror\2515207\TAK - PPPP feat. Hatsune Miku, Kasane Teto (araragigun) [Normal].mc` |
+| 4161 | PRESS START | JOYLESS | PY'S EXTRA | 218.0 | 666 | 68.3 | osu_mirror/community | `osu_mirror\2501801\JOYLESS - PRESS START (Ryxliee) [Py's EXTRA].mc` |
+| 4162 | PRESS START | JOYLESS | PY'S HARD | 218.0 | 484 | 68.3 | osu_mirror/community | `osu_mirror\2501801\JOYLESS - PRESS START (Ryxliee) [Py's HARD].mc` |
+| 4163 | PRESS START | JOYLESS | PY'S INSANE | 218.0 | 596 | 68.3 | osu_mirror/community | `osu_mirror\2501801\JOYLESS - PRESS START (Ryxliee) [Py's INSANE].mc` |
+| 4164 | PRESS START | JOYLESS | PY'S INTERMEDIATE | 218.0 | 337 | 68.3 | osu_mirror/community | `osu_mirror\2501801\JOYLESS - PRESS START (Ryxliee) [PY'S INTERMEDIATE].mc` |
+| 4165 | PRESS START | JOYLESS | PY'S NORMAL | 218.0 | 541 | 68.3 | osu_mirror/community | `osu_mirror\2501801\JOYLESS - PRESS START (Ryxliee) [Py's NORMAL].mc` |
+| 4166 | Pretty Girl Rock | Keri Hilson | Happy Birthday! Xiao Te | 160.0 | 825 | 234.8 | osu_mirror/community | `osu_mirror\2621493\Keri Hilson - Pretty Girl Rock (PinkXT) [Happy Birthday! Xiao Te].mc` |
+| 4167 | Primordial Complex | celtix | Origination | 200.0 | 2385 | 174.1 | osu_mirror/community | `osu_mirror\2547114\celtix - Primordial Complex (_Vexxxx_) [Origination].mc` |
+| 4168 | Primordial Complex | celtix | Furimu vs lik_0 / The Origin That Forgot Itself | 200.0 | 2009 | 174.1 | osu_mirror/community | `osu_mirror\2552497\celtix - Primordial Complex (Furimuu-) [Furimu vs lik_0  The Origin That Forgot Itself].mc` |
+| 4169 | Primordial Reflection ~A Retrograde Adventure~ | Juwubi | Genesis: ~Endgame Expedition~ | 97.5 | 3162 | 256.6 | osu_mirror/community | `osu_mirror\2539101\Juwubi - Primordial Reflection ~A Retrograde Adventure~ (S k y y -) [Genesis ~Endgame Expedition~].mc` |
+| 4170 | Pris-Magic! (Game Ver.) | Shigure Ui | Ainer's Normal | 126.0 | 613 | 153.1 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [ainer's normal].mc` |
+| 4171 | Pris-Magic! (Game Ver.) | Shigure Ui | Easy | 126.0 | 434 | 151.4 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [Easy].mc` |
+| 4172 | Pris-Magic! (Game Ver.) | Shigure Ui | Hard | 126.0 | 790 | 155.6 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [Hard].mc` |
+| 4173 | Pris-Magic! (Game Ver.) | Shigure Ui | Rainy Sky, Shiny Smile | 126.0 | 822 | 158.8 | osu_mirror/community | `osu_mirror\2447308\Shigure Ui - Pris-Magic! (Game Ver.) (AelSan) [rainy sky, shiny smile].mc` |
+| 4174 | PRiSMBREAKER :: dispersion.POINT | Coal & Lesitia. & KreScent | SPECTRUMSHATTERER :: diffusion.ZONE | 200.0 | 3852 | 117.4 | osu_mirror/community | `osu_mirror\2425955\Coal & Lesitia. & KreScent - PRiSMBREAKER  dispersion.POINT ([TCD] Dzar03) [SPECTRUMSHATTERER  diffusion.ZONE].mc` |
+| 4175 | Prom Queen | Beach Bunny | Lin's Hard | 135.1 | 1054 | 124.1 | osu_mirror/community | `osu_mirror\2470141\Beach Bunny - Prom Queen (Mita) [Lin's Hard].mc` |
+| 4176 | Prom Queen | Beach Bunny | Lin's Insane | 135.1 | 1372 | 124.1 | osu_mirror/community | `osu_mirror\2470141\Beach Bunny - Prom Queen (Mita) [Lin's Insane].mc` |
+| 4177 | Prom Queen | Beach Bunny | Lin's Normal | 135.1 | 813 | 124.1 | osu_mirror/community | `osu_mirror\2470141\Beach Bunny - Prom Queen (Mita) [Lin's Normal].mc` |
+| 4178 | Purgatorium | Arcaea | Hard With Drum hit | 150.0 | 1103 | 147.1 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Hard With Drum hit].mc` |
+| 4179 | Purgatorium | Arcaea | Malody Hard | 150.0 | 823 | 147.1 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Malody Hard].mc` |
+| 4180 | Purgatorium | Arcaea | Special | 150.0 | 1264 | 146.9 | osu_mirror/community | `osu_mirror\1289990\Arcaea - Purgatorium (darkevos28) [Special].mc` |
+| 4181 | PUSH UR T3MPRR | Femtanyl | 3ASY | 155.0 | 629 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [3ASY].mc` |
+| 4182 | PUSH UR T3MPRR | Femtanyl | 3XP3RT | 155.0 | 2402 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [3XP3RT].mc` |
+| 4183 | PUSH UR T3MPRR | Femtanyl | B14CK'5 1NS4N3 | 155.0 | 2154 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [B14CK'5 1NS4N3].mc` |
+| 4184 | PUSH UR T3MPRR | Femtanyl | LUMP1T4'5 HYP3R | 155.0 | 1855 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [LUMP1T4'5 HYP3R].mc` |
+| 4185 | PUSH UR T3MPRR | Femtanyl | N0RM4L | 155.0 | 1037 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [N0RM4L].mc` |
+| 4186 | PUSH UR T3MPRR | Femtanyl | P45H4LK4'5 H4RD | 155.0 | 1485 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [P45H4LK4'5 H4RD].mc` |
+| 4187 | PUSH UR T3MPRR | Femtanyl | SCH17Z0M4N1A | 155.0 | 2626 | 148.5 | osu_mirror/community | `osu_mirror\2331207\Femtanyl - PUSH UR T3MPRR (Decku) [SCH17Z0M4N1A].mc` |
+| 4188 | Pyroclastic Flow | Pirendora | Molten Surge | 162.0 | 4745 | 238.5 | osu_mirror/community | `osu_mirror\2518911\Pirendora - Pyroclastic Flow (_shu) [Molten Surge].mc` |
+| 4189 | Pyroclastic Flow | Pirendora | Penultimate Fray | 162.0 | 2727 | 238.5 | osu_mirror/community | `osu_mirror\2578594\Pirendora - Pyroclastic Flow (chy030_ft_pH5_6) [Penultimate Fray].mc` |
+| 4190 | Qiu Ri Wu Yu | Bu Jiang Li Mao | Aki Suki~ | 138.0 | 654 | 179.1 | osu_mirror/community | `osu_mirror\2602982\Bu Jiang Li Mao - Qiu Ri Wu Yu (FallFish) [Aki Suki~].mc` |
+| 4191 | QiXiN MAdN3ss 2153 | DJ Noriken vs. MASAKI | Extra | 200.0 | 2094 | 144.8 | osu_mirror/community | `osu_mirror\1325043\DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Murumoo) [Extra].mc` |
+| 4192 | QiXiN MAdN3ss 2153 | DJ Noriken vs. MASAKI | Hyper | 200.0 | 1582 | 144.8 | osu_mirror/community | `osu_mirror\1325043\DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Murumoo) [Hyper].mc` |
+| 4193 | QiXiN MAdN3ss 2153 | DJ Noriken vs. MASAKI | Niks' Hard | 200.0 | 1054 | 144.9 | osu_mirror/community | `osu_mirror\1325043\DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Murumoo) [Niks' Hard].mc` |
+| 4194 | QiXiN MAdN3ss 2153 | DJ Noriken vs. MASAKI | Rhezie's Expert | 200.0 | 1793 | 144.8 | osu_mirror/community | `osu_mirror\1325043\DJ Noriken vs. MASAKI - QiXiN MAdN3ss 2153 (Murumoo) [Rhezie's Expert].mc` |
+| 4195 | Quiet Water | toby fox | [4K] Bravery | 60.0 | 35 | 27.1 | osu_mirror/community | `osu_mirror\2324447\toby fox - Quiet Water (Herta) [[4K] Bravery].mc` |
+| 4196 | Quiet Water | toby fox | [4K] Easy | 60.0 | 15 | 17.5 | osu_mirror/community | `osu_mirror\2324447\toby fox - Quiet Water (Herta) [[4K] Easy].mc` |
+| 4197 | Quiet Water | toby fox | [4K] Normal | 60.0 | 10 | 27.0 | osu_mirror/community | `osu_mirror\2324447\toby fox - Quiet Water (Herta) [[4K] Normal].mc` |
+| 4198 | QUIXOTE [i am alone, and they are everyone] | Crywolf | Nothing but my heart remains. | 140.0 | 2163 | 213.4 | osu_mirror/community | `osu_mirror\2157483\Crywolf - QUIXOTE [i am alone, and they are everyone] (Alptraum) [Nothing but my heart remains.].mc` |
+| 4199 | R U Still xxxx? | Camellia | M I Still xxxx? | 234.0 | 4404 | 225.8 | osu_mirror/community | `osu_mirror\2480805\Camellia - R U Still xxxx (MrMoai) [M I Still xxxx].mc` |
+| 4200 | R.I.P. | youman feat. GUMI | cacophony 1.05x (284bpm) | 283.5 | 92 | 181.1 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [cacophony 1.05x (284bpm)].mc` |
+| 4201 | R.I.P. | youman feat. GUMI | cacophony 1.1x (297bpm) | 297.0 | 92 | 172.8 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [cacophony 1.1x (297bpm)].mc` |
+| 4202 | R.I.P. | youman feat. GUMI | cacophony | 270.0 | 92 | 190.1 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [cacophony].mc` |
+| 4203 | R.I.P. | youman feat. GUMI | discordance 1.05x (284bpm) | 283.5 | 3474 | 195.8 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [discordance 1.05x (284bpm)].mc` |
+| 4204 | R.I.P. | youman feat. GUMI | discordance 1.1x (297bpm) | 297.0 | 3474 | 186.9 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [discordance 1.1x (297bpm)].mc` |
+| 4205 | R.I.P. | youman feat. GUMI | discordance | 270.0 | 3474 | 205.6 | osu_mirror/community | `osu_mirror\1712790\youman feat. GUMI - R.I.P. (MyZterioN-) [discordance].mc` |
+| 4206 | RAINBOW | GFRIEND | SUMMER RAIN | 120.0 | 2055 | 228.0 | osu_mirror/community | `osu_mirror\2495115\GFRIEND - RAINBOW (Ilham) [SUMMER RAIN].mc` |
+| 4207 | Rainbow Road | nanobii | Easy | 170.0 | 407 | 166.4 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [easy].mc` |
+| 4208 | Rainbow Road | nanobii | Hard | 170.0 | 1237 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [hard].mc` |
+| 4209 | Rainbow Road | nanobii | Insane | 170.0 | 1603 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [insane].mc` |
+| 4210 | Rainbow Road | nanobii | Normal | 170.0 | 888 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [normal].mc` |
+| 4211 | Rainbow Road | nanobii | Radiant | 170.0 | 1838 | 169.2 | osu_mirror/community | `osu_mirror\2481624\nanobii - rainbow road (Gamesnake7) [radiant].mc` |
+| 4212 | Raining Tacos | Parry Gripp | Easy | 138.0 | 389 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Easy].mc` |
+| 4213 | Raining Tacos | Parry Gripp | Hard | 138.0 | 792 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Hard].mc` |
+| 4214 | Raining Tacos | Parry Gripp | How To Make a Taco | 138.0 | 909 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [How To Make a Taco].mc` |
+| 4215 | Raining Tacos | Parry Gripp | Insane | 138.0 | 817 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Insane].mc` |
+| 4216 | Raining Tacos | Parry Gripp | Normal | 138.0 | 554 | 88.7 | osu_mirror/community | `osu_mirror\2434762\Parry Gripp - Raining Tacos (P45ta) [Normal].mc` |
+| 4217 | Rampant | Veilr | M3n4c!n9 $p4rk | 135.0 | 1197 | 188.5 | osu_mirror/community | `osu_mirror\2511321\Veilr - Rampant (Miander) [M3n4c!n9 $p4rk].mc` |
+| 4218 | Random Chordjackslop Pack | Various Artists | Aziya - bbydoll (10 1 Frenchcore Bootleg) | 200.0 | 425 | 19.8 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [Aziya - bbydoll (10 1 Frenchcore Bootleg)].mc` |
+| 4219 | Random Chordjackslop Pack | Various Artists | BEMANI Sound Team "HuMeR" feat. Fernweh - Sakazuki | 280.0 | 393 | 17.1 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [BEMANI Sound Team HuMeR feat. Fernweh - Sakazuki].mc` |
+| 4220 | Random Chordjackslop Pack | Various Artists | Guobao - NO BATIDAO | 130.0 | 472 | 29.5 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [Guobao - NO BATIDAO].mc` |
+| 4221 | Random Chordjackslop Pack | Various Artists | molly - Strangers | 200.0 | 720 | 57.6 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [molly - Strangers].mc` |
+| 4222 | Random Chordjackslop Pack | Various Artists | Uchida Aya - Sign | 102.0 | 695 | 38.4 | osu_mirror/community | `osu_mirror\2610216\Various Artists - Random Chordjackslop Pack (Tien) [Uchida Aya - Sign].mc` |
+| 4223 | RARARA | sheirara | Beginner | 77.5 | 289 | 168.0 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Beginner].mc` |
+| 4224 | RARARA | sheirara | Easy | 77.5 | 474 | 168.4 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Easy].mc` |
+| 4225 | RARARA | sheirara | Hard | 77.5 | 1086 | 168.4 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Hard].mc` |
+| 4226 | RARARA | sheirara | Normal | 77.5 | 771 | 168.4 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [Normal].mc` |
+| 4227 | RARARA | sheirara | RAAAAAAAAAAAAA | 77.5 | 1100 | 168.0 | osu_mirror/community | `osu_mirror\2643833\sheirara - RARARA (Pyra-san) [RAAAAAAAAAAAAA].mc` |
+| 4228 | Rasputin | Boney M. | Lover of the Saudi Queen | 66.77 | 3531 | 201.5 | osu_mirror/community | `osu_mirror\2578823\Boney M. - Rasputin (Drimba) [Lover of the Saudi Queen].mc` |
+| 4229 | re://VERSE | Camellia feat. chiisana | in://VERSION | 160.0 | 4574 | 240.4 | osu_mirror/community | `osu_mirror\2438731\Camellia feat. chiisana - reVERSE (elexire) [Inversion].mc` |
+| 4230 | Realize (TV Size) | Tamaki Nami | eZmmR's Hard | 136.2 | 797 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [eZmmR's Hard].mc` |
+| 4231 | Realize (TV Size) | Tamaki Nami | Freedom | 136.2 | 1050 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [Freedom].mc` |
+| 4232 | Realize (TV Size) | Tamaki Nami | LLENN's Easy | 136.2 | 305 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [LLENN's Easy].mc` |
+| 4233 | Realize (TV Size) | Tamaki Nami | Normal | 136.2 | 470 | 93.2 | osu_mirror/community | `osu_mirror\2514525\Tamaki Nami - Realize (TV Size) (FerdiXIA-) [Normal].mc` |
+| 4234 | REBOUND | QWER | [4K] Ferdi's Intermediate | 180.0 | 1097 | 207.5 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Ferdi's Intermediate].mc` |
+| 4235 | REBOUND | QWER | [4K] Gahyeonln's Hyper | 180.0 | 1838 | 209.2 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Gahyeonln's Hyper].mc` |
+| 4236 | REBOUND | QWER | [4K] Q | 180.0 | 1782 | 209.3 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Q].mc` |
+| 4237 | REBOUND | QWER | [4K] Sava's Basic | 180.0 | 603 | 207.0 | osu_mirror/community | `osu_mirror\2384836\QWER - REBOUND (Ilham) [[4K] Sava's Basic].mc` |
+| 4238 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Easy | 145.0 | 180 | 82.8 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Easy].mc` |
+| 4239 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Ferdi's Hard | 145.0 | 627 | 86.1 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Ferdi's Hard].mc` |
+| 4240 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Memories | 145.0 | 629 | 86.1 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Memories].mc` |
+| 4241 | Recollect (TV Size) | Suzuki Konomi feat. Ashnikko | Normal | 145.0 | 352 | 84.4 | osu_mirror/community | `osu_mirror\2533319\Suzuki Konomi feat. Ashnikko - Recollect (TV Size) (Syadow-) [Normal].mc` |
+| 4242 | Regret and Dream | D-D-Dice | -as the Night's, Reincarnation- | 150.0 | 1202 | 158.6 | osu_mirror/community | `osu_mirror\2510738\D-D-Dice - Regret and Dream (AelSan) [-as the Night's, Reincarnation-].mc` |
+| 4243 | Regret and Dream | D-D-Dice | Another | 150.0 | 1230 | 158.6 | osu_mirror/community | `osu_mirror\2510738\D-D-Dice - Regret and Dream (AelSan) [Another].mc` |
+| 4244 | Regret and Dream | D-D-Dice | cherrychou's Expert | 150.0 | 1100 | 158.6 | osu_mirror/community | `osu_mirror\2510738\D-D-Dice - Regret and Dream (AelSan) [cherrychou's Expert].mc` |
+| 4245 | Regret and Dream | D-D-Dice | cherrychou's Insane | 150.0 | 1260 | 158.6 | osu_mirror/community | `osu_mirror\2510738\D-D-Dice - Regret and Dream (AelSan) [cherrychou's Insane].mc` |
+| 4246 | Reikoku Assassins | Xyris | Hiyoku: Twin Blades Feat. Magi | 220.0 | 1957 | 298.9 | osu_mirror/community | `osu_mirror\2287693\Xyris - Reikoku Assassins (My Angel Chen) [Hiyoku Twin Blades Feat. Magi].mc` |
+| 4247 | Reimei | Kagetora. | Eternal Blossom | 185.0 | 718 | 138.6 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Eternal Blossom].mc` |
+| 4248 | Reimei | Kagetora. | Hard | 185.0 | 875 | 139.3 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Hard].mc` |
+| 4249 | Reimei | Kagetora. | Insane | 185.0 | 1057 | 139.6 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Insane].mc` |
+| 4250 | Reimei | Kagetora. | Normal | 185.0 | 315 | 134.9 | osu_mirror/community | `osu_mirror\2531098\Kagetora. - Reimei (lik_0) [Normal].mc` |
+| 4251 | Reizoko Saga | Reizoko Cj | The Legend of the Fridge | 270.0 | 4460 | 259.4 | osu_mirror/community | `osu_mirror\2473516\Reizoko Cj - Reizoko Saga (Niko_Plays) [The Legend of the Fridge].mc` |
+| 4252 | Reply | kz feat. Kaguya (CV: Yuko Natsuyoshi) | "Hey, Iroha..." | 170.0 | 1002 | 264.9 | osu_mirror/community | `osu_mirror\2500422\kz feat. Kaguya (CV Yuko Natsuyoshi) - Reply (Popy) [Hey, Iroha...].mc` |
+| 4253 | RESETT (feat. yeil) | VOLTA & ariiol | HARD. | 150.0 | 645 | 128.1 | osu_mirror/community | `osu_mirror\2480591\VOLTA & ariiol - RESETT (feat. yeil) (AlexDunk) [Hard.].mc` |
+| 4254 | RESETT (feat. yeil) | VOLTA & ariiol | REWIND. | 150.0 | 710 | 128.1 | osu_mirror/community | `osu_mirror\2480591\VOLTA & ariiol - RESETT (feat. yeil) (AlexDunk) [rewind.].mc` |
+| 4255 | Restful Day with the Rabbits | WangleLine | Azukkii's Intermediate | 58.0 | 153 | 89.7 | osu_mirror/community | `osu_mirror\2554595\WangleLine - Restful Day with the Rabbits (-Zell) [Azukkii's Intermediate].mc` |
+| 4256 | Restful Day with the Rabbits | WangleLine | Beginner | 58.0 | 106 | 89.7 | osu_mirror/community | `osu_mirror\2554595\WangleLine - Restful Day with the Rabbits (-Zell) [Beginner].mc` |
+| 4257 | Restful Day with the Rabbits | WangleLine | Cutie Rabbits | 58.0 | 190 | 89.1 | osu_mirror/community | `osu_mirror\2554595\WangleLine - Restful Day with the Rabbits (-Zell) [Cutie Rabbits].mc` |
+| 4258 | Retry Now | NAKISO feat. Hatsune Miku | Advanced | 145.0 | 719 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Advanced].mc` |
+| 4259 | Retry Now | NAKISO feat. Hatsune Miku | Duckys' Rebirth | 145.0 | 1370 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Duckys' Rebirth].mc` |
+| 4260 | Retry Now | NAKISO feat. Hatsune Miku | Easy | 145.0 | 426 | 120.0 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Easy].mc` |
+| 4261 | Retry Now | NAKISO feat. Hatsune Miku | Kori's Hard | 145.0 | 1059 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Kori's Hard].mc` |
+| 4262 | Retry Now | NAKISO feat. Hatsune Miku | Normal | 145.0 | 533 | 119.6 | osu_mirror/community | `osu_mirror\2416151\NAKISO feat. Hatsune Miku - Retry Now (LeCrazy) [Normal].mc` |
+| 4263 | Retry Now feat. Hatsune Miku | NAKISO | Hard | 145.0 | 1217 | 119.2 | osu_mirror/community | `osu_mirror\2419665\NAKISO - Retry Now feat. Hatsune Miku (Lude) [Hard].mc` |
+| 4264 | Retry Now feat. Hatsune Miku | NAKISO | Normal | 145.0 | 888 | 119.2 | osu_mirror/community | `osu_mirror\2419665\NAKISO - Retry Now feat. Hatsune Miku (Lude) [Normal].mc` |
+| 4265 | Retry Now feat. Hatsune Miku | NAKISO | Reset | 145.0 | 1207 | 119.2 | osu_mirror/community | `osu_mirror\2419665\NAKISO - Retry Now feat. Hatsune Miku (Lude) [Reset].mc` |
+| 4266 | reunion (TV Size) | ClariS | Hard | 135.0 | 560 | 84.9 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Hard].mc` |
+| 4267 | reunion (TV Size) | ClariS | Hyper | 135.0 | 470 | 85.1 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Hyper].mc` |
+| 4268 | reunion (TV Size) | ClariS | Memories | 135.0 | 480 | 84.6 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Memories].mc` |
+| 4269 | reunion (TV Size) | ClariS | Normal | 135.0 | 479 | 84.9 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Normal].mc` |
+| 4270 | reunion (TV Size) | ClariS | Sava's Easy | 135.0 | 175 | 85.1 | osu_mirror/community | `osu_mirror\2539345\ClariS - reunion (TV Size) (Syrion-) [Sava's Easy].mc` |
+| 4271 | Rift Walker | Kry.exe | Collab Hyper | 12.5 | 1672 | 160.4 | osu_mirror/community | `osu_mirror\2434670\Kry.exe - Rift Walker (-Enma-) [Collab Hyper].mc` |
+| 4272 | Rift Walker | Kry.exe | Menphiss' Insane | 12.5 | 2325 | 160.5 | osu_mirror/community | `osu_mirror\2434670\Kry.exe - Rift Walker (-Enma-) [Menphiss' Insane].mc` |
+| 4273 | Rift Walker | Kry.exe | Singularity Break | 12.5 | 2486 | 160.5 | osu_mirror/community | `osu_mirror\2434670\Kry.exe - Rift Walker (-Enma-) [Singularity Break].mc` |
+| 4274 | Rigid Memory | Xyris & Kagetora. feat. Ethereal_Winter | Painted Dreams - of endless skies. | 210.0 | 1579 | 301.5 | osu_mirror/community | `osu_mirror\2419624\Xyris & Kagetora. feat. Ethereal_Winter - Rigid Memory (Sirekuan) [Painted Dreams - of endless skies.].mc` |
+| 4275 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Advanced | 208.0 | 1002 | 204.2 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - RIME-chan no Fukuoka Trip Kisoukyoku (Astronian) [Advanced].mc` |
+| 4276 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Hyper | 208.0 | 1158 | 204.2 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - RIME-chan no Fukuoka Trip Kisoukyoku (Astronian) [Hyper].mc` |
+| 4277 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Insane | 208.0 | 1174 | 204.2 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - Rime-chan no Fukuoka Trip Kisoukyoku (Astronian) [Insane].mc` |
+| 4278 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Move to Fukuoka! | 208.0 | 1082 | 203.5 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - Rime-chan no Fukuoka Trip Kisoukyoku (Astronian) [Move to Fukuoka!].mc` |
+| 4279 | RIME-chan no Fukuoka Trip Kisoukyoku | Minami no Minami | Normal | 208.0 | 767 | 205.0 | osu_mirror/community | `osu_mirror\2505433\Minami no Minami - RIME-chan no Fukuoka Trip Kisoukyoku (Astronian) [Normal].mc` |
+| 4280 | Ripples (DJ Noriken Remix) | aran | Supernova | 170.0 | 2118 | 307.0 | osu_mirror/community | `osu_mirror\2489538\aran - Ripples (DJ Noriken Remix) (Ppass) [Supernova].mc` |
+| 4281 | Rockefeller Street | Getter Jaani | Showtime | 130.0 | 461 | 184.2 | osu_mirror/community | `osu_mirror\2534222\Getter Jaani - Rockefeller Street (GDBlack) [Showtime].mc` |
+| 4282 | Rococo | MIMI | Blooming // Aratoji's Normal | 184.0 | 1254 | 218.3 | osu_mirror/community | `osu_mirror\2413334\MIMI - Rococo ([TCD] Ena-suki) [Blooming  Aratoji's Normal].mc` |
+| 4283 | Rococo | MIMI | Radiance // Hard | 184.0 | 1455 | 218.3 | osu_mirror/community | `osu_mirror\2413334\MIMI - Rococo ([TCD] Ena-suki) [Radiance  Hard].mc` |
+| 4284 | Rococo | MIMI | Swaying Nostalgia // Hyper | 184.0 | 1197 | 218.3 | osu_mirror/community | `osu_mirror\2413334\MIMI - Rococo ([TCD] Ena-suki) [Swaying Nostalgia  Hyper].mc` |
+| 4285 | Romansa Cinta Semu | Nekodachi | Aku Akan Tetap Mencintaimu, Meski Esok Tak Lagi Ada Kata "Kita" | 195.0 | 2259 | 238.6 | osu_mirror/community | `osu_mirror\2456002\Nekodachi - Romansa Cinta Semu (Savageeeee) [Aku Akan Tetap Mencintaimu, Meski Esok Tak Lagi Ada Kata Kita].mc` |
+| 4286 | Rose | cornandbeans | x1.0 / 182.40bpm | 182.4 | 1683 | 146.1 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.0  182.40bpm].mc` |
+| 4287 | Rose | cornandbeans | x1.1 / 200.64bpm | 200.64 | 1683 | 132.8 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.1  200.64bpm].mc` |
+| 4288 | Rose | cornandbeans | x1.2 / 218.88bpm | 218.88 | 1683 | 121.7 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.2  218.88bpm].mc` |
+| 4289 | Rose | cornandbeans | x1.3 / 237.12bpm | 237.12 | 1683 | 112.3 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.3  237.12bpm].mc` |
+| 4290 | Rose | cornandbeans | x1.4 / 255.36bpm | 255.36 | 1683 | 104.3 | osu_mirror/community | `osu_mirror\584237\Cornandbeans - Rose (frolica) [x1.4  255.36bpm].mc` |
+| 4291 | Roze | MiddleIsland | A rising tide of grief, the regret of all I left uncherished. | 88.5 | 727 | 152.5 | osu_mirror/community | `osu_mirror\2577589\MiddleIsland - Roze (Carpihat) [A rising tide of grief, the regret of all I left uncherished.].mc` |
+| 4292 | RTRT | Mili | UrMyO0Rt | 132.0 | 852 | 200.3 | osu_mirror/community | `osu_mirror\2486763\Mili - RTRT (Kagetayori) [UrMyO0Rt].mc` |
+| 4293 | Runaway World (TV Size) | fhana | Easy | 174.0 | 314 | 96.9 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Easy].mc` |
+| 4294 | Runaway World (TV Size) | fhana | Hard | 174.0 | 891 | 97.2 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Hard].mc` |
+| 4295 | Runaway World (TV Size) | fhana | Insane | 174.0 | 981 | 96.9 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Insane].mc` |
+| 4296 | Runaway World (TV Size) | fhana | Normal | 174.0 | 559 | 96.9 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [Normal].mc` |
+| 4297 | Runaway World (TV Size) | fhana | To a new world | 174.0 | 487 | 91.6 | osu_mirror/community | `osu_mirror\2493152\fhana - Runaway World (TV Size) (ML-ysg) [To a new world].mc` |
+| 4298 | Ruri no Tori | Shimotsuki Haruka | Azure | 97.0 | 1013 | 246.8 | osu_mirror/community | `osu_mirror\2522324\Shimotsuki Haruka - Ruri no Tori (Onta_Bekasi) [Azure].mc` |
+| 4299 | Rush | Troye Sivan | Extra | 126.0 | 1982 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [extra].mc` |
+| 4300 | Rush | Troye Sivan | Hard | 126.0 | 1460 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [hard].mc` |
+| 4301 | Rush | Troye Sivan | Hush (w/ guden) | 126.0 | 2193 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [Hush (w guden)].mc` |
+| 4302 | Rush | Troye Sivan | Insane | 126.0 | 1765 | 137.1 | osu_mirror/community | `osu_mirror\2564156\Troye Sivan - Rush (Sakisagee) [insane].mc` |
+| 4303 | Russian Lullaby | E-Type | blin 1.05x (155bpm) | 155.43 | 2745 | 172.7 | osu_mirror/community | `osu_mirror\1538061\E-Type - Russian Lullaby (Jole) [blin 1.05x (155bpm)].mc` |
+| 4304 | Russian Lullaby | E-Type | blin 1.15x (170bpm) | 170.23 | 2745 | 157.7 | osu_mirror/community | `osu_mirror\1538061\E-Type - Russian Lullaby (Jole) [blin 1.15x (170bpm)].mc` |
+| 4305 | Russian Lullaby | E-Type | blin 1.1x (163bpm) | 162.83 | 2745 | 164.9 | osu_mirror/community | `osu_mirror\1538061\E-Type - Russian Lullaby (Jole) [blin 1.1x (163bpm)].mc` |
+| 4306 | Russian Lullaby | E-Type | blin 1.25x (185bpm) | 185.03 | 2745 | 145.1 | osu_mirror/community | `osu_mirror\1538061\E-Type - Russian Lullaby (Jole) [blin 1.25x (185bpm)].mc` |
+| 4307 | Russian Lullaby | E-Type | blin 1.2x (178bpm) | 177.63 | 2745 | 151.2 | osu_mirror/community | `osu_mirror\1538061\E-Type - Russian Lullaby (Jole) [blin 1.2x (178bpm)].mc` |
+| 4308 | Russian Lullaby | E-Type | blin 1.3x (192bpm) | 192.44 | 2745 | 139.5 | osu_mirror/community | `osu_mirror\1538061\E-Type - Russian Lullaby (Jole) [blin 1.3x (192bpm)].mc` |
+| 4309 | Russian Lullaby | E-Type | blin | 148.03 | 2745 | 181.4 | osu_mirror/community | `osu_mirror\1538061\E-Type - Russian Lullaby (Jole) [blin].mc` |
+| 4310 | S.A.T.E.L.L.I.T.E. | Camellia | 3683 / 2288 | 55.0 | 2989 | 270.6 | osu_mirror/community | `osu_mirror\2523700\Camellia - S.A.T.E.L.L.I.T.E. (UnCraftable) [3683  2288].mc` |
+| 4311 | S.A.T.E.L.L.I.T.E. | Camellia | Frank's Stargazer / Extra | 55.0 | 2447 | 281.2 | osu_mirror/community | `osu_mirror\2523700\Camellia - S.A.T.E.L.L.I.T.E. (UnCraftable) [Frank's Stargazer  Extra].mc` |
+| 4312 | Sacrifice | Ouse Akira | The truth | 105.0 | 2944 | 214.0 | osu_mirror/community | `osu_mirror\2211150\Ouse Akira - Sacrifice (Yudii) [The truth].mc` |
+| 4313 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Azukkii's Normal | 186.0 | 372 | 87.4 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Azukkii's Normal].mc` |
+| 4314 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Dereck's Hard | 186.0 | 503 | 87.4 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Dereck's Hard].mc` |
+| 4315 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Diablo~ | 186.0 | 703 | 87.3 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Diablo~].mc` |
+| 4316 | Saiaku na Hi demo Anata ga Suki. (TV Size) | Serizawa Yu | Lizyuu's Easy | 186.0 | 245 | 87.4 | osu_mirror/community | `osu_mirror\2534093\Serizawa Yu - Saiaku na Hi demo Anata ga Suki. (TV Size) (mirac1e_xf) [Lizyuu's Easy].mc` |
+| 4317 | Sakura no Zenya | Kano | Insane | 178.0 | 2348 | 353.9 | osu_mirror/community | `osu_mirror\2366321\Kano - Sakura no Zenya ([SHK]Boring) [Insane].mc` |
+| 4318 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina (Hard) | 180.0 | 4518 | 261.0 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina (Hard)].mc` |
+| 4319 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.1 (Hard) | 198.0 | 4518 | 237.3 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.1 (Hard)].mc` |
+| 4320 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.2 (Hard) | 216.0 | 4518 | 217.5 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.2 (Hard)].mc` |
+| 4321 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.3 (Hard) | 234.0 | 4518 | 200.8 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.3 (Hard)].mc` |
+| 4322 | Salgo Pa' La Calle feat. Randy | Daddy Yankee | Stamina x1.4 (Hard) | 252.0 | 4518 | 186.4 | osu_mirror/community | `osu_mirror\1169818\Daddy Yankee - Salgo Pa' La Calle feat. Randy (DmX) [Stamina x1.4 (Hard)].mc` |
+| 4323 | Samba do Nosso Ceu | Gingerbee | Flores decapitadas | 101.0 | 2127 | 208.4 | osu_mirror/community | `osu_mirror\2423198\Gingerbee - Samba do Nosso Ceu (Relae) [Flores decapitadas].mc` |
+| 4324 | Sanzui | Kou! | Cataracta | 200.0 | 3678 | 167.1 | osu_mirror/community | `osu_mirror\2634383\Kou! - Sanzui (_shu) [Cataracta].mc` |
+| 4325 | Sanzui | Kou! | Nicknem's Fluvius | 200.0 | 3255 | 167.2 | osu_mirror/community | `osu_mirror\2634383\Kou! - Sanzui (_shu) [Nicknem's Fluvius].mc` |
+| 4326 | Satelite:memories(Rework) | Qutabire | Advanced | 202.0 | 902 | 132.9 | osu_mirror/community | `osu_mirror\2292728\Qutabire - Satelitememories(Rework) (mirac1e_xf) [Advanced].mc` |
+| 4327 | Satelite:memories(Rework) | Qutabire | Hyper | 202.0 | 1247 | 132.9 | osu_mirror/community | `osu_mirror\2292728\Qutabire - Satelitememories(Rework) (mirac1e_xf) [Hyper].mc` |
+| 4328 | Satelite:memories(Rework) | Qutabire | Together forever | 202.0 | 1261 | 132.9 | osu_mirror/community | `osu_mirror\2292728\Qutabire - Satelitememories(Rework) (mirac1e_xf) [Together forever].mc` |
+| 4329 | Satellite (Sewerslvt Edit) | OceanLab | Spacial Tension | 174.0 | 2133 | 155.9 | osu_mirror/community | `osu_mirror\2278655\Oceanlab - Satellite (Sewerslvt Edit) (Znow) [Spacial Tension].mc` |
+| 4330 | Savior (feat. Baby Keem & Sam Dew) | Kendrick Lamar | Independence | 95.0 | 2595 | 212.2 | osu_mirror/community | `osu_mirror\2330826\Kendrick Lamar - Savior (feat. Baby Keem & Sam Dew) (Paraxia) [Independence].mc` |
+| 4331 | Scamper | Ik4sumi | ~~ | 128.0 | 1386 | 209.8 | osu_mirror/community | `osu_mirror\2416350\Ik4sumi - Scamper (wIntEr7z) [~~].mc` |
+| 4332 | Schur's Theorem | w_tre respect for AT&HU | Hard | 180.0 | 1091 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [Hard].mc` |
+| 4333 | Schur's Theorem | w_tre respect for AT&HU | Insane | 180.0 | 1344 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [Insane].mc` |
+| 4334 | Schur's Theorem | w_tre respect for AT&HU | Normal | 180.0 | 767 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [Normal].mc` |
+| 4335 | Schur's Theorem | w_tre respect for AT&HU | The order hidden within 'complete disorder' | 180.0 | 1537 | 99.3 | osu_mirror/community | `osu_mirror\2538971\w_tre respect for AT&HU - Schur's Theorem (Carpihat) [The order hidden within 'complete disorder'].mc` |
+| 4336 | Science (feat. Kasane Teto SV) | MIMI | First Law of Emotions // Chen's Easy | 188.0 | 599 | 182.7 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [First Law of Emotions  Chen's Easy].mc` |
+| 4337 | Science (feat. Kasane Teto SV) | MIMI | Second Law of Emotions // Revv's Normal | 188.0 | 1123 | 183.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [Second Law of Emotions  Revv's Normal].mc` |
+| 4338 | Science (feat. Kasane Teto SV) | MIMI | The Ultimate Theorem of Life // Insane | 188.0 | 1781 | 183.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [The Ultimate Theorem of Life  Insane].mc` |
+| 4339 | Science (feat. Kasane Teto SV) | MIMI | Third Law of Emotions // Hard | 188.0 | 1454 | 183.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [Third Law of Emotions  Hard].mc` |
+| 4340 | Science (feat. Kasane Teto SV) | MIMI | Zeroth Law of Emotions // Avel's Beginner | 188.0 | 384 | 172.2 | osu_mirror/community | `osu_mirror\2477002\MIMI - Science (feat. Kasane Teto SV) ([TCD] Ena-suki) [Zeroth Law of Emotions  Avel's Beginner].mc` |
+| 4341 | Science (feat. Kasane Teto SV) | MIMI | Easy | 188.0 | 718 | 183.2 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [Easy].mc` |
+| 4342 | Science (feat. Kasane Teto SV) | MIMI | Endless Fare's Normal | 188.0 | 856 | 183.2 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [Endless Fare's Normal].mc` |
+| 4343 | Science (feat. Kasane Teto SV) | MIMI | Love! | 188.0 | 2220 | 183.2 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [Love!].mc` |
+| 4344 | Science (feat. Kasane Teto SV) | MIMI | nai's Hard | 188.0 | 1362 | 182.9 | osu_mirror/community | `osu_mirror\2562340\MIMI - Science (feat. Kasane Teto SV) (VividCycle) [nai's Hard].mc` |
+| 4345 | Sea of Stars | Kyutatsuki | Sea of Rice | 256.0 | 5425 | 300.0 | osu_mirror/community | `osu_mirror\2483083\Kyutatsuki - Sea of Stars (devilcity) [Sea of Rice].mc` |
+| 4346 | second nature | Patrick Hizon, Chevy | easy | 120.0 | 346 | 134.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [easy].mc` |
+| 4347 | second nature | Patrick Hizon, Chevy | hard | 120.0 | 467 | 135.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [hard].mc` |
+| 4348 | second nature | Patrick Hizon, Chevy | i love you so much | 120.0 | 584 | 135.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [i love you so much].mc` |
+| 4349 | second nature | Patrick Hizon, Chevy | normal | 120.0 | 368 | 135.5 | osu_mirror/community | `osu_mirror\2275128\Patrick Hizon, Chevy - second nature (SimpForTakagi) [normal].mc` |
+| 4350 | SECRET BOSS | Camellia | R/E/V/E/L/A/T/I/O/N | 220.0 | 2388 | 266.5 | osu_mirror/community | `osu_mirror\2254202\Camellia - SECRET BOSS (soup3r) [REVELATION].mc` |
+| 4351 | Seculo Seculorum | Rabbit House feat. NezMayo | mmttyy's Whisper // Insane | 210.0 | 1204 | 136.9 | osu_mirror/community | `osu_mirror\2537170\Rabbit House feat. NezMayo - Seculo Seculorum ([GB]Cinelia) [mmttyy's Whisper  Insane].mc` |
+| 4352 | Seculo Seculorum | Rabbit House feat. NezMayo | Resonance // Extra | 210.0 | 1024 | 137.1 | osu_mirror/community | `osu_mirror\2537170\Rabbit House feat. NezMayo - Seculo Seculorum ([GB]Cinelia) [Resonance  Extra].mc` |
+| 4353 | Seculo Seculorum | Rabbit House feat. NezMayo | V1do's Echoes // Expert | 210.0 | 1272 | 137.1 | osu_mirror/community | `osu_mirror\2537170\Rabbit House feat. NezMayo - Seculo Seculorum ([GB]Cinelia) [V1do's Echoes  Expert].mc` |
+| 4354 | See you next time! | takehirotei | Ares' Easy | 120.0 | 291 | 122.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Ares' Easy].mc` |
+| 4355 | See you next time! | takehirotei | Hard | 120.0 | 608 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Hard].mc` |
+| 4356 | See you next time! | takehirotei | McEndu's Beginner | 120.0 | 87 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [McEndu's Beginner].mc` |
+| 4357 | See you next time! | takehirotei | Normal | 120.0 | 403 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Normal].mc` |
+| 4358 | See you next time! | takehirotei | Silent Tears of Farewell | 120.0 | 731 | 126.0 | osu_mirror/community | `osu_mirror\2146383\takehirotei - See you next time! (Donpa-chan) [Silent Tears of Farewell].mc` |
+| 4359 | SEED Stole the Precious Things. | Nakarin DX | seeeed | 170.0 | 655 | 120.7 | osu_mirror/community | `osu_mirror\986723\Nakarin DX - SEED Stole the Precious Things. (No0b) [seeeed].mc` |
+| 4360 | Seisen (feat. nayuta) | ARForest | Advanced | 200.0 | 1029 | 181.6 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Advanced].mc` |
+| 4361 | Seisen (feat. nayuta) | ARForest | Apol's Insane | 200.0 | 830 | 181.8 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Apol's Insane].mc` |
+| 4362 | Seisen (feat. nayuta) | ARForest | Bandusty's Another | 200.0 | 804 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Bandusty's Another].mc` |
+| 4363 | Seisen (feat. nayuta) | ARForest | Basic | 200.0 | 346 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Basic].mc` |
+| 4364 | Seisen (feat. nayuta) | ARForest | Beginner | 200.0 | 540 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Beginner].mc` |
+| 4365 | Seisen (feat. nayuta) | ARForest | Hard | 200.0 | 1373 | 181.9 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Hard].mc` |
+| 4366 | Seisen (feat. nayuta) | ARForest | Hyper | 200.0 | 1324 | 182.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Hyper].mc` |
+| 4367 | Seisen (feat. nayuta) | ARForest | Impermanence | 200.0 | 547 | 178.8 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Impermanence].mc` |
+| 4368 | Seisen (feat. nayuta) | ARForest | Intermediate | 200.0 | 671 | 181.9 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Intermediate].mc` |
+| 4369 | Seisen (feat. nayuta) | ARForest | Standard | 200.0 | 1010 | 181.1 | osu_mirror/community | `osu_mirror\2508317\ARForest - Seisen (feat. nayuta) (Pyra-san) [Standard].mc` |
+| 4370 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Advanced | 121.0 | 290 | 80.4 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Advanced].mc` |
+| 4371 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Extra | 121.0 | 544 | 80.5 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Extra].mc` |
+| 4372 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Hyper | 121.0 | 438 | 80.4 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Hyper].mc` |
+| 4373 | Seishun Kyousoukyoku (TV Size) | Sambomaster | Retrieval | 121.0 | 670 | 80.3 | osu_mirror/community | `osu_mirror\2480934\Sambomaster - Seishun Kyousoukyoku (TV Size) (wddg) [Retrieval].mc` |
+| 4374 | SEISHUN://NO_HACKING | takehirotei | NYA://VIVID_SPARKLING | 179.0 | 2300 | 430.7 | osu_mirror/community | `osu_mirror\2503449\takehirotei - SEISHUNNO_HACKING (nyamushi) [NYAVIVID_SPARKLING].mc` |
+| 4375 | SEISHUN://NO_HACKING | takehirotei | console.log('HELLO://WORLD') | 179.0 | 3362 | 379.6 | osu_mirror/community | `osu_mirror\2522384\takehirotei - SEISHUNNO_HACKING (kartofle) [console.log('HELLOWORLD')].mc` |
+| 4376 | SELENE-UI (v2.0_release) | Kou! | Nightfall.exe | 166.0 | 1970 | 286.8 | osu_mirror/community | `osu_mirror\2562207\Kou! - SELENE-UI (v2.0_release) (S k y y -) [Nightfall.exe].mc` |
+| 4377 | Self-affirmation Explosion! Love Love Song | Fujita Kotone (CV: Iida Hikaru) | Suki! | 190.0 | 1883 | 223.5 | osu_mirror/community | `osu_mirror\2511760\Fujita Kotone (CV Iida Hikaru) - Self-affirmation Explosion! Love Love Song (VividCycle) [Suki!].mc` |
+| 4378 | Sense (TV Size) | BAND-MAID | Extra | 195.0 | 913 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Extra].mc` |
+| 4379 | Sense (TV Size) | BAND-MAID | eZmmR's Hard | 195.0 | 609 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [eZmmR's Hard].mc` |
+| 4380 | Sense (TV Size) | BAND-MAID | Forthnos' Normal | 195.0 | 380 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Forthnos' Normal].mc` |
+| 4381 | Sense (TV Size) | BAND-MAID | Insane | 195.0 | 786 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Insane].mc` |
+| 4382 | Sense (TV Size) | BAND-MAID | Sya's Easy | 195.0 | 190 | 64.4 | osu_mirror/community | `osu_mirror\2521501\BAND-MAID - Sense (TV Size) (Ainer) [Sya's Easy].mc` |
+| 4383 | Senuere | Oxalis | Veil of Fate | 130.0 | 3052 | 277.3 | osu_mirror/community | `osu_mirror\2559435\Oxalis - Senuere (wIntEr7z) [Veil of Fate].mc` |
+| 4384 | seraphim ii | Robin Callaway | i saw an angel in the mirror | 193.0 | 3577 | 240.6 | osu_mirror/community | `osu_mirror\2623104\Robin Callaway - seraphim ii (devilcity) [i saw an angel in the mirror].mc` |
+| 4385 | SEV-26 | Laur | Persecution of the Heart | 180.0 | 8387 | 322.2 | osu_mirror/community | `osu_mirror\2511082\Laur - SEV-26 (mohca) [Persecution of the Heart].mc` |
+| 4386 | SEV-26 | Laur | Deranged Desire // feat. Auros | 180.0 | 4214 | 322.1 | osu_mirror/community | `osu_mirror\2513401\Laur - SEV-26 (Yutori Natsu) [Deranged Desire  feat. Auros].mc` |
+| 4387 | SEV-26 | Laur | Memoriae Effervescentes | 180.0 | 2093 | 322.1 | osu_mirror/community | `osu_mirror\2529695\Laur - SEV-26 (Ainer) [Memoriae Effervescentes].mc` |
+| 4388 | Seven Style | Adust Rain | First Stage | 280.0 | 2186 | 150.0 | osu_mirror/community | `osu_mirror\2537197\Adust Rain - Seven Style (Siroocake) [First Stage].mc` |
+| 4389 | Seven Style | Adust Rain | Last Stage | 280.0 | 3036 | 150.0 | osu_mirror/community | `osu_mirror\2537197\Adust Rain - Seven Style (Siroocake) [Last Stage].mc` |
+| 4390 | Seven Style | Adust Rain | Next Stage | 280.0 | 2634 | 150.0 | osu_mirror/community | `osu_mirror\2537197\Adust Rain - Seven Style (Siroocake) [Next Stage].mc` |
+| 4391 | Shadows feat. Such | Neko Hacker | aki's Normal | 170.0 | 489 | 111.2 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [aki's Normal].mc` |
+| 4392 | Shadows feat. Such | Neko Hacker | Azukkii's Advanced | 170.0 | 591 | 110.8 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [Azukkii's Advanced].mc` |
+| 4393 | Shadows feat. Such | Neko Hacker | Fragments | 170.0 | 861 | 111.2 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [Fragments].mc` |
+| 4394 | Shadows feat. Such | Neko Hacker | mirac1e's Hard | 170.0 | 629 | 94.2 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [mirac1e's Hard].mc` |
+| 4395 | Shadows feat. Such | Neko Hacker | Neon's Easy | 170.0 | 159 | 109.8 | osu_mirror/community | `osu_mirror\2555651\Neko Hacker - Shadows feat. Such (-Zell) [Neon's Easy].mc` |
+| 4396 | Shakunetsu Candle Master | Camellia feat. Nanahira | Little Pyromaniac Girl | 223.0 | 3678 | 259.7 | osu_mirror/community | `osu_mirror\2543797\Camellia feat. Nanahira - Shakunetsu Candle Master (Stereotype) [Little Pyromaniac Girl].mc` |
+| 4397 | SHARAKU | KASHIWA Daisuke | AUTOTELIC'S NORMAL | 162.0 | 1061 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [AUTOTELIC'S NORMAL].mc` |
+| 4398 | SHARAKU | KASHIWA Daisuke | DOUR'S INSANE | 162.0 | 2119 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [Dour's Insane].mc` |
+| 4399 | SHARAKU | KASHIWA Daisuke | MYSTIC'S HARD | 162.0 | 1640 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [MYSTIC'S HARD].mc` |
+| 4400 | SHARAKU | KASHIWA Daisuke | UKIYO | 162.0 | 2608 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [UKIYO].mc` |
+| 4401 | SHARAKU | KASHIWA Daisuke | VIVI'S EASY | 162.0 | 409 | 189.4 | osu_mirror/community | `osu_mirror\2424991\KASHIWA Daisuke - SHARAKU (0DZ0) [VIVI'S EASY].mc` |
+| 4402 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Expert | 172.0 | 937 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Expert].mc` |
+| 4403 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Extra | 172.0 | 1177 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Extra].mc` |
+| 4404 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Hard | 172.0 | 664 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Hard].mc` |
+| 4405 | Shellshock (feat. Foreign Beggars) (Cut Ver.) | Noisia | Menphiss' Insane | 172.0 | 766 | 89.3 | osu_mirror/community | `osu_mirror\2588771\Noisia - Shellshock (feat. Foreign Beggars) (Cut Ver.) (-Enma-) [Menphiss' Insane].mc` |
+| 4406 | Shen Xian Shuo Ta Ye Bu Dong | ChiliChill | ManiMani | 108.0 | 1206 | 186.2 | osu_mirror/community | `osu_mirror\2489038\ChiliChill - Shen Xian Shuo Ta Ye Bu Dong (NineSey) [ManiMani].mc` |
+| 4407 | Shiawase (VIP) | Dion Timmer | 1.05x | 157.5 | 3295 | 146.2 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.05x].mc` |
+| 4408 | Shiawase (VIP) | Dion Timmer | 1.15x | 172.5 | 3295 | 133.5 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.15x].mc` |
+| 4409 | Shiawase (VIP) | Dion Timmer | 1.1x | 165.0 | 3295 | 139.5 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.1x].mc` |
+| 4410 | Shiawase (VIP) | Dion Timmer | 1.2x | 180.0 | 3295 | 127.9 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [1.2x].mc` |
+| 4411 | Shiawase (VIP) | Dion Timmer | tidal jack | 150.0 | 3295 | 153.5 | osu_mirror/community | `osu_mirror\2063884\Dion Timmer - Shiawase (VIP) (syaro-) [tidal jack].mc` |
+| 4412 | SHIAWASE FOR YOU! | Iyowa feat. Hatsune Miku | BLESSING! | 160.0 | 917 | 194.1 | osu_mirror/community | `osu_mirror\2518008\Iyowa feat. Hatsune Miku - SHIAWASE FOR YOU! (Stereotype) [Blessing!].mc` |
+| 4413 | SHIAWASE FOR YOU! | Iyowa feat. Hatsune Miku | Ppass' INSANE! | 160.0 | 966 | 194.1 | osu_mirror/community | `osu_mirror\2518008\Iyowa feat. Hatsune Miku - SHIAWASE FOR YOU! (Stereotype) [Ppass' INSANE!].mc` |
+| 4414 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | AndreyChomik's Easy | 110.0 | 168 | 88.4 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [AndreyChomik's Easy].mc` |
+| 4415 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | AndreyChomik's Normal | 110.0 | 267 | 87.1 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [AndreyChomik's Normal].mc` |
+| 4416 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | Sava's Hard | 110.0 | 383 | 87.1 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [Sava's Hard].mc` |
+| 4417 | Shika Senbei no Uta (TV Size) | Shikanoko Noko (CV: Megumi Han), Koshi Torako (CV: Saki Fujita) | Sava's Insane | 110.0 | 375 | 88.3 | osu_mirror/community | `osu_mirror\2208349\Shikanoko Noko (CV Megumi Han), Koshi Torako (CV Saki Fujita) - Shika Senbei no Uta (TV Size) ([-E S I A-]) [Sava's Insane].mc` |
+| 4418 | Shinbatsu o Tadori Kyoukotsu ni Itaru | Imperial Circus Dead Decadence | Enraged Apparition | 250.0 | 4682 | 258.1 | osu_mirror/community | `osu_mirror\2348607\Imperial Circus Dead Decadence - Shinbatsu o Tadori Kyoukotsu ni Itaru (Sayuka) [Enraged Apparition].mc` |
+| 4419 | Shinseikatsu | TM | -1 | 128.0 | 2522 | 239.8 | osu_mirror/community | `osu_mirror\2501685\TM - Shinseikatsu (Onta_Bekasi) [-1].mc` |
+| 4420 | Shinseikatsu | TM | ordinary happiness | 128.0 | 1409 | 239.8 | osu_mirror/community | `osu_mirror\2501685\TM - Shinseikatsu (Onta_Bekasi) [ordinary happiness].mc` |
+| 4421 | shiragiku | Rish | condolence | 181.0 | 728 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [condolence].mc` |
+| 4422 | shiragiku | Rish | easy | 181.0 | 148 | 84.9 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [easy].mc` |
+| 4423 | shiragiku | Rish | expert | 181.0 | 1059 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [expert].mc` |
+| 4424 | shiragiku | Rish | extreme | 181.0 | 859 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [extreme].mc` |
+| 4425 | shiragiku | Rish | hard | 181.0 | 541 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [hard].mc` |
+| 4426 | shiragiku | Rish | insane | 181.0 | 819 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [insane].mc` |
+| 4427 | shiragiku | Rish | normal | 181.0 | 407 | 95.5 | osu_mirror/community | `osu_mirror\2599410\Rish - shiragiku (Muse Dash) [normal].mc` |
+| 4428 | Shiroi Yuki no Princess wa | MORE MORE JUMP! x Hatsune Miku | Magic Mirror | 200.0 | 1868 | 247.8 | osu_mirror/community | `osu_mirror\2482624\MORE MORE JUMP! x Hatsune Miku - Shiroi Yuki no Princess wa (AiN0) [Magic Mirror].mc` |
+| 4429 | Shitsunai | Akari Kaida | Easy | 119.46 | 102 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [Easy].mc` |
+| 4430 | Shitsunai | Akari Kaida | hirothefemboy's Normal | 119.46 | 138 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [hirothefemboy's Normal].mc` |
+| 4431 | Shitsunai | Akari Kaida | Lumpita's Insane | 119.46 | 187 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [Lumpita's Insane].mc` |
+| 4432 | Shitsunai | Akari Kaida | P45ta's Hard | 119.46 | 229 | 32.1 | osu_mirror/community | `osu_mirror\2478789\Akari Kaida - Shitsunai (Charlotte) [P45ta's Hard].mc` |
+| 4433 | Shooting Star | StelLive Cliche | Easy | 190.0 | 448 | 194.1 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Easy].mc` |
+| 4434 | Shooting Star | StelLive Cliche | Hard | 190.0 | 1185 | 201.7 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Hard].mc` |
+| 4435 | Shooting Star | StelLive Cliche | Insane | 190.0 | 1252 | 198.5 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Insane].mc` |
+| 4436 | Shooting Star | StelLive Cliche | Normal | 190.0 | 772 | 194.1 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Normal].mc` |
+| 4437 | Shooting Star | StelLive Cliche | Satellite | 190.0 | 1451 | 198.3 | osu_mirror/community | `osu_mirror\2558358\StelLive Cliche - Shooting Star (Seulgi) [Satellite].mc` |
+| 4438 | Shotgun Senorita (Zardonic Remix) | Blue Stahli | 200 Pump | 175.0 | 1495 | 263.8 | osu_mirror/community | `osu_mirror\2528729\Blue Stahli - Shotgun Senorita (Zardonic Remix) (Alumence) [200 Pump].mc` |
+| 4439 | Shoujo A | nui | ... | 260.0 | 4469 | 230.8 | osu_mirror/community | `osu_mirror\2498154\nui - Shoujo A (Maiiy) [...].mc` |
+| 4440 | Showdown | litmus* | a chair and six crt tvs in a dimly lit room | 0.0 | 861 | 1.1 | osu_mirror/community | `osu_mirror\2055296\litmus - Showdown (NovaSagittarii) [a chair and six crt tvs in a dimly lit room].mc` |
+| 4441 | Showdown | litmus* | nsv | 130.0 | 861 | 110.5 | osu_mirror/community | `osu_mirror\2055296\litmus - Showdown (NovaSagittarii) [nsv].mc` |
+| 4442 | SIGMA | Kry.exe | Insane | 200.0 | 1755 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [Insane].mc` |
+| 4443 | SIGMA | Kry.exe | MiuOtter's Easy | 200.0 | 655 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [MiuOtter's Easy].mc` |
+| 4444 | SIGMA | Kry.exe | SIGMA MAN | 200.0 | 1950 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [SIGMA MAN].mc` |
+| 4445 | SIGMA | Kry.exe | Slowpoke's Advanced | 200.0 | 1101 | 134.4 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [Slowpoke's Advanced].mc` |
+| 4446 | SIGMA | Kry.exe | soup3r's Hyper | 200.0 | 1477 | 134.3 | osu_mirror/community | `osu_mirror\2602858\Kry.exe - SIGMA (NineSey) [soup3r's Hyper].mc` |
+| 4447 | Signals | Magnetude | NULL_TRANSMISSION | 174.0 | 1753 | 275.3 | osu_mirror/community | `osu_mirror\2355701\Magnetude - Signals (DatZTactix) [NULL_TRANSMISSION].mc` |
+| 4448 | Sigrdrifa | Gram | ~ Enchanted Doll of Vengeance ~ | 165.0 | 3934 | 238.6 | osu_mirror/community | `osu_mirror\2522371\Gram - Sigrdrifa (paraoka) [~ Enchanted Doll of Vengeance ~].mc` |
+| 4449 | silly bnuy song | endofsystem | Bunni bunni bunni bunni bunni! Bunni bunni bunni bunni bunni... Bunni bunni buni | 120.0 | 617 | 71.9 | osu_mirror/community | `osu_mirror\2599213\endofsystem - silly bnuy song (LeCrazy) [Bunni bunni bunni bunni bunni! Bunni bunni bunni bunni bunni... Bunni bunni buni].mc` |
+| 4450 | silly bnuy song | endofsystem | Easy Bunni | 120.0 | 181 | 71.9 | osu_mirror/community | `osu_mirror\2599213\endofsystem - silly bnuy song (LeCrazy) [Easy Bunni].mc` |
+| 4451 | silly bnuy song | endofsystem | soup3r's Normal Bunni | 120.0 | 374 | 71.9 | osu_mirror/community | `osu_mirror\2599213\endofsystem - silly bnuy song (LeCrazy) [soup3r's Normal Bunni].mc` |
+| 4452 | Silver Eclipse | ginkiha | ExNeko's Insane | 180.0 | 2359 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [ExNeko's Insane].mc` |
+| 4453 | Silver Eclipse | ginkiha | hyahya's Easy | 180.0 | 802 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [hyahya's Easy].mc` |
+| 4454 | Silver Eclipse | ginkiha | Mafufu's Normal | 180.0 | 1263 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [Mafufu's Normal].mc` |
+| 4455 | Silver Eclipse | ginkiha | Silver | 180.0 | 3486 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [Silver].mc` |
+| 4456 | Silver Eclipse | ginkiha | Uwwal's Hard | 180.0 | 1645 | 182.7 | osu_mirror/community | `osu_mirror\2403887\ginkiha - Silver Eclipse ([Crz]Alleyne) [Uwwal's Hard].mc` |
+| 4457 | Silver Mutation | cygnus | Yuno's 4K Syndrome | 134.0 | 3981 | 286.6 | osu_mirror/community | `osu_mirror\2407978\cygnus - Silver Mutation (Kurisu Makise) [Yuno's 4K Syndrome].mc` |
+| 4458 | Sinking Town | Yoeko Kurahashi | Deluge | 249.94 | 2615 | 174.5 | osu_mirror/community | `osu_mirror\2425812\Yoeko Kurahashi - Sinking Town (KimMui) [Deluge].mc` |
+| 4459 | Sinking Town | Yoeko Kurahashi | Extra | 249.94 | 2146 | 174.5 | osu_mirror/community | `osu_mirror\2425812\Yoeko Kurahashi - Sinking Town (KimMui) [Extra].mc` |
+| 4460 | SITBACK (Cut Ver.) | N2UtheHartlocker | ADVANCED | 130.0 | 343 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [ADVANCED].mc` |
+| 4461 | SITBACK (Cut Ver.) | N2UtheHartlocker | HYPER | 130.0 | 472 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [HYPER].mc` |
+| 4462 | SITBACK (Cut Ver.) | N2UtheHartlocker | INSANE | 130.0 | 606 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [INSANE].mc` |
+| 4463 | SITBACK (Cut Ver.) | N2UtheHartlocker | X | 130.0 | 740 | 59.1 | osu_mirror/community | `osu_mirror\2516512\N2UtheHartlocker - SITBACK (Cut Ver.) (keksikosu) [X].mc` |
+| 4464 | SKILLAWAKE (TV Size) | PassCode | Easy | 194.0 | 368 | 87.1 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [Easy].mc` |
+| 4465 | SKILLAWAKE (TV Size) | PassCode | High Ambition | 194.0 | 986 | 88.7 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [High Ambition].mc` |
+| 4466 | SKILLAWAKE (TV Size) | PassCode | IT's Hard | 194.0 | 764 | 88.7 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [IT's Hard].mc` |
+| 4467 | SKILLAWAKE (TV Size) | PassCode | Lizyuu's Normal | 194.0 | 584 | 87.1 | osu_mirror/community | `osu_mirror\2512348\PassCode - SKILLAWAKE (TV Size) (SimpForTakagi) [Lizyuu's Normal].mc` |
+| 4468 | Sky-High Bridge | Triodust | BG | 130.0 | 105 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [BG].mc` |
+| 4469 | Sky-High Bridge | Triodust | Bunny Extinction | 130.0 | 1147 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [BUNNY EXTINCTION].mc` |
+| 4470 | Sky-High Bridge | Triodust | EZ | 130.0 | 172 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [EZ].mc` |
+| 4471 | Sky-High Bridge | Triodust | HD | 130.0 | 423 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [HD].mc` |
+| 4472 | Sky-High Bridge | Triodust | MX | 130.0 | 589 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [MX].mc` |
+| 4473 | Sky-High Bridge | Triodust | NM | 130.0 | 260 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [NM].mc` |
+| 4474 | Sky-High Bridge | Triodust | SC | 130.0 | 743 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [SC].mc` |
+| 4475 | Sky-High Bridge | Triodust | SHD | 130.0 | 1003 | 88.6 | osu_mirror/community | `osu_mirror\2510048\Triodust - Sky-High Bridge (Muse Dash) [SHD].mc` |
+| 4476 | Sleep Thru Ur Alarms | Lontalius | nm / wouldn't it be nice to stay a while? | 65.0 | 371 | 96.3 | osu_mirror/community | `osu_mirror\2421288\Lontalius - Sleep Thru Ur Alarms (etz) [NM  wouldn't it be nice to stay a while].mc` |
+| 4477 | Sleep! | Camellia feat. Nanahira | Sleepy | 45.42 | 3226 | 255.9 | osu_mirror/community | `osu_mirror\2566858\Camellia feat. Nanahira - Sleep! (Szyszqu) [Sleepy].mc` |
+| 4478 | slic.hertz | Sobrem | Hard | 145.0 | 658 | 121.6 | osu_mirror/community | `osu_mirror\1924178\Sobrem - slic.hertz (Auros) [Hard].mc` |
+| 4479 | slic.hertz | Sobrem | Insane | 145.0 | 971 | 121.8 | osu_mirror/community | `osu_mirror\1924178\Sobrem - slic.hertz (Auros) [Insane].mc` |
+| 4480 | slic.hertz | Sobrem | None-stop like this | 145.0 | 1336 | 121.8 | osu_mirror/community | `osu_mirror\1924178\Sobrem - slic.hertz (Auros) [None-stop like this].mc` |
+| 4481 | slow summer eve | Kensuke Ushio | truth is... i've never gone to school either | 114.0 | 140 | 67.9 | osu_mirror/community | `osu_mirror\2461298\Kensuke Ushio - slow summer eve (ThatGoy) [truth is... i've never gone to school either].mc` |
+| 4482 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Concepte's EX | 136.2 | 3446 | 181.5 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Concepte's EX].mc` |
+| 4483 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Tamania's IN | 136.2 | 2346 | 181.5 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Tamania's IN].mc` |
+| 4484 | Smack My Bitch Up (Cut Ver.) | The Prodigy | Utiba's HY | 136.2 | 1871 | 176.2 | osu_mirror/community | `osu_mirror\2588656\The Prodigy - Smack My Bitch Up (Cut Ver.) (Daycore) [Utiba's HY].mc` |
+| 4485 | Smile (Katari Remix) | Zmagz | Advanced >w< | 180.0 | 884 | 127.5 | osu_mirror/community | `osu_mirror\2488779\Zmagz - Smile (Katari Remix) (Linlime) [Advanced w].mc` |
+| 4486 | Smile (Katari Remix) | Zmagz | Easy >w< | 180.0 | 543 | 127.5 | osu_mirror/community | `osu_mirror\2488779\Zmagz - Smile (Katari Remix) (Linlime) [Easy w].mc` |
+| 4487 | Smile (Katari Remix) | Zmagz | Expert >w< | 180.0 | 1717 | 127.7 | osu_mirror/community | `osu_mirror\2488779\Zmagz - Smile (Katari Remix) (Linlime) [Expert w].mc` |
+| 4488 | Smile (Katari Remix) | Zmagz | Hard >w< | 180.0 | 1119 | 127.7 | osu_mirror/community | `osu_mirror\2488779\Zmagz - Smile (Katari Remix) (Linlime) [Hard w].mc` |
+| 4489 | Smile (Katari Remix) | Zmagz | Insane >w< | 180.0 | 1428 | 127.7 | osu_mirror/community | `osu_mirror\2488779\Zmagz - Smile (Katari Remix) (Linlime) [Insane w].mc` |
+| 4490 | Smile (Katari Remix) | Zmagz | Normal >w< | 180.0 | 731 | 127.7 | osu_mirror/community | `osu_mirror\2488779\Zmagz - Smile (Katari Remix) (Linlime) [Normal w].mc` |
+| 4491 | Smooth Operator [RICHIE ROZEX REMIX] | Sade | A-2 LIGHTS | 130.0 | 1982 | 195.7 | osu_mirror/community | `osu_mirror\2029995\Sade - Smooth Operator [RICHIE ROZEX REMIX] (White Hare) [A-2 LIGHTS].mc` |
+| 4492 | Smooth Operator [RICHIE ROZEX REMIX] | Sade | Insane | 130.0 | 1719 | 195.7 | osu_mirror/community | `osu_mirror\2029995\Sade - Smooth Operator [RICHIE ROZEX REMIX] (White Hare) [Insane].mc` |
+| 4493 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Easy | 174.0 | 438 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Easy].mc` |
+| 4494 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Insane | 174.0 | 1359 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Insane].mc` |
+| 4495 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Menphiss' Hard | 174.0 | 1013 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Menphiss' Hard].mc` |
+| 4496 | Snake Eyes (feat. CoMa) (Cut Ver.) | Feint | 4K Normal | 174.0 | 726 | 110.3 | osu_mirror/community | `osu_mirror\2436239\Feint - Snake Eyes (feat. CoMa) (Cut Ver.) (-Enma-) [4K Normal].mc` |
+| 4497 | Sno (intro) | Snail's House | easy | 106.0 | 104 | 66.7 | osu_mirror/community | `osu_mirror\2303401\Snail's House - Sno (intro) ([TCD] tihung) [easy].mc` |
+| 4498 | Sno (intro) | Snail's House | hard | 106.0 | 82 | 58.7 | osu_mirror/community | `osu_mirror\2303401\Snail's House - Sno (intro) ([TCD] tihung) [Hard].mc` |
+| 4499 | Sno (intro) | Snail's House | normal | 106.0 | 92 | 58.9 | osu_mirror/community | `osu_mirror\2303401\Snail's House - Sno (intro) ([TCD] tihung) [normal].mc` |
+| 4500 | Snow Stardust (feat. hynaxis) | Mitsukiyo | Hidden's Insane | 222.0 | 1724 | 268.1 | osu_mirror/community | `osu_mirror\2481117\Mitsukiyo - Snow Stardust (feat. hynaxis) (Garden) [Hidden's Insane].mc` |
+| 4501 | Sore wa Sekai o Koete | La priere | Starlight | 173.0 | 1823 | 306.6 | osu_mirror/community | `osu_mirror\2469290\La priere - Sore wa Sekai o Koete (Forthnos) [Starlight].mc` |
+| 4502 | Soshite Yoru to Tomoru | MIMI | Ai // Beginner | 127.0 | 293 | 196.8 | osu_mirror/community | `osu_mirror\2446772\MIMI - Soshite Yoru to Tomoru ([TCD] Ena-suki) [Ai  Beginner].mc` |
+| 4503 | Soshite Yoru to Tomoru | MIMI | Dark Space // Normal | 127.0 | 1024 | 211.4 | osu_mirror/community | `osu_mirror\2446772\MIMI - Soshite Yoru to Tomoru ([TCD] Ena-suki) [Dark Space  Normal].mc` |
+| 4504 | Soshite Yoru to Tomoru | MIMI | Sorrow // Easy | 127.0 | 624 | 211.4 | osu_mirror/community | `osu_mirror\2446772\MIMI - Soshite Yoru to Tomoru ([TCD] Ena-suki) [Sorrow  Easy].mc` |
+| 4505 | Soshite Yoru to Tomoru | MIMI | The Light of Hope // Hard | 127.0 | 1252 | 211.4 | osu_mirror/community | `osu_mirror\2446772\MIMI - Soshite Yoru to Tomoru ([TCD] Ena-suki) [The Light of Hope  Hard].mc` |
+| 4506 | Soulless 5 (Halfduck Cover) | ExileLord | The End | 260.0 | 16267 | 997.7 | osu_mirror/community | `osu_mirror\2293677\Exilelord - Soulless 5 (Halfduck Cover) (Duckys) [The End].mc` |
+| 4507 | SOUND ARCHITECT | Kyutatsuki | Sanctum | 150.0 | 3537 | 293.7 | osu_mirror/community | `osu_mirror\2325289\Kyutatsuki - SOUND ARCHITECT (V1do-) [Sanctum].mc` |
+| 4508 | SOUND ARCHITECT | Kyutatsuki | Harmonic Bliss | 150.0 | 3794 | 294.0 | osu_mirror/community | `osu_mirror\2532856\Kyutatsuki - SOUND ARCHITECT (LeCrazy) [Harmonic Bliss].mc` |
+| 4509 | Sound Chimera | Laur | Tryambakam // feat. Auros | 138.0 | 3701 | 274.1 | osu_mirror/community | `osu_mirror\2588980\Laur - Sound Chimera ([Crz]Cardiloid) [Tryambakam  feat. Auros].mc` |
+| 4510 | Sparkling Starlight | Fujiyori & Mayori | Advanced | 175.0 | 846 | 164.6 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Advanced].mc` |
+| 4511 | Sparkling Starlight | Fujiyori & Mayori | Another | 175.0 | 826 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Another].mc` |
+| 4512 | Sparkling Starlight | Fujiyori & Mayori | Basic | 175.0 | 144 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Basic].mc` |
+| 4513 | Sparkling Starlight | Fujiyori & Mayori | Extra | 175.0 | 717 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Extra].mc` |
+| 4514 | Sparkling Starlight | Fujiyori & Mayori | Hyper | 175.0 | 1166 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Hyper].mc` |
+| 4515 | Sparkling Starlight | Fujiyori & Mayori | Intermediate | 175.0 | 668 | 164.6 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Intermediate].mc` |
+| 4516 | Sparkling Starlight | Fujiyori & Mayori | Luminous | 175.0 | 476 | 164.2 | osu_mirror/community | `osu_mirror\2561939\Fujiyori & Mayori - Sparkling Starlight (Skibidi Toilet) [Luminous].mc` |
+| 4517 | Speicher Galerie | Triodust | BG | 100.0 | 16 | 33.4 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [BG].mc` |
+| 4518 | Speicher Galerie | Triodust | Bunny Extinction | 100.0 | 546 | 98.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [Bunny Extinction].mc` |
+| 4519 | Speicher Galerie | Triodust | EZ | 100.0 | 99 | 92.9 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [EZ].mc` |
+| 4520 | Speicher Galerie | Triodust | MX | 100.0 | 446 | 98.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [MX].mc` |
+| 4521 | Speicher Galerie | Triodust | NM | 100.0 | 169 | 90.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [NM].mc` |
+| 4522 | Speicher Galerie | Triodust | Xiao's HD | 100.0 | 309 | 98.0 | osu_mirror/community | `osu_mirror\2517047\Triodust - Speicher Galerie (Muse Dash) [Xiao's HD].mc` |
+| 4523 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S EASY | 170.0 | 560 | 180.7 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S EASY].mc` |
+| 4524 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S HYPER | 170.0 | 1529 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S HYPER].mc` |
+| 4525 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S INSANE | 170.0 | 1796 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S INSANE].mc` |
+| 4526 | Split EX (Instrumental Ver.) | Ardolf | HIMITSU'S NORMAL | 170.0 | 1055 | 180.7 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [HIMITSU'S NORMAL].mc` |
+| 4527 | Split EX (Instrumental Ver.) | Ardolf | UCITYSM'S ADVANCED | 170.0 | 1270 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [UCITYSM'S ADVANCED].mc` |
+| 4528 | Split EX (Instrumental Ver.) | Ardolf | UCITYSM'S HARD | 170.0 | 1282 | 181.1 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [UCITYSM'S HARD].mc` |
+| 4529 | Split EX (Instrumental Ver.) | Ardolf | UCITYSM'S SIMULATION OVERRIDE | 170.0 | 1620 | 181.0 | osu_mirror/community | `osu_mirror\1670325\Ardolf - Split EX (Instrumental Ver.) (Ixcors) [UCITYSM'S SIMULATION OVERRIDE].mc` |
+| 4530 | Sports | Beach Bunny | Ambivalence | 154.6 | 2323 | 149.2 | osu_mirror/community | `osu_mirror\2602154\Beach Bunny - Sports (P45ta) [Ambivalence].mc` |
+| 4531 | Sports | Beach Bunny | Hard | 154.6 | 1560 | 149.2 | osu_mirror/community | `osu_mirror\2602154\Beach Bunny - Sports (P45ta) [Hard].mc` |
+| 4532 | Sports | Beach Bunny | Insane | 154.6 | 2019 | 149.2 | osu_mirror/community | `osu_mirror\2602154\Beach Bunny - Sports (P45ta) [Insane].mc` |
+| 4533 | STARGATE EXTREME | KARUT | Comet // Normal | 150.0 | 491 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Comet  Normal].mc` |
+| 4534 | STARGATE EXTREME | KARUT | Nova // Hard | 150.0 | 851 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Nova  Hard].mc` |
+| 4535 | STARGATE EXTREME | KARUT | Quasar // Extra | 150.0 | 1171 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Quasar  Extra].mc` |
+| 4536 | STARGATE EXTREME | KARUT | Supernova // Insane | 150.0 | 1052 | 116.8 | osu_mirror/community | `osu_mirror\2495730\KARUT - STARGATE EXTREME (DraterTD) [Supernova  Insane].mc` |
+| 4537 | starlog (TV Size) | ChouCho | -Zell's Hard | 168.0 | 654 | 85.6 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [-Zell's Hard].mc` |
+| 4538 | starlog (TV Size) | ChouCho | Easy | 168.0 | 201 | 85.3 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [Easy].mc` |
+| 4539 | starlog (TV Size) | ChouCho | Starlog | 168.0 | 693 | 85.6 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [Starlog].mc` |
+| 4540 | starlog (TV Size) | ChouCho | UnCraftable's Normal | 168.0 | 340 | 85.6 | osu_mirror/community | `osu_mirror\2521712\ChouCho - starlog (TV Size) (Neon Furry) [UnCraftable's Normal].mc` |
+| 4541 | Stay Alive | Emilia (CV: Rie Takahashi) | Collab of Devotion | 70.0 | 1180 | 258.4 | osu_mirror/community | `osu_mirror\2313303\EMILIA (CV Rie Takahashi) - Stay Alive (Savageeeee) [Collab Of Devotion].mc` |
+| 4542 | steganography | aa...hisuichazuke... | a looming mystery | 55.0 | 4360 | 233.4 | osu_mirror/community | `osu_mirror\2552559\aa...hisuichazuke... - steganography (Znow) [a looming mystery].mc` |
+| 4543 | Stellar Afterglow | PokeSky | Afterglow | 191.0 | 1942 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Afterglow].mc` |
+| 4544 | Stellar Afterglow | PokeSky | Easy | 191.0 | 483 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Easy].mc` |
+| 4545 | Stellar Afterglow | PokeSky | Hard | 191.0 | 1627 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Hard].mc` |
+| 4546 | Stellar Afterglow | PokeSky | Normal | 191.0 | 875 | 163.4 | osu_mirror/community | `osu_mirror\2388455\PokeSky - Stellar Afterglow (PokeSky) [Normal].mc` |
+| 4547 | stepping on your cat's tail be like | xiiiac13 | advanced | 61.0 | 502 | 63.9 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [advanced].mc` |
+| 4548 | stepping on your cat's tail be like | xiiiac13 | hard | 61.0 | 751 | 63.9 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [hard].mc` |
+| 4549 | stepping on your cat's tail be like | xiiiac13 | i found some wild glizzies | 61.0 | 848 | 63.9 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [i found some wild glizzies].mc` |
+| 4550 | stepping on your cat's tail be like | xiiiac13 | normal | 61.0 | 337 | 63.8 | osu_mirror/community | `osu_mirror\2527825\xiiiac13 - stepping on your cat's tail be like (P45ta) [normal].mc` |
+| 4551 | Sterelogue | VeetaCrush | Advanced | 202.0 | 911 | 136.4 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Advanced].mc` |
+| 4552 | Sterelogue | VeetaCrush | Hyper | 202.0 | 1126 | 136.4 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Hyper].mc` |
+| 4553 | Sterelogue | VeetaCrush | Insane | 202.0 | 1365 | 136.4 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Insane].mc` |
+| 4554 | Sterelogue | VeetaCrush | Normal | 202.0 | 595 | 136.3 | osu_mirror/community | `osu_mirror\2327005\VeetaCrush - Sterelogue (weyctor) [Normal].mc` |
+| 4555 | Steve's Lava Chicken (Camellia Remix) | Jack Black | Another | 210.0 | 1208 | 87.6 | osu_mirror/community | `osu_mirror\2362621\Jack Black - Steve's Lava Chicken (Camellia Remix) (-Ryu-) [Another].mc` |
+| 4556 | Steve's Lava Chicken (Camellia Remix) | Jack Black | Enma's Hard | 210.0 | 757 | 87.7 | osu_mirror/community | `osu_mirror\2362621\Jack Black - Steve's Lava Chicken (Camellia Remix) (-Ryu-) [Enma's Hard].mc` |
+| 4557 | Steve's Lava Chicken (Camellia Remix) | Jack Black | Insane | 210.0 | 928 | 87.2 | osu_mirror/community | `osu_mirror\2362621\Jack Black - Steve's Lava Chicken (Camellia Remix) (-Ryu-) [Insane].mc` |
+| 4558 | Steve's Lava Chicken (Camellia Remix) | Jack Black | Menphiss' Easy | 210.0 | 294 | 87.7 | osu_mirror/community | `osu_mirror\2362621\Jack Black - Steve's Lava Chicken (Camellia Remix) (-Ryu-) [Menphiss' Easy].mc` |
+| 4559 | Steve's Lava Chicken (Camellia Remix) | Jack Black | MrMoai's Lava Chicken | 210.0 | 1514 | 88.0 | osu_mirror/community | `osu_mirror\2362621\Jack Black - Steve's Lava Chicken (Camellia Remix) (-Ryu-) [MrMoai's Lava Chicken].mc` |
+| 4560 | Steve's Lava Chicken (Camellia Remix) | Jack Black | Utiba's Normal | 210.0 | 522 | 87.7 | osu_mirror/community | `osu_mirror\2362621\Jack Black - Steve's Lava Chicken (Camellia Remix) (-Ryu-) [Utiba's Normal].mc` |
+| 4561 | stop calling | Willy Rodriguez | extra | 53.8 | 2103 | 149.8 | osu_mirror/community | `osu_mirror\2484635\Willy Rodriguez - stop calling (Relae) [extra].mc` |
+| 4562 | stop calling | Willy Rodriguez | frivolous intimacy | 53.8 | 2547 | 149.9 | osu_mirror/community | `osu_mirror\2484635\Willy Rodriguez - stop calling (Relae) [frivolous intimacy].mc` |
+| 4563 | Story | Knife | Easy | 157.0 | 553 | 206.2 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Easy].mc` |
+| 4564 | Story | Knife | Hard | 157.0 | 1151 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Hard].mc` |
+| 4565 | Story | Knife | Lunatic | 157.0 | 1218 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Lunatic].mc` |
+| 4566 | Story | Knife | Normal | 157.0 | 887 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [Normal].mc` |
+| 4567 | Story | Knife | The Story of Our Adventure | 157.0 | 1453 | 212.1 | osu_mirror/community | `osu_mirror\2225653\Knife - Story (SatoriMaiden) [The Story of Our Adventure].mc` |
+| 4568 | stresstest | yax03 | nerves | 180.0 | 4617 | 295.0 | osu_mirror/community | `osu_mirror\2295373\yax03 - stresstest (fihh) [nerves].mc` |
+| 4569 | stresstest | yax03 | tera's fortheboundless | 180.0 | 5825 | 295.7 | osu_mirror/community | `osu_mirror\2613635\yax03 - stresstest (Callionet) [tera's fortheboundless].mc` |
+| 4570 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Hard | 150.0 | 445 | 106.8 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Hard].mc` |
+| 4571 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Hyper | 150.0 | 396 | 93.9 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Hyper].mc` |
+| 4572 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Normal | 150.0 | 454 | 108.0 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Normal].mc` |
+| 4573 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Robeats' Easy | 150.0 | 356 | 107.2 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Robeats' Easy].mc` |
+| 4574 | Strobe Light (Cut Ver.) | d0tc0mmie feat. Kasane Teto | Robeats' HI | 150.0 | 411 | 95.7 | osu_mirror/community | `osu_mirror\2471067\d0tc0mmie feat. Kasane Teto - Strobe Light (Cut Ver.) (zyletinee) [Robeats' HI].mc` |
+| 4575 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Hard | 132.0 | 429 | 92.7 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Hard].mc` |
+| 4576 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Hidden's Beginner | 132.0 | 161 | 92.9 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Hidden's Beginner].mc` |
+| 4577 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Hidden's Easy | 132.0 | 315 | 92.9 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Hidden's Easy].mc` |
+| 4578 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Normal | 132.0 | 313 | 92.2 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Normal].mc` |
+| 4579 | study steady day! (Game Ver.) | solfa feat. Shimotsuki Haruka + Ceui | Study Koi | 132.0 | 368 | 92.0 | osu_mirror/community | `osu_mirror\2528075\solfa feat. Shimotsuki Haruka + Ceui - study steady day! (Game Ver.) (nai_) [Study Koi].mc` |
+| 4580 | Submerged City | DJ Raisei feat. noeric | Stillness Below | 192.0 | 3300 | 375.3 | osu_mirror/community | `osu_mirror\2509542\DJ Raisei feat. noeric - Submerged City (Hylotl) [Stillness Below].mc` |
+| 4581 | Submerged City | DJ Raisei feat. noeric | Echo of Fallen Light | 192.0 | 3202 | 380.2 | osu_mirror/community | `osu_mirror\2522417\DJ Raisei feat. noeric - Submerged City (nyamushi) [Echo of Fallen Light].mc` |
+| 4582 | Subwoofer Lullaby | C418 | Nostalgia | 74.0 | 18 | 128.1 | osu_mirror/community | `osu_mirror\2562960\C418 - Subwoofer Lullaby (LeCrazy) [Nostalgia].mc` |
+| 4583 | Suisei ni Nareta nara | isui | Daydream | 180.0 | 2892 | 225.5 | osu_mirror/community | `osu_mirror\2579611\isui - Suisei ni Nareta nara (Stereotype) [Daydream].mc` |
+| 4584 | Sukui o Motomeru Hito no Uta | Kanon Alise | Save me | 55.5 | 676 | 280.1 | osu_mirror/community | `osu_mirror\2515752\Kanon Alise - Sukui o Motomeru Hito no Uta (wee) [Save me].mc` |
+| 4585 | Sulfide | Camellia | Catalyst | 170.0 | 3940 | 338.8 | osu_mirror/community | `osu_mirror\2255671\Camellia - Sulfide (-MysticEyes) [Catalyst].mc` |
+| 4586 | Summer Fever | FELT | Bad Cold | 120.0 | 3384 | 228.4 | osu_mirror/community | `osu_mirror\2529930\FELT - Summer Fever (Stereotype) [Bad Cold].mc` |
+| 4587 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | ADVANCED | 160.0 | 554 | 166.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [ADVANCED].mc` |
+| 4588 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | BASIC | 160.0 | 388 | 163.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [BASIC].mc` |
+| 4589 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | EXPERT | 160.0 | 457 | 161.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [EXPERT].mc` |
+| 4590 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | Sora's LUNATIC | 160.0 | 196 | 161.1 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [Sora's LUNATIC].mc` |
+| 4591 | Sun(Mile)Flower (Game Ver.) | Akari Hoshizaki (CV: Akao Hikaru), Chinatsu Hinata (CV: Okasaki Miho) | Souffle's MASTER | 160.0 | 660 | 159.9 | osu_mirror/community | `osu_mirror\2427420\Akari Hoshizaki (CV Akao Hikaru), Chinatsu Hinata (CV Okasaki Miho) - Sun(Mile)Flower (Game Ver.) (-Terakomari) [Souffle's MASTER].mc` |
+| 4592 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | Easy | 180.0 | 349 | 100.7 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [Easy].mc` |
+| 4593 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | Hard | 180.0 | 844 | 101.0 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [Hard].mc` |
+| 4594 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | My Heart~ | 180.0 | 899 | 100.8 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [My Heart~].mc` |
+| 4595 | Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) | Nakano Itsuki (CV: Inori Minase) | Normal | 180.0 | 523 | 100.8 | osu_mirror/community | `osu_mirror\2288732\Nakano Itsuki (CV Inori Minase) - Sunao ni Open heart ~Itsutsu Kazoete~ (Cut Ver.) (ML-ysg) [Normal].mc` |
+| 4596 | Sunkiss | WENDY | Dynascape's Normal | 131.0 | 373 | 166.5 | osu_mirror/community | `osu_mirror\2442798\WENDY - Sunkiss (fvrex) [Dynascape's Normal].mc` |
+| 4597 | Sunkiss | WENDY | Hard | 131.0 | 396 | 166.3 | osu_mirror/community | `osu_mirror\2442798\WENDY - Sunkiss (fvrex) [Hard].mc` |
+| 4598 | Sunkiss | WENDY | The Blue Horizon | 131.0 | 478 | 166.3 | osu_mirror/community | `osu_mirror\2442798\WENDY - Sunkiss (fvrex) [The Blue Horizon].mc` |
+| 4599 | Super Driver | Will Stetson | ADVANCED JUMP!! | 200.0 | 751 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [ADVANCED JUMP!!].mc` |
+| 4600 | Super Driver | Will Stetson | HARD JUMP!! | 200.0 | 865 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [HARD JUMP!!].mc` |
+| 4601 | Super Driver | Will Stetson | INSANE JUMP!! | 200.0 | 1130 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [INSANE JUMP!!].mc` |
+| 4602 | Super Driver | Will Stetson | MIAU'S 1-2 JUMP!! | 200.0 | 1458 | 99.9 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [MIAU'S 1-2 JUMP!!].mc` |
+| 4603 | Super Driver | Will Stetson | MIAU'S NORMAL JUMP!! | 200.0 | 479 | 99.7 | osu_mirror/community | `osu_mirror\2488299\Will Stetson - Super Driver (Kibitz) [MIAU'S NORMAL JUMP!!].mc` |
+| 4604 | Supernova (Cut Ver.) | aespa | Armageddon | 120.0 | 1842 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Armageddon].mc` |
+| 4605 | Supernova (Cut Ver.) | aespa | Easy | 120.0 | 363 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Easy].mc` |
+| 4606 | Supernova (Cut Ver.) | aespa | Hard | 120.0 | 1336 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Hard].mc` |
+| 4607 | Supernova (Cut Ver.) | aespa | Normal | 120.0 | 766 | 127.6 | osu_mirror/community | `osu_mirror\2238661\aespa - Supernova (Cut Ver.) (Miaurichesu) [Normal].mc` |
+| 4608 | Surface Tension | Saitama Saisyu Heiki | Testimony | 264.0 | 6103 | 307.6 | osu_mirror/community | `osu_mirror\2435344\Saitama Saisyu Heiki - Surface Tension (Hylotl) [Testimony].mc` |
+| 4609 | SUTEGORO | Marmalade butcher | Insane | 148.0 | 1728 | 190.3 | osu_mirror/community | `osu_mirror\2555245\Marmalade butcher - SUTEGORO (Linlime) [Insane].mc` |
+| 4610 | SUTEGORO | Marmalade butcher | PUGILISM | 148.0 | 2132 | 190.3 | osu_mirror/community | `osu_mirror\2555245\Marmalade butcher - SUTEGORO (Linlime) [PUGILISM].mc` |
+| 4611 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Advanced | 135.0 | 1050 | 128.0 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut Ver.) (Nicknem_) [Advanced].mc` |
+| 4612 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Hard | 135.0 | 1416 | 131.5 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut ver.) (Nicknem_) [Hard].mc` |
+| 4613 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Stereotype's Insane | 135.0 | 1663 | 131.5 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut Ver.) (Nicknem_) [Stereotype's Insane].mc` |
+| 4614 | Swamp Thing (Cut Ver.) | Pegboard Nerds | Swamping | 135.0 | 1936 | 131.5 | osu_mirror/community | `osu_mirror\2197956\Pegboard Nerds - Swamp Thing (Cut ver.) (Nicknem_) [Swamping].mc` |
+| 4615 | Sweater In The Lake | Look Vibrant | shoutout rugama | 122.0 | 3664 | 182.2 | osu_mirror/community | `osu_mirror\2498671\Look Vibrant - Sweater In The Lake (Drimba) [shoutout rugama].mc` |
+| 4616 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | dreamy | 206.0 | 1347 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [dreamy].mc` |
+| 4617 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | hard | 206.0 | 840 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [Hard].mc` |
+| 4618 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | insane | 206.0 | 1144 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [Insane].mc` |
+| 4619 | sweets parade (TV Size) | Roromiya Karuta (CV: Hanazawa Kana) | normal | 206.0 | 577 | 88.0 | osu_mirror/community | `osu_mirror\2492349\Roromiya Karuta (CV Hanazawa Kana) - sweets parade (TV Size) (Muse Dash) [normal].mc` |
+| 4620 | Symphony Of The Beginning | Akiri | Normal | 55.0 | 41 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [Normal].mc` |
+| 4621 | Symphony Of The Beginning | Akiri | Take's Beginner | 55.0 | 43 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [Take's Beginner].mc` |
+| 4622 | Symphony Of The Beginning | Akiri | Take's Easy | 55.0 | 40 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [Take's Easy].mc` |
+| 4623 | Symphony Of The Beginning | Akiri | The Start Of It All | 55.0 | 78 | 69.8 | osu_mirror/community | `osu_mirror\2529021\Akiri - Symphony Of The Beginning (tapperruiii) [The Start Of It All].mc` |
+| 4624 | Symphony Of The Lost Souls | Akiri | In Remembrance Of The Souls We've Lost | 80.0 | 2492 | 298.3 | osu_mirror/community | `osu_mirror\2489291\Akiri - Symphony Of The Lost Souls (kojodat) [In Remembrance Of The Souls We've Lost].mc` |
+| 4625 | SYSTEM ERROR | Laur | Console.log(">>>error bm8gaGF5IGZpZGVvcwo=") | 200.0 | 4677 | 291.6 | osu_mirror/community | `osu_mirror\2136188\Laur - SYSTEM ERROR (menphiss) [Console.log(error bm8gaGF5IGZpZGVvcwo=)].mc` |
+| 4626 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Advanced | 141.11 | 490 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Advanced].mc` |
+| 4627 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Easy | 141.11 | 226 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Easy].mc` |
+| 4628 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Gentle Breath | 141.11 | 721 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Gentle Breath].mc` |
+| 4629 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Hyper | 141.11 | 761 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Hyper].mc` |
+| 4630 | Tada Koe Hitotsu (dive to the heart remix) | Rokudenashi | Standard | 141.11 | 412 | 115.4 | osu_mirror/community | `osu_mirror\2557325\Rokudenashi - Tada Koe Hitotsu (dive to the heart remix) (Miander) [Standard].mc` |
+| 4631 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.05 | 143.84 | 1986 | 139.8 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.05].mc` |
+| 4632 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.15 | 157.54 | 1986 | 127.6 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.15].mc` |
+| 4633 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.1 | 150.69 | 1986 | 133.4 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.1].mc` |
+| 4634 | Tairin no Soul | TAMAONSEN | The Spirit of Numen x1.2 | 164.39 | 1986 | 122.3 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen x1.2].mc` |
+| 4635 | Tairin no Soul | TAMAONSEN | The Spirit of Numen | 136.99 | 1986 | 146.7 | osu_mirror/community | `osu_mirror\1678453\TAMAONSEN - Tairin no Soul ([Crz]hinako1804) [The Spirit of Numen].mc` |
+| 4636 | Taishou a (adonde vuelvo) | anNina | human | 174.8 | 3985 | 432.2 | osu_mirror/community | `osu_mirror\2514569\anNina - Taishou a (adonde vuelvo) (caracol) [human].mc` |
+| 4637 | Takaramono (TV Size) | Nakanoke no Itsutsugo | Chrisse's Normal | 118.0 | 356 | 87.3 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [Chrisse's Normal].mc` |
+| 4638 | Takaramono (TV Size) | Nakanoke no Itsutsugo | Easy | 118.0 | 200 | 87.5 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [Easy].mc` |
+| 4639 | Takaramono (TV Size) | Nakanoke no Itsutsugo | Hard | 118.0 | 399 | 87.3 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [Hard].mc` |
+| 4640 | Takaramono (TV Size) | Nakanoke no Itsutsugo | You Are My Treasure | 118.0 | 407 | 82.4 | osu_mirror/community | `osu_mirror\2306091\Nakanoke No Itsutsugo - Takaramono (TV Size) (Savageeeee) [You Are My Treasure].mc` |
+| 4641 | takeoff climb | Annabel | fall into the sky | 110.0 | 1589 | 181.2 | osu_mirror/community | `osu_mirror\2491936\Annabel - takeoff climb (caracol) [fall into the sky].mc` |
+| 4642 | takeoff climb | Annabel | hyper | 110.0 | 879 | 181.1 | osu_mirror/community | `osu_mirror\2491936\Annabel - takeoff climb (caracol) [hyper].mc` |
+| 4643 | takeoff climb | Annabel | intermediate | 110.0 | 751 | 182.0 | osu_mirror/community | `osu_mirror\2491936\Annabel - takeoff climb (caracol) [intermediate].mc` |
+| 4644 | TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) | Hoshimachi Suisei | BL5's Easy | 101.0 | 158 | 30.2 | osu_mirror/community | `osu_mirror\1808439\Hoshimachi Suisei - TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) (menphiss) [BL5's Easy].mc` |
+| 4645 | TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) | Hoshimachi Suisei | Hard | 101.0 | 275 | 35.8 | osu_mirror/community | `osu_mirror\1808439\Hoshimachi Suisei - TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) (menphiss) [Hard].mc` |
+| 4646 | TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) | Hoshimachi Suisei | The Last Comet In This Universe | 101.0 | 356 | 36.2 | osu_mirror/community | `osu_mirror\1808439\Hoshimachi Suisei - TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) (menphiss) [The Last Comet In This Universe].mc` |
+| 4647 | TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) | Hoshimachi Suisei | ThisYuzu's Normal | 101.0 | 202 | 35.7 | osu_mirror/community | `osu_mirror\1808439\Hoshimachi Suisei - TALALALALALALALALALALALAAAAA LALAAAAAAAAAAAAA (Epic Ver.) (menphiss) [ThisYuzu's Normal].mc` |
+| 4648 | Tan She | MC Zhao Xiaoliu | Collab Extra | 146.7 | 908 | 57.2 | osu_mirror/community | `osu_mirror\2511692\MC Zhao Xiaoliu - Tan She (NineSey) [Collab Extra].mc` |
+| 4649 | Tan She | MC Zhao Xiaoliu | :hyper_male_pregnant: | 146.7 | 1017 | 57.2 | osu_mirror/community | `osu_mirror\2511692\MC Zhao Xiaoliu - Tan She (NineSey) [hyper_male_pregnant].mc` |
+| 4650 | Tan She | MC Zhao Xiaoliu | Maiiy's Insane | 146.7 | 686 | 57.2 | osu_mirror/community | `osu_mirror\2511692\MC Zhao Xiaoliu - Tan She (NineSey) [Maiiy's Insane].mc` |
+| 4651 | Tan She | MC Zhao Xiaoliu | Slowpoke's Hard | 146.7 | 547 | 57.2 | osu_mirror/community | `osu_mirror\2511692\MC Zhao Xiaoliu - Tan She (NineSey) [Slowpoke's Hard].mc` |
+| 4652 | Tanukichi no Bouken | MAKOOTO | BL5's Normal | 132.0 | 351 | 72.5 | osu_mirror/community | `osu_mirror\1923689\MAKOOTO - Tanukichi no Bouken (menphiss) [BL5's Normal].mc` |
+| 4653 | Tanukichi no Bouken | MAKOOTO | DO-DON-DO-DON-DON-DON! PEKO-CHAN!!! | 132.0 | 606 | 72.5 | osu_mirror/community | `osu_mirror\1923689\MAKOOTO - Tanukichi no Bouken (menphiss) [DO-DON-DO-DON-DON-DON! PEKO-CHAN!!!].mc` |
+| 4654 | Tanukichi no Bouken | MAKOOTO | Hard | 132.0 | 514 | 72.5 | osu_mirror/community | `osu_mirror\1923689\MAKOOTO - Tanukichi no Bouken (menphiss) [Hard].mc` |
+| 4655 | Tarantella (feat. BlackY) | Risa Yuzuki | Dance for Eternity | 148.0 | 2895 | 262.7 | osu_mirror/community | `osu_mirror\2584471\Risa Yuzuki - Tarantella (feat. BlackY) (Dereck101026) [Dance for eternity].mc` |
+| 4656 | tbh i dont like being social | luvlxckdown | introverted [edit] | 171.54 | 231 | 134.1 | osu_mirror/community | `osu_mirror\1625473\luvlxckdown - tbh i dont like being social (Stability) [introverted [edit]].mc` |
+| 4657 | tbh i dont like being social | luvlxckdown | introverted | 171.54 | 228 | 134.1 | osu_mirror/community | `osu_mirror\1625473\luvlxckdown - tbh i dont like being social (Stability) [introverted].mc` |
+| 4658 | tbh i dont like being social | luvlxckdown | asociality | 171.55 | 760 | 134.2 | osu_mirror/community | `osu_mirror\2555143\luvlxckdown - tbh i dont like being social (P45ta) [asociality].mc` |
+| 4659 | team edward | meat computer | ~ dis fangz r 4 u only ~ | 177.0 | 1281 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ dis fangz r 4 u only ~].mc` |
+| 4660 | team edward | meat computer | ~ easy ~ | 177.0 | 381 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ easy ~].mc` |
+| 4661 | team edward | meat computer | ~ extra ~ | 177.0 | 1128 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ extra ~].mc` |
+| 4662 | team edward | meat computer | ~ hard ~ | 177.0 | 763 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ hard ~].mc` |
+| 4663 | team edward | meat computer | ~ insane ~ | 177.0 | 992 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ insane ~].mc` |
+| 4664 | team edward | meat computer | ~ normal ~ | 177.0 | 563 | 73.2 | osu_mirror/community | `osu_mirror\1858055\meat computer - team edward (White Hare) [~ normal ~].mc` |
+| 4665 | Tell Me | Haywyre | Hyper | 115.0 | 1796 | 256.7 | osu_mirror/community | `osu_mirror\2543113\Haywyre - Tell Me (kooo) [Hyper].mc` |
+| 4666 | Tell Me | Haywyre | I Got Something to Ask You | 115.0 | 1842 | 256.7 | osu_mirror/community | `osu_mirror\2543113\Haywyre - Tell Me (kooo) [I Got Something to Ask You].mc` |
+| 4667 | Temple Guardian | nicopatty | Easy | 185.0 | 366 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Easy].mc` |
+| 4668 | Temple Guardian | nicopatty | Giza Hecatomb | 185.0 | 1443 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Giza Hecatomb].mc` |
+| 4669 | Temple Guardian | nicopatty | Hard | 185.0 | 981 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Hard].mc` |
+| 4670 | Temple Guardian | nicopatty | Normal | 185.0 | 743 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Normal].mc` |
+| 4671 | Temple Guardian | nicopatty | Vivi's Hyper | 185.0 | 1256 | 124.5 | osu_mirror/community | `osu_mirror\2400069\nicopatty - Temple Guardian (Ucitysm) [Vivi's Hyper].mc` |
+| 4672 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.05x (147bpm) | 147.0 | 4210 | 209.0 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.05x (147bpm)].mc` |
+| 4673 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.15x (161bpm) | 161.0 | 4210 | 190.8 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.15x (161bpm)].mc` |
+| 4674 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.1x (154bpm) | 154.0 | 4210 | 199.5 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.1x (154bpm)].mc` |
+| 4675 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.25x (175bpm) | 175.0 | 4210 | 175.5 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.25x (175bpm)].mc` |
+| 4676 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.2x (168bpm) | 168.0 | 4210 | 182.9 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.2x (168bpm)].mc` |
+| 4677 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.35x (189bpm) | 189.0 | 4210 | 162.5 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.35x (189bpm)].mc` |
+| 4678 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.3x (182bpm) | 182.0 | 4210 | 168.8 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.3x (182bpm)].mc` |
+| 4679 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | 1.4x (196bpm) | 196.0 | 4210 | 156.7 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [1.4x (196bpm)].mc` |
+| 4680 | Ten Ten Tengoku Jigokukoku | Aiobahn +81 feat. Nanahira & Pmarusama | Hell on Heaven | 140.0 | 4210 | 219.4 | osu_mirror/community | `osu_mirror\2324445\Aiobahn +81 feat. Nanahira & Pmarusama - Ten Ten Tengoku Jigokukoku (Bacon Haniwa) [hell on heaven].mc` |
+| 4681 | Ten, Sen, Men, Rittai | Sound piercer | 4k Another | 124.0 | 1348 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Another].mc` |
+| 4682 | Ten, Sen, Men, Rittai | Sound piercer | 4k Beginner | 124.0 | 362 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Beginner].mc` |
+| 4683 | Ten, Sen, Men, Rittai | Sound piercer | 4k Clockwork | 124.0 | 1627 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Clockwork].mc` |
+| 4684 | Ten, Sen, Men, Rittai | Sound piercer | 4k Hyper | 124.0 | 1021 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Hyper].mc` |
+| 4685 | Ten, Sen, Men, Rittai | Sound piercer | 4k Normal | 124.0 | 713 | 123.9 | osu_mirror/community | `osu_mirror\2012308\Sound piercer - Ten, Sen, Men, Rittai (-MysticEyes) [4k Normal].mc` |
+| 4686 | TERABYTE | Kou! | A Pulse of Signal | 210.0 | 2743 | 166.8 | osu_mirror/community | `osu_mirror\2412599\Kou! - TERABYTE ([GB]Cinelia) [A Pulse of Signal].mc` |
+| 4687 | TERABYTE | Kou! | chy's Insane | 210.0 | 2328 | 166.8 | osu_mirror/community | `osu_mirror\2412599\Kou! - TERABYTE ([GB]Cinelia) [chy's insane].mc` |
+| 4688 | TERRAFORGE | Xeudo Code | EXPONENT | 154.0 | 7337 | 312.7 | osu_mirror/community | `osu_mirror\2524412\Xeudo Code - TERRAFORGE (chy030_ft_pH5_6) [EXPONENT].mc` |
+| 4689 | TESHiKANi | wotoha | Gugu gaga!!! | 175.0 | 800 | 263.2 | osu_mirror/community | `osu_mirror\2474010\wotoha - TESHiKANi (Kagetayori) [Gugu gaga!!!].mc` |
+| 4690 | TEST ME (TV Size) | CHANMINA | kekou's Hard | 125.0 | 506 | 84.4 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV SIZE) (Kibitz) [kekou's Hard].mc` |
+| 4691 | TEST ME (TV Size) | CHANMINA | kekou's Insane | 125.0 | 763 | 84.7 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [kekou's Insane].mc` |
+| 4692 | TEST ME (TV Size) | CHANMINA | Normal | 125.0 | 358 | 85.1 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [Normal].mc` |
+| 4693 | TEST ME (TV Size) | CHANMINA | Sava's Easy | 125.0 | 272 | 85.3 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [Sava's Easy].mc` |
+| 4694 | TEST ME (TV Size) | CHANMINA | The Brightest Star! | 125.0 | 829 | 84.7 | osu_mirror/community | `osu_mirror\2500063\CHANMINA - TEST ME (TV Size) (Kibitz) [The Brightest Star!].mc` |
+| 4695 | TEST ME (TV Size) | CHANMINA | Ainer's Easy | 130.0 | 325 | 87.9 | osu_mirror/community | `osu_mirror\2500155\CHANMINA - TEST ME (TV SIZE) (-Yubi-) [Ainer's Easy].mc` |
+| 4696 | TEST ME (TV Size) | CHANMINA | Avel's Hard | 130.0 | 893 | 88.6 | osu_mirror/community | `osu_mirror\2500155\CHANMINA - TEST ME (TV SIZE) (-Yubi-) [Avel's Hard].mc` |
+| 4697 | TEST ME (TV Size) | CHANMINA | Insane | 130.0 | 1196 | 88.6 | osu_mirror/community | `osu_mirror\2500155\CHANMINA - TEST ME (TV Size) (-Yubi-) [Insane].mc` |
+| 4698 | TEST ME (TV Size) | CHANMINA | Normal | 130.0 | 490 | 88.6 | osu_mirror/community | `osu_mirror\2500155\CHANMINA - TEST ME (TV SIZE) (-Yubi-) [Normal].mc` |
+| 4699 | TEST ME (TV Size) | CHANMINA | Pretend | 130.0 | 1391 | 88.6 | osu_mirror/community | `osu_mirror\2500155\CHANMINA - TEST ME (TV SIZE) (-Yubi-) [Pretend].mc` |
+| 4700 | Texture Garden | you | illustration. | 128.0 | 1059 | 142.5 | osu_mirror/community | `osu_mirror\2537785\You - Texture Garden (G1NYA) [illustration.].mc` |
+| 4701 | Texture Garden | you | nai's Hard | 128.0 | 863 | 142.5 | osu_mirror/community | `osu_mirror\2537785\you - Texture Garden (G1NYA) [nai's Hard].mc` |
+| 4702 | Texture Garden | you | Platinum's Insane | 128.0 | 912 | 142.5 | osu_mirror/community | `osu_mirror\2537785\you - Texture Garden (G1NYA) [Platinum's Insane].mc` |
+| 4703 | Texture Garden | you | Ran's Normal | 128.0 | 512 | 142.5 | osu_mirror/community | `osu_mirror\2537785\you - Texture Garden (G1NYA) [Ran's Normal].mc` |
+| 4704 | Thaleia | satella feat. Aitsuki Nakuru | Idyllic | 186.0 | 3489 | 224.5 | osu_mirror/community | `osu_mirror\2571760\satella feat. Aitsuki Nakuru - Thaleia (Arcana Shadow) [Idyllic].mc` |
+| 4705 | That's So True (Sped Up & Ringtone Edit) | Gracie Abrams | XBladeXGMD's awesome chordjack slop | 270.0 | 406 | 14.7 | osu_mirror/community | `osu_mirror\2535726\Gracie Abrams - That's So True (Sped Up & Ringtone Edit) (-Yumiko-) [XBladeXGMD's awesome chordjack slop].mc` |
+| 4706 | The Bridgeport Run | The Flashbulb | Dauntless | 182.0 | 3270 | 217.0 | osu_mirror/community | `osu_mirror\2608594\The Flashbulb - The Bridgeport Run (-MysticEyes) [Dauntless].mc` |
+| 4707 | The Daybreak Will Never Come Again. ("rampagE" long vEr.) | seatrus | This Is The Start. | 200.0 | 1363 | 238.8 | osu_mirror/community | `osu_mirror\2599811\seatrus - The Daybreak Will Never Come Again. (rampagE long vEr.) (Concepte) [This Is The Start.].mc` |
+| 4708 | The Fucking Apocalypse | Cynthoni | We're Already Fucking Dead | 174.0 | 4038 | 242.7 | osu_mirror/community | `osu_mirror\2467699\Cynthoni - The Fucking Apocalypse (Znow) [We're Already Fucking Dead].mc` |
+| 4709 | The Lie | The Promise, The Lie | Broken Promises | 140.0 | 965 | 185.0 | osu_mirror/community | `osu_mirror\2580472\The Promise, The Lie - The Lie (countingstars) [Broken Promises].mc` |
+| 4710 | the moon is made of cheese, but i can't taste it | bill wurtz | cheddar | 94.0 | 227 | 66.7 | osu_mirror/community | `osu_mirror\2523370\bill wurtz - the moon is made of cheese, but i can't taste it (Utiba) [cheddar].mc` |
+| 4711 | the moon is made of cheese, but i can't taste it | bill wurtz | easy | 94.0 | 145 | 66.9 | osu_mirror/community | `osu_mirror\2523370\bill wurtz - the moon is made of cheese, but i can't taste it (Utiba) [easy].mc` |
+| 4712 | the moon is made of cheese, but i can't taste it | bill wurtz | normal | 94.0 | 163 | 66.7 | osu_mirror/community | `osu_mirror\2523370\bill wurtz - the moon is made of cheese, but i can't taste it (Utiba) [normal].mc` |
+| 4713 | The Most Disorderly Utopia, The Most Orderly Dystopia, and You in Between | TBvwv | Apollyon | 160.0 | 3904 | 218.9 | osu_mirror/community | `osu_mirror\2509182\TBvwv - The Most Disorderly Utopia, The Most Orderly Dystopia, and You in Between (Istaroth) [Apollyon].mc` |
+| 4714 | The Princess was gills breathing. | seatrus | Within the Anthozoan Firmament | 230.0 | 2612 | 304.2 | osu_mirror/community | `osu_mirror\2576437\seatrus - The Princess was gills breathing. (Linlime) [Within the Anthozoan Firmament].mc` |
+| 4715 | The proximity of our souls making to something | ric3show3r feat. m4titann, Rio Momose, 4NK4K3 | Mirai no Hate, Shoujo o Matsu. | 200.0 | 2735 | 278.2 | osu_mirror/community | `osu_mirror\2630171\ric3show3r feat. m4titann, Rio Momose, 4NK4K3 - The proximity of our souls making to something (QwertYui345) [Mirai no Hate, Shoujo o Matsu.].mc` |
+| 4716 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.1x | 244.2 | 893 | 168.5 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.1x].mc` |
+| 4717 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.2x | 266.4 | 893 | 154.4 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.2x].mc` |
+| 4718 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.3x | 288.6 | 893 | 142.6 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.3x].mc` |
+| 4719 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN 1.4x | 310.8 | 893 | 132.4 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN 1.4x].mc` |
+| 4720 | The Rebellion of Phantom (feat. Valkyria) | DJ Myosuke & Gram | RebeLlioN | 222.0 | 893 | 185.3 | osu_mirror/community | `osu_mirror\2172903\DJ Myosuke & Gram - The Rebellion of Phantom (feat. Valkyria) (mystV) [RebeLlioN].mc` |
+| 4721 | The Saint Beyond The River | Fellowship | Reminiscent | 142.0 | 2743 | 241.5 | osu_mirror/community | `osu_mirror\2575512\Fellowship - The Saint Beyond The River (P45ta) [Reminiscent].mc` |
+| 4722 | The Solace of Oblivion | Helblinde | The Echoes of Memoria | 195.0 | 3946 | 328.6 | osu_mirror/community | `osu_mirror\2502887\Helblinde - The Solace of Oblivion (Lleethenoob) [The Echoes of Memoria].mc` |
+| 4723 | The Whole Blue World | Ave Mujica | Melancholy | 200.0 | 3419 | 249.2 | osu_mirror/community | `osu_mirror\2589471\Ave Mujica - The Whole Blue World (TheBigSadd) [Melancholy].mc` |
+| 4724 | Theater of a Witch | Yuki Kajiura | Despair | 136.52 | 353 | 34.7 | osu_mirror/community | `osu_mirror\1834548\Yuki Kajiura - Theater of a Witch (TH Lunasa) [Despair].mc` |
+| 4725 | they besties | cluli | apple | 150.0 | 2720 | 166.4 | osu_mirror/community | `osu_mirror\2520931\cluli - they besties (oid45) [apple].mc` |
+| 4726 | they besties | cluli | insane | 150.0 | 1834 | 166.4 | osu_mirror/community | `osu_mirror\2520931\cluli - they besties (oid45) [Insane].mc` |
+| 4727 | they besties | cluli | PlatinumSplash's expert | 150.0 | 2271 | 166.4 | osu_mirror/community | `osu_mirror\2520931\cluli - they besties (oid45) [PlatinumSplash's Expert].mc` |
+| 4728 | Thick of HiT (S8-10 Opening Mashup) | ShortStumpyEngine | o r 3 0's execution | 93.0 | 216 | 30.3 | osu_mirror/community | `osu_mirror\2506744\ShortStumpyEngine - Thick of HiT (S8-10 Opening Mashup) (Basensorex) [o r 3 0's execution].mc` |
+| 4729 | Thick of HiT (S8-10 Opening Mashup) | ShortStumpyEngine | o r 3 0's hard | 93.0 | 175 | 30.3 | osu_mirror/community | `osu_mirror\2506744\ShortStumpyEngine - Thick of HiT (S8-10 Opening Mashup) (Basensorex) [o r 3 0's hard].mc` |
+| 4730 | Thick of HiT (S8-10 Opening Mashup) | ShortStumpyEngine | o r 3 0's normal | 93.0 | 141 | 30.3 | osu_mirror/community | `osu_mirror\2506744\ShortStumpyEngine - Thick of HiT (S8-10 Opening Mashup) (Basensorex) [o r 3 0's normal].mc` |
+| 4731 | THRASH (PARTY STARTER) | ISOKNOCK | ANOTHER | 140.0 | 673 | 150.9 | osu_mirror/community | `osu_mirror\2378077\ISOKNOCK - THRASH (PARTY STARTER) (Ainer) [ANOTHER].mc` |
+| 4732 | THRASH (PARTY STARTER) | ISOKNOCK | SLOWPOKE'S INSANE | 140.0 | 671 | 126.9 | osu_mirror/community | `osu_mirror\2378077\ISOKNOCK - THRASH (PARTY STARTER) (Ainer) [SLOWPOKE'S INSANE].mc` |
+| 4733 | THRASH (PARTY STARTER) | ISOKNOCK | USAGI'S MOSHPIT | 140.0 | 889 | 154.3 | osu_mirror/community | `osu_mirror\2378077\ISOKNOCK - THRASH (PARTY STARTER) (Ainer) [USAGI'S MOSHPIT].mc` |
+| 4734 | Thule | Camellia feat. Camellia | Falling to the abyss | 300.0 | 2819 | 315.9 | osu_mirror/community | `osu_mirror\2554749\Camellia feat. Camellia - Thule (Initial D) [Falling to the abyss].mc` |
+| 4735 | Thursday | Akiri | Beginner | 55.0 | 29 | 34.9 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [Beginner].mc` |
+| 4736 | Thursday | Akiri | Easy | 55.0 | 29 | 52.4 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [Easy].mc` |
+| 4737 | Thursday | Akiri | tapperruiii's Normal | 55.0 | 38 | 70.4 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [tapperruiii's Normal].mc` |
+| 4738 | Thursday | Akiri | tapperruiii's Thursday | 55.0 | 55 | 70.4 | osu_mirror/community | `osu_mirror\2529925\Akiri - Thursday (Kosi) [tapperruiii's Thursday].mc` |
+| 4739 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Dei! Yao Guai! | 155.0 | 790 | 136.7 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Dei! Yao Guai!].mc` |
+| 4740 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Drater's Insane | 155.0 | 496 | 137.4 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Drater's Insane].mc` |
+| 4741 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Hard | 155.0 | 475 | 137.3 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Hard].mc` |
+| 4742 | Tian Ling Ling Di Ling Ling | iKz feat. Kero | Normal | 155.0 | 416 | 137.3 | osu_mirror/community | `osu_mirror\2562120\iKz feat. Kero - Tian Ling Ling Di Ling Ling (Hoshimegu Mio) [Normal].mc` |
+| 4743 | TIMING HELL ~The Perpetual Chaotically Unsynced Pendulum~ | takehirotei | Convergence | 307.0 | 101 | 243.2 | osu_mirror/community | `osu_mirror\2455661\takehirotei - TIMING HELL ~The Perpetual Chaotically Unsynced Pendulum~ (Hylotl) [Convergence].mc` |
+| 4744 | tiny windows (feat. Frizk) | Tanger | penpal | 114.0 | 998 | 122.1 | osu_mirror/community | `osu_mirror\2483449\Tanger - tiny windows (feat. Frizk) (P45ta) [penpal].mc` |
+| 4745 | Together forever, my lovely lovely video game cartridges | Camellia | Inseperable, our never ever ending friendship | 110.0 | 2051 | 316.1 | osu_mirror/community | `osu_mirror\2402627\Camellia - Together forever, my lovely lovely video game cartridges (soup3r) [Inseperable, our never ever ending friendship].mc` |
+| 4746 | Toki no Ryousen (Supire Remix) | kaitendaentai | Eternity. | 140.0 | 2607 | 143.6 | osu_mirror/community | `osu_mirror\2576239\kaitendaentai - Toki no Ryousen (Supire Remix) (Seiran-) [Eternity.].mc` |
+| 4747 | Tokimeki Poporon (TV Size) | Chimame-tai | Fapu's Normal | 170.0 | 404 | 88.8 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Fapu's Normal].mc` |
+| 4748 | Tokimeki Poporon (TV Size) | Chimame-tai | Pyon Pyon | 170.0 | 464 | 87.9 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Pyon Pyon].mc` |
+| 4749 | Tokimeki Poporon (TV Size) | Chimame-tai | Ran's Easy | 170.0 | 316 | 88.8 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Ran's Easy].mc` |
+| 4750 | Tokimeki Poporon (TV Size) | Chimame-tai | Yelin's Hard | 170.0 | 345 | 88.8 | osu_mirror/community | `osu_mirror\2560847\Chimame-tai - Tokimeki Poporon (TV Size) (nai_) [Yelin's Hard].mc` |
+| 4751 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Easy | 168.0 | 325 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Easy].mc` |
+| 4752 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Hard | 168.0 | 873 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Hard].mc` |
+| 4753 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Normal | 168.0 | 528 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Normal].mc` |
+| 4754 | Tokimeki Scramble (Cut Ver.) | Mayano Top Gun (CV: Hoshitani Mio) | Top Waifu | 168.0 | 1376 | 107.9 | osu_mirror/community | `osu_mirror\2417924\Mayano Top Gun (CV Hoshitani Mio) - Tokimeki Scramble (Cut Ver.) (Drum-Hitnormal) [Top Waifu].mc` |
+| 4755 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Hyper Potion // 4K Hard | 125.72 | 334 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Hyper Potion  4K Hard].mc` |
+| 4756 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Max Potion // 4K Insane | 125.72 | 448 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Max Potion  4K Insane].mc` |
+| 4757 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Potion // 4K Easy | 125.72 | 184 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Potion  4K Easy].mc` |
+| 4758 | Tokiwa e no Michi - Masara yori | Junichi Masuda | Super Potion // 4K Normal | 125.72 | 264 | 45.3 | osu_mirror/community | `osu_mirror\2499207\Junichi Masuda - Tokiwa e no Michi - Masara yori (Kibitz) [Super Potion  4K Normal].mc` |
+| 4759 | TOKYO | Sheena Ringo | dislocation | 152.25 | 448 | 123.9 | osu_mirror/community | `osu_mirror\2214119\Sheena Ringo - TOKYO (anatharax) [dislocation].mc` |
+| 4760 | Tom and Jerry in the Hollywood Bowl (TV Size) | Scott Bradley | Car and pighat in the Hollywood Bowl | 15.0 | 1675 | 189.9 | osu_mirror/community | `osu_mirror\2549279\Scott Bradley - Tom and Jerry in the Hollywood Bowl (TV Size) (oid45) [Car and pighat in the Hollywood Bowl].mc` |
+| 4761 | Tono!? Goranshin!? | Shu feat. Amau Syrup | ADVANCED!? | 200.0 | 1338 | 83.2 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [ADVANCED!].mc` |
+| 4762 | Tono!? Goranshin!? | Shu feat. Amau Syrup | BASIC!? | 200.0 | 845 | 91.6 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [BASIC!].mc` |
+| 4763 | Tono!? Goranshin!? | Shu feat. Amau Syrup | cherrychou's Re:MASTER!? | 200.0 | 1172 | 86.0 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [cherrychou's ReMASTER!].mc` |
+| 4764 | Tono!? Goranshin!? | Shu feat. Amau Syrup | EXPERT!? | 200.0 | 1603 | 83.2 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [EXPERT!].mc` |
+| 4765 | Tono!? Goranshin!? | Shu feat. Amau Syrup | Goranshin!? | 200.0 | 1749 | 90.7 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [Goranshin!].mc` |
+| 4766 | Tono!? Goranshin!? | Shu feat. Amau Syrup | HARD!? | 200.0 | 1131 | 89.6 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [Hard!].mc` |
+| 4767 | Tono!? Goranshin!? | Shu feat. Amau Syrup | Niks' MASTER!? | 200.0 | 1830 | 85.8 | osu_mirror/community | `osu_mirror\2513899\Shu feat. Amau Syrup - Tono! Goranshin! (Murumoo) [Niks' MASTER!].mc` |
+| 4768 | Tool | MARETU | Easy | 172.0 | 136 | 44.7 | osu_mirror/community | `osu_mirror\2447241\MARETU - Tool (Foxide) [Easy].mc` |
+| 4769 | Tool | MARETU | Hard | 172.0 | 284 | 44.7 | osu_mirror/community | `osu_mirror\2447241\MARETU - Tool (Foxide) [Hard].mc` |
+| 4770 | Tool | MARETU | Insane | 172.0 | 327 | 44.5 | osu_mirror/community | `osu_mirror\2447241\MARETU - Tool (Foxide) [Insane].mc` |
+| 4771 | Tool | MARETU | Normal | 172.0 | 199 | 44.3 | osu_mirror/community | `osu_mirror\2447241\MARETU - Tool (Foxide) [Normal].mc` |
+| 4772 | Toshi no Se Gassaku 2023 ~Nanairo no Nico Nico Douga Ryuuseigun~ | Various Artists | Grand osuMAD | 19.86 | 46180 | 942.2 | osu_mirror/community | `osu_mirror\2181438\Various Artists - Toshi no Se Gassaku 2023 ~Nanairo no Nico Nico Douga Ryuuseigun~ (Slick6969) [Grand osuMAD].mc` |
+| 4773 | Touch The Stars (Nightcore & Cut Ver.) | RE-CON | Hydria x Zaeem Insane | 204.82 | 1781 | 168.7 | osu_mirror/community | `osu_mirror\2607616\RE-CON - Touch The Stars (Nightcore & Cut Ver.) (Zaeem) [Hydria x Zaeem Insane].mc` |
+| 4774 | Touch The Stars (Nightcore & Cut Ver.) | RE-CON | Touch the Core | 204.82 | 2243 | 168.7 | osu_mirror/community | `osu_mirror\2607616\RE-CON - Touch The Stars (Nightcore & Cut Ver.) (Zaeem) [Touch the Core].mc` |
+| 4775 | Touhiron | Camellia feat. Nanahira | I felt enough regret to bring me to chordjacks | 244.0 | 4317 | 262.4 | osu_mirror/community | `osu_mirror\2375712\Camellia feat. Nanahira - Touhiron (kartofle) [I felt enough regret to bring me to chordjacks].mc` |
+| 4776 | Toumei Datta Sekai | Hata Motohiro | Insane | 168.0 | 708 | 88.2 | osu_mirror/community | `osu_mirror\801041\Hata Motohiro - Toumei Datta Sekai (-[_RizzCraft_]-) [Insane].mc` |
+| 4777 | Toumei Datta Sekai | Hata Motohiro | NM | 168.0 | 291 | 49.3 | osu_mirror/community | `osu_mirror\801041\Hata Motohiro - Toumei Datta Sekai (-[_RizzCraft_]-) [NM].mc` |
+| 4778 | Tourmaline Drill | WangleLine | Gem | 172.0 | 428 | 77.9 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Gem].mc` |
+| 4779 | Tourmaline Drill | WangleLine | Hard | 172.0 | 285 | 74.0 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Hard].mc` |
+| 4780 | Tourmaline Drill | WangleLine | Hyper | 172.0 | 455 | 78.0 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Hyper].mc` |
+| 4781 | Tourmaline Drill | WangleLine | Insane | 172.0 | 397 | 78.0 | osu_mirror/community | `osu_mirror\2533221\WangleLine - Tourmaline Drill (Stereotype) [Insane].mc` |
+| 4782 | Touryouka | Camellia feat. Nanahira | Flourish | 256.0 | 2542 | 264.6 | osu_mirror/community | `osu_mirror\2596119\Camellia feat. Nanahira - Touryouka (V1do-) [Flourish].mc` |
+| 4783 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | -Zell's Beginner | 98.0 | 84 | 88.8 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [-Zell's Beginner].mc` |
+| 4784 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | Easy | 98.0 | 153 | 90.6 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [Easy].mc` |
+| 4785 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | Terry's Normal | 98.0 | 178 | 90.6 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [Terry's Normal].mc` |
+| 4786 | Tout est bien qui finit bien (Cut Ver.) | HOYO-MiX | Thank you, Furina | 98.0 | 220 | 88.1 | osu_mirror/community | `osu_mirror\2564794\HOYO-MiX - Tout est bien qui finit bien (Cut Ver.) (hydrogen b0mb) [Thank you, Furina].mc` |
+| 4787 | Toward Truth and Reconciliation | Xanthochroid | Of Erthe and Axen | 80.0 | 4875 | 552.4 | osu_mirror/community | `osu_mirror\1816628\Xanthochroid - Toward Truth and Reconciliation (Linlime) [Of Erthe and Axen].mc` |
+| 4788 | Tracen Ondo | Various Artists | Celebration // Hard | 40.0 | 1232 | 150.4 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Celebration  Hard].mc` |
+| 4789 | Tracen Ondo | Various Artists | Festival // Insane | 40.0 | 1563 | 150.4 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Festival  Insane].mc` |
+| 4790 | Tracen Ondo | Various Artists | Fireworks // Normal | 40.0 | 893 | 150.3 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Fireworks  Normal].mc` |
+| 4791 | Tracen Ondo | Various Artists | Harikitte Ikou! // Expert | 40.0 | 1804 | 150.2 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Harikitte Ikou!  Expert].mc` |
+| 4792 | Tracen Ondo | Various Artists | Sparks // Avel's Easy | 40.0 | 316 | 133.4 | osu_mirror/community | `osu_mirror\2515787\Various Artists - Tracen Ondo (Duckys) [Sparks  Avel's Easy].mc` |
+| 4793 | Transhumanist | Billain & Vorso | Falling | 174.0 | 3252 | 244.1 | osu_mirror/community | `osu_mirror\2489203\Billain & Vorso - Transhumanist (Stereotype) [Falling].mc` |
+| 4794 | Transientia | Krimek | Azukkii's Normal | 132.0 | 198 | 69.7 | osu_mirror/community | `osu_mirror\2564470\Krimek - Transientia (-Zell) [Azukkii's Normal].mc` |
+| 4795 | Transientia | Krimek | Fading Memories. | 132.0 | 176 | 69.0 | osu_mirror/community | `osu_mirror\2564470\Krimek - Transientia (-Zell) [Fading Memories.].mc` |
+| 4796 | Transientia | Krimek | Neon's Easy | 132.0 | 16 | 57.7 | osu_mirror/community | `osu_mirror\2564470\Krimek - Transientia (-Zell) [Neon's Easy].mc` |
+| 4797 | Transmission_Of_Radionuclides_In_Geosynchronous_Heights_<moduleGLACIER-X471> | HYOUKA | Oscillation | 168.0 | 2816 | 310.6 | osu_mirror/community | `osu_mirror\2472371\HYOUKA - Transmission_Of_Radionuclides_In_Geosynchronous_Heights_moduleGLACIER-X471 (OxalicAcid) [Oscillation].mc` |
+| 4798 | Trick Heart | MIMI feat. Kasane Teto SV | Ace of Hearts | 150.0 | 1825 | 153.2 | osu_mirror/community | `osu_mirror\2499321\MIMI feat. Kasane Teto SV - Trick Heart (Dereck101026) [Ace of Hearts].mc` |
+| 4799 | Trick Heart | MIMI feat. Kasane Teto SV | Hard | 150.0 | 1354 | 153.2 | osu_mirror/community | `osu_mirror\2499321\MIMI feat. Kasane Teto SV - Trick Heart (Dereck101026) [Hard].mc` |
+| 4800 | Trick Heart | MIMI feat. Kasane Teto SV | MiuOtter's Easy | 150.0 | 412 | 153.2 | osu_mirror/community | `osu_mirror\2499321\MIMI feat. Kasane Teto SV - Trick Heart (Dereck101026) [MiuOtter's Easy].mc` |
+| 4801 | Trick Heart | MIMI feat. Kasane Teto SV | Normal | 150.0 | 774 | 153.2 | osu_mirror/community | `osu_mirror\2499321\MIMI feat. Kasane Teto SV - Trick Heart (Dereck101026) [Normal].mc` |
+| 4802 | Tricolor circuS | aa...hisuichazuke... | AAAAFanboy's ADVANCED | 180.0 | 705 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [AAAAFanboy's ADVANCED].mc` |
+| 4803 | Tricolor circuS | aa...hisuichazuke... | Blankface74's MASTER | 180.0 | 1452 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Blankface74's MASTER].mc` |
+| 4804 | Tricolor circuS | aa...hisuichazuke... | Dream Makers | 180.0 | 1487 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Dream Makers].mc` |
+| 4805 | Tricolor circuS | aa...hisuichazuke... | Maiiy's BASIC | 180.0 | 412 | 122.7 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Maiiy's BASIC].mc` |
+| 4806 | Tricolor circuS | aa...hisuichazuke... | Vincus' EXPERT | 180.0 | 1272 | 129.3 | osu_mirror/community | `osu_mirror\1848066\aa...hisuichazuke... - Tricolor circuS (Murumoo) [Vincus' EXPERT].mc` |
+| 4807 | Tsuki no Uro | Shimotsuki Haruka | Hollow | 208.0 | 1574 | 249.5 | osu_mirror/community | `osu_mirror\2530520\Shimotsuki Haruka - Tsuki no Uro (Onta_Bekasi) [Hollow].mc` |
+| 4808 | Tsukiyo ni Mau Koi no Hana | Uinyasu | Konya wa Tsuki ga Kirei Desu~ | 186.0 | 1518 | 345.7 | osu_mirror/community | `osu_mirror\2522756\Uinyasu - Tsukiyo ni Mau Koi no Hana (nai_) [Konya wa Tsuki ga Kirei Desu~].mc` |
+| 4809 | Tsumi to Batsu | Sheena Ringo | (marathon) | 140.0 | 1 | 0.0 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [(marathon)].mc` |
+| 4810 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.05 | 147.0 | 3676 | 172.6 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.05].mc` |
+| 4811 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.15 | 161.0 | 3676 | 157.6 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.15].mc` |
+| 4812 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.1 | 154.0 | 3676 | 164.8 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.1].mc` |
+| 4813 | Tsumi to Batsu | Sheena Ringo | Sympathy x1.2 | 168.0 | 3676 | 151.0 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy x1.2].mc` |
+| 4814 | Tsumi to Batsu | Sheena Ringo | Sympathy | 140.0 | 3676 | 181.2 | osu_mirror/community | `osu_mirror\1938401\Sheena Ringo - Tsumi to batsu (11Bit) [Sympathy].mc` |
+| 4815 | Tsunagite | rintaro soma | Advanced | 38.8 | 1026 | 152.8 | osu_mirror/community | `osu_mirror\2389734\rintaro soma - Tsunagite (Lude) [Advanced].mc` |
+| 4816 | Tsunagite | rintaro soma | Basic | 38.8 | 731 | 152.0 | osu_mirror/community | `osu_mirror\2389734\rintaro soma - Tsunagite (Lude) [Basic].mc` |
+| 4817 | Tsunagite | rintaro soma | devotion | 38.8 | 1733 | 152.8 | osu_mirror/community | `osu_mirror\2389734\rintaro soma - Tsunagite (Lude) [devotion].mc` |
+| 4818 | Tsunagite | rintaro soma | Expert | 38.8 | 1293 | 152.8 | osu_mirror/community | `osu_mirror\2389734\rintaro soma - Tsunagite (Lude) [Expert].mc` |
+| 4819 | Tsunagite | rintaro soma | Master | 38.8 | 1521 | 157.6 | osu_mirror/community | `osu_mirror\2389734\rintaro soma - Tsunagite (Lude) [Master].mc` |
+| 4820 | Tsunagite | rintaro soma | Mizuki's Re:Master | 38.8 | 1473 | 152.8 | osu_mirror/community | `osu_mirror\2389734\rintaro soma - Tsunagite (Lude) [Mizuki's ReMaster].mc` |
+| 4821 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | 29/16 | 102.0 | 482 | 40.6 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [2916].mc` |
+| 4822 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | Easy | 102.0 | 196 | 40.6 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [Easy].mc` |
+| 4823 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | Hard | 102.0 | 319 | 40.6 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [Hard].mc` |
+| 4824 | Tsuyoki Mono (Kamen no Otoko) | Sakai Shougo | Normal | 102.0 | 232 | 39.8 | osu_mirror/community | `osu_mirror\2278487\Sakai Shougo - Tsuyoki Mono (Kamen no Otoko) (HimitsuHiketsu) [Normal].mc` |
+| 4825 | Tu Falta De Querer | Mon Laferte | Quisiera poder compartirte este maldito pesar. | 117.86 | 4834 | 205.5 | osu_mirror/community | `osu_mirror\2481465\Mon Laferte - Tu Falta De Querer (Gera) [Quisiera poder compartirte este maldito pesar.].mc` |
+| 4826 | TURN IT UP | Fisky | ABSTRAKT VISUALISERING | 210.0 | 1791 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Abstrakt Visualisering].mc` |
+| 4827 | TURN IT UP | Fisky | Chrisse's ADVANCED | 210.0 | 931 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Advanced].mc` |
+| 4828 | TURN IT UP | Fisky | Chrisse's HARD | 210.0 | 1275 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Hard].mc` |
+| 4829 | TURN IT UP | Fisky | Chrisse's INSANE | 210.0 | 1539 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Insane].mc` |
+| 4830 | TURN IT UP | Fisky | Chrisse's NORMAL | 210.0 | 713 | 112.0 | osu_mirror/community | `osu_mirror\2455736\Fisky - TURN IT UP (Fisky) [Chrisse's Normal].mc` |
+| 4831 | Twin Bloom | Gardens | Aestivation | 145.0 | 3363 | 335.5 | osu_mirror/community | `osu_mirror\2623957\Gardens - Twin Bloom (elexire) [Aestivation].mc` |
+| 4832 | Twin Bloom | Gardens | Ramification | 145.0 | 3410 | 337.1 | osu_mirror/community | `osu_mirror\2623957\Gardens - Twin Bloom (elexire) [Ramification].mc` |
+| 4833 | Ultimate Force (Game Ver.) | Sakuzyo | ADVANCED | 270.0 | 780 | 143.1 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [ADVANCED].mc` |
+| 4834 | Ultimate Force (Game Ver.) | Sakuzyo | BASIC | 270.0 | 537 | 142.7 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [BASIC].mc` |
+| 4835 | Ultimate Force (Game Ver.) | Sakuzyo | EASY | 270.0 | 253 | 142.7 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [EASY].mc` |
+| 4836 | Ultimate Force (Game Ver.) | Sakuzyo | EXPERT | 270.0 | 1302 | 145.6 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [EXPERT].mc` |
+| 4837 | Ultimate Force (Game Ver.) | Sakuzyo | MASTER | 270.0 | 1728 | 145.4 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [MASTER].mc` |
+| 4838 | Ultimate Force (Game Ver.) | Sakuzyo | TOTAL DESTRUCTION TILL THE WORLD'S END | 270.0 | 1596 | 143.1 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [TOTAL DESTRUCTION TILL THE WORLD'S END].mc` |
+| 4839 | Ultimate Force (Game Ver.) | Sakuzyo | ULTIMA | 270.0 | 1727 | 143.3 | osu_mirror/community | `osu_mirror\2318291\Sakuzyo - Ultimate Force (Game Ver.) ([TCD] Ena-suki) [ULTIMA].mc` |
+| 4840 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | Expert | 200.0 | 2119 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [Expert].mc` |
+| 4841 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | G1NYA's Hard | 200.0 | 1339 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [G1NYA's Hard].mc` |
+| 4842 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | Insane | 200.0 | 1696 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [Insane].mc` |
+| 4843 | Ultra Happy Miracle Bazoooooka!! | Hino Isuka vs. Umeboshi Chazuke | Normal | 200.0 | 1061 | 120.0 | osu_mirror/community | `osu_mirror\2324275\Hino Isuka vs. Umeboshi Chazuke - Ultra Happy Miracle Bazoooooka!! (Quzy3315) [Normal].mc` |
+| 4844 | Umbilical | Kayuki feat. Risa Yuzuki | Illusion of Losing You | 204.0 | 2489 | 245.9 | osu_mirror/community | `osu_mirror\2603678\Kayuki feat. Risa Yuzuki - Umbilical (Initial D) [Illusion of Losing You].mc` |
+| 4845 | UNA ALARM | Maro Note | How to wake up, Advanced method | 155.0 | 335 | 99.1 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Advanced method].mc` |
+| 4846 | UNA ALARM | Maro Note | How to wake up, Another method | 155.0 | 477 | 99.9 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Another method].mc` |
+| 4847 | UNA ALARM | Maro Note | How to wake up, Hyper method | 155.0 | 483 | 99.1 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Hyper method].mc` |
+| 4848 | UNA ALARM | Maro Note | How to wake up, Intermediate method | 155.0 | 332 | 99.7 | osu_mirror/community | `osu_mirror\2543663\Maro Note - UNA Alarm (Karin-) [How to wake up, Intermediate method].mc` |
+| 4849 | UNABLE | rae | Able | 105.0 | 616 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [able].mc` |
+| 4850 | UNABLE | rae | Advanced | 105.0 | 382 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [Advanced].mc` |
+| 4851 | UNABLE | rae | Fejse's Hard | 105.0 | 379 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [Fejse's Hard].mc` |
+| 4852 | UNABLE | rae | Insane | 105.0 | 485 | 89.1 | osu_mirror/community | `osu_mirror\2523688\rae - UNABLE (JustEmilo) [Insane].mc` |
+| 4853 | Unknown | Cityyy | !-.]./.. --.[.?!.\ | 190.0 | 1172 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [!-.]... --.[.!.].mc` |
+| 4854 | Unknown | Cityyy | Advanced | 190.0 | 664 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Advanced].mc` |
+| 4855 | Unknown | Cityyy | Easy | 190.0 | 264 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Easy].mc` |
+| 4856 | Unknown | Cityyy | Hard | 190.0 | 905 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Hard].mc` |
+| 4857 | Unknown | Cityyy | Hyper | 190.0 | 974 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Hyper].mc` |
+| 4858 | Unknown | Cityyy | Insane | 190.0 | 1059 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Insane].mc` |
+| 4859 | Unknown | Cityyy | Intermediate | 190.0 | 333 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Intermediate].mc` |
+| 4860 | Unknown | Cityyy | Normal | 190.0 | 479 | 90.9 | osu_mirror/community | `osu_mirror\2553938\Cityyy - Unknown (RhythmHomura) [Normal].mc` |
+| 4861 | Unshakable | RiraN | Easy / Resolve | 150.0 | 315 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Easy  Resolve].mc` |
+| 4862 | Unshakable | RiraN | Extra / Overdrive | 150.0 | 968 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Extra  Overdrive].mc` |
+| 4863 | Unshakable | RiraN | Hard / Determination | 150.0 | 577 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Hard  Determination].mc` |
+| 4864 | Unshakable | RiraN | Insane / P45ta's Daydream | 150.0 | 741 | 102.0 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Insane  P45ta's Daydream].mc` |
+| 4865 | Unshakable | RiraN | Normal / Conviction | 150.0 | 402 | 102.4 | osu_mirror/community | `osu_mirror\2489520\RiraN - Unshakable (Lleethenoob) [Normal  Conviction].mc` |
+| 4866 | Ureshii! Tanoshii! Daisuki! | Shiina Mahiru (CV: Iwami Manaka) | My Wife Mahiru | 113.0 | 987 | 204.8 | osu_mirror/community | `osu_mirror\2534039\Shiina Mahiru (CV Iwami Manaka) - Ureshii! Tanoshii! Daisuki! (Pyra-san) [My Wife Mahiru].mc` |
+| 4867 | Uta (7_7 Remix) | Imperial Circus Dead Decadence | Final Requiem | 310.0 | 8201 | 325.9 | osu_mirror/community | `osu_mirror\2458618\Imperial Circus Dead Decadence - Uta (7_7 Remix) (Concepte) [Final Requiem].mc` |
+| 4868 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Boring's Hard | 197.0 | 744 | 87.7 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Boring's Hard].mc` |
+| 4869 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Dereck's Normal | 197.0 | 541 | 87.6 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Dereck's Normal].mc` |
+| 4870 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Fapu's Insane | 197.0 | 858 | 87.7 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Fapu's Insane].mc` |
+| 4871 | Utopia or Dystopia (TV Size) | Yumeno Yuki | LLENN's Easy | 197.0 | 323 | 86.6 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [LLENN's Easy].mc` |
+| 4872 | Utopia or Dystopia (TV Size) | Yumeno Yuki | Watashi | 197.0 | 938 | 87.6 | osu_mirror/community | `osu_mirror\2553525\Yumeno Yuki - Utopia or Dystopia (TV Size) (mirac1e_xf) [Watashi].mc` |
+| 4873 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | Gal is cute // Insane | 178.0 | 829 | 86.9 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [Gal is cute  Insane].mc` |
+| 4874 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | LINQAQ is cute // Hard | 178.0 | 680 | 87.0 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [LINQAQ is cute  Hard].mc` |
+| 4875 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | Seitora is cute // Normal | 178.0 | 502 | 87.0 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [Seitora is cute  Normal].mc` |
+| 4876 | Uza Kawaikute Nani ga Warui! (TV Size) | Akami Karubi | Suifeng is cute // Easy | 178.0 | 240 | 86.8 | osu_mirror/community | `osu_mirror\2521385\Akami Karubi - Uza Kawaikute Nani ga Warui! (TV Size) (mirac1e_xf) [Suifeng is cute  Easy].mc` |
+| 4877 | Vacant Rhapsody | penoreri | Illusory Florescence | 85.0 | 3285 | 290.9 | osu_mirror/community | `osu_mirror\2511269\penoreri - Vacant Rhapsody (HiniXz) [Illusory Florescence].mc` |
+| 4878 | Vacant Rhapsody | penoreri | Varium Rosarium | 85.0 | 2700 | 291.0 | osu_mirror/community | `osu_mirror\2514857\penoreri - Vacant Rhapsody (chy030_ft_pH5_6) [Varium Rosarium].mc` |
+| 4879 | Vacant Rhapsody | penoreri | Silence Blooms.. | 90.0 | 3094 | 291.0 | osu_mirror/community | `osu_mirror\2573847\penoreri - Vacant Rhapsody (Hylotl) [Silence Blooms..].mc` |
+| 4880 | Vacant Rhapsody | penoreri | ethereal, then blossom | 85.0 | 2077 | 291.0 | osu_mirror/community | `osu_mirror\2596058\penoreri - Vacant Rhapsody (Ulazis) [ethereal, then blossom].mc` |
+| 4881 | Virtual Angel | ARTMS | Savior | 166.0 | 403 | 154.3 | osu_mirror/community | `osu_mirror\2249768\ARTMS - Virtual Angel (homwu) [Savior].mc` |
+| 4882 | ViViD | LOONA/HeeJin | AverageBoi's Hard | 106.0 | 687 | 196.9 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [AverageBoi's Hard].mc` |
+| 4883 | ViViD | LOONA/HeeJin | Ham's Easy | 106.0 | 619 | 197.0 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [Ham's Easy].mc` |
+| 4884 | ViViD | LOONA/HeeJin | Normal | 106.0 | 652 | 196.8 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [Normal].mc` |
+| 4885 | ViViD | LOONA/HeeJin | Vibrancy | 106.0 | 580 | 196.7 | osu_mirror/community | `osu_mirror\1888031\LOONAHeeJin - ViViD (Tigerinity) [Vibrancy].mc` |
+| 4886 | VIVID ABYSS | katagiri | Shrine of Euphoria | 156.0 | 3872 | 266.5 | osu_mirror/community | `osu_mirror\2525312\katagiri - VIVID ABYSS (WILLPWR) [Shrine of Euphoria].mc` |
+| 4887 | vleermuis | gladde paling | hard | 180.0 | 996 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [hard].mc` |
+| 4888 | vleermuis | gladde paling | insane | 180.0 | 1154 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [insane].mc` |
+| 4889 | vleermuis | gladde paling | normal | 180.0 | 779 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [normal].mc` |
+| 4890 | vleermuis | gladde paling | palingpalingpalingpaling | 180.0 | 1464 | 110.5 | osu_mirror/community | `osu_mirror\2486893\gladde paling - vleermuis ([GB]Fomurz) [palingpalingpalingpaling].mc` |
+| 4891 | vleermuis | gladde paling | diff | 180.0 | 546 | 110.4 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [diff].mc` |
+| 4892 | vleermuis | gladde paling | lower diff | 180.0 | 541 | 107.7 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower diff].mc` |
+| 4893 | vleermuis | gladde paling | lower lower diff | 180.0 | 538 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower diff].mc` |
+| 4894 | vleermuis | gladde paling | lower lower lower diff | 180.0 | 567 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower diff].mc` |
+| 4895 | vleermuis | gladde paling | lower lower lower lower diff | 180.0 | 545 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower diff].mc` |
+| 4896 | vleermuis | gladde paling | lower lower lower lower lower diff | 180.0 | 591 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower diff].mc` |
+| 4897 | vleermuis | gladde paling | lower lower lower lower lower lower diff | 180.0 | 463 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower lower diff].mc` |
+| 4898 | vleermuis | gladde paling | lower lower lower lower lower lower lower diff | 180.0 | 252 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower lower lower diff].mc` |
+| 4899 | vleermuis | gladde paling | lower lower lower lower lower lower lower lower diff | 180.0 | 154 | 110.5 | osu_mirror/community | `osu_mirror\2509474\gladde paling - vleermuis (Pyra-san) [lower lower lower lower lower lower lower lower diff].mc` |
+| 4900 | Voice (Cut Ver.) | i2ka x Tanchiky | Hydria's 4K Insane | 198.0 | 1195 | 140.0 | osu_mirror/community | `osu_mirror\2313635\i2ka x Tanchiky - Voice (Cut Ver.) (mantasu) [Hydria's 4K Insane].mc` |
+| 4901 | Voice (Cut Ver.) | i2ka x Tanchiky | Wimpy's 4K Hard | 198.0 | 944 | 139.9 | osu_mirror/community | `osu_mirror\2313635\i2ka x Tanchiky - Voice (Cut Ver.) (mantasu) [Wimpy's 4K Hard].mc` |
+| 4902 | Void//Shader (feat. xia) | Sad Keyboard Guy & Myntian | Stay on the line | 170.0 | 2665 | 298.4 | osu_mirror/community | `osu_mirror\2523660\Sad Keyboard Guy & Myntian - VoidShader (feat. xia) (Son_66) [Stay on the line].mc` |
+| 4903 | Void//Shader (feat. xia) | Sad Keyboard Guy & Myntian | Could you find the Truth? | 170.0 | 3331 | 308.4 | osu_mirror/community | `osu_mirror\2551391\Sad Keyboard Guy & Myntian - VoidShader (feat. xia) (Furimuu-) [Could you find the Truth].mc` |
+| 4904 | volcanic (Short Ver.) | DETRO | astat11's Advanced | 191.0 | 1265 | 133.1 | osu_mirror/community | `osu_mirror\2484096\DETRO - volcanic (Short Ver.) (-Enma-) [astat11's Advanced].mc` |
+| 4905 | volcanic (Short Ver.) | DETRO | dendro's Extra | 191.0 | 2379 | 133.1 | osu_mirror/community | `osu_mirror\2484096\DETRO - volcanic (Short Ver.) (-Enma-) [dendro's Extra].mc` |
+| 4906 | volcanic (Short Ver.) | DETRO | Menphiss' Another | 191.0 | 2144 | 133.1 | osu_mirror/community | `osu_mirror\2484096\DETRO - volcanic (Short Ver.) (-Enma-) [Menphiss' Another].mc` |
+| 4907 | volcanic (Short Ver.) | DETRO | NikoSek's Expert | 191.0 | 2504 | 133.1 | osu_mirror/community | `osu_mirror\2484096\DETRO - volcanic (Short Ver.) (-Enma-) [NikoSek's Expert].mc` |
+| 4908 | volcanic (Short Ver.) | DETRO | Omni's Insane | 191.0 | 1769 | 133.1 | osu_mirror/community | `osu_mirror\2484096\DETRO - volcanic (Short Ver.) (-Enma-) [Omni's Insane].mc` |
+| 4909 | volcanic (Short Ver.) | DETRO | Overheat | 191.0 | 2880 | 133.1 | osu_mirror/community | `osu_mirror\2484096\DETRO - volcanic (Short Ver.) (-Enma-) [Overheat].mc` |
+| 4910 | volcanic (Short Ver.) | DETRO | Ryu's Hard | 191.0 | 1503 | 133.1 | osu_mirror/community | `osu_mirror\2484096\DETRO - volcanic (Short Ver.) (-Enma-) [Ryu's Hard].mc` |
+| 4911 | Wake Up Call | Maroon 5 | Don't you care about me anymore? | 82.0 | 2972 | 178.4 | osu_mirror/community | `osu_mirror\2610353\Maroon 5 - Wake Up Call (-Enma-) [Don't you care about me anymore].mc` |
+| 4912 | Wake Up Call | Maroon 5 | Menphiss' Insane | 82.0 | 2304 | 178.4 | osu_mirror/community | `osu_mirror\2610353\Maroon 5 - Wake Up Call (-Enma-) [Menphiss' Insane].mc` |
+| 4913 | Waltz in E-major, Op. 15 "Moon Waltz" | Cojum Dip | My Final Performance For You | 141.5 | 3327 | 256.8 | osu_mirror/community | `osu_mirror\2542206\Cojum Dip - Waltz in E-Major, Op. 15 Moon Waltz (Scisso) [My Final Performance For You].mc` |
+| 4914 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | <3 | 193.0 | 789 | 90.4 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [3].mc` |
+| 4915 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | Easy | 193.0 | 242 | 91.5 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [Easy].mc` |
+| 4916 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | MiuOtter's Normal | 193.0 | 466 | 91.5 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [MiuOtter's Normal].mc` |
+| 4917 | Watashi wa, Watashi no Koto ga Suki. (Short Ver.) | Kaguya (CV: Yuko Natsuyoshi) | Slowpoke's Hard | 193.0 | 742 | 91.5 | osu_mirror/community | `osu_mirror\2502199\Kaguya (CV Yuko Natsuyoshi) - Watashi wa, Watashi no Koto ga Suki. (Short Ver.) (Dereck101026) [Slowpoke's Hard].mc` |
+| 4918 | We Begin (Game Ver.) | Yu-dachi | Easy | 172.0 | 517 | 136.7 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Easy].mc` |
+| 4919 | We Begin (Game Ver.) | Yu-dachi | Ferdi's Normal | 172.0 | 738 | 136.4 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Ferdi's Normal].mc` |
+| 4920 | We Begin (Game Ver.) | Yu-dachi | Hard | 172.0 | 1069 | 137.3 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Hard].mc` |
+| 4921 | We Begin (Game Ver.) | Yu-dachi | Maiiy's Insane | 172.0 | 1125 | 136.7 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Maiiy's Insane].mc` |
+| 4922 | We Begin (Game Ver.) | Yu-dachi | Tamania's Expert | 172.0 | 1408 | 137.3 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [Tamania's Expert].mc` |
+| 4923 | We Begin (Game Ver.) | Yu-dachi | The Long-Awaited Moment | 172.0 | 1697 | 137.3 | osu_mirror/community | `osu_mirror\2569767\Yu-dachi - We Begin (Game Ver.) (Ainer) [The Long-Awaited Moment].mc` |
+| 4924 | Weapon (feat. Baum) (Cut Ver.) | Grant | Hard | 140.0 | 585 | 151.1 | osu_mirror/community | `osu_mirror\2598394\Grant - Weapon (feat. Baum) (Cut Ver.) (fvrex) [Hard].mc` |
+| 4925 | Weapon (feat. Baum) (Cut Ver.) | Grant | Luminescence | 140.0 | 789 | 151.4 | osu_mirror/community | `osu_mirror\2598394\Grant - Weapon (feat. Baum) (Cut Ver.) (fvrex) [Luminescence].mc` |
+| 4926 | Welkius | Aoi | Golden Horizon | 210.0 | 1835 | 228.6 | osu_mirror/community | `osu_mirror\2523443\Aoi - Welkius (Wishtynite) [Golden Horizon].mc` |
+| 4927 | what's done is done | Tanza3D | Advanced | 111.0 | 12 | 49.9 | osu_mirror/community | `osu_mirror\2506607\Tanza3D - what's done is done (Znow) [Advanced].mc` |
+| 4928 | what's done is done | Tanza3D | Lott's Normal | 111.0 | 62 | 66.5 | osu_mirror/community | `osu_mirror\2506607\Tanza3D - what's done is done (Znow) [Lott's Normal].mc` |
+| 4929 | Where Is My Mind? | SEREGA PIRAT | Advanced | 66.0 | 206 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Advanced].mc` |
+| 4930 | Where Is My Mind? | SEREGA PIRAT | Concepte's Easy | 66.0 | 97 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Concepte's Easy].mc` |
+| 4931 | Where Is My Mind? | SEREGA PIRAT | Hard | 66.0 | 210 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Hard].mc` |
+| 4932 | Where Is My Mind? | SEREGA PIRAT | Normal | 66.0 | 165 | 49.4 | osu_mirror/community | `osu_mirror\2364686\SEREGA PIRAT - Where Is My Mind (AinXt-) [Normal].mc` |
+| 4933 | where is smiley? | Serani Poji | Doko? | 170.0 | 3597 | 265.4 | osu_mirror/community | `osu_mirror\2580517\Serani Poji - where is smiley (devilcity) [Doko].mc` |
+| 4934 | White Canvas (feat. Aitsuki Nakuru) (osu! edit) | rejection | Hard | 140.0 | 457 | 111.0 | osu_mirror/community | `osu_mirror\2478198\rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (LINQAQ) [Hard].mc` |
+| 4935 | White Canvas (feat. Aitsuki Nakuru) (osu! edit) | rejection | Landscape | 140.0 | 660 | 111.2 | osu_mirror/community | `osu_mirror\2478198\rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (LINQAQ) [Landscape].mc` |
+| 4936 | White Canvas (feat. Aitsuki Nakuru) (osu! edit) | rejection | Normal | 140.0 | 522 | 111.2 | osu_mirror/community | `osu_mirror\2478198\rejection - White Canvas (feat. Aitsuki Nakuru) (osu! edit) (LINQAQ) [Normal].mc` |
+| 4937 | White Prism | Chouchou-P feat. Hatsune Miku | ANOTHER | 172.0 | 2795 | 205.1 | osu_mirror/community | `osu_mirror\2515211\Chouchou-P feat. Hatsune Miku - White Prism (LINQAQ) [ANOTHER].mc` |
+| 4938 | White Prism | Chouchou-P feat. Hatsune Miku | HYPER | 172.0 | 2158 | 205.1 | osu_mirror/community | `osu_mirror\2515211\Chouchou-P feat. Hatsune Miku - White Prism (LINQAQ) [Hyper].mc` |
+| 4939 | Who might you be? | Toby Fox | Easy | 120.0 | 144 | 63.5 | osu_mirror/community | `osu_mirror\2577837\Toby Fox - Who might you be (LunarSticks) [Easy].mc` |
+| 4940 | Who might you be? | Toby Fox | Hard | 120.0 | 348 | 63.8 | osu_mirror/community | `osu_mirror\2577837\Toby Fox - Who might you be (LunarSticks) [Hard].mc` |
+| 4941 | Who might you be? | Toby Fox | Normal | 120.0 | 256 | 63.8 | osu_mirror/community | `osu_mirror\2577837\Toby Fox - Who might you be (LunarSticks) [Normal].mc` |
+| 4942 | why is miku like this | tommy. & bbno$ | why is enma like this | 160.0 | 2687 | 157.1 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is enma like this].mc` |
+| 4943 | why is miku like this | tommy. & bbno$ | why is insane like this | 160.0 | 1613 | 157.1 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is insane like this].mc` |
+| 4944 | why is miku like this | tommy. & bbno$ | why is keksik's hard like this | 160.0 | 1117 | 156.8 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is keksik's hard like this].mc` |
+| 4945 | why is miku like this | tommy. & bbno$ | why is menphiss' expert like this | 160.0 | 2147 | 157.1 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is menphiss' expert like this].mc` |
+| 4946 | why is miku like this | tommy. & bbno$ | why is normal like this | 160.0 | 775 | 154.3 | osu_mirror/community | `osu_mirror\2641034\tommy. & bbno$ - why is miku like this (-Enma-) [why is normal like this].mc` |
+| 4947 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.05x | 209.47 | 2315 | 173.0 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.05x].mc` |
+| 4948 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.15x | 229.43 | 2315 | 158.0 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.15x].mc` |
+| 4949 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.1x | 219.45 | 2315 | 165.1 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.1x].mc` |
+| 4950 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.25x | 249.38 | 2315 | 145.3 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.25x].mc` |
+| 4951 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.2x | 239.4 | 2315 | 151.4 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.2x].mc` |
+| 4952 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.35x | 269.32 | 2315 | 134.6 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.35x].mc` |
+| 4953 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.3x | 259.35 | 2315 | 139.7 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.3x].mc` |
+| 4954 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.45x | 289.27 | 2315 | 125.3 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.45x].mc` |
+| 4955 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | 1.4x | 279.3 | 2315 | 129.8 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [1.4x].mc` |
+| 4956 | Why We Lose (feat. Coleman Trapp) (Nightcore Mix) | Cartoon, Jeja | Loss | 199.5 | 2315 | 181.7 | osu_mirror/community | `osu_mirror\2539438\Cartoon, Jeja - Why We Lose (feat. Coleman Trapp) (Nightcore Mix) (Xingyue) [Loss].mc` |
+| 4957 | Wish for you (TV Size) | Maeshima Ami | I really love you. | 174.0 | 637 | 86.8 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [I really love you.].mc` |
+| 4958 | Wish for you (TV Size) | Maeshima Ami | LINQAQ's Hard | 174.0 | 560 | 86.8 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [LINQAQ's Hard].mc` |
+| 4959 | Wish for you (TV Size) | Maeshima Ami | nai's Easy | 174.0 | 218 | 81.4 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [nai's Easy].mc` |
+| 4960 | Wish for you (TV Size) | Maeshima Ami | suifeng's Normal | 174.0 | 378 | 84.8 | osu_mirror/community | `osu_mirror\2499016\Maeshima Ami - Wish for you (TV Size) (mirac1e_xf) [suifeng's Normal].mc` |
+| 4961 | Wish upon a star | Shizuka (CV: Hasegawa Ikumi) | 4K I'm Waiting | 117.0 | 1782 | 229.8 | osu_mirror/community | `osu_mirror\2509312\Shizuka (CV Hasegawa Ikumi) - Wish upon a star (nai_) [4K I'm Waiting].mc` |
+| 4962 | Wommotion (Game Ver.) | yaseta | Advanced | 185.0 | 808 | 125.4 | osu_mirror/community | `osu_mirror\2483891\yaseta - Wommotion (Game Ver.) (omegaY_) [Advanced].mc` |
+| 4963 | Wommotion (Game Ver.) | yaseta | Hard | 185.0 | 1171 | 125.4 | osu_mirror/community | `osu_mirror\2483891\yaseta - Wommotion (Game Ver.) (omegaY_) [Hard].mc` |
+| 4964 | Wommotion (Game Ver.) | yaseta | Panic | 185.0 | 1564 | 125.2 | osu_mirror/community | `osu_mirror\2483891\yaseta - Wommotion (Game Ver.) (omegaY_) [Panic].mc` |
+| 4965 | wont interfere | luvlxckdown | alone | 112.87 | 1064 | 80.8 | osu_mirror/community | `osu_mirror\2536648\luvlxckdown - wont interfere (P45ta) [alone].mc` |
+| 4966 | wont interfere | luvlxckdown | hard | 112.87 | 865 | 80.8 | osu_mirror/community | `osu_mirror\2536648\luvlxckdown - wont interfere (P45ta) [hard].mc` |
+| 4967 | wont interfere | luvlxckdown | normal | 112.87 | 685 | 80.8 | osu_mirror/community | `osu_mirror\2536648\luvlxckdown - wont interfere (P45ta) [normal].mc` |
+| 4968 | world.execute(me); | Mili | world.unite(me, you); 1.1x | 143.0 | 2586 | 174.5 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.1x].mc` |
+| 4969 | world.execute(me); | Mili | world.unite(me, you); 1.2x | 156.0 | 2586 | 160.0 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.2x].mc` |
+| 4970 | world.execute(me); | Mili | world.unite(me, you); 1.3x | 169.0 | 2586 | 147.7 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.3x].mc` |
+| 4971 | world.execute(me); | Mili | world.unite(me, you); 1.4x | 182.0 | 2586 | 137.1 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you); 1.4x].mc` |
+| 4972 | world.execute(me); | Mili | world.unite(me, you); | 130.0 | 2586 | 192.0 | osu_mirror/community | `osu_mirror\1430228\Mili - World.execute(me); (Beatmap) [world.unite(me, you);].mc` |
+| 4973 | Xing Noises | UNDEAD CORPORATION | >X< //NOISE// | 205.0 | 3206 | 223.8 | osu_mirror/community | `osu_mirror\2528060\UNDEAD CORPORATION - Xing Noises (wellQX) [X NOISE].mc` |
+| 4974 | Yamada Stream | Kommisar | edit 0.94x (240bpm) | 240.0 | 1468 | 112.9 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 0.94x (240bpm)].mc` |
+| 4975 | Yamada Stream | Kommisar | edit 1.02x (260bpm) | 260.0 | 1468 | 104.2 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.02x (260bpm)].mc` |
+| 4976 | Yamada Stream | Kommisar | edit 1.18x (300bpm) | 300.0 | 1468 | 90.3 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.18x (300bpm)].mc` |
+| 4977 | Yamada Stream | Kommisar | edit 1.1x (280bpm) | 280.0 | 1468 | 96.8 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.1x (280bpm)].mc` |
+| 4978 | Yamada Stream | Kommisar | edit 1.25x (320bpm) | 320.0 | 1468 | 84.7 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit 1.25x (320bpm)].mc` |
+| 4979 | Yamada Stream | Kommisar | edit | 255.13 | 1468 | 106.2 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [edit].mc` |
+| 4980 | Yamada Stream | Kommisar | Laser Stream | 255.13 | 1446 | 106.2 | osu_mirror/community | `osu_mirror\1167743\Kommisar - Yamada Stream (DannyPX) [Laser Stream].mc` |
+| 4981 | yearning | unfeeling | yearning for mpg points | 190.0 | 1900 | 161.5 | osu_mirror/community | `osu_mirror\2499477\unfeeling - yearning (Wimpy Cursed) [yearning for mpg points].mc` |
+| 4982 | Yoka ni Mitorete | 25-ji, Nightcord de. x MEIKO | Spilled Feelings // Enanan vs. Dzar03 vs. YunoMaya's Collab | 83.0 | 343 | 259.5 | osu_mirror/community | `osu_mirror\2487191\25-ji, Nightcord de. x MEIKO - Yoka ni Mitorete ([TCD] Ena-suki) [Spilled Feelings  Enanan vs. Dzar03 vs. YunoMaya's Collab].mc` |
+| 4983 | Yotogibanashi no Kamikakushi | Minstrel | Concepte's Hyper | 240.0 | 1455 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Concepte's Hyper].mc` |
+| 4984 | Yotogibanashi no Kamikakushi | Minstrel | Extra | 240.0 | 1920 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Extra].mc` |
+| 4985 | Yotogibanashi no Kamikakushi | Minstrel | Insane | 240.0 | 1674 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Insane].mc` |
+| 4986 | Yotogibanashi no Kamikakushi | Minstrel | Nightmare of Aswang | 240.0 | 2190 | 107.6 | osu_mirror/community | `osu_mirror\2536810\Minstrel - Yotogibanashi no Kamikakushi (WILLPWR) [Nightmare of Aswang].mc` |
+| 4987 | Yotsuya-san ni Yoroshiku | Himeringo | Death | 206.0 | 2167 | 168.5 | osu_mirror/community | `osu_mirror\1455446\Himeringo - Yotsuya-san ni Yoroshiku (Rio1-) [Death].mc` |
+| 4988 | Yotsuya-san ni Yoroshiku | Himeringo | SHD | 206.0 | 1943 | 168.6 | osu_mirror/community | `osu_mirror\1455446\Himeringo - Yotsuya-san ni Yoroshiku (Rio1-) [SHD].mc` |
+| 4989 | You & aIzu | Otonose Kanade | Kanade//Easy | 180.0 | 141 | 154.0 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [KanadeEasy].mc` |
+| 4990 | You & aIzu | Otonose Kanade | Kanade//Hard | 180.0 | 1157 | 154.3 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [KanadeHard].mc` |
+| 4991 | You & aIzu | Otonose Kanade | Kanade//Normal | 180.0 | 840 | 154.3 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [KanadeNormal].mc` |
+| 4992 | You & aIzu | Otonose Kanade | Monday Morning Ikaw at Ako | 180.0 | 1439 | 154.0 | osu_mirror/community | `osu_mirror\2597846\Otonose Kanade - You & aIzu (-Zell) [Monday Morning Ikaw at Ako].mc` |
+| 4993 | you are my curse | Kotoha | challenge | 160.0 | 470 | 119.2 | osu_mirror/community | `osu_mirror\2513418\Kotoha - you are my curse (eZmmR) [challenge].mc` |
+| 4994 | you are my curse | Kotoha | extra | 160.0 | 509 | 119.2 | osu_mirror/community | `osu_mirror\2513418\Kotoha - you are my curse (eZmmR) [extra].mc` |
+| 4995 | you are my curse | Kotoha | insane | 160.0 | 441 | 119.1 | osu_mirror/community | `osu_mirror\2513418\Kotoha - you are my curse (eZmmR) [insane].mc` |
+| 4996 | You're My Princess | EmoCosine | Beloved mika / Easy | 87.5 | 146 | 65.1 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [Beloved mika  Easy].mc` |
+| 4997 | You're My Princess | EmoCosine | Beloved mika / Hard | 87.5 | 289 | 65.5 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [Beloved mika  Hard].mc` |
+| 4998 | You're My Princess | EmoCosine | Beloved mika / Normal | 87.5 | 279 | 65.3 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [Beloved mika  Normal].mc` |
+| 4999 | You're My Princess | EmoCosine | My beloved mika cutie pie | 87.5 | 370 | 65.7 | osu_mirror/community | `osu_mirror\2579675\EmoCosine - You're My Princess (-Zell) [My beloved mika cutie pie].mc` |
+| 5000 | Youkaikakushi Nijyusekai | Kou! | Yokai | 160.0 | 3111 | 360.4 | osu_mirror/community | `osu_mirror\2462632\Kou! - Youkaikakushi Nijyusekai (S k y y -) [Yokai].mc` |
+| 5001 | YU.ME.NO ! | Mitsukiyo | Welcome to Traume ! | 125.0 | 1402 | 214.6 | osu_mirror/community | `osu_mirror\2140498\Mitsukiyo - YU.ME.NO ! (TnCrowSucks) [Welcome to Traume !].mc` |
+| 5002 | Yuima-ru * World (TV Size) | Ayase Rie | HAI TAI! | 180.0 | 533 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [HAI TAI!].mc` |
+| 5003 | Yuima-ru * World (TV Size) | Ayase Rie | Hard | 180.0 | 307 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [Hard].mc` |
+| 5004 | Yuima-ru * World (TV Size) | Ayase Rie | Hyper | 180.0 | 384 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [Hyper].mc` |
+| 5005 | Yuima-ru * World (TV Size) | Ayase Rie | Normal | 180.0 | 191 | 42.0 | osu_mirror/community | `osu_mirror\2209444\Ayase Rie - Yuima-ru  World (TV Size) (Kibitz) [Normal].mc` |
+| 5006 | Yuki wa Naniiro | Kotoha | Color of Love-Snow / G1NYA's Extra | 179.0 | 1021 | 197.8 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Color of Love-Snow  G1NYA's Extra].mc` |
+| 5007 | Yuki wa Naniiro | Kotoha | Deep Snow's Persistence / Hard | 179.0 | 1257 | 198.1 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Deep Snow's Persistence  Hard].mc` |
+| 5008 | Yuki wa Naniiro | Kotoha | First Snow's Wish / DH's Easy | 179.0 | 544 | 198.3 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [First Snow's Wish  DH's Easy].mc` |
+| 5009 | Yuki wa Naniiro | Kotoha | Light Snow's Doubt / Fapu's Normal | 179.0 | 857 | 198.1 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Light Snow's Doubt  Fapu's Normal].mc` |
+| 5010 | Yuki wa Naniiro | Kotoha | Melting Snow's Promise / Neko's Expert | 179.0 | 969 | 197.8 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Melting Snow's Promise  Neko's Expert].mc` |
+| 5011 | Yuki wa Naniiro | Kotoha | Warm Snow's Touch / Nabi's Insane | 179.0 | 1049 | 197.6 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [Warm Snow's Touch  Nabi's Insane].mc` |
+| 5012 | Yuki wa Naniiro | Kotoha | White Snow's Song / Extra | 179.0 | 1254 | 197.9 | osu_mirror/community | `osu_mirror\2576044\Kotoha - Yuki wa Naniiro (nai_) [White Snow's Song  Extra].mc` |
+| 5013 | Yume to Shiriseba | Tsukuyomi | Dream | 185.0 | 1793 | 184.1 | osu_mirror/community | `osu_mirror\2455961\Tsukuyomi - Yume to Shiriseba (Lizyuu) [Dream].mc` |
+| 5014 | Yume to Shiriseba | Tsukuyomi | IT's Hard | 185.0 | 1430 | 184.1 | osu_mirror/community | `osu_mirror\2455961\Tsukuyomi - Yume to Shiriseba (Lizyuu) [IT's Hard].mc` |
+| 5015 | Yume to Shiriseba | Tsukuyomi | Normal | 185.0 | 1165 | 184.1 | osu_mirror/community | `osu_mirror\2455961\Tsukuyomi - Yume to Shiriseba (Lizyuu) [Normal].mc` |
+| 5016 | Yumemigokochi | Hamu | Beginner | 36.25 | 44 | 39.7 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Beginner].mc` |
+| 5017 | Yumemigokochi | Hamu | Easy | 36.25 | 51 | 39.7 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Easy].mc` |
+| 5018 | Yumemigokochi | Hamu | Hard | 36.25 | 41 | 38.0 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Hard].mc` |
+| 5019 | Yumemigokochi | Hamu | Melody | 36.25 | 60 | 39.7 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Melody].mc` |
+| 5020 | Yumemigokochi | Hamu | Normal | 36.25 | 22 | 38.0 | osu_mirror/community | `osu_mirror\2530843\Hamu - Yumemigokochi (tapperruiii) [Normal].mc` |
+| 5021 | Yuuaku no Inori - Anima immortalis est. - | Imperial Circus Dead Decadence | Transcendent | 124.17 | 5636 | 438.0 | osu_mirror/community | `osu_mirror\2548485\Imperial Circus Dead Decadence - Yuuaku no Inori - Anima immortalis est. - (Furimuu-) [Transcendent].mc` |
+| 5022 | Yuzurenai (TV Size) | Fujikawa Chiai | Collab Insane | 90.0 | 422 | 82.8 | osu_mirror/community | `osu_mirror\2552898\Fujikawa Chiai - Yuzurenai (TV Size) (Kibitz) [Collab Insane].mc` |
+| 5023 | Yuzurenai (TV Size) | Fujikawa Chiai | Hard | 90.0 | 410 | 81.7 | osu_mirror/community | `osu_mirror\2552898\Fujikawa Chiai - Yuzurenai (TV Size) (Kibitz) [Hard].mc` |
+| 5024 | Yuzurenai (TV Size) | Fujikawa Chiai | Normal | 90.0 | 294 | 81.7 | osu_mirror/community | `osu_mirror\2552898\Fujikawa Chiai - Yuzurenai (TV Size) (Kibitz) [Normal].mc` |
+| 5025 | Zan'ei | kakichoco | Reflection | 180.0 | 2188 | 251.5 | osu_mirror/community | `osu_mirror\2199104\kakichoco - Zan'ei (Torru) [Reflection].mc` |
+| 5026 | Zephyros | xi | Expert | 180.0 | 3333 | 238.7 | osu_mirror/community | `osu_mirror\2475292\xi - Zephyros (Wimpy Cursed) [Expert].mc` |
+| 5027 | Zero Centimeters (TV Size) | Ohara Yuiko | Easy | 77.0 | 138 | 77.5 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Easy].mc` |
+| 5028 | Zero Centimeters (TV Size) | Ohara Yuiko | Hard | 77.0 | 360 | 78.3 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Hard].mc` |
+| 5029 | Zero Centimeters (TV Size) | Ohara Yuiko | Normal | 77.0 | 211 | 78.1 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Normal].mc` |
+| 5030 | Zero Centimeters (TV Size) | Ohara Yuiko | Stay by my side, forever | 77.0 | 434 | 79.1 | osu_mirror/community | `osu_mirror\1294997\Ohara Yuiko - Zero Centimeters (TV Size) (fvrex) [Stay by my side, forever].mc` |
+| 5031 | Ziqqurat | Yunosuke | Zabt | 163.0 | 1060 | 225.2 | osu_mirror/community | `osu_mirror\2539338\Yunosuke - Ziqqurat (chy030_ft_pH5_6) [Zabt].mc` |
+| 5032 | Zoisite | Ludicin | Ca2Al3(SiO4)(Si2O7)O(OH) | 220.0 | 1610 | 220.3 | osu_mirror/community | `osu_mirror\2537599\Ludicin - Zoisite (tapperruiii) [Ca2Al3(SiO4)(Si2O7)O(OH)].mc` |
+| 5033 | ~GOLDENERNOCTURNE~ | 777system | Divine Retribution (w/ Cinelia) | 180.0 | 3760 | 384.3 | osu_mirror/community | `osu_mirror\2588492\777system - ~GOLDENERNOCTURNE~ (V1do-) [Divine Retribution (w Cinelia)].mc` |
