@@ -883,3 +883,14 @@ python scripts/osu_direct_batch.py --offset 0 --pages 30 --limit 300
 python scripts/osu_direct_batch.py --offset 900 --pages 30 --limit 300
 `
 
+### 镜像训练集突破 1900
+
+连续镜像批次（osu.direct + Sayobot）：
+
+- 单批 300 张，失败 4–6 套 503
+- 训练集：**1909 首**
+- 训练清单：**3526 张**
+- 下一批：offset 2350 起
+
+镜像已成为主力来源，不消耗 Malody 金币。
+
